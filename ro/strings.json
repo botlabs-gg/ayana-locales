@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Disponibil doar în Servere.",
+        "error": "Hopa!O eroare s-a produs.Te rugăm să raportezi asta pe grupul de suport.( comanda `support` ca să primesti invite)\n```{{error}}```",
+        "cooldown": "Băi sărăcie mai încet!Ca să nu mai abuzezi comanda e în cooldown!"
+    },
+    "finder": {
+        "failUser": "Nu se poate găsi utilizatorul.",
+        "failRole": "Nu se poate găsi rolul.",
+        "failChannel": "Nu se poate găsi canalul.",
+        "failGuild": "Nu se poate găsi serverul.",
+        "headerRole": "[Cautare Roluri]",
+        "headerUser": "[Cautare Utilizatori]",
+        "headerGuild": "[Cautare Grupuri]",
+        "headerChannel": "[Căutare Canale]",
+        "headerUserGuild": "[Căutare utilizator grup]"
+    },
+    "invite": {
+        "text": "Un lucru sigur :ok_hand:\n\nCa să mă alătur serverului tău,te rog să alegi unul dintre linkuri:\n\nModerare (recomandat): {{invite}}\nMinim(nerecomandat): {{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "Limba ta a fost setată pe `{{locale}}`",
+        "guildUpdate": "Limba grupului a fost setată pe: `{{locale}}`",
+        "headerAvail": "[Limbi disponibile]",
+        "fail": "Am eșuat în a updata limba."
+    },
+    "modlog": {
+        "genFail": "Eroare Modlog",
+        "addFail": "Am eșuat în a adăuga un obiect nou în modlog",
+        "created": "Obiect creat în modlog.",
+        "updated": "Obiect modlog actualizat",
+        "updateFail": "Am eșuat in a actualiza detaliile obiectului din log",
+        "hackAdd": "Se pare că `{{input}}` este un id de utilizator.Continuati? [Y/N]"
+    },
+    "perms": {
+        "denied": "Nu ai permisiunea `{{node}}`",
+        "cmdDenied": "Nici sa nu te gândești.Trebuie să fii deținătorul serverului sau să ai Admin ca să editezi permisiunile.",
+        "resetall": {
+            "owner": "Comanda asta poate fi utilizata doar de deținătorul serverului",
+            "reset": "Permisiunile au fost resetate",
+            "error": "Nu am putut reseta toate permisiunile."
+        },
+        "failedUpdate": "Am eșuat sa actualizez nodul de permisiuni.Te rog să contactezi suportul dacă eroarea persistă.",
+        "noRole": "Nici un rol specificat.",
+        "roleUserConflict": "Rolul si Utilizatorul nu pot fi specificate în același timp.",
+        "invalidOpt": "Numai `--channel [canal], --user [utilizator], --role [rol]` sunt opțiuni valabile, nici un argument cu privire la canal și utilizator nu își asumă valorile curente."
+    },
+    "prefix": {
+        "text": "Prefixul pentru acest server este `{{prefix}}`"
+    },
+    "prune": {
+        "missingPerms": "Imi pare rău nu am permisiunea `Manage Messages`.E o permisiune de pe server.",
+        "fetchFail": "Am eșuat în a arăta mesajele.",
+        "filterHelp": "Filtrul are nevoie de un termen.",
+        "userIDConf": "Se pare ca `{{input}}` e un id de utilizator.Continuati? [Y/N]"
+    },
+    "remind": {
+        "error": "Am nevoie de ceva să îți reamintesc.",
+        "invalidTime": "Timpul nu e valid.Specifica un timp mai mare de 30 sec.",
+        "confirm": "Ok,reminder nou pt `{{time}}` [Y/N] ?",
+        "okay": "Ok!Am sa ma asigur că îți reamintesc",
+        "failed": "Imi pare rău,nu am putut să salvez reminderul. :(",
+        "pm": "Mi-ai cerut să îți amintesc asta: ```{{text}}```"
+    },
+    "words": {
+        "user": "Utilizator",
+        "role": "Rol",
+        "roles": "Roluri",
+        "channel": "Canal",
+        "channels": "Canale",
+        "guild": "Server",
+        "guilds": "Servere",
+        "version": "Versiune",
+        "website": "Site Web",
+        "author": "Autor",
+        "library": "Librărie",
+        "donate": "Doneaza",
+        "member": "Membru",
+        "members": "Membri",
+        "id": "ID",
+        "region": "Regiune",
+        "owner": "Detinator",
+        "created": "Creat",
+        "joined": "S-a alăturat.",
+        "icon": "Iconiță",
+        "avatar": "Avatar",
+        "cancel": "Anulează",
+        "nickname": "Porecla",
+        "playing": "Se redă",
+        "status": "Status",
+        "error": "Eroare",
+        "yes": "Da",
+        "no": "Nu",
+        "position": "Pozitie",
+        "color": "Culoare",
+        "hoist": "Ridicare",
+        "managed": "A reușit",
+        "mentionable": "Menționabil",
+        "permissions": "Permisiuni",
+        "users": "Utilizatori",
+        "topic": "Subiect",
+        "twitter": "Twittet",
+        "mention": "Mentiune"
+    },
+    "help": {
+        "ban": "Cum se folosește: `ban <utilizator> [--reason <motiv>] [--days <nr de zile>] [--soft] [--hackban]`",
+        "kick": "Cum se folosește: `kick <utilizator> [--reason <motiv>]`",
+        "roleinfo": "Cum se folosește: `roleinfo <rol>`",
+        "locale": "Cum se folosește: locale [Set <limba> [--guild]"
+    },
+    "ban": {
+        "missingUser": "Parametrul user lipsește.",
+        "softHackban": "Nu se poate da soft si hackban în același timp",
+        "invalidDays": "Nr de zile care l-ai specificat nu e o variabilă valida",
+        "hackbanUserID": "Hackban are nevoie de un Id de utilizator ",
+        "failed": "Hmm,se pare că nu pot bana utilizatorul.Poate nu am permisiunea să fac asta.",
+        "softFailed": "Eroare Softban.Utilizatorul a primit ban,dar am eșuat sa il debanez.Fa-o tu manual,te rog"
+    },
+    "botlist": {
+        "fetchFailed": "Nu am putut obține lista de la {{provider})",
+        "headerPage": "[Pagina cu botii {{page}}/{{total}}"
+    },
+    "support": {
+        "text": "Pentru suport,sugestii sau raportare buguri,te rog să vii pe serverul de suport. {{support}}"
+    },
+    "kick": {
+        "failed": "Oopsieee,nu am putut să dau afară utilizatorul.Poate nu am permisiunea să fac asta."
+    },
+    "linkcheck": {
+        "headerRedirects": "[Redirectari]"
+    },
+    "ping": {
+        "pong": "Yey,Pong"
+    },
+    "settings": {
+        "failedUpdate": "An eșuat în a updata proprietatea.",
+        "invalidInput": "Mă așteptam ca proprietatea sa fie `{type}}`.Am primit `{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "Nu s-a putut lua avatarul."
+    },
+    "translation": {
+        "nativeName": "Română",
+        "englishName": "Romanian"
+    },
+    "channelinfo": {
+        "pinned": "Mesaje Atasate",
+        "type": "Tip de canal",
+        "text": "Text",
+        "voice": "Voce",
+        "bitrate": "Bitrate-ul vocii",
+        "connected": "Utilizatori conectați",
+        "overwrite": "Suprascriere permisiuni"
+    },
+    "music2": {
+        "join": ":white_check_mark: M-am alăturat canalului de voce si m-am legat de :speaker: `{{voice}}` si :newspaper: `{{text}}`",
+        "rebound": ":white_check_mark:Reiau redarea muzicii după deconectare.",
+        "userNoChannel": "Mai întâi alatura-te unui canal de voce.",
+        "leave": ":no_entry:Am părăsit canalele.",
+        "nowplaying": ":notes: Acum se redă: `{{title}}` cerută de: `{{requester}}`",
+        "enqueued": "Am adăugat la coadă: `{{title}}` în poziția **{{position}}**.\nDa comanda `music play` ca să redau coada",
+        "enqueuedPlaylist": "Am adăugat `{{items}}` cântece din `{{title}}`.Scrie `music play` să redai coada",
+        "alreadyBound": "Ce faci?Deja sunt conectata la un canal.",
+        "notBound": "Nu sunt conectata la nici un canal",
+        "queuePurged": "Am șters playlistul.Oricum nu îmi plăcea.",
+        "queueItemDeleted": "Am șters `{{item}}` din coada",
+        "headerSearch": "[Rezultatele căutării]",
+        "pickOption": "Alege o opțiune ca să o adaugi.",
+        "emptyQueue": "O forță misterioasa e prezentă aici.",
+        "headerQueue": "[Lista de redare]",
+        "queueShuffled": "Am amestecat lista de redare.",
+        "skipped": "Am sărit peste melodia `{{item}}`",
+        "loopOne": "Voi reda melodia curentă inconrinuu",
+        "loopAll": "Voi reda coada incontinuu",
+        "loopOff": "Am dezactivat redarea continua",
+        "autoPaused": ":pause_button: Aww... ați plecat toți de aici... Păcat.",
+        "autoResumed": ":play_pause: Am început sa redau",
+        "autoLeave": ":no_entry_sign: Dacă voi plecați,plec si eu.",
+        "fullHelp": "```css\n[Ajutor pentru muzica]\n\nmusic sq | showqueue - arată coada de redare\n   music sq --purge - șterge coada de redare\n   music sq --delete <numar> - șterge melodia de pe poziția respectivă\n\nmusic q | queue [nume melodie (yt) | url] - adaugă la coada playlisturi sau melodii\n   music q [nume melodie (yt) | url] --next - adaugă melodia pe poziția urmatoare\n\nmusic p | play - reda muzica\nmusic s | skip - trece la melodia urmatoare\nmusic shuffle - amesteca coada de redare\nmusic r | repeat <all|one|off> - pornește/opreste redarea continua\n\nmusic j | join - se alătură canalului de voce în care ești.*Trebuie să fii intr-un canal de voce*\nmusic l | leave - părăsește canalul de voce\n\n<> = Informații obligatorii []= informații optionale, | = sau, nu pune <> [] or | in comenzi.\nTe rugam sa te alaturi serverului de suport pt informații.``` ",
+        "tooLong": "Din cauza schimbărilor,melodiile mai mari de 3h vor fi blocate **temporar**"
+    }
+}

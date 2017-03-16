@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "只限在服务器里使用。",
+        "error": "发生错误。请举报此错误到我们的支持服务器。（输入`info`来得到邀请）\n```{{error}}```",
+        "cooldown": "此命令正处于冷却状态。"
+    },
+    "finder": {
+        "failUser": "找不到任何有关用户。",
+        "failRole": "找不到任何有关身份组。",
+        "failChannel": "找不到任何有关频道。",
+        "failGuild": "找不到任何有关服务器。",
+        "headerRole": "[身份组搜索]",
+        "headerUser": "[用户搜索]",
+        "headerGuild": "[服务器搜索]",
+        "headerChannel": "[频道搜索]",
+        "headerUserGuild": "[服内用户搜索]"
+    },
+    "invite": {
+        "text": "好的 :ok_hand:\n\n请点击以下其中一个链接以把我加入到您的服务器：\n\n服务器管理配置 （推荐）：{{invite}}\n最简配置 （不推荐）：{{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "您的语言已被设为`{{locale}}`。",
+        "guildUpdate": "服务器的语言已被设为`{{locale}}`。",
+        "headerAvail": "[可用语言]",
+        "fail": "在尝试更新语言时失败。"
+    },
+    "modlog": {
+        "genFail": "管理记录错误",
+        "addFail": "在尝试添加新的管理记录物品时发生错误。",
+        "created": "已创建新的管理记录项目。",
+        "updated": "已更新此管理记录项目。",
+        "updateFail": "在尝试更新此记录项目详细时发生错误。",
+        "hackAdd": "看来`{{input}}`是个用户ID。继续？[y/n]"
+    },
+    "perms": {
+        "denied": "您缺少`{{node}}`权限。",
+        "cmdDenied": "已拒绝权限。您必须是服务器拥有者或拥有管理员权限以更改权限。",
+        "resetall": {
+            "owner": "此命令只限服务器拥有者使用。",
+            "reset": "已重设权限。",
+            "error": "在尝试重设权限时发生错误。"
+        },
+        "failedUpdate": "在尝试更新权限节点时发生错误。如继续发生错误请联系支持。",
+        "noRole": "没有指定任何身份组。",
+        "roleUserConflict": "您不可以同时指定用户与身份组。",
+        "invalidOpt": "只有`--channel [频道]，--user [用户]，--role [身份组]`才是有效的选项，如没有指定任何参数到频道或用户选项里则使用目前值为参数。"
+    },
+    "prefix": {
+        "text": "此服务器的命令字首是`{{prefix}}`。"
+    },
+    "prune": {
+        "missingPerms": "道歉，我缺少`管理讯息`权限。",
+        "fetchFail": "在尝试获取讯息时发生错误。",
+        "filterHelp": "您必须输入有关词汇以筛选。",
+        "userIDConf": "看起来`{{input}}`是个用户ID。继续？[y/n]"
+    },
+    "remind": {
+        "error": "您必须提供我消息以让我提醒您。",
+        "invalidTime": "您提供的时间无效，请指定超过30秒的时间。",
+        "confirm": "好的，在{{time}}之后提醒您？[y/n]",
+        "okay": "好的，我将会提醒您！",
+        "failed": "我无法储存您的提醒，道歉 ：（",
+        "pm": "您要求我提醒您此消息：```{{text}}```"
+    },
+    "words": {
+        "user": "用户",
+        "role": "身份组",
+        "roles": "身份组",
+        "channel": "频道",
+        "channels": "频道",
+        "guild": "服务器",
+        "guilds": "服务器（多个）",
+        "version": "版本",
+        "website": "网站",
+        "author": "作者",
+        "library": "编程库",
+        "donate": "捐款",
+        "member": "会员",
+        "members": "会员（多个）",
+        "id": "ID",
+        "region": "地区",
+        "owner": "拥有者",
+        "created": "创建于",
+        "joined": "加入于",
+        "icon": "图标",
+        "avatar": "头像",
+        "cancel": "取消",
+        "nickname": "昵称",
+        "playing": "正在玩",
+        "status": "状况",
+        "error": "发生错误",
+        "yes": "是",
+        "no": "否",
+        "position": "位置",
+        "color": "颜色",
+        "hoist": "分开显示",
+        "managed": "机械人拥有",
+        "mentionable": "可提及",
+        "permissions": "权限",
+        "users": "用户（多个）",
+        "topic": "主题",
+        "twitter": "推特",
+        "mention": "提及"
+    },
+    "help": {
+        "ban": "用法：`ban <用户> [--reason <原因>] [--days <天数>] [--soft] [--hackban]`",
+        "kick": "用法：`kick <用户> [--reason <原因>]`",
+        "roleinfo": "用法：`roleinfo <身份组>`",
+        "locale": "用法：locale [set <语言> [--guild]]"
+    },
+    "ban": {
+        "missingUser": "缺少必要参数：用户。",
+        "softHackban": "无法同时软封与ID封。",
+        "invalidDays": "指定的天数非有效整数。",
+        "hackbanUserID": "ID封需要一个用户ID。",
+        "failed": "道歉，我无法封禁此用户，或许我缺少必要权限？",
+        "softFailed": "在执行软封时发生错误，用户已被封禁但无法解封。请手动解封此用户。"
+    },
+    "botlist": {
+        "fetchFailed": "在尝试从{{provider}}获取机器人列表时发生错误。",
+        "headerPage": "机器人列表第{{page}}页/{{total}}页"
+    },
+    "support": {
+        "text": "如您需要支持，建议或者举报漏洞请加入支持服务器。 {{support}}"
+    },
+    "kick": {
+        "failed": "道歉，我无法踢此用户，或许我缺少必要权限？"
+    },
+    "linkcheck": {
+        "headerRedirects": "重定向"
+    },
+    "ping": {
+        "pong": "乓！"
+    },
+    "settings": {
+        "failedUpdate": "在尝试更新属性时发生错误",
+        "invalidInput": "预期得到`{{type}}`种类的属性，但是得到`{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "尝试提取头像时发生错误。"
+    },
+    "translation": {
+        "nativeName": "简体中文",
+        "englishName": "Simplified Chinese"
+    },
+    "channelinfo": {
+        "pinned": "固定讯息",
+        "type": "频道种类",
+        "text": "文本",
+        "voice": "语音",
+        "bitrate": "语音比特率",
+        "connected": "已连接用户",
+        "overwrite": "权限覆盖"
+    },
+    "music2": {
+        "join": ":white_check_mark: 已加入和已绑定到 :speaker: `{{voice}}` 与 :newspaper: `{{text}}`。",
+        "rebound": ":white_check_mark: 后台断开后继续播放音乐。",
+        "userNoChannel": "您目前不在任何一个频道里，请进入任何一个语音频道。",
+        "leave": ":no_entry: 已离开与清除绑定。",
+        "nowplaying": ":notes: 目前播放：`{{title}}`，请求者：`{{requester}}`",
+        "enqueued": "已加入`{{title}}`到列表里的位置**{{position}}**。输入`music play`以播放列表。",
+        "enqueuedPlaylist": "已从`{{title}}`加入`{{items}}`首歌曲到列表里。输入`music play`以播放列表。",
+        "alreadyBound": "已经连接与绑定到频道了。",
+        "notBound": "目前还未绑定到任何频道",
+        "queuePurged": "列表已被清除。",
+        "queueItemDeleted": "已从列表删除了`{{item}}`。",
+        "headerSearch": "[搜索结果]",
+        "pickOption": "请选择以下选项以加入到列表里。",
+        "emptyQueue": "[空白]",
+        "headerQueue": "[音乐列表]",
+        "queueShuffled": "已设为随机播放。",
+        "skipped": "已跳过`{{item}}`。",
+        "loopOne": "正在重播目前歌曲。",
+        "loopAll": "正在重播列表。",
+        "loopOff": "已关闭重播。",
+        "autoPaused": ":pause_button:频道因缺少聆听者已暂停播放。",
+        "autoResumed": ":play_pause:已继续播放。",
+        "autoLeave": ":no_entry_sign:已因被闲置而自动离开频道。",
+        "fullHelp": "```css\n[音乐v3暂时性帮助]\n\nmusic sq | showqueue - 显示列表。\n   music sq --purge - 清除列表。\n   music sq --delete <ItemNumber> - 从列表里删除歌曲。\n\nmusic q | queue [song name (yt) | url] - 加入歌曲或列表到目前列表里。\n   music q [song name (yt) | url] --next - 加入歌曲或列表到目前列表里的下一个位置。\n\nmusic p | play - 开始播放列表里的歌曲 。\nmusic s | skip - 跳过目前歌曲。\nmusic shuffle - 随机播放列表。\nmusic r | repeat <all|one|off> - 打开/关闭重播。\n\nmusic j | join - 加入到您目前所在的语音频道。*注意：您必须在任何一个语音频道里* \nmusic l | leave - 离开目前语音频道。\n\n<> = 必要选项， [] = 可选选项， | = 或者\n注意：请不要<>，[]或者|到您的命令输入里。\n如有疑问请加入我们的支持服务器。（=support以显示链接）``` ",
+        "tooLong": "目前因为音乐v3的改变，**暂时**不能播放超过三个小时的歌曲。"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Endast tillgänglig i Servrar.",
+        "error": "Ett fel uppstod. Vänligen rapportera detta på vår support guild (`info` kommandot för att få inbjudningen).\n`` `{{error}}` ``",
+        "cooldown": "Woah! Alldeles för kryddigt, detta kommandot är för närvarande på nerkylning."
+    },
+    "finder": {
+        "failUser": "Misslyckades med att hitta en matchande användare.",
+        "failRole": "Misslyckades med att hitta en matchande roll.",
+        "failChannel": "Misslyckades med att hitta en matchande kanal.",
+        "failGuild": "Misslyckades med att hitta en matchande server.",
+        "headerRole": "[Rollhittare]",
+        "headerUser": "[Användarhittare]",
+        "headerGuild": "[Gillehittare]",
+        "headerChannel": "[Kanalhittare]",
+        "headerUserGuild": "[Gilleanvändarhittare]"
+    },
+    "invite": {
+        "text": "Okej :ok_hand:\n\nFör att bjuda in mig till din server välj en av dessa länkarna:\n\nModeration (rekomenderad): {{invite}}\nMinimal (ej rekomenderad): {{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "Ditt Språk har satts till `{{locale}}`",
+        "guildUpdate": "Gillespråket satt till `{{locale}}`",
+        "headerAvail": "[Tillgängliga språk]",
+        "fail": "Misslyckades att uppdatera språk."
+    },
+    "modlog": {
+        "genFail": "Moderationslogg misslyckades.",
+        "addFail": "Misslyckades med att lägga till en ny punkt moderationslogg.",
+        "created": "Moderationsloggspunkt skapad.",
+        "updated": "Moderationsloggspunkt uppdaterad.",
+        "updateFail": "Misslyckades med att uppdatera loggpunkt detaljer.",
+        "hackAdd": "Det verkar som att `{{input}}` är ett användarid. Fortsätta [y/n]?"
+    },
+    "perms": {
+        "denied": "Du saknar `{{node}}` tillståndet.",
+        "cmdDenied": "Åtkomst nekad. Du måste antingen vara serverns ägare eller ha administratörsbehörighet för att redigera behörigheterna .",
+        "resetall": {
+            "owner": "Detta kommando kan endast användas av serverägaren.",
+            "reset": "Behörigheter återställda.",
+            "error": "Det gick inte att återställa alla behörigheter."
+        },
+        "failedUpdate": "Det gick inte att uppdatera tillståndnoden. Vänligen kontakta support om felet kvarstår.",
+        "noRole": "Ingen roll angedd.",
+        "roleUserConflict": "Roll och användare kan inte anges samtidigt.",
+        "invalidOpt": "Endast `--channel [kanal], --user [användare], --role [roll] 'är giltiga alternativ, inga argument på kanal och användare så antas aktuella värden."
+    },
+    "prefix": {
+        "text": "Prefix på denna server är `{{prefix}}`."
+    },
+    "prune": {
+        "missingPerms": "Tyvärr, jag saknar tillståndet `Manage Message`",
+        "fetchFail": "Det gick inte att hämta meddelandena.",
+        "filterHelp": "Filter kräver en inmatning att söka efter.",
+        "userIDConf": "Ser ut som `{{input}}` är ett användar-id. Fortsätt [y/n]?"
+    },
+    "remind": {
+        "error": "Jag behöver något att påminna dig om.",
+        "invalidTime": "Ogiltig tid. Ange en längre än 30 sekunder.",
+        "confirm": "Okej, ny påminnelse för `{{time}}` [y/n]?",
+        "okay": "Okej jag kommer att vara säker att påminna dig!",
+        "failed": "Ledsen att jag inte kunde spara påminnelsen :(",
+        "pm": "Du bad mig att påminna dig här: `` `{{text}}` ``"
+    },
+    "words": {
+        "user": "Användare",
+        "role": "Roll",
+        "roles": "Roller",
+        "channel": "Kanal",
+        "channels": "Kanaler",
+        "guild": "Server",
+        "guilds": "Servrar",
+        "version": "Version",
+        "website": "Webbsida",
+        "author": "Författare",
+        "library": "Bibliotek",
+        "donate": "Donera",
+        "member": "Medlem",
+        "members": "Medlemmar",
+        "id": "ID",
+        "region": "Region",
+        "owner": "Ägare",
+        "created": "Skapad",
+        "joined": "Gick med",
+        "icon": "Ikon",
+        "avatar": "Avatar",
+        "cancel": "Avbryt",
+        "nickname": "Smeknamn",
+        "playing": "Spelar",
+        "status": "Status",
+        "error": "Fel.",
+        "yes": "Ja.",
+        "no": "Nej",
+        "position": "Position",
+        "color": "Förg",
+        "hoist": "Hissning",
+        "managed": "Skött",
+        "mentionable": "nämnbar",
+        "permissions": "tillstånd",
+        "users": "Användare",
+        "topic": "Ämne",
+        "twitter": "Twitter",
+        "mention": "Nämning"
+    },
+    "help": {
+        "ban": "Användning `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]` ",
+        "kick": "Använding:  `kick <user> [--reason <reason>]` ",
+        "roleinfo": "Använding: `roleinfo <role>`",
+        "locale": "Användning: locale [set <locale> [--guild]]"
+    },
+    "ban": {
+        "missingUser": "Saknar obligatorisk parameter användare.",
+        "softHackban": "Kan inte mjuk och hackbanna samtidigt.",
+        "invalidDays": "Dagar angedda är inte ett giltigt heltal.",
+        "hackbanUserID": "Hackban kräver ett användar-ID",
+        "failed": "Tyvärr kunde jag inte bannlysa användaren kanske saknar jag saknar tillstånd att göra det?",
+        "softFailed": "Mjukban misslyckades, Användaren är bannlyst men jag misslyckades med att ta bort bannlysningen. Vänligen gör det manuellt."
+    },
+    "botlist": {
+        "fetchFailed": "Det gick inte att hämta botlistan från {{provider}}.",
+        "headerPage": "Botlista sida {{page}}/{{total}}"
+    },
+    "support": {
+        "text": "För support, förslag eller buggar med Ayana vänligen gå supportservern. {{support}}"
+    },
+    "kick": {
+        "failed": "Tyvärr kunde jag inte sparka användaren kanske saknar jag saknar tillstånd att göra det?"
+    },
+    "linkcheck": {
+        "headerRedirects": "Omdirigeringar"
+    },
+    "ping": {
+        "pong": "Pong!"
+    },
+    "settings": {
+        "failedUpdate": "Misslyckades med att uppdatera ordentligt.",
+        "invalidInput": "Förväntade typen `{{type}}` Fick `{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "Misslyckades med att hämta avatarbild."
+    },
+    "translation": {
+        "nativeName": "Amerikansk Engelska",
+        "englishName": "Amerikansk Engelska"
+    },
+    "channelinfo": {
+        "pinned": "Nålade Meddelanden",
+        "type": "Kanaltyp",
+        "text": "Text",
+        "voice": "Röst",
+        "bitrate": "Språk bitrate",
+        "connected": "Uppkopplade Användare",
+        "overwrite": "Behörighetsöverskrivning"
+    },
+    "music2": {
+        "join": ":white_check_mark: Uppkopplad och bunden till :speaker: `{{voice}}` och :newspaper: `{{text}}`. ",
+        "rebound": ":white_check_mark: Återupptar musik efter backend bortkopplas.",
+        "userNoChannel": "Du är för närvarande inte i en kanal. Var snäll och gå med i en röstkanal.",
+        "leave": ":no_entry: Lämnade och tog bort bundna kanaler.",
+        "nowplaying": ":notes: Spelar nu: `{{title}}` förfrågad av `{{requester}}`",
+        "enqueued": "Kölade: `{{title}}` till position **{{position}}**. Kör `music play` för att spela kön.",
+        "enqueuedPlaylist": "Kölade: `{{items}}` låtar från `{{title}}`. Kör `music play` för att spela kön.",
+        "alreadyBound": "Redan kopplad och bunden till kanaler.",
+        "notBound": "Inte bunden till nögra kanaler.",
+        "queuePurged": "Kö borttagen.",
+        "queueItemDeleted": "Tog bort `{{item}}` från kön.",
+        "headerSearch": "[Sökresultat]",
+        "pickOption": "Välj ett alternativ nedan för at kölägga det.",
+        "emptyQueue": "Inget mer än oss kycklingar här.",
+        "headerQueue": "[Musikkö]",
+        "queueShuffled": ":twisted_rightwards_arrows: Blandade Kön",
+        "skipped": ":fast_forward: Skippade `{{item}}`",
+        "loopOne": ":repeat_one: Upprepar nuvarande objekt.",
+        "loopAll": ":repeat: Upprepar kö.",
+        "loopOff": "Upprepning avstängd.",
+        "autoPaused": ":pause_button: Pausade uppspelning på grund av för lite lyssnare.",
+        "autoResumed": ":arrow_forward: Återupptog uppspelning.",
+        "autoLeave": ":no_entry_sign: Lämnade kanalen på grund av inaktivitet.",
+        "fullHelp": "",
+        "tooLong": "Tack vare ändringar i musikv3, finns det en **tillfällig** blockering på låtar längre än 3 timmar."
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "サーバーでのみ使用できます。",
+        "error": "エラーが発生しました。 このことを私たちのサポートに連絡してください。（`info` コマンドで招待リンクを取得できます。）\n```{{error}}```",
+        "cooldown": "わぁ！ちょっと待ってね…現在コマンドのクールダウン中です…"
+    },
+    "finder": {
+        "failUser": "一致するユーザーが見つかりません。",
+        "failRole": "一致する役割が見つかりません。",
+        "failChannel": "一致するチャンネルが見つかりません。",
+        "failGuild": "一致するサーバーが見つかりません。",
+        "headerRole": "[役割検索]",
+        "headerUser": "[ユーザー検索]",
+        "headerGuild": "[ギルド検索]",
+        "headerChannel": "[チャンネル検索]",
+        "headerUserGuild": "[ギルド内ユーザー検索]"
+    },
+    "invite": {
+        "text": "もちろんです！ :ok_hand:\n\n私をあなたのサーバーを参加させるには、下のリンクのいずれかを選択してください。\n\n通常バージョン（推奨）：{{invite}}\n最小バージョン（非推奨）：{{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "あなたのロケールを`{{locale}}`に設定しました。",
+        "guildUpdate": "ギルドのロケールを `{{locale}}` に設定しました。",
+        "headerAvail": "[利用可能なロケール]",
+        "fail": "ロケールの更新に失敗しました。"
+    },
+    "modlog": {
+        "genFail": "Modlogの問題が生じました。",
+        "addFail": "Modlogアイテムの追加に失敗しました。",
+        "created": "Modlogアイテムを作成しました。",
+        "updated": "Modlogアイテムを更新しました。",
+        "updateFail": "Modlogアイテムの更新に失敗しました。",
+        "hackAdd": "`{{input}}` はユーザーidのようです。続行しますか[y/n]？"
+    },
+    "perms": {
+        "denied": "あなたは `{{node}}` の権限を持っていません。",
+        "cmdDenied": "処理が拒否されました。権限を編集するには、サーバーのオーナーであるかAdministrator権限を持っている必要があります。",
+        "resetall": {
+            "owner": "このコマンドはサーバーのオーナーしか使用できません。",
+            "reset": "権限をリセットしました。",
+            "error": "権限のリセットに失敗しました。"
+        },
+        "failedUpdate": "パーミッションノードの更新に失敗しました。エラーが出続ける場合はサポートグループに連絡してください。",
+        "noRole": "役割が指定されていません。",
+        "roleUserConflict": "役割とユーザーは同時に指定できません。",
+        "invalidOpt": "`--channel [チャンネル名]`、`--user [ユーザー名]` 及び `--role [役割名]` のみが有効なオプションです。チャンネル名又はユーザー名が指定されなかった場合、コマンド発行者の情報が自動的に使用されます。"
+    },
+    "prefix": {
+        "text": "このサーバーでのプレフィックスは `{{prefix}}` です。"
+    },
+    "prune": {
+        "missingPerms": "すみません、私は `メッセージの管理` の許可を持っていません。",
+        "fetchFail": "メッセージの取得に失敗しました。",
+        "filterHelp": "フィルター検索には入力が必要です。",
+        "userIDConf": "`{{input}}` はユーザーidのようです。続行しますか [y/n]？"
+    },
+    "remind": {
+        "error": "お知らせの内容が書かれていません。",
+        "invalidTime": "無効な時間です。30秒よりも長い時間を指定してください。",
+        "confirm": "`{{time}}` への新しいリマインダーを作成します。よろしいですか [y/n]？",
+        "okay": "わかりました！時間が来たらお知らせします！",
+        "failed": "リマインダーを保存できませんでした… :(",
+        "pm": "お知らせがあります： ```{{text}}```"
+    },
+    "words": {
+        "user": "ユーザー",
+        "role": "役割",
+        "roles": "役割",
+        "channel": "チャンネル",
+        "channels": "チャンネル",
+        "guild": "サーバー",
+        "guilds": "サーバー",
+        "version": "バージョン",
+        "website": "ウェブサイト",
+        "author": "作者",
+        "library": "ライブラリ",
+        "donate": "寄付をする:",
+        "member": "メンバー",
+        "members": "メンバー",
+        "id": "ID",
+        "region": "サーバーリージョン",
+        "owner": "オーナー",
+        "created": "作成された日時",
+        "joined": "参加した日時",
+        "icon": "アイコン",
+        "avatar": "アバター",
+        "cancel": "キャンセル",
+        "nickname": "ニックネーム",
+        "playing": "プレイ中",
+        "status": "ログイン状態",
+        "error": "エラー",
+        "yes": "はい",
+        "no": "いいえ",
+        "position": "表示優先度",
+        "color": "色",
+        "hoist": "メンバーの別表示",
+        "managed": "自動管理",
+        "mentionable": "メンション可能",
+        "permissions": "許可",
+        "users": "ユーザー",
+        "topic": "トピック",
+        "twitter": "ツイッター",
+        "mention": "メンション"
+    },
+    "help": {
+        "ban": "使用法: `ban <ユーザー> [--reason <理由>] [--days <日数>] [--soft] [--hackban]`",
+        "kick": "使用法: `kick <ユーザー> [--reason <理由>]`",
+        "roleinfo": "使用法: `roleinfo <役割>`",
+        "locale": "使用法: locale [set <ロケール> [--guild]]"
+    },
+    "ban": {
+        "missingUser": "<ユーザー>パラメーターが指定されていません。",
+        "softHackban": "ソフトBANとハードBANは同時に行えません。",
+        "invalidDays": "日数が指定されていません。有効な整数ではありません。",
+        "hackbanUserID": "HackbanにはユーザーIDが必要です。",
+        "failed": "すみません、ユーザーのBANに失敗しました。私に権限がないかもしれません。",
+        "softFailed": "ソフトBANに失敗しました。ユーザーはBANされましたがUNBANに失敗しました。手動でUNBANを行ってください。"
+    },
+    "botlist": {
+        "fetchFailed": "botlistを {{provider}} から取得できませんでした。",
+        "headerPage": "[Botlist ページ {{page}}/{{total}}]"
+    },
+    "support": {
+        "text": "アヤナのサポート、提案やバグの報告に関してはサポートサーバーに参加してください。 {{support}}"
+    },
+    "kick": {
+        "failed": "すみません、ユーザーのキックに失敗しました。私に権限がないかもしれません。"
+    },
+    "linkcheck": {
+        "headerRedirects": "[リダイレクト先]"
+    },
+    "ping": {
+        "pong": "ポン！"
+    },
+    "settings": {
+        "failedUpdate": "設定の更新に失敗しました。",
+        "invalidInput": "設定の値には `{{type}}` を予期していましたが、 `{{input}}` が入力されました。"
+    },
+    "avatar": {
+        "resolveFailed": "アバターの取得に失敗しました。"
+    },
+    "translation": {
+        "nativeName": "日本語",
+        "englishName": "Japanese"
+    },
+    "channelinfo": {
+        "pinned": "ピン留めされたメッセージ",
+        "type": "チャンネルの種類",
+        "text": "テキスト",
+        "voice": "ボイス",
+        "bitrate": "音声ビットレート",
+        "connected": "接続人数",
+        "overwrite": "権限の上書き数"
+    },
+    "music2": {
+        "join": " :white_check_mark: :speaker: `{{voice}}`に接続し、:newspaper: `{{text}}`に関連づけされました。",
+        "rebound": ":white_check_mark: バックエンドで再接続されました。再生を再開します。",
+        "userNoChannel": "現在あなたはチャンネルに入っていません。ボイスチャンネルに参加してください。",
+        "leave": ":no_entry: チャンネルから切断し、関連付けを解除しました。",
+        "nowplaying": ":notes: 再生中：`{{title}}` (リクエスト：`{{requester}}`)",
+        "enqueued": "`{{title}}`を**{{position}}**番目に予約しました。`music play`でキューの再生を開始できます。",
+        "enqueuedPlaylist": "`{{title}}`から`{{items}}`曲を予約しました。`music play`でキューの再生を開始できます。",
+        "alreadyBound": "既にチャンネルに接続されています。",
+        "notBound": "チャンネルに接続されていません。",
+        "queuePurged": "キューをクリアしました。",
+        "queueItemDeleted": "`{{item}}`をキューから削除しました。",
+        "headerSearch": "[検索結果]",
+        "pickOption": "予約する曲を以下から選択してください。",
+        "emptyQueue": "誰もいないようですね…",
+        "headerQueue": "[再生キュー]",
+        "queueShuffled": "キューをシャッフルしました。",
+        "skipped": "`{{item}}`をスキップしました。",
+        "loopOne": "再生中の曲をリピートします。",
+        "loopAll": "キュー全体をリピートします。",
+        "loopOff": "リピートを解除しました。",
+        "autoPaused": ":pause_button: 聴取者がいないため再生を一時停止しました。",
+        "autoResumed": ":play_pause: 再生を再開しました。",
+        "autoLeave": ":no_entry_sign: 無活動のためチャンネルから離脱しました。",
+        "fullHelp": " ```css\n[Music v3 Temp Help]\n\nmusic sq|showqueue = キューを表示する\n music sq --purge = キューをクリアする\n music sq --delete <itemNumber> = キューの曲を削除する\n\nmusic  q|queue [song|url] = 曲またはプレイリストを予約する\n music q [song|url] --next = 曲またはプレイリストを次に予約する\n\nmusic p|play = 再生を開始する\nmusic shuffle = キューをシャッフルする\nmusic s | skip = 再生中の曲をスキップする\nmusic r|repeat <all|one|off> = リピート再生を開始する\n\nmusic j|join = ボイスチャンネルへ参加する\nmusic l|leave = 参加中のボイスチャンネルから離脱する\n\n<> = 必須引数, [] = 任意引数, | = 「または」をそれぞれ表します。 これらの文字（<>[]|）はコマンドには含まないでください。\n何か質問があれば、サポートサーバーに参加してください。 (=support コマンドで招待リンクを取得できます)```",
+        "tooLong": "musicv3システムの変更により、3時間を超える曲は**一時的に**再生がブロックされています。"
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Funkcja dostępna tylko na serwerze.",
+        "error": "Wystąpił błąd. Proszę zgłosić to na serwerze wsparcia (`support` aby uzyskać zaproszenie).\n```{{error}}```",
+        "cooldown": "Nie tak szybko! Ta komenda jest teraz na wstrzymaniu, odczekaj chwilę."
+    },
+    "finder": {
+        "failUser": "Nie jestem w stanie znaleźć pasującego użytkownika.",
+        "failRole": "Nie jestem w stanie znaleźć pasującej roli.",
+        "failChannel": "Nie jestem w stanie znaleźć pasującego kanału.",
+        "failGuild": "Nie jestem w stanie znaleźć pasującego serwera.",
+        "headerRole": "[Wyszukiwacz ról]",
+        "headerUser": "[Wyszukiwacz użytkowników]",
+        "headerGuild": "[Wyszukiwacz gildii]",
+        "headerChannel": "[Wyszukiwacz kanałów]",
+        "headerUserGuild": "[Wyszukiwacz użytkowników gildii]"
+    },
+    "invite": {
+        "text": "Jasna sprawa :ok_hand:\n\nJeżeli chcesz abym dołączyła do Twojego serwera proszę wybierz jeden z poniższych linków:\n\nModeracja (zalecany): {{invite}}\nMinimalny (nie zalecany): {{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "Twoje ustawienia języka zostały zmienione na `{{locale}}`.",
+        "guildUpdate": "Ustawienia języka gildii zostały zmienione na `{{locale}}`.",
+        "headerAvail": "[Dostępne języki]",
+        "fail": "Nie udało się zmienić języka."
+    },
+    "modlog": {
+        "genFail": "Błąd funkcji Modlog.",
+        "addFail": "Nie udało się dodać nowej pozycji w Modlog'u.",
+        "created": "Stworzono nową pozycję w Modlog'u.",
+        "updated": "Zaktualizowano pozycję w Modlog'u.",
+        "updateFail": "Nie udało się zaktualizować szczegółów pozycji w log'u.",
+        "hackAdd": "Wygląda na to, że `{{input}}` jest identyfikatorem użytkownika. Kontynuować [y/n]?"
+    },
+    "perms": {
+        "denied": "Brakuje Tobie uprawnień `{{node}}`.",
+        "cmdDenied": "Dostęp odrzucony. Musisz być właścicielem serwera lub administratorem aby móc edytować uprawnienia.",
+        "resetall": {
+            "owner": "Ta komenda może być użyta tylko przez właściciela serwera.",
+            "reset": "Zresetowano uprawnienia.",
+            "error": "Nie udało się zresetować wszystkich uprawnień."
+        },
+        "failedUpdate": "Nie udało się zaktualizować węzła uprawnień. Proszę skontaktować się ze wsparciem jeżeli błąd nie będzie ustępował.",
+        "noRole": "Brak określonej roli.",
+        "roleUserConflict": "Rola i użytkownik nie może być określony w tym samym czasie.",
+        "invalidOpt": "Tylko `--channel [kanał], --user [użytkownik], --role [rola]` są właściwymi opcjami, brak argumentów wybierze obecne wartości."
+    },
+    "prefix": {
+        "text": "Prefiks na tym serwerze to `{{prefix}}`."
+    },
+    "prune": {
+        "missingPerms": "Przepraszam, nie posiadam uprawnień discord `Zarządzanie wiadomościami`.",
+        "fetchFail": "Nie udało się znaleźć pasujących wiadomości.",
+        "filterHelp": "Filtr wymaga danych wejściowych do wyszukania.",
+        "userIDConf": "Wygląda na to, że `{{input}}` jest identyfikatorem użytkownika. Kontynuować [y/n]?"
+    },
+    "remind": {
+        "error": "Potrzebuję czegoś co mogłabym Tobie przypomnieć.",
+        "invalidTime": "Niepoprawny format czasu. Proszę określić czas dłuższy niż 30 sekund.",
+        "confirm": "Ok, nowe przypomnienie za `{{time}}` [y/n]?",
+        "okay": "Ok, z pewnością Ci o tym przypomnę!",
+        "failed": "Przepraszam, nie byłam w stanie zapisać Twojego przypomnienia.",
+        "pm": "Poprosiłeś mnie o przypomnienie tego: ```{{text}}```"
+    },
+    "words": {
+        "user": "Użytkownik",
+        "role": "Rola",
+        "roles": "Role",
+        "channel": "Kanał",
+        "channels": "Kanały",
+        "guild": "Serwer",
+        "guilds": "Serwery",
+        "version": "Wersja",
+        "website": "Strona",
+        "author": "Autor",
+        "library": "Biblioteka",
+        "donate": "Donacja",
+        "member": "Członek",
+        "members": "Członkowie",
+        "id": "ID",
+        "region": "Region",
+        "owner": "Właściciel",
+        "created": "Stworzono",
+        "joined": "Dołączono",
+        "icon": "Ikona",
+        "avatar": "Avatar",
+        "cancel": "Anuluj",
+        "nickname": "Nick",
+        "playing": "Odtwarzanie",
+        "status": "Status",
+        "error": "Błąd",
+        "yes": "Tak",
+        "no": "Nie",
+        "position": "Pozycja",
+        "color": "Kolor",
+        "hoist": "Wyróżniona",
+        "managed": "Zarządzona",
+        "mentionable": "Wzmiankowalna",
+        "permissions": "Uprawnienia",
+        "users": "Użytkownicy",
+        "topic": "Temat",
+        "twitter": "Twitter",
+        "mention": "Wzmianka"
+    },
+    "help": {
+        "ban": "Użycie: `ban <użytkownik> [--reason <powód>] [--days <liczba dni>] [--soft] [--hackban]`",
+        "kick": "Użycie: `kick <użytkownik> [--reason <powód>]`",
+        "roleinfo": "Użycie: `roleinfo <rola>`",
+        "locale": "Użycie: locale [set <język> [--guild]]"
+    },
+    "ban": {
+        "missingUser": "Brakuje wymaganego parametru użytkownik.",
+        "softHackban": "Nie można dać soft i hackban'a w tym samym czasie.",
+        "invalidDays": "Określono błędną liczbę dni.",
+        "hackbanUserID": "Hackban wymaga Id użytkownika.",
+        "failed": "Przepraszam, nie byłam w stanie zablokować użytkownika. Prawdopodobnie nie posiadam wystarczających uprawnień.",
+        "softFailed": "Błąd softban'a. Nie udało się odblokować użytkownika. Proszę odblokować go ręcznie."
+    },
+    "botlist": {
+        "fetchFailed": "Nie udało się pobrać listy botów z {{provider}}.",
+        "headerPage": "[Lista botów {{page}}/{{total}}]"
+    },
+    "support": {
+        "text": "Jeżeli potrzebujesz pomocy, masz jakieś sugestie lub znalazłeś błędy związane z Ayaną, proszę dołącz do serwera wsparcia. {{support}}"
+    },
+    "kick": {
+        "failed": "Przepraszam, nie byłam w stanie wyrzucić użytkownika. Prawdopodobnie nie posiadam wystarczających uprawnień."
+    },
+    "linkcheck": {
+        "headerRedirects": "[Przekierowanie]"
+    },
+    "ping": {
+        "pong": "Pong!"
+    },
+    "settings": {
+        "failedUpdate": "Nie udało się zaktualizować własności.",
+        "invalidInput": "Oczekiwana wartość `{{type}}` Otrzymana `{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "Nie udało się pobrać awatar'u."
+    },
+    "translation": {
+        "nativeName": "Polski",
+        "englishName": "Polish"
+    },
+    "channelinfo": {
+        "pinned": "Przypięte wiadomości",
+        "type": "Rodzaj kanału",
+        "text": "Tekstowy",
+        "voice": "Głosowy",
+        "bitrate": "Bitrate głosu",
+        "connected": "Połączonych użytkowników",
+        "overwrite": "Nadpisane uprawnienia"
+    },
+    "music2": {
+        "join": ":white_check_mark: Połączono z :speaker: `{{voice}}`  i powiązano z :newspaper: `{{text}}`.",
+        "rebound": ":white_check_mark: Wznawianie muzyki po rozłączeniu z serwerem.",
+        "userNoChannel": "Obecnie nie znajdujesz się w żadnym kanale głosowym. Proszę dołącz do jednego.",
+        "leave": ":no_entry: Opuszczono i rozwiązano połączenie.",
+        "nowplaying": ":notes: Odtwarzanie: `{{title}}` na życzenie `{{requester}}`",
+        "enqueued": "Dodano: `{{title}}` na pozycję **{{position}}**. Wpisz `music play` aby zacząć odtwarzanie.",
+        "enqueuedPlaylist": "Dodano: `{{items}}` piosenek z `{{title}}`. Wpisz `music play` aby zacząć odtwarzanie.",
+        "alreadyBound": "Już połączono i powiązano z kanałami.",
+        "notBound": "Nie powiązano z żadnym kanałem.",
+        "queuePurged": "Wyczyszczono kolejkę.",
+        "queueItemDeleted": "Usunięto `{{item}}` z kolejki.",
+        "headerSearch": "[Wyniki Wyszukiwania]",
+        "pickOption": "Wybierz opcję aby dodać do kolejki.",
+        "emptyQueue": "Nic po za nami kurczakami...",
+        "headerQueue": "[Kolejka]",
+        "queueShuffled": "Wymieszano kolejkę.",
+        "skipped": "Pominięto `{{item}}`.",
+        "loopOne": "Powtarzanie obecnej piosenki.",
+        "loopAll": "Powtarzanie kolejki.",
+        "loopOff": "Powtarzanie wyłączone.",
+        "autoPaused": ":pause_button: Zatrzymano z powodu braku słuchaczy.",
+        "autoResumed": ":play_pause: Wznowiono odtwarzanie.",
+        "autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności.",
+        "fullHelp": " ```css\n[Muzykav3 Tymczasowa Pomoc]\n\nmusic sq | showqueue - wyświetl kolejkę\n   music sq --purge - wyczyść kolejkę\n   music sq --delete <numerPiosenki> - usuń piosenkę z kolejki\n\nmusic  q | queue [Tytuł (yt) | url] - dodaj piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaj piosenkę lub playlistę na początek kolejki\n\nmusic p | play - zacznij odtwarzanie\nmusic s | skip - pomiń obecną piosenkę\nmusic shuffle - wymieszaj kolejkę\nmusic r | repeat <all|one|off> - włącz tryb powtarzania\n\nmusic j | join = dołącz do Twojego kanału głosowego\nmusic l | leave = opuść obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
+        "tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone."
+    }
+}

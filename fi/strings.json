@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Saatavilla vain Palvelimilla.",
+        "error": "Virhe tapahtui. Raportoi tästä meidän tukipalvelimellemme (suorita komento 'support' saadaksesi kutsun). ```{{error}}``` . ",
+        "cooldown": "Wou wou wou! Hidasta, komento on nyt jäähyllä."
+    },
+    "finder": {
+        "failUser": "Kyseistä henkilöä ei löydetty.",
+        "failRole": "Kyseistä roolia ei löydetty.",
+        "failChannel": "Kyseistä kanavaa ei löydetty.",
+        "failGuild": "Kyseistä Palvelinta ei löydetty.",
+        "headerRole": "[Roolin etsin]",
+        "headerUser": "[Käyttäjän etsin]",
+        "headerGuild": "[Killan etsin]",
+        "headerChannel": "[Kanavan etsin]",
+        "headerUserGuild": "[Killan käyttäjän etsin]"
+    },
+    "invite": {
+        "text": "Tietysti :ok_hand:"
+    },
+    "locale": {
+        "userUpdate": "Kieleksi on asetettu: `{{locale}}`.",
+        "guildUpdate": "Palvelimen kieleksi asetettu: `{{locale}}`.",
+        "headerAvail": "[Mahdolliset kielet]",
+        "fail": "Epäonnistuttiin vaihtamaan kieltä."
+    },
+    "modlog": {
+        "genFail": "Modelokissa tapahtui virhe.",
+        "addFail": "Uuden modelokin kohteen lisääminen epäonnistui.",
+        "created": "Uusi kohde miodelokiin lisätty onistuneesti.",
+        "updated": "Kohde modelokissa päivitetty.",
+        "updateFail": "Modeloki kohteen muokkaaminen epäonnistui.",
+        "hackAdd": "Näyttää, että `{{input}}`on Käyttäjän ID. Jatkatko [kyllä: y/ ei: n]?"
+    },
+    "perms": {
+        "denied": "Yrität ohittaa oikeuden: `{{node}}`.",
+        "cmdDenied": "Pääsy evätty. Sinun pitää olla palvelimen omistaja tai omistaa Administrator oikeus muokataksesi oikeuksia.",
+        "resetall": {
+            "owner": "Tätä komentoa voi käyttää vain Palvelimen omistaja.",
+            "reset": "Oikeudet palautettu alkuperäisiin onnistuneesti.",
+            "error": "Oikeuksien palauttaminen alkuperäisiin epäonnistui."
+        },
+        "failedUpdate": "Oikeuden muokkaaminen epäonistui. Ota yhteyttä tukeen jos virhe toistuu.",
+        "noRole": "Roolia ei määritetty.",
+        "roleUserConflict": "Rooli ja Käyttäjä eivät voi olla määritetty yhdessä samalla komennon suorittamalla.",
+        "invalidOpt": "Vain: '--channel [kanava], --user [Käyttäjä] --role [Rooli] ovat mahdollisia argumenttejä."
+    },
+    "prefix": {
+        "text": "Palvelimen komento-etuliite on nyt: `{{prefix}}`."
+    },
+    "prune": {
+        "missingPerms": "Minulta on evätty ´Manage Message/Hallinnoi viestejä´ oikeus.",
+        "fetchFail": "Viestin hakeminen epäonnistui.",
+        "filterHelp": "Komento vaatii tarkennuksen toimakseen.",
+        "userIDConf": "Näyttää, että `{{input}}`on Käyttäjän ID. Jatkatko [y/n]?"
+    },
+    "remind": {
+        "error": "Määritä mistä minun pitää muistuttaa sinua.",
+        "invalidTime": "Epäpätevä aika, syötä pidempi aika kuin 30 s.",
+        "confirm": "Asetetaanko uusi muistutus ajan `{{time}}`päähän, [y/n]?",
+        "okay": "Muistutan sinua varmasti ajan koittaessa!",
+        "failed": "Pahoitteluni, muistutusta ei pystytty asettamaan.",
+        "pm": "Pyysit minua muistuttamaan tästä: ```{{text}}``` ."
+    },
+    "words": {
+        "user": "Käyttäjä",
+        "role": "Rooli",
+        "roles": "Roolit",
+        "channel": "Kanava",
+        "channels": "Kanavat",
+        "guild": "Palvelin",
+        "guilds": "Palvelimet",
+        "version": "Versio",
+        "website": "Nettisivu",
+        "author": "Tekijä",
+        "library": "Kirjasto",
+        "donate": "Lahjoita",
+        "member": "Jäsen",
+        "members": "Jäsenet",
+        "id": "ID",
+        "region": "Alue",
+        "owner": "Omistaja",
+        "created": "Luotu",
+        "joined": "Liittyi",
+        "icon": "Ikoni",
+        "avatar": "Profiilikuva",
+        "cancel": "Peruuta",
+        "nickname": "Lempinimi",
+        "playing": "Pelaa kohdetta:",
+        "status": "Tila",
+        "error": "Virhe",
+        "yes": "Kyllä",
+        "no": "Ei",
+        "position": "Sijainti",
+        "color": "Väri",
+        "hoist": "Näytä erikseen.",
+        "managed": "Onnistuneesti",
+        "mentionable": "Merkittävästi",
+        "permissions": "Oikeudet",
+        "users": "Käyttäjät",
+        "topic": "Aihe",
+        "twitter": "Twitter",
+        "mention": "Maininta"
+    },
+    "help": {
+        "ban": "Käyttö: 'ban [Käyttäjä] (syy) (kesto päivissä) (--softban) (--Hackban)'",
+        "kick": "Käyttö: 'kick [Käyttäjä] (syy)",
+        "roleinfo": "Käyttö: ´roleinfo <rooli>",
+        "locale": "Käyttö: locale [set <locale> [--guild]] ."
+    },
+    "ban": {
+        "missingUser": "Määritä vaadittu parametri: käyttäjä.",
+        "softHackban": "Ei mahdollista antaa soft- ja hack-porttikieltoja samalla kerralla.",
+        "invalidDays": "Epäkelpo ajanmitta syötetty, korjaa syntaksi.",
+        "hackbanUserID": "HackBan vaatii Käyttäjän ID:n (UserID)",
+        "failed": "Pahoitteluni, minulta on evätty oikeus antaa porttikieltoja, anna oikeus ja yritä uudelleen.",
+        "softFailed": "Softban epäonnistui, käyttäjälle laitettiin porttikielto, mutta epäonnistuttiin otamaan pois. Ota porttikielto käsin pois."
+    },
+    "botlist": {
+        "fetchFailed": "Bottilistaa ei saatu haettua onnistuneesti.",
+        "headerPage": "[Bottilistan sivu {{page}}/{{total}}]"
+    },
+    "support": {
+        "text": "Tukea, ehdotuksia tai bugeja otetaan vastaan Ayanan tuki-palvelimella. {{support}}"
+    },
+    "kick": {
+        "failed": "Pahoitteluni, minulta on evätty oikeus potkia käyttäjiä, anna oikeus ja yritä uudelleen."
+    },
+    "linkcheck": {
+        "headerRedirects": "[Uudelleenohjaa]"
+    },
+    "ping": {
+        "pong": "Pongis!"
+    },
+    "settings": {
+        "failedUpdate": "Ominaisuuden muokkaamien epäonnistui.",
+        "invalidInput": "Ominaisuuden oletettiin olevan: `{{type}}` , vastaan otin: `{{input}}` ."
+    },
+    "avatar": {
+        "resolveFailed": "Pofiilikuvan hakeminen epäonnistui."
+    },
+    "translation": {
+        "nativeName": "Suomi",
+        "englishName": "Finnish"
+    },
+    "channelinfo": {
+        "pinned": "Kiinnitetyt Viestit",
+        "type": "Kanavan tyyppi",
+        "text": "Teksti",
+        "voice": "Ääni",
+        "bitrate": "Äänen laatu",
+        "connected": "Yhdistäneet käyttäjät",
+        "overwrite": "Oikeuksien päällekirjoitus"
+    },
+    "music2": {
+        "join": ":white_check_mark: Liitytty onnistuneesti kanaville :speaker: `{{voice}}` sekä :newspaper: `{{text}}`. ",
+        "rebound": ":white_check_mark: Jatketaan musiikin toistoa vaikka aloittaja poistui.",
+        "userNoChannel": "Et ole kurrentisti millään :speaker: kanavalla, liity johonkin VOIP kanavaan.",
+        "leave": ":no_entry: Lähdetty kanavilta.",
+        "nowplaying": ":notes: Nyt soi `{{title}}` käyttäjän `{{requester}}` toimesta :notes:",
+        "enqueued": "Lisätty `{{title}}` jonoon sijalle **{{position}}**. Suorita komento 'music play' soittaaksesi jonon.",
+        "enqueuedPlaylist": "Lisätty '{{items}}' soittolistalta `{{title}}` jonoon sijalle **{{position}}**. Suorita komento 'music play' soittaaksesi jonon.",
+        "alreadyBound": "Olen jo jossakin VOIP:issa.",
+        "notBound": "En ole liittynyt kokonaan millekkään kanavalle.",
+        "queuePurged": "Musiikkijono tyhjennetty.",
+        "queueItemDeleted": "'{{item}}' poistettu jonosta.",
+        "headerSearch": "[Haun tulokset]",
+        "pickOption": "Valitse alta vaihtoehto sen valitsemiseksi jonoon:",
+        "emptyQueue": "Vain me kanat täällä...",
+        "headerQueue": "[Musiikki jono]",
+        "queueShuffled": ":twisted_rightwards_arrows: Jono sekoitettu onnistuneesti.",
+        "skipped": ":fast_forward: `Ohitettiin {{item}}`",
+        "loopOne": ":repeat_one: Toistetaan tätä kohdetta jatkuvasti.",
+        "loopAll": ":repeat: Toistetaan jonoa kerta toisensa jälkeen.",
+        "loopOff": "Automaattinen toisto pois päältä.",
+        "autoPaused": ":pause_button: Soitto pysäytettiin kuuntelijoiden puutten vuoksi.",
+        "autoResumed": ":arrow_forward: Toistoa jatketaan.",
+        "autoLeave": ":no_entry_sign: Lähdin pois koska ei biisejä soitettavana.",
+        "fullHelp": "```css\n[Music v3 Temp Help]\n\nMusiikki komennot.\n\nmusic j | join - Liittyy kanavallesi *Sinun pitää olla yhdistyneenä VOIP-kanavalle* \n\nmusic q | queue [song name (yt) | url] - Lisää kohteen tai soittolistan jonoon\n   music q [song name (yt) | url] --next - Lisää kohteen tai soittolistan jonoon sijalle 2.\n\nmusic p | play - Aloittaa toistamaan jonoa \n\nmusic s | skip - Ohittaa tämänhetkisen kohteen.\nmusic sq | showqueue - Näytä jono\n   music sq --purge - Tyhjennä jono\n   music sq --delete <ItemNumber> - Poista kohde jonosta\n\nmusic l | leave - Lähtee kanavalta.\n\nmusic shuffle - Sekoittaa jonossa olevat kohteet satunnaiseen järjestykseen. \nmusic r | repeat <all|one|off> - Laittaa jonon automaattisen toiston päälle|yhden kappaleen toisto|pois\n\n<> = vaadittu, []= valinnainen, | = tai. Jätäthän pois: <> [] or | kirjoitettavasta komennosta.\nLiitythän tukipalvelimelle kysymyksiä varten.. (Linkki: =support)``` ",
+        "tooLong": "Muutoksista johtuen, **väliaikaisesti** ei voi laittaa 3h pidempiä kohteita."
+    }
+}

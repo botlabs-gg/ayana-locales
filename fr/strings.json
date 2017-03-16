@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Disponible seulement dans `(Server name / Nom du serveur)`.",
+        "error": "Une erreur s'est produite. Veuillez la rapporter sur notre serveur de support. ( utilisez la commande `support` pour recevoir une invitation )\n```{{error}}```",
+        "cooldown": "Woah ! Je suis en surchauffe, là! Cette commande est en veille temporairement!"
+    },
+    "finder": {
+        "failUser": "Impossible de trouver l'utilisateur demandé.",
+        "failRole": "Impossible de trouver le rôle demandé.",
+        "failChannel": "Impossible de trouver le salon demandé.",
+        "failGuild": "Impossible de trouver le serveur demandé.",
+        "headerRole": "[Recherche du Rôle]",
+        "headerUser": "[Recherche d'Utilisateur]",
+        "headerGuild": "[Recherche de serveur]",
+        "headerChannel": "[Recherche de salon]",
+        "headerUserGuild": "[Recherche d'Utilisateur sur un serveur]"
+    },
+    "invite": {
+        "text": "D'accord ! :ok_hand:\n\nPour que je rejoigne votre serveur, veuillez utiliser l'un de ces liens:\n\nModération ( recommandé ): {{invite}}\nPermission Minimale ( non recommandé ): {{invite}}"
+    },
+    "locale": {
+        "userUpdate": "Votre langue est réglée sur `{{locale}}`.",
+        "guildUpdate": "La langue du serveur est réglée sur  `{{locale}}`.",
+        "headerAvail": "[langues disponibles]",
+        "fail": "Erreur lors de la mise à jour de la langue."
+    },
+    "modlog": {
+        "genFail": "Échec du Modlog.",
+        "addFail": "Erreur lors de l'ajout d'un nouvel objet modlog.",
+        "created": "Objet Modlog créé.",
+        "updated": "L'objet Modlog a été mis à jour.",
+        "updateFail": "Échec de la mise à jour des détails de l'objet Modlog.",
+        "hackAdd": "Il semblerait que `{{input}}` est l'ID d'un utilisateur. Continuer? [y/n] \n(y = oui/ n = non)"
+    },
+    "perms": {
+        "denied": "Vous n'avez pas la permission `{{node}}`",
+        "cmdDenied": "Permission refusée. Vous devez être le propriétaire du serveur ou avoir un rôle d'administrateur pour changer les permissions.",
+        "resetall": {
+            "owner": "Seul le propriétaire du serveur peut utiliser cette commande",
+            "reset": "Les permissions ont été réinitialisées.",
+            "error": "Erreur lors de la réinitialisation de toutes les permissions."
+        },
+        "failedUpdate": "Erreur lors de la mise a jour du noeud de permission. Veuillez contacter le support si l'erreur persiste.",
+        "noRole": "Aucun rôle spécifié.",
+        "roleUserConflict": "Le `Rôle` et l'`Utilisateur` ne peuvent être spécifiés sur la même commande.",
+        "invalidOpt": "Seuls `--channel [channel]`, `--user [user]`, `--role [role]` sont des commandes valides. Aucun salon, utilisateur ou rôle ne correspondent aux valeurs données."
+    },
+    "prefix": {
+        "text": "Le préfixe sur ce serveur est `{{prefix}}`."
+    },
+    "prune": {
+        "missingPerms": "Désolée, je n'ai pas la permission `Gérer les messages`.",
+        "fetchFail": "Erreur lors de la recherche des messages.",
+        "filterHelp": "Vous devez ajouter un mot-clé pour filtrer.",
+        "userIDConf": "Il semblerait que `{{input}}` est l'ID d'un utilisateur. Continuer? [y/n]?\n(y = oui / n = non)"
+    },
+    "remind": {
+        "error": "Il faut que je vous rappelle quelque chose.",
+        "invalidTime": "Temps invalide. Veuillez spécifier un temps plus long que 30 secondes.",
+        "confirm": "D'accord, un nouveau rappel pour `{{time}}` [y/n]?\n(y = oui/ n = non)",
+        "okay": "D'accord, je n'oublierai pas de vous le rappeler!",
+        "failed": "Désolée, je n'ai pas pu enregistrer votre rappel :(",
+        "pm": "Vous m'avez demandé de vous rappeler cela: ```{{text}}```"
+    },
+    "words": {
+        "user": "Utilisateur",
+        "role": "Rôle",
+        "roles": "Rôles",
+        "channel": "Salon",
+        "channels": "Salons",
+        "guild": "Serveur.",
+        "guilds": "Serveurs.",
+        "version": "Version.",
+        "website": "Site Web.",
+        "author": "Auteur.",
+        "library": "Dictionnaire.",
+        "donate": "Faire un don",
+        "member": "Membre",
+        "members": "Membres",
+        "id": "ID",
+        "region": "Région",
+        "owner": "Propriétaire",
+        "created": "Créé",
+        "joined": "A rejoint",
+        "icon": "Icône",
+        "avatar": "Avatar",
+        "cancel": "Annuler",
+        "nickname": "Surnom",
+        "playing": "For Ayana music commands: Lecture\nif refering to [user] playing [game]: en train de jouer à ",
+        "status": "État",
+        "error": "Erreur",
+        "yes": "Oui",
+        "no": "Non",
+        "position": "Position",
+        "color": "Couleur",
+        "hoist": "Affiché séparément",
+        "managed": "Géré par intégration",
+        "mentionable": "Mentionable",
+        "permissions": "Permissions",
+        "users": "Utilisateurs",
+        "topic": "sujet",
+        "twitter": "Twitter",
+        "mention": "Mention\n(if it's the verb, it's mentionner)"
+    },
+    "help": {
+        "ban": "Utilisation: `ban <user> [--reason <raison>] [--days <jours>] [--soft] [--hackban]`",
+        "kick": "Utilisation: `kick <user> [--reason <raison>]`",
+        "roleinfo": "Utilisation: `roleinfo <role>`",
+        "locale": "Utilisation: `locale [set <langue> [--guild]]`"
+    },
+    "ban": {
+        "missingUser": "Veuillez spécifier le nom de l'utilisateur",
+        "softHackban": "Impossible de softban et hackban en même temps.",
+        "invalidDays": "Veuillez spécifier le nombre de jours, nombre invalide.",
+        "hackbanUserID": "Le Hackban nécessite un ID d'utilisateur",
+        "failed": "Désolée, je n'ai pu bannir l'utilisateur. Peut-être n'ai-je pas la permission?",
+        "softFailed": "Échec du softban, l'utilisateur a été banni mais le déban a échoué. Veuillez le débannir manuellement."
+    },
+    "botlist": {
+        "fetchFailed": "Échec de l'acquisition de la liste des bots depuis {{provider}}.",
+        "headerPage": "[Page de la liste des bots {{page}}/{{total}}]"
+    },
+    "support": {
+        "text": "Pour le support, les suggestions ou les bugs d'Ayana, veuillez rejoindre le serveur de support: {{support}}"
+    },
+    "kick": {
+        "failed": "Désolée, je n'ai pas pu expulser l'utilisateur. Peut-être n'ai-je pas la permission de le faire?"
+    },
+    "linkcheck": {
+        "headerRedirects": "[Redirection]"
+    },
+    "ping": {
+        "pong": "Pong!"
+    },
+    "settings": {
+        "failedUpdate": "Échec de la mise à jour de la propriété.",
+        "invalidInput": "Les propriétés devaient être `{{type}}` mais vous avez écrit `{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "Je n'ai pas réussi à obtenir l'avatar."
+    },
+    "translation": {
+        "nativeName": "Français",
+        "englishName": "French"
+    },
+    "channelinfo": {
+        "pinned": "message épinglé",
+        "type": "Type de salon",
+        "text": "textuel",
+        "voice": "vocal",
+        "bitrate": "taux d'échantillonnage",
+        "connected": "utilisateurs connectés",
+        "overwrite": "Exceptions des autorisations"
+    },
+    "music2": {
+        "join": ":white_check_mark: Salon rejoint. Liée à :speaker: `{{voice}}` et à :newspaper: `{{text}}`.",
+        "rebound": ":white_check_mark: Reprise de la musique après backend disconnect.",
+        "userNoChannel": "Vous n'êtes pas dans un salon vocal. Veuillez en rejoindre un.",
+        "leave": ":no_entry: Salons quittés et déliés.",
+        "nowplaying": ":notes: En cours: `{{title}}` à la demande de `{{requester}}`.",
+        "enqueued": "Ajouté à la playlist: `{{title}}` en numéro **{{position}}**. Dites `music play` pour lancer la lecture de la playlist.",
+        "enqueuedPlaylist": "Ajouté à la playlist: `{{items}}` musiques de `{{title}}`. Dites `music play` pour lancer la lecture de la playlist.",
+        "alreadyBound": "Déjà connectée et liée aux salons.",
+        "notBound": "Liée à aucun salon.",
+        "queuePurged": "Playlist effacée",
+        "queueItemDeleted": "`{{item}}` supprimé de la playlist.",
+        "headerSearch": "[Résultats de la recherche]",
+        "pickOption": "Choisissez un élément ci-dessous pour l'ajouter à la playlist",
+        "emptyQueue": "'Y a rien ni personne à part nous",
+        "headerQueue": "[Playlist]",
+        "queueShuffled": "Lecture de la playlist en aléatoire.",
+        "skipped": "`{{item}}` ignorée.",
+        "loopOne": "Lecture en boucle de la musique en cours.",
+        "loopAll": "Lecture de la playlist en boucle.",
+        "loopOff": "Lecture en boucle désactivée.",
+        "autoPaused": ":pause_button: Mis en pause dû à l'absence du public.",
+        "autoResumed": ":play_pause: Reprise de la lecture.",
+        "autoLeave": ":no_entry_sign: Salon quitté dû à un manque d'activité",
+        "fullHelp": "```css\n[Music v3 Temp guide]\n\nmusic sq | showqueue - affiche la playlist\n   music sq --purge - supprime la playlist\n   music sq --delete <numérodelapiste> - supprime la musique de la playlist\n\nmusic q | queue [nom de la musique (youtube) | lien internet de la musique] - ajoute la musique ou la playlist youtube à la playlist\n   music q [nom de la musique (youtube) | lien internet de la musique] --next - ajoute la musique ou la playlist youtube à la playlist, à la suite de ce qu'il y a déjà.\n\nmusic p | play - Commence la lecture de la playlist \nmusic s | skip - ignore la musique en cours\nmusic shuffle - lance la lecture aléatoire de la playlist \nmusic r | repeat <all|one|off> - active|désactive la répétition d'une musique ou la playlist\nmusic j | join - rejoint votre salon vocal *note: vous devez être dans un salon vocal du serveur* \nmusic l | leave - quitte le salon vocal\n\n<> = élément requis, []= élément optionnel, | = ne marquer qu'un des propositions\nN'écrivez pas  <> [] ni | dans votre entrée de commande\nVeuillez rejoindre le serveur de support pour toute question. (=support pour l'invitation)```",
+        "tooLong": "En raison de modifications de musicv3, les musiques dont la longueur dépasse 3 heures sont  **temporairement** bloquées."
+    }
+}

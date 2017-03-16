@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Jenom přístupné na serverech",
+        "error": "Chyba. Nahlašte tuto chybu na našem serveru podpory (příkaz `support` pro pozvánku)\n```{{error}}```",
+        "cooldown": "Wau! Trochu otravné, ale tenhle příkaz je na chvíli pozastaven."
+    },
+    "finder": {
+        "failUser": "Nemohu najít správného uživatele.",
+        "failRole": "Nemohu najít správnou roli.",
+        "failChannel": "Nemohu najít správný kanál.",
+        "failGuild": "Nemohu najít správný server.",
+        "headerRole": "[Vyhledávání role]",
+        "headerUser": "[Vyhledávání uživatele]",
+        "headerGuild": "[Vyhledávání serveru]",
+        "headerChannel": "[Vyhledávání kanálu]",
+        "headerUserGuild": "[Vyhledávání serverového uživatele]"
+    },
+    "invite": {
+        "text": "Jasná věc :ok_hand:\n\nAbych se mohla připojit na váš server, vyberte jeden z odkazů:\n\nModerátorský (doporučen): {{invite}}\nMinimální (nedoporučen): {{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "Vaše jazykové nastavení bylo změněno na `{{locale}}`.",
+        "guildUpdate": "Jazykové nastavení serveru bylo změněno na `{{locale}}`.",
+        "headerAvail": "[Dostupné jazyky]",
+        "fail": "Nemohu aktualizovat jazyk"
+    },
+    "modlog": {
+        "genFail": "Chyba záznamu moderace.",
+        "addFail": "Nemohu přidat polžku záznamu moderace.",
+        "created": "Položka záznamu moderace je přidána.",
+        "updated": "Položka záznamu moderace je aktualizována.",
+        "updateFail": "Nemohu aktualizovat detaily položky záznamu.",
+        "hackAdd": "Vypadá, že `{{input}}` je ID uživatele. Pokračovat [y/n]?"
+    },
+    "perms": {
+        "denied": "Chybí vám oprávnění `{{node}}`.",
+        "cmdDenied": "Přístup je odepřen. Musíte být buďto vlastník serveru nebo musíte mít oprávnění administrátora, abyste upravili oprávnění.",
+        "resetall": {
+            "owner": "Tento příkaz může používat pouze vlastník serveru.",
+            "reset": "Všechna oprávnění resetována.",
+            "error": "Nemohu resetovat všechna oprávnění."
+        },
+        "failedUpdate": "Nemohu aktualizovat uzel oprávnění. Kontaktujte podporu pokud problém přetrvává.",
+        "noRole": "Role není specifikována.",
+        "roleUserConflict": "Role a Uživatel nemůže být specifikován najednou.",
+        "invalidOpt": "Pouze `--channel [kanál], --user [uživatel] ,--role [role]` jsou správné možnosti, žádné argumenty na uživatele a kanál předpokládají aktuální hodnoty"
+    },
+    "prefix": {
+        "text": "Prefix na tomto serveru je `{{prefix}}`."
+    },
+    "prune": {
+        "missingPerms": "Omlouvám se, nemám oprávnění Discordu \"Spravovat zprávy\".",
+        "fetchFail": "Nemohu získat zprávy.",
+        "filterHelp": "Filtr potřebuje vstup k hledání.",
+        "userIDConf": "Vypadá, že `{{input}}` je ID uživatele. Pokračovat [y/n]?"
+    },
+    "remind": {
+        "error": "Potřebuji vám něco připomenout.",
+        "invalidTime": "Špatný čas. Specifikujte čas delší než 30 sekund.",
+        "confirm": "Dobře, připomenout v `{{time}}` [y/n]?",
+        "okay": "Dobře, připomenu vám to!",
+        "failed": "Omlouvám se, nemohu uložit vaši připomínku.",
+        "pm": "Řekli jste mi, abych vám připomněla toto: ```{{text}}```."
+    },
+    "words": {
+        "user": "Uživatel",
+        "role": "Role",
+        "roles": "Role",
+        "channel": "Kanál",
+        "channels": "Kanály",
+        "guild": "Server",
+        "guilds": "Servery",
+        "version": "Verze",
+        "website": "Webová stránka",
+        "author": "Autor",
+        "library": "Knihovna",
+        "donate": "Přispět",
+        "member": "Člen",
+        "members": "Členové",
+        "id": "ID",
+        "region": "Region",
+        "owner": "Vlastník",
+        "created": "Vytvořen",
+        "joined": "Vstoupil",
+        "icon": "Ikona",
+        "avatar": "Avatar",
+        "cancel": "Zrušit",
+        "nickname": "Přezdívka",
+        "playing": "Hraje",
+        "status": "Status",
+        "error": "Chyba",
+        "yes": "Ano",
+        "no": "Ne",
+        "position": "Pozice",
+        "color": "Barva",
+        "hoist": "Je zobrazen(a) samostatně",
+        "managed": "Spravován(a)",
+        "mentionable": "Může být zmíněn(a)",
+        "permissions": "Oprávnění",
+        "users": "Uživatelé",
+        "topic": "Popis",
+        "twitter": "Twitter",
+        "mention": "Zmínka"
+    },
+    "help": {
+        "ban": "Užití: `ban <uživatel> [--reason <důvod>] [--days <dny>] [--soft] [--hackban]`",
+        "kick": "Užití: `kick <uživatel> [--reason <důvod>]`",
+        "roleinfo": "Užití: `roleinfo <role>`",
+        "locale": "Užití: locale [set jazyk [--guild]]"
+    },
+    "ban": {
+        "missingUser": "Chybí požadovaný parametr user.",
+        "softHackban": "Nemohu soft a hackbanovat najednou.",
+        "invalidDays": "Uvedli jste nastavení days, ale není platné číslo.",
+        "hackbanUserID": "Hackban vyžaduje ID uživatele.",
+        "failed": "Omlouvám se, nemohu zabanovat uživatele, možná mi chybí oprávnění?",
+        "softFailed": "Chyba při softbanu. Uživatel byl zabanován, ale nemohu odbanovat. Prosím, odbanujte uživatele manuálně."
+    },
+    "botlist": {
+        "fetchFailed": "Chyba při získávání seznamu botů od {{provider}}.",
+        "headerPage": "[Seznam botů, strana {{page}} z {{total}}]"
+    },
+    "support": {
+        "text": "Pro podporu, návrhy nebo chyby s Ayanou, prosím navštivte náš server podpory. {{support}}"
+    },
+    "kick": {
+        "failed": "Omlouvám se, nemohu vyhodit uživatele, možná mi chybí oprávnění?"
+    },
+    "linkcheck": {
+        "headerRedirects": "[Přesměrování]"
+    },
+    "ping": {
+        "pong": "Pong!"
+    },
+    "settings": {
+        "failedUpdate": "Chyba při aktualizování možnoszi",
+        "invalidInput": "Očekávaná možnost byla `{{type}}`. Dostala jsem `{{input}}`"
+    },
+    "avatar": {
+        "resolveFailed": "Nemohu získat avatar."
+    },
+    "translation": {
+        "nativeName": "Čeština",
+        "englishName": "Czech"
+    },
+    "channelinfo": {
+        "pinned": "Připnutých zpráv",
+        "type": "Typ kanálu",
+        "text": "Textový",
+        "voice": "Hlasový",
+        "bitrate": "Rychlost přenosu hlasu",
+        "connected": "Připojených uživatelů",
+        "overwrite": "Přepsání práv"
+    },
+    "music2": {
+        "join": ":white_check_mark: Připojila jsem se ke kanálům :speaker: `{{voice}}` a :newspaper: `{{text}}`",
+        "rebound": ":white_check_mark: Pokračuji v přehrávání po backendovém odpojení",
+        "userNoChannel": "Momentálně nejste ve zvukovém kanálu. Prosím, připojte se do hlasového kanálu.",
+        "leave": ":no_entry: Odpojeno od kanálů.",
+        "nowplaying": ":notes: Teď hraje: `{{title}}` vyžádán uživatelem `{{requester}}`",
+        "enqueued": "Zařadila jsem do fronty: `{{title}}` na pozici **{{position}}**. Spusťte příkaz `music play`, abyste přehráli frontu.",
+        "enqueuedPlaylist": "Zařadila jsem do fronty `{{items}}` písní z `{{title}}`. Spusťte příkaz `music play`, abyste přehráli frontu.",
+        "alreadyBound": "Momentálně jsem připojena ke kanálům.",
+        "notBound": "Nejsem připojena k žádným kanálům",
+        "queuePurged": "Fronta je vyčištěna.",
+        "queueItemDeleted": "Odstranila jsem `{{item}}` z fronty.",
+        "headerSearch": "[Výsledky vyhledávání]",
+        "pickOption": "Vyberte možnost níže pro zařazení do fronty.",
+        "emptyQueue": "Nikde nic, jenom kuřata....",
+        "headerQueue": "[Fronta hudby]",
+        "queueShuffled": ":twisted_rightwards_arrows: Fronta je přeházena.",
+        "skipped": ":fast_forward: Přeskočila jsem `{{item}}`.",
+        "loopOne": ":repeat_one: Opakuji aktuální píseň.",
+        "loopAll": ":repeat: Opakuji celou frontu.",
+        "loopOff": "Opakování vypnuto.",
+        "autoPaused": ":pause_button: Pozastaveno, kvůli chybějícím posluchačům.",
+        "autoResumed": ":arrow_forward: Přehrávání pokračuje.",
+        "autoLeave": ":no_entry_sign: Odpojeno z kanálů kvůli neaktivitě.",
+        "fullHelp": "```css\n[Dočasná pomoc pro Hudbu v3]\n\nmusic sq | showqueue - ukáže frontu\n      music sq --purge - vyčistí frontu\n      music sq --delete <číslo písně> - odstraní píseň z fronty\n\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne opakování.\nmusic j | join - připojí se k vám do hlasového kanálu.\n*Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsím, přijďte do našeho serveru pro podporu (=support pro pozvánku)``` ",
+        "tooLong": "Kvůli změnám v Hudbě v3, **dočasně** blokujeme písně delší než 3 hodiny."
+    }
+}

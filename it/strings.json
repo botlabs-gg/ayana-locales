@@ -1,0 +1,182 @@
+{
+    "general": {
+        "guildOnly": "Disponibile solo nei Server.",
+        "error": "Si è verificato un errore. Per favore, segnalalo nel nostro server di assistenza (comando `support` per ricevere l'invito) `{{errore}}`",
+        "cooldown": "Woah! Troppo piccante, questo comando è momentaneamente disattivato."
+    },
+    "finder": {
+        "failUser": "Impossibile trovare l'utente corrispondente.",
+        "failRole": "Impossibile trovare il ruolo corrispondente.",
+        "failChannel": "Impossibile trovare il canale corrispondente.",
+        "failGuild": "Impossibile trovare il server corrispondente.",
+        "headerRole": "[Trova ruolo]",
+        "headerUser": "[Trova utente]",
+        "headerGuild": "[Trova server]",
+        "headerChannel": "[Trova canale]",
+        "headerUserGuild": "[Trova utente nel server]"
+    },
+    "invite": {
+        "text": "Sicuro :ok_hand:\n\nSe vuoi che io mi unisca al tuo server di Discord scegli uno di questi link:\n\nModerazione (Raccomandato): {{invite}}\nMinimale (Non raccomandato) {{invitemin}}"
+    },
+    "locale": {
+        "userUpdate": "La localizzazione è stata impostata su `{{locale}}`",
+        "guildUpdate": "La localizzazione del server è stata impostata su `{{locale}}`",
+        "headerAvail": "[Localizzazioni disponibili]",
+        "fail": "Errore nel modificare la localizzazione."
+    },
+    "modlog": {
+        "genFail": "Modlog fallito.",
+        "addFail": "Si è verificato un errore nell'aggiungere un nuovo modlog.",
+        "created": "Aggiunto un nuovo modlog.",
+        "updated": "Modlog aggiornato.",
+        "updateFail": "Si è verificato un errore durante l'aggiornamento.",
+        "hackAdd": "Sembra che `{{input}}` sia l'id di un utente. Continuare? [y/n]"
+    },
+    "perms": {
+        "denied": "Non hai il premesso `{{node}}`",
+        "cmdDenied": "Permesso negato. Devi essere il proprietario del server o un amministratore per modificare questo permesso.",
+        "resetall": {
+            "owner": "Questo comando può essere utilizzato soltanto dal proprietario del server.",
+            "reset": "Permessi resettati.",
+            "error": "Si è verificato un errore nel resettare i permessi."
+        },
+        "failedUpdate": "Si è verificato un errore nel modificare il permesso. Ti prego di contattare il supporto se il problema persiste.",
+        "noRole": "Nessun ruolo specificato.",
+        "roleUserConflict": "Ruolo e utente non possono essere specificati nello stesso momento.",
+        "invalidOpt": "Solo `--canale [canale], --utente [utente], --ruolo [ruolo]\" sono opzioni valide,"
+    },
+    "prefix": {
+        "text": "Il prefisso su questo server è `{{prefix}}`"
+    },
+    "prune": {
+        "missingPerms": "Scusami, non ho il permesso `Gestire i messaggi` su Discord.",
+        "fetchFail": "Impossibile recuperare i messaggi.",
+        "filterHelp": "Il filtro richiede un input per fare la ricerca.",
+        "userIDConf": "Sembra che `{{input}}` sia l'id di un utente. Continuare [y/n]?"
+    },
+    "remind": {
+        "error": "Ho bisogno di ricordarti qualcosa.",
+        "invalidTime": "Orario errato. Per favore, inserisci un orario superiore a 30s.",
+        "confirm": "Okay, nuovo promemoria per le `{{time}}` [y/n]",
+        "okay": "Okay, mi assicurerò di ricordartelo!",
+        "failed": "Scusa, non sono riuscita a salvare il tuo promemoria.",
+        "pm": "Mi hai chiesto di ricordarti questo: ```{{text}}```"
+    },
+    "words": {
+        "user": "Utente",
+        "role": "Ruolo",
+        "roles": "Ruoli",
+        "channel": "Canale",
+        "channels": "Canali",
+        "guild": "Server",
+        "guilds": "Servers",
+        "version": "Versione",
+        "website": "Versioni",
+        "author": "Autore",
+        "library": "Libreria",
+        "donate": "Donare",
+        "member": "Membro",
+        "members": "Membri",
+        "id": "ID",
+        "region": "Paese",
+        "owner": "Proprietario",
+        "created": "Creato",
+        "joined": "Unito",
+        "icon": "Icona",
+        "avatar": "Avatar",
+        "cancel": "Cancellare",
+        "nickname": "Soprannome",
+        "playing": "Giocando a",
+        "status": "Stato",
+        "error": "Errore",
+        "yes": "Sì",
+        "no": "No",
+        "position": "Posizione",
+        "color": "Colore",
+        "hoist": "Alzare",
+        "managed": "Gestito",
+        "mentionable": "Menzionabile",
+        "permissions": "Permessi",
+        "users": "Utenti",
+        "topic": "Argomento",
+        "twitter": "",
+        "mention": ""
+    },
+    "help": {
+        "ban": "Utilizzo: `Ban <utente> [--motivo <motivo>] [--giorni <giorni>] [--soft] [--hackban]`",
+        "kick": "Utilizzo: `Kick <utente> [--motivo <motivo>]`",
+        "roleinfo": "Utilizzo: `Informazioni ruolo <ruolo>`",
+        "locale": "Utilizzo: `localizzazione [imposta <localizzazione> [--server]]`"
+    },
+    "ban": {
+        "missingUser": "Utente inesistente.",
+        "softHackban": "Impossibile applicare un soft ban e un hackban allo stesso tempo.\n",
+        "invalidDays": "Il numero di giorni non è valido.",
+        "hackbanUserID": "L'hackban richiede un ID utente.",
+        "failed": "Perdonami, non sono in grado di bandire l'utente. Forse non ho il permesso per farlo?\n",
+        "softFailed": "Errore durante il softban, utente bandito ma impossibile da sbandire. Per favore, sbandire manualmente questo utente."
+    },
+    "botlist": {
+        "fetchFailed": "Impossibile recurepare la lista dei bot da {{provider}}.",
+        "headerPage": "[Lista bot {{page}}/{{total}}]"
+    },
+    "support": {
+        "text": "Per assistenza, suggerimenti o bug con Ayana, siete pregati di unirvi al server di assistenza. {{support}}"
+    },
+    "kick": {
+        "failed": "Perdonami, non sono in grado di cacciare questo utente. Forse non ho il permesso di farlo?"
+    },
+    "linkcheck": {
+        "headerRedirects": "[Reindirizza]"
+    },
+    "ping": {
+        "pong": "Pong!"
+    },
+    "settings": {
+        "failedUpdate": "Errore nell'aggiornare le proprietà.",
+        "invalidInput": ""
+    },
+    "avatar": {
+        "resolveFailed": "Errore nel recuperare l'avatar."
+    },
+    "translation": {
+        "nativeName": "Italiano",
+        "englishName": "Italian"
+    },
+    "channelinfo": {
+        "pinned": "Messaggio fissato.",
+        "type": "Tipo di canale.",
+        "text": "Testo",
+        "voice": "Volume",
+        "bitrate": "Bitrate volume",
+        "connected": "Utente connesso",
+        "overwrite": "Sovrascrittura permessi"
+    },
+    "music2": {
+        "join": "",
+        "rebound": "",
+        "userNoChannel": "",
+        "leave": "",
+        "nowplaying": "",
+        "enqueued": "",
+        "enqueuedPlaylist": "",
+        "alreadyBound": "",
+        "notBound": "",
+        "queuePurged": "",
+        "queueItemDeleted": "",
+        "headerSearch": "",
+        "pickOption": "",
+        "emptyQueue": "",
+        "headerQueue": "",
+        "queueShuffled": "",
+        "skipped": "",
+        "loopOne": "",
+        "loopAll": "",
+        "loopOff": "",
+        "autoPaused": "",
+        "autoResumed": "",
+        "autoLeave": "",
+        "fullHelp": "",
+        "tooLong": ""
+    }
+}
