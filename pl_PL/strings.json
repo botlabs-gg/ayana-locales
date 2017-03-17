@@ -40,7 +40,7 @@
     "remind.invalidTime": "Niepoprawny format czasu. Proszę określić czas dłuższy niż 30 sekund.",
     "remind.confirm": "Ok, nowe przypomnienie za `{{time}}` [y/n]?",
     "remind.okay": "Ok, z pewnością Ci o tym przypomnę!",
-    "remind.failed": "Przepraszam, nie byłam w stanie zapisać Twojego przypomnienia.",
+    "remind.failed": "Przepraszam, nie byłam w stanie zapisać Twojego przypomnienia :(",
     "remind.pm": "Poprosiłeś mnie o przypomnienie tego: ```{{text}}```",
     "words.user": "Użytkownik",
     "words.role": "Rola",
