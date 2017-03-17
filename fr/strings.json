@@ -100,7 +100,11 @@
         "users": "Utilisateurs",
         "topic": "sujet",
         "twitter": "Twitter",
-        "mention": "Mention\n(if it's the verb, it's mentionner)"
+        "mention": "Mention\n(if it's the verb, it's mentionner)",
+        "type": "Type",
+        "value": "Valeur",
+        "default": "Par défaut",
+        "description": "Description"
     },
     "help": {
         "ban": "Utilisation: `ban <user> [--reason <raison>] [--days <jours>] [--soft] [--hackban]`",
@@ -134,7 +138,30 @@
     },
     "settings": {
         "failedUpdate": "Échec de la mise à jour de la propriété.",
-        "invalidInput": "Les propriétés devaient être `{{type}}` mais vous avez écrit `{{input}}`"
+        "invalidInput": "Les propriétés devaient être `{{type}}` mais vous avez écrit `{{input}}`",
+        "set": "le **{{setting}}** est défini sur  `{{value}}`.",
+        "notset": "non défini",
+        "groupsHelp": "Voici une liste des ensembles de paramètres disponibles.\nPour plus d'informations, veuillez utiliser la commande `settings [nom de l'ensemble]`.",
+        "unknownGroup": "Ensemble de paramètres inconnu [**{{input}}**]().",
+        "groupHelp": "Les paramètres sont dans le [**{{group}}**]().\nPour plus d'informations sur un paramètre, veuillez utiliser la commande `settings {{group}} [nom du paramètre]`.",
+        "unknownSetting": "Paramètre inconnu [**{{setting}}**]() dans l'ensemble [**{{group}}**]().",
+        "active": "Activer/Désactiver",
+        "prefix": {
+            "guild": "Préfixe pour le serveur actuel"
+        },
+        "greeting": {
+            "text": "Message de bienvenue",
+            "channel": "Le salon dans lequel annoncer une arrivée",
+            "dm": "Envoyer un MP au lieu de publier sur un salon?"
+        },
+        "farewell": {
+            "text": "Message de départ",
+            "channel": "Le salon dans lequel annoncer un départ",
+            "dm": "Envoyer un MP au lieu de publier sur un salon?"
+        },
+        "modlog": {
+            "channel": "Le salon dans lequel se connecter"
+        }
     },
     "avatar": {
         "resolveFailed": "Je n'ai pas réussi à obtenir l'avatar."

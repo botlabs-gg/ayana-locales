@@ -100,7 +100,11 @@
         "users": "유저",
         "topic": "주제",
         "twitter": "트위터",
-        "mention": "언급"
+        "mention": "언급",
+        "type": "종류",
+        "value": "값",
+        "default": "기본값",
+        "description": "내용"
     },
     "help": {
         "ban": "사용법: `ban <유저명> [--reason <이유>] [--days <기간>] [--soft] [--hackban]`",
@@ -134,7 +138,30 @@
     },
     "settings": {
         "failedUpdate": "설정을 갱신하는데 실패했어요.",
-        "invalidInput": "예상된 값은 `{{type}}` 이였지만, `{{input}}`이 입력되었어요."
+        "invalidInput": "예상된 값은 `{{type}}` 이였지만, `{{input}}`이 입력되었어요.",
+        "set": "**{{setting}}**을 `{{value}}`로 설정했어요. ",
+        "notset": "정해지지 않음",
+        "groupsHelp": "설정 가능한 그룹 목록이에요.\n더 많은 정보를 보려면 `settings [groupName]`을 입력하세요.",
+        "unknownGroup": "[**{{input}}**]()은 알 수 없는 그룹이에요.",
+        "groupHelp": "",
+        "unknownSetting": "",
+        "active": "활성화/비활성화",
+        "prefix": {
+            "guild": "우리 서버에 대한 접두사"
+        },
+        "greeting": {
+            "text": "인삿말",
+            "channel": "인삿말을 사용할 서버",
+            "dm": ""
+        },
+        "farewell": {
+            "text": "",
+            "channel": "",
+            "dm": ""
+        },
+        "modlog": {
+            "channel": ""
+        }
     },
     "avatar": {
         "resolveFailed": "아바타를 불러오는데 실패했어요."

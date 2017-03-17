@@ -100,7 +100,11 @@
         "users": "Użytkownicy",
         "topic": "Temat",
         "twitter": "Twitter",
-        "mention": "Wzmianka"
+        "mention": "Wzmianka",
+        "type": "Typ",
+        "value": "Wartość",
+        "default": "Domyślnie",
+        "description": "Opis"
     },
     "help": {
         "ban": "Użycie: `ban <użytkownik> [--reason <powód>] [--days <liczba dni>] [--soft] [--hackban]`",
@@ -133,8 +137,31 @@
         "pong": "Pong!"
     },
     "settings": {
-        "failedUpdate": "Nie udało się zaktualizować własności.",
-        "invalidInput": "Oczekiwana wartość `{{type}}` Otrzymana `{{input}}`"
+        "failedUpdate": "Nie udało się zaktualizować ustawień.",
+        "invalidInput": "Oczekiwana wartość `{{type}}` Otrzymana `{{input}}`.",
+        "set": "Ustawiono **{{setting}}** jako `{{value}}`.",
+        "notset": "nie ustawione",
+        "groupsHelp": "Oto lista dostępnych grup ustawień.\nW celu uzyskania więcej informacji wpisz `settings [nazwaGrupy]`.",
+        "unknownGroup": "Nieznana nazwa grupy ustawień [**{{input}}**]().",
+        "groupHelp": "Ustawienia w grupie [**{group}}**]().\nW celu uzyskania więcej informacji wpisz `settings {{group}} [nazwaUstawień]`.",
+        "unknownSetting": "Nieznane ustawienia [**{{setting}}**]() w grupie [**{{group}}**]().",
+        "active": "Włącz/Wyłącz",
+        "prefix": {
+            "guild": "Prefiks tego serwera"
+        },
+        "greeting": {
+            "text": "Tekst powitalny",
+            "channel": "Kanał do wyświetlania powitań",
+            "dm": "Wysyłać na pw zamiast do kanału?"
+        },
+        "farewell": {
+            "text": "Tekst pożegnalny",
+            "channel": "Kanał to wyświetlania pożegnań",
+            "dm": "Wysyłać na pw zamiast do kanału?"
+        },
+        "modlog": {
+            "channel": "Kanał do wyświetlania log'ów"
+        }
     },
     "avatar": {
         "resolveFailed": "Nie udało się pobrać awatar'u."
@@ -156,7 +183,7 @@
         "join": ":white_check_mark: Połączono z :speaker: `{{voice}}`  i powiązano z :newspaper: `{{text}}`.",
         "rebound": ":white_check_mark: Wznawianie muzyki po rozłączeniu z serwerem.",
         "userNoChannel": "Obecnie nie znajdujesz się w żadnym kanale głosowym. Proszę dołącz do jednego.",
-        "leave": ":no_entry: Opuszczono i rozwiązano połączenie.",
+        "leave": ":no_entry: Opuszczono i rozwiązano połączenie. Jeżeli lubisz korzystać z Ayany, proszę rozważ możliwość wsparcia w celu utrzymania nas przy życiu <https://ayana.io/donate>.",
         "nowplaying": ":notes: Odtwarzanie: `{{title}}` na życzenie `{{requester}}`",
         "enqueued": "Dodano: `{{title}}` na pozycję **{{position}}**. Wpisz `music play` aby zacząć odtwarzanie.",
         "enqueuedPlaylist": "Dodano: `{{items}}` piosenek z `{{title}}`. Wpisz `music play` aby zacząć odtwarzanie.",
@@ -168,15 +195,15 @@
         "pickOption": "Wybierz opcję aby dodać do kolejki.",
         "emptyQueue": "Nic po za nami kurczakami...",
         "headerQueue": "[Kolejka]",
-        "queueShuffled": "Wymieszano kolejkę.",
-        "skipped": "Pominięto `{{item}}`.",
-        "loopOne": "Powtarzanie obecnej piosenki.",
-        "loopAll": "Powtarzanie kolejki.",
+        "queueShuffled": ":twisted_rightwards_arrows: Wymieszano kolejkę.",
+        "skipped": ":fast_forward: Pominięto `{{item}}`.",
+        "loopOne": ":repeat_one: Powtarzanie obecnej piosenki.",
+        "loopAll": ":repeat: Powtarzanie kolejki.",
         "loopOff": "Powtarzanie wyłączone.",
         "autoPaused": ":pause_button: Zatrzymano z powodu braku słuchaczy.",
-        "autoResumed": ":play_pause: Wznowiono odtwarzanie.",
-        "autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności.",
-        "fullHelp": " ```css\n[Muzykav3 Tymczasowa Pomoc]\n\nmusic sq | showqueue - wyświetl kolejkę\n   music sq --purge - wyczyść kolejkę\n   music sq --delete <numerPiosenki> - usuń piosenkę z kolejki\n\nmusic  q | queue [Tytuł (yt) | url] - dodaj piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaj piosenkę lub playlistę na początek kolejki\n\nmusic p | play - zacznij odtwarzanie\nmusic s | skip - pomiń obecną piosenkę\nmusic shuffle - wymieszaj kolejkę\nmusic r | repeat <all|one|off> - włącz tryb powtarzania\n\nmusic j | join = dołącz do Twojego kanału głosowego\nmusic l | leave = opuść obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
+        "autoResumed": ":arrow_forward: Wznowiono odtwarzanie.",
+        "autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Jeżeli lubisz korzystać z Ayany, proszę rozważ możliwość wsparcia w celu utrzymania nas przy życiu <https://ayana.io/donate>.",
+        "fullHelp": "```css\n[Muzyka v3 Tymczasowa Pomoc]\n\nmusic sq | showqueue - wyświetl kolejkę\n   music sq --purge - wyczyść kolejkę\n   music sq --delete <numerPiosenki> - usuń piosenkę z kolejki\n\nmusic  q | queue [Tytuł (yt) | url] - dodaj piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaj piosenkę lub playlistę na początek kolejki\n\nmusic qp | queueplay [Tytuł (yt) | url] - dodaj piosenkę do kolejki i zacznij jej odtwarzanie. (Emuluje Muzykę v2 music q)\n\nmusic p | play - zacznij odtwarzanie\nmusic s | skip - pomiń obecną piosenkę\nmusic shuffle - wymieszaj kolejkę\nmusic r | repeat <all|one|off> - włącz tryb powtarzania\n\nmusic j | join - dołącz do Twojego kanału głosowego\nmusic l | leave - opuść obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
         "tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone."
     }
 }

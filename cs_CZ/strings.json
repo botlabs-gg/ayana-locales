@@ -100,7 +100,11 @@
         "users": "Uživatelé",
         "topic": "Popis",
         "twitter": "Twitter",
-        "mention": "Zmínka"
+        "mention": "Zmínka",
+        "type": "Typ",
+        "value": "Hodnota",
+        "default": "Výchozí",
+        "description": "Popis"
     },
     "help": {
         "ban": "Užití: `ban <uživatel> [--reason <důvod>] [--days <dny>] [--soft] [--hackban]`",
@@ -133,8 +137,31 @@
         "pong": "Pong!"
     },
     "settings": {
-        "failedUpdate": "Chyba při aktualizování možnoszi",
-        "invalidInput": "Očekávaná možnost byla `{{type}}`. Dostala jsem `{{input}}`"
+        "failedUpdate": "Chyba při aktualizování možnosti",
+        "invalidInput": "Očekávané nastavení bylo`{{type}}`, dostala jsem `{{input}}`",
+        "set": "Nastavila jsem **{{setting}}** na `{{value}}`.",
+        "notset": "Není nastaveno",
+        "groupsHelp": "Tohle je seznam dostupných skupin nastavení.\nPro více informací použijte příkaz `settings [jmenoskupiny]`",
+        "unknownGroup": "Neznámá skupina nastavení [**{{input}}**]().",
+        "groupHelp": "Nastavení ve skupině [**{{group}}**]()\nPro více informací o nastavení, spusťte příkaz `settings {{group}} [jmenonastaveni]`.",
+        "unknownSetting": "Neznámé nastavení [**{{setting}}**]() ve skupině [**{{group}}**]().",
+        "active": "Povolit/Zakázat",
+        "prefix": {
+            "guild": "Prefix pro tento server"
+        },
+        "greeting": {
+            "text": "Uvítací zpráva",
+            "channel": "Kanál pro uvítací zprávy",
+            "dm": "Poslat jako DM místo kanálu?"
+        },
+        "farewell": {
+            "text": "Zpráva rozloučení",
+            "channel": "Kanál pro zprávy rozloučení",
+            "dm": "Poslat jako DM místo kanálu?"
+        },
+        "modlog": {
+            "channel": "Kanál pro zaznamenávání modertorských akcí"
+        }
     },
     "avatar": {
         "resolveFailed": "Nemohu získat avatar."
@@ -156,7 +183,7 @@
         "join": ":white_check_mark: Připojila jsem se ke kanálům :speaker: `{{voice}}` a :newspaper: `{{text}}`",
         "rebound": ":white_check_mark: Pokračuji v přehrávání po backendovém odpojení",
         "userNoChannel": "Momentálně nejste ve zvukovém kanálu. Prosím, připojte se do hlasového kanálu.",
-        "leave": ":no_entry: Odpojeno od kanálů.",
+        "leave": ":no_entry: Odpojeno od kanálů. Pokud jste si užili Ayanu, prosím rozhodněte se nás podpořit na <https://ayana.io/donate>",
         "nowplaying": ":notes: Teď hraje: `{{title}}` vyžádán uživatelem `{{requester}}`",
         "enqueued": "Zařadila jsem do fronty: `{{title}}` na pozici **{{position}}**. Spusťte příkaz `music play`, abyste přehráli frontu.",
         "enqueuedPlaylist": "Zařadila jsem do fronty `{{items}}` písní z `{{title}}`. Spusťte příkaz `music play`, abyste přehráli frontu.",
@@ -175,8 +202,8 @@
         "loopOff": "Opakování vypnuto.",
         "autoPaused": ":pause_button: Pozastaveno, kvůli chybějícím posluchačům.",
         "autoResumed": ":arrow_forward: Přehrávání pokračuje.",
-        "autoLeave": ":no_entry_sign: Odpojeno z kanálů kvůli neaktivitě.",
-        "fullHelp": "```css\n[Dočasná pomoc pro Hudbu v3]\n\nmusic sq | showqueue - ukáže frontu\n      music sq --purge - vyčistí frontu\n      music sq --delete <číslo písně> - odstraní píseň z fronty\n\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne opakování.\nmusic j | join - připojí se k vám do hlasového kanálu.\n*Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsím, přijďte do našeho serveru pro podporu (=support pro pozvánku)``` ",
+        "autoLeave": ":no_entry_sign: Odpojeno z kanálů kvůli neaktivitě. Pokud jste si užili Ayanu, prosím rozhodněte se nás podpořit na <https://ayana.io/donate>",
+        "fullHelp": "```css\n[Dočasná pomoc pro Hudbu v3]\n\nmusic sq | showqueue - ukáže frontu\n      music sq --purge - vyčistí frontu\n      music sq --delete <číslo písně> - odstraní píseň z fronty\n\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\n\nmusic qp [název písně | URL] - zařadí píseň do fronty a začne ji přehrávat. Simuluje příkaz music q z Hudby v2.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne opakování.\nmusic j | join - připojí se k vám do hlasového kanálu.\n*Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsím, přijďte do našeho serveru pro podporu (=support pro pozvánku)``` ",
         "tooLong": "Kvůli změnám v Hudbě v3, **dočasně** blokujeme písně delší než 3 hodiny."
     }
 }

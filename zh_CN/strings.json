@@ -100,7 +100,11 @@
         "users": "用户（多个）",
         "topic": "主题",
         "twitter": "推特",
-        "mention": "提及"
+        "mention": "提及",
+        "type": "类别",
+        "value": "值",
+        "default": "默认",
+        "description": "简介"
     },
     "help": {
         "ban": "用法：`ban <用户> [--reason <原因>] [--days <天数>] [--soft] [--hackban]`",
@@ -134,7 +138,30 @@
     },
     "settings": {
         "failedUpdate": "在尝试更新属性时发生错误",
-        "invalidInput": "预期得到`{{type}}`种类的属性，但是得到`{{input}}`"
+        "invalidInput": "预料得到`{{type}}`类别的属性，但是得到的却是`{{input}}`",
+        "set": "已把设置**{{setting}}**设为`{{value}}`。",
+        "notset": "未设",
+        "groupsHelp": "这是一个有全部可用设置组的列表。\n如需要更多资讯请输入`settings [设置组名]`。",
+        "unknownGroup": "未知设置组[**{{input}}**]()。",
+        "groupHelp": "[**{{group}}**]()里的设置\n如需要更多资讯请输入`settings {{group}} [设置名]`。",
+        "unknownSetting": "未知设置[**{{setting}}**]()（设置组[**{{group}}**]()）。",
+        "active": "启用/关闭",
+        "prefix": {
+            "guild": "此服务器命令前缀"
+        },
+        "greeting": {
+            "text": "欢迎文本",
+            "channel": "用来欢迎新成员的频道",
+            "dm": "用私信来代替频道欢迎新成员？"
+        },
+        "farewell": {
+            "text": "道别文本",
+            "channel": "用来向已离开成员道别的频道",
+            "dm": "用私信来代替频道向已离开成员道别？"
+        },
+        "modlog": {
+            "channel": "用来记录管理员动作的频道"
+        }
     },
     "avatar": {
         "resolveFailed": "尝试提取头像时发生错误。"
