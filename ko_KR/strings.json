@@ -14,7 +14,7 @@
     "invite.text": "당연하죠! :ok_hand:\n\n서버에 제가 참가하기 위해서 아래쪽의 링크 중 하나를 선택해주세요:\n\n완전판 (권장) : {{invite}}\n최소판 (권장되지 않음) : {{invitemin}}",
     "locale.userUpdate": "언어가 `{{locale}}`로 설정되었어요.",
     "locale.guildUpdate": "길드의 언어가 `{{locale}}`로 설정되었어요.",
-    "locale.headerAvail": "[사용 가능한 언어]",
+    "locale.headerAvail": "[이용 가능한 언어]",
     "locale.fail": "언어를 업데이트하는데 실패했어요.",
     "modlog.genFail": "모드 사용 기록에 실패했어요.",
     "modlog.addFail": "새로운 모드 사용 기록 범주를 추가하는 데 실패했어요.",
