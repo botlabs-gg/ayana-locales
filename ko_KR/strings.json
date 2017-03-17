@@ -38,7 +38,7 @@
     "prune.userIDConf": "`{{input}}`은 유저 이름인 것 같아요. 계속할까요 [y/n]?",
     "remind.error": "알려드릴 사항이 없어요...",
     "remind.invalidTime": "너무 짧아요. 30초보다 긴 시간으로 해주세요.",
-    "remind.confirm": "네, `{{time}}`에 새로 등록할까요? [y/n]",
+    "remind.confirm": "알겠어요, `{{time}}`에 새로 등록할까요 [y/n]?",
     "remind.okay": "네, 확실하게 알려드릴게요!",
     "remind.failed": "저장에 실패했어요...ㅠㅅㅠ",
     "remind.pm": "알려달라고 하셨었죠?: ```{{text}}```",
