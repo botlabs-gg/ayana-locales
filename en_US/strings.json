@@ -140,7 +140,7 @@
     "music2.queueItemDeleted": "Deleted `{{item}}` from the queue.",
     "music2.headerSearch": "[Search Results]",
     "music2.pickOption": "Pick an option below to enqueue it.",
-    "music2.emptyQueue": "Nothing but us chickens here...",
+    "music2.emptyQueue": "Nothing but us chickens here…",
     "music2.headerQueue": "[Music Queue]",
     "music2.queueShuffled": ":twisted_rightwards_arrows: Shuffled Queue.",
     "music2.skipped": ":fast_forward: Skipped `{{item}}`.",
