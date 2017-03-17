@@ -83,7 +83,7 @@
     "words.type": "종류",
     "words.value": "값",
     "words.default": "기본값",
-    "words.description": "내용",
+    "words.description": "설명",
     "help.ban": "사용법: `ban <유저명> [--reason <이유>] [--days <기간>] [--soft] [--hackban]`",
     "help.kick": "사용법: `kick <유저명> [--reason <이유>]`",
     "help.roleinfo": "사용법: `roleinfo <역할>`",
