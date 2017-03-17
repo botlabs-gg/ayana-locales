@@ -88,7 +88,7 @@
     "ban.softHackban": "Não consigo utilizar o Soft e o Hackban ao mesmo tempo.",
     "ban.invalidDays": "Opção de dia especificado, não é um inteiro válido.",
     "ban.hackbanUserID": "\"Hackban\" necessita o ID do usuário.",
-    "ban.failed": "Desculpe, eu estava incapaz de banir o usuário, Talvez eu não tenha as permissões apropriadas.",
+    "ban.failed": "Desculpe, eu estava incapaz de banir o usuário, pois talvez eu não tenha as permissões apropriadas.",
     "ban.softFailed": "Softban falhou, o Usuário foi banido mas não pode ser desbanido. Por favor desbana manualmente esse usuário.",
     "botlist.fetchFailed": "Falha ao procurar lista de bots de {{provider}}.",
     "botlist.headerPage": "[Página de lista de bots {{page}}/{{total}}]",
@@ -147,9 +147,9 @@
     "settings.prefix.guild": "Prefixo do servidor atual",
     "settings.greeting.text": "Texto de Boas Vindas",
     "settings.greeting.channel": "Canal para dar as Boas Vindas",
-    "settings.greeting.dm": "Enviar como mensagem direta em vez do canal?",
+    "settings.greeting.dm": "Enviar como mensagem direta em vez de mandar no canal?",
     "settings.farewell.text": "Texto de Despedida",
     "settings.farewell.channel": "Canal para dar as despedidas",
-    "settings.farewell.dm": "Enviar como mensagem direta em vez do canal?",
+    "settings.farewell.dm": "Enviar como mensagem direta em vez de mandar no canal?",
     "settings.modlog.channel": "Canal para entrar"
 }
