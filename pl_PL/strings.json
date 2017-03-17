@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Funkcja dostępna tylko na serwerze.",
+    "general.guildOnly": "Funkcja dostępna tylko na serwerze. ",
     "general.error": "Wystąpił błąd. Proszę zgłosić to na serwerze wsparcia (`support` aby uzyskać zaproszenie).\n```{{error}}```",
     "general.cooldown": "Nie tak szybko! Ta komenda jest teraz na wstrzymaniu, odczekaj chwilę.",
     "finder.failUser": "Nie jestem w stanie znaleźć pasującego użytkownika.",
@@ -99,7 +99,7 @@
     "support.text": "Jeżeli potrzebujesz pomocy, masz jakieś sugestie lub znalazłeś błędy związane z Ayaną, proszę dołącz do serwera wsparcia. {{support}}",
     "kick.failed": "Przepraszam, nie byłam w stanie wyrzucić użytkownika. Prawdopodobnie nie posiadam wystarczających uprawnień.",
     "linkcheck.headerRedirects": "[Przekierowanie]",
-    "ping.pong": "Pong!",
+    "ping.pong": "Pong! {{ms}}",
     "settings.failedUpdate": "Nie udało się zaktualizować ustawień.",
     "settings.invalidInput": "Oczekiwana wartość `{{type}}` Otrzymana `{{input}}`.",
     "settings.set": "Ustawiono **{{setting}}** jako `{{value}}`.",
@@ -140,7 +140,7 @@
     "music2.queueItemDeleted": "Usunięto `{{item}}` z kolejki.",
     "music2.headerSearch": "[Wyniki Wyszukiwania]",
     "music2.pickOption": "Wybierz opcję aby dodać do kolejki.",
-    "music2.emptyQueue": "Nic po za nami kurczakami...",
+    "music2.emptyQueue": "Nic po za nami kurczakami…",
     "music2.headerQueue": "[Kolejka]",
     "music2.queueShuffled": ":twisted_rightwards_arrows: Wymieszano kolejkę.",
     "music2.skipped": ":fast_forward: Pominięto `{{item}}`.",
@@ -151,5 +151,6 @@
     "music2.autoResumed": ":arrow_forward: Wznowiono odtwarzanie.",
     "music2.autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Jeżeli lubisz korzystać z Ayany, proszę rozważ możliwość wsparcia w celu utrzymania nas przy życiu <https://ayana.io/donate>.",
     "music2.fullHelp": "```css\n[Muzyka v3 Tymczasowa Pomoc]\n\nmusic sq | showqueue - wyświetl kolejkę\n   music sq --purge - wyczyść kolejkę\n   music sq --delete <numerPiosenki> - usuń piosenkę z kolejki\n\nmusic  q | queue [Tytuł (yt) | url] - dodaj piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaj piosenkę lub playlistę na początek kolejki\n\nmusic qp | queueplay [Tytuł (yt) | url] - dodaj piosenkę do kolejki i zacznij jej odtwarzanie. (Emuluje Muzykę v2 music q)\n\nmusic p | play - zacznij odtwarzanie\nmusic s | skip - pomiń obecną piosenkę\nmusic shuffle - wymieszaj kolejkę\nmusic r | repeat <all|one|off> - włącz tryb powtarzania\n\nmusic j | join - dołącz do Twojego kanału głosowego\nmusic l | leave - opuść obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
-    "music2.tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone."
+    "music2.tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone.",
+    "modlog.requireReason": "Aktywny modlog. Należy dodać powód używając `--reason`."
 }
