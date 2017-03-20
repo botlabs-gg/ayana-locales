@@ -95,7 +95,7 @@
     "support.text": "For \"support\" *cough* and other shit, join Ayana's \"support\" pub. {{support}}",
     "kick.failed": "I can't kick that dickhead. Check my perms first you cunt.",
     "linkcheck.headerRedirects": "[Goes to]",
-    "ping.pong": "Crikey!",
+    "ping.pong": "Crikey! {{ms}}",
     "settings.failedUpdate": "I fucked up and couldn't do that for ya",
     "settings.invalidInput": "What the fuck was that? I expected a `{{type}}`, and `{{input}}` is not a `{{type}}`.",
     "avatar.resolveFailed": "I'm useless, failed to get the fucking avatar.",
