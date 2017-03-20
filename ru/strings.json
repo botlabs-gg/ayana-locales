@@ -152,5 +152,7 @@
     "settings.farewell.text": "Текст прощания",
     "settings.farewell.channel": "Канал для прощания",
     "settings.farewell.dm": "Отправлять в ЛС вместо канала?",
-    "settings.modlog.channel": "Канал для входа"
+    "settings.modlog.channel": "Канал для входа",
+    "shardinfo.fail": "Ошибка при получении информации shard'а от Gateway.",
+    "shardinfo.currentShard": "Этот shard"
 }
