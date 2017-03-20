@@ -135,5 +135,19 @@
     "music2.tooLong": "Due to changes in musicv3, There is a **temporary** block on songs longer than 3 hours.",
     "words.type": "Things",
     "words.description": "Description",
-    "modlog.requireReason": "Modlogs on cunt, `--reason` has to be added to him."
+    "modlog.requireReason": "Modlogs on cunt, `--reason` has to be added to him.",
+    "settings.set": "Set **{{setting}}** to `{{value}}`, cunt.",
+    "settings.notset": "nothing there cunt",
+    "settings.groupsHelp": "This is a list of available shit (setting groups).\nGet the down low by running `settings [groupName]`.",
+    "settings.unknownGroup": "I dunno fucking [**{{input}}**]().",
+    "settings.groupHelp": "\nSettings for fucking [**{{group}}**]().\nLearn more about the cunt by running `settings {{group}} [settingName]`.",
+    "settings.unknownSetting": "Fuck knows what [**{{setting}}**]() is in group [**{{group}}**]().",
+    "settings.active": "Cunt on/Cunt off",
+    "settings.greeting.text": "Welcome Text Cunt",
+    "settings.greeting.channel": "Channel to speak in cunt",
+    "settings.greeting.dm": "Oi, do you want this is a DM instead of Channel?",
+    "settings.farewell.text": "Get the fuck out of here Text",
+    "settings.farewell.channel": "Channel to tell people to get the fuck out in",
+    "settings.farewell.dm": "DO YOU FUCKING WANT A DM INSTEAD OF CHANNEL?",
+    "settings.modlog.channel": "CHANNEL TO SEND THE FUCKER IN"
 }
