@@ -132,5 +132,8 @@
     "music2.autoResumed": ":arrow_forward: Started the Jukebox again.",
     "music2.autoLeave": ":no_entry_sign: No one's listening, so I'm just gonna fuck off.",
     "music2.fullHelp": "```css\n[Music v3 Temp Help]\n\nmusic sq | showqueue - shows queue\n   music sq --purge - clears queue\n   music sq --delete <ItemNumber> - Deletes item from queue\n\nmusic q | queue [song name (yt) | url] - queues song or playlist\n   music q [song name (yt) | url] --next - queues song or playlist to the next position(s)\n\nmusic p | play - Starts playing queued song(s) \nmusic s | skip - skips current song\nmusic shuffle - shuffles queue randomly \nmusic r | repeat <all|one|off> - Turns on|off repeat\n\nmusic j | join - join your current voice channel *note you must be in the voice channel* \nmusic l | leave - leaves the voice channel\n\n<> = required information, []= optional information, | = or, do not include <> [] or | in you command input\nPlease join the support server for any questions. (=support for link)```",
-    "music2.tooLong": "Due to changes in musicv3, There is a **temporary** block on songs longer than 3 hours."
+    "music2.tooLong": "Due to changes in musicv3, There is a **temporary** block on songs longer than 3 hours.",
+    "words.type": "Things",
+    "words.description": "Description",
+    "modlog.requireReason": "Modlogs on cunt, `--reason` has to be added to him."
 }
