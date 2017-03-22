@@ -151,5 +151,13 @@
     "settings.farewell.text": "Texto de Despedida",
     "settings.farewell.channel": "Canal para dar as despedidas",
     "settings.farewell.dm": "Enviar como mensagem direta em vez de mandar no canal?",
-    "settings.modlog.channel": "Canal para entrar"
+    "settings.modlog.channel": "Canal para entrar",
+    "words.variables": "Variáveis",
+    "modlog.requireReason": "Modlog ligado. `--reason` também será incluído.",
+    "settings.variable.mention": "Mencionar usuário.",
+    "settings.variable.username": "Nome de usuário do membro.",
+    "settings.variable.discriminator": "Membro discriminador.",
+    "settings.variable.userid": "ID de Usuário do Membro.",
+    "shardinfo.fail": "Falha ao buscar informações de fragmentos do Gateway.",
+    "shardinfo.currentShard": "Este Fragmento"
 }
