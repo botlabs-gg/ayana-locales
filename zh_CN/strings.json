@@ -106,7 +106,7 @@
     "settings.notset": "未设",
     "settings.groupsHelp": "这是一个有全部可用设置组的列表。\n如需要更多资讯请输入`settings [设置组名]`。",
     "settings.unknownGroup": "未知设置组[**{{input}}**]()。",
-    "settings.groupHelp": "[**{{group}}**]()里的设置\n如需要更多资讯请输入`settings {{group}} [设置名]`。",
+    "settings.groupHelp": "[**{{group}}**]()里的设置\n如需要更多资讯以及查看有关变数请输入`settings {{group}} [设置名]`。",
     "settings.unknownSetting": "未知设置[**{{setting}}**]()（设置组[**{{group}}**]()）。",
     "settings.active": "启用/关闭",
     "settings.prefix.guild": "此服务器命令前缀",
@@ -154,5 +154,10 @@
     "music2.tooLong": "目前因为音乐v3的改变，**暂时**不能播放超过三个小时的歌曲。",
     "modlog.requireReason": "管理记录已开启。必须在执行管理用命令时加入`--reason`。",
     "shardinfo.fail": "尝试从gateway得取shard资讯时发生错误。",
-    "shardinfo.currentShard": "这个shard"
+    "shardinfo.currentShard": "这个shard",
+    "words.variables": "变数",
+    "settings.variable.mention": "提及用户。",
+    "settings.variable.username": "会员昵称。",
+    "settings.variable.discriminator": "会员Discord昵称。",
+    "settings.variable.userid": "会员用户ID。"
 }
