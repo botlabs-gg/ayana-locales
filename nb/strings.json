@@ -142,7 +142,7 @@
     "settings.notset": "ikke satt",
     "settings.groupsHelp": "Dette er en liste over tilgjengelige intstillingsgrupper.\nFor mer informasjon, bruk kommandoen `settings [groupName]`.",
     "settings.unknownGroup": "Ukjent innstillingsgruppe [**{{input}}**]().",
-    "settings.groupHelp": "Innstillinger i [**{{group}}**]().\nFor mer informasjon om en innstilling, skriv `settings {{group}} [settingName]`.",
+    "settings.groupHelp": "Innstillinger i [**{{group}}**]().\nFor mer informasjon om en innstilling, og for a se gyldige variabler, skriv `settings {{group}} [settingName]`.",
     "settings.unknownSetting": "Ukjent innstilling [**{{setting}}**]() i gruppen [**{{group}}**]().",
     "settings.active": "Aktiver/Deaktiver",
     "settings.prefix.guild": "Prefix i gjeldende server",
@@ -152,5 +152,12 @@
     "settings.farewell.text": "Farveltekst",
     "settings.farewell.channel": "Kanal farvel blir sent til",
     "settings.farewell.dm": "Send som DM istedenfor en kanal?",
-    "settings.modlog.channel": "Kanal for moderasjonslogg"
+    "settings.modlog.channel": "Kanal for moderasjonslogg",
+    "words.variables": "Variabler",
+    "settings.variable.mention": "Nevn bruker.",
+    "settings.variable.username": "Medlems brukernavn.",
+    "settings.variable.userid": "Medlems brukerID.",
+    "shardinfo.fail": "Innhenting av shard-informasjon fra Gateway feilet.",
+    "shardinfo.currentShard": "Gjeldende Shard",
+    "settings.variable.discriminator": "Bruker-diskriminator."
 }
