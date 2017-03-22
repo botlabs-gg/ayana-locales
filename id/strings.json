@@ -1,1 +1,24 @@
-{}
+{
+    "general.guildOnly": "Hanya tersedia di Server.",
+    "general.error": "Sebuah masalah terjadi. Mohon laporkan ini di guild bantuan kami (perintah `support` untuk mendapatkan invite).\n```{{error}}```",
+    "finder.failUser": "Tidak dapat menemukan pengguna yang cocok.",
+    "finder.failRole": "Tidak dapat menemukan role yang cocok.",
+    "finder.failChannel": "Tidak dapat menemukan channel yang cocok.",
+    "finder.failGuild": "Tidak dapat menemukan server yang cocok.",
+    "finder.headerRole": "[Pencari Role]",
+    "finder.headerUser": "[Pencari Pengguna]",
+    "finder.headerGuild": "[Pencari Guild]",
+    "finder.headerChannel": "[Pencari Channel]",
+    "finder.headerUserGuild": "[Pencari Pengguna Guild]",
+    "invite.text": "Tentu saja :ok_hand:\n\nUntuk membuatku masuk servermu mohon pilih salah satu tautan berikut:\n\nModerasi (direkomendasikan): {{invite}}\nMinimal (tidak direkomendasikan): {{invitemin}}",
+    "locale.userUpdate": "Bahasa Anda sudah ditetapkan ke `{{locale}}`.",
+    "locale.guildUpdate": "Bahasa untuk Guild telah ditetapkan ke `{{locale}}`.",
+    "locale.headerAvail": "[Bahasa Tersedia]",
+    "locale.fail": "Gagal untuk memperbarui bahasa.",
+    "modlog.updateFail": "Gagal untuk memperbarui informasi item log",
+    "modlog.hackAdd": "Sepertinya `{{input}}` adalah id pengguna. Lanjutkan [y/n]?",
+    "perms.denied": "Anda tidak memiliki izin `{{node}}`.",
+    "perms.cmdDenied": "Izin ditolak. Anda harus menjadi pemilik server atau mempunyai izin Administrator untuk mengubah izin.",
+    "perms.resetall.owner": "Perintah ini hanya bisa digunakan oleh pemilik server.",
+    "perms.failedUpdate": "Gagal untuk memperbarui node izin. Mohon hubungi bantuan jika masalah masih terjadi."
+}
