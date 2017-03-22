@@ -142,7 +142,7 @@
     "settings.notset": "Nicht gesetzt",
     "settings.groupsHelp": "Das ist eine Liste der verfügbaren Einstellungsgruppen\nFür mehr Informationen führe `settings [GruppenName]` aus.",
     "settings.unknownGroup": "Unbekannte Einstellungsgruppe [**{{input}}**]().",
-    "settings.groupHelp": "Einstellungen welche innerhalb der Gruppe [**{{group}}**]() enthalten sind.\nFür mehr Informationen über eine Einstellung, führe `settings {{group}} [Einstellungsname]` aus.",
+    "settings.groupHelp": "Einstellungen welche innerhalb der Gruppe [**{{group}}**]() enthalten sind.\nFür mehr Informationen über eine Einstellung und evtl. vorhandene Variablen, führe `settings {{group}} [Einstellungsname]` aus.",
     "settings.unknownSetting": "Unbekannte Einstellung [**{{setting}}**]() in Gruppe [**{{group}}**]().",
     "settings.active": "Aktivieren/Deaktivieren",
     "settings.prefix.guild": "Präfix für den aktuellen Servierer",
@@ -152,5 +152,12 @@
     "settings.farewell.text": "Verabschiedungstext",
     "settings.farewell.channel": "Channel in welchem verabschiedet werden soll",
     "settings.farewell.dm": "Als Privatnachricht senden anstatt in einem Channel?",
-    "settings.modlog.channel": "Channel in welchem protokolliert werden soll"
+    "settings.modlog.channel": "Channel in welchem protokolliert werden soll",
+    "words.variables": "Variablen",
+    "settings.variable.mention": "Erwähne Nutzer.",
+    "settings.variable.username": "Mitglied Username.",
+    "settings.variable.discriminator": "Mitglied Diskriminator.",
+    "settings.variable.userid": "Mitglied UserID.",
+    "shardinfo.fail": "Fehler beim Abrufen der Shard Info vom Gateway.",
+    "shardinfo.currentShard": "Dieser Shard"
 }
