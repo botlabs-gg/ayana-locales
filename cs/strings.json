@@ -106,7 +106,7 @@
     "settings.notset": "Není nastaveno",
     "settings.groupsHelp": "Tohle je seznam dostupných skupin nastavení.\nPro více informací použijte příkaz `settings [jmenoskupiny]`.",
     "settings.unknownGroup": "Neznámá skupina nastavení [**{{input}}**]().",
-    "settings.groupHelp": "Nastavení ve skupině [**{{group}}**]()\nPro více informací o nastavení, spusťte příkaz `settings {{group}} [jmenonastaveni]`.",
+    "settings.groupHelp": "Nastavení ve skupině [**{{group}}**]()\nPro více informací o nastavení, a pro zobrazení proměnných nastavení, spusťte příkaz `settings {{group}} [jmenonastaveni]`.",
     "settings.unknownSetting": "Neznámé nastavení [**{{setting}}**]() ve skupině [**{{group}}**]().",
     "settings.active": "Povolit/Zakázat",
     "settings.prefix.guild": "Prefix pro tento server",
@@ -152,5 +152,12 @@
     "music2.autoLeave": ":no_entry_sign: Odpojeno z kanálů kvůli neaktivitě. Pokud jste si užili Ayanu, prosím rozhodněte se nás podpořit na <https://ayana.io/donate>.",
     "music2.fullHelp": "```css\n[Dočasná pomoc pro Hudbu v3]\n\nmusic sq | showqueue - ukáže frontu\n      music sq --purge - vyčistí frontu\n      music sq --delete <číslo písně> - odstraní píseň z fronty\n\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\n\nmusic qp [název písně | URL] - zařadí píseň do fronty a začne ji přehrávat. Simuluje příkaz music q z Hudby v2.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne opakování.\nmusic j | join - připojí se k vám do hlasového kanálu.\n*Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsím, přijďte do našeho serveru pro podporu (=support pro pozvánku)```",
     "music2.tooLong": "Kvůli změnám v Hudbě v3, **dočasně** blokujeme písně delší než 3 hodiny.",
-    "modlog.requireReason": "Log moderátorských akcí byl zapnut. `--reason` musí být zahrnut v příkazu."
+    "modlog.requireReason": "Log moderátorských akcí byl zapnut. `--reason` musí být zahrnut v příkazu.",
+    "words.variables": "Proměnné",
+    "settings.variable.mention": "Zmínit se o uživateli.",
+    "settings.variable.username": "Uživatelské jméno člena.",
+    "settings.variable.discriminator": "Diskriminátor člena.",
+    "settings.variable.userid": "Uživatelské ID člena.",
+    "shardinfo.fail": "Nemohu získat informace o shardech z Brány.",
+    "shardinfo.currentShard": "Tento shard"
 }
