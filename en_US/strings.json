@@ -127,7 +127,7 @@
     "avatar.resolveFailed": "Failed to get avatar.",
     "translation.nativeName": "US English",
     "translation.englishName": "US English",
-    "channelinfo.pinned": "Pinned Messages.",
+    "channelinfo.pinned": "Pinned Messages",
     "channelinfo.type": "Channel Type",
     "channelinfo.text": "Text",
     "channelinfo.voice": "Voice",
