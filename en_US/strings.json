@@ -164,7 +164,7 @@
     "setgame.fail": "Failed to set game. {{error}}",
     "setgame.streambool": "Stream url must be specified.",
     "setgame.done": "Game status set!",
-    "music.providers.youtube": "Listen to https://www.youtube.com videos and none private playlists.",
+    "music.providers.youtube": "Listen to https://www.youtube.com videos and non private playlists.",
     "music.providers.soundcloud": "Listen to https://www.soundcloud.com songs and playlists.",
     "music.providers.listenmoe": "Listen to radio stream from https://listen.moe.",
     "music.providers.clyp": "Listen to http://clyp.it songs.",
