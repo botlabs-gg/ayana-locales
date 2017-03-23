@@ -133,5 +133,6 @@
     "music2.autoLeave": ":no_entry_sign: Dacă voi plecați,plec si eu.",
     "music2.fullHelp": "```css\n[Ajutor pentru muzica]\n\nmusic sq | showqueue - arată coada de redare\n   music sq --purge - șterge coada de redare\n   music sq --delete <numar> - șterge melodia de pe poziția respectivă\n\nmusic q | queue [nume melodie (yt) | url] - adaugă la coada playlisturi sau melodii\n   music q [nume melodie (yt) | url] --next - adaugă melodia pe poziția urmatoare\n\nmusic p | play - reda muzica\nmusic s | skip - trece la melodia urmatoare\nmusic shuffle - amesteca coada de redare\nmusic r | repeat <all|one|off> - pornește/opreste redarea continua\n\nmusic j | join - se alătură canalului de voce în care ești.*Trebuie să fii intr-un canal de voce*\nmusic l | leave - părăsește canalul de voce\n\n<> = Informații obligatorii []= informații optionale, | = sau, nu pune <> [] or | in comenzi.\nTe rugam sa te alaturi serverului de suport pt informații.```",
     "music2.tooLong": "Din cauza schimbărilor,melodiile mai mari de 3h vor fi blocate **temporar**",
-    "words.type": "Tip"
+    "words.type": "Tip",
+    "words.value": "Valoare"
 }
