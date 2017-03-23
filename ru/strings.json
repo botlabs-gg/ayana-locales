@@ -142,7 +142,7 @@
     "settings.notset": "не установлено",
     "settings.groupsHelp": "Это список доступных групп настроек.\nДля большей информации выполните `settings [группа]`.",
     "settings.unknownGroup": "Неизвестная группа настроек [**{{input}}**]().",
-    "settings.groupHelp": "Настройки в [**{{group}}**]().\nДля больше информации о настройке введите `settings {{group}} [настройка]`.",
+    "settings.groupHelp": "Настройки в [**{{group}}**]().\nДля больше информации о настройке и связанных переменных, введите `settings {{group}} [настройка]`.",
     "settings.unknownSetting": "Неизвестная настройка [**{{setting}}**]() в группе [**{{group}}**]().",
     "settings.active": "Включить/Выключить",
     "settings.prefix.guild": "Префикс для текущего сервера",
@@ -154,5 +154,10 @@
     "settings.farewell.dm": "Отправлять в ЛС вместо канала?",
     "settings.modlog.channel": "Канал для входа",
     "shardinfo.fail": "Ошибка при получении информации shard'а от Gateway.",
-    "shardinfo.currentShard": "Этот shard"
+    "shardinfo.currentShard": "Этот shard",
+    "words.variables": "Переменные",
+    "settings.variable.mention": "Упоминание пользователя.",
+    "settings.variable.username": "Имя пользователя.",
+    "settings.variable.discriminator": "Discriminator пользователя.",
+    "settings.variable.userid": "ID пользователя."
 }

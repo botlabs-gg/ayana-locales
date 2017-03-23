@@ -152,5 +152,12 @@
     "music2.autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Jeżeli lubisz korzystać z Ayany, proszę rozważ możliwość wsparcia w celu utrzymania nas przy życiu <https://ayana.io/donate>.",
     "music2.fullHelp": "```css\n[Muzyka v3 Tymczasowa Pomoc]\n\nmusic sq | showqueue - wyświetl kolejkę\n   music sq --purge - wyczyść kolejkę\n   music sq --delete <numerPiosenki> - usuń piosenkę z kolejki\n\nmusic  q | queue [Tytuł (yt) | url] - dodaj piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaj piosenkę lub playlistę na początek kolejki\n\nmusic qp | queueplay [Tytuł (yt) | url] - dodaj piosenkę do kolejki i zacznij jej odtwarzanie. (Emuluje Muzykę v2 music q)\n\nmusic p | play - zacznij odtwarzanie\nmusic s | skip - pomiń obecną piosenkę\nmusic shuffle - wymieszaj kolejkę\nmusic r | repeat <all|one|off> - włącz tryb powtarzania\n\nmusic j | join - dołącz do Twojego kanału głosowego\nmusic l | leave - opuść obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
     "music2.tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone.",
-    "modlog.requireReason": "Aktywny modlog. Należy dodać powód używając `--reason`."
+    "modlog.requireReason": "Aktywny modlog. Należy dodać powód używając `--reason`.",
+    "words.variables": "Zmienne",
+    "settings.variable.mention": "Wspomina użytkownika.",
+    "settings.variable.username": "Nazwa użytkownika.",
+    "settings.variable.discriminator": "Dyskryminator użytkownika.",
+    "settings.variable.userid": "Id użytkownika.",
+    "shardinfo.fail": "Nie udało się pobrać informacji o shardz'ie z Gateway.",
+    "shardinfo.currentShard": "Obecny Shard"
 }
