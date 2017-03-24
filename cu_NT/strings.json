@@ -114,7 +114,7 @@
     "music2.leave": ":no_entry: I'm gonna fuck off, this shit's fucking boring.",
     "music2.nowplaying": ":notes: Now playing shitty song: `{{title}}` requested by `{{requester}}`",
     "music2.enqueued": "Enqueued your shitty song, `{{title}}`, in position **{{position}}**. Run `music play` to play the fucking queue.",
-    "music2.enqueuedPlaylist": "Enqueued your `{{items}}` shitty songs from `{{title}}`, in position **{{position}}**. Run `music play` to play the fucking queue.",
+    "music2.enqueuedPlaylist": "Enqueued your shitty songs from `{{title}}`, in position **{{items}}**. Run `music play` to play the fucking queue.",
     "music2.alreadyBound": "Already connected, asshole.",
     "music2.notBound": "Not connected, fuck off.",
     "music2.queuePurged": "Restarted the Jukebox.",
