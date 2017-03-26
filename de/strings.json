@@ -172,5 +172,12 @@
     "f.paid": "**{{username}}** hat seinen Respekt gezollt.",
     "f.paidfor": "**{{username}}** hat seinen Respekt für **{{type}}** gezollt.",
     "f.paidfooter": "{{today}} Heute, {{all}} Gesamt",
-    "f.paidstats": "**{{today}}** mal wurde heute Respekt gezollt. **{{all}}** mal im Gesamten."
+    "f.paidstats": "**{{today}}** mal wurde heute Respekt gezollt. **{{all}}** mal im Gesamten.",
+    "settings.automod.channel": "Automod log channel.",
+    "settings.automod.log": "Aktiviere/Deaktiviere Automod logs.",
+    "settings.automod.links": "Aktiviere/Deaktiviere Link Filter.",
+    "settings.automod.linksbl": "Link Blacklist.",
+    "settings.list.help": "Benutzung: `settings {{group}} {{setting}} [add|del] [item]`",
+    "settings.list.delconfirm": "Die folgenden Items werden entfernt. Ist das in Ordnung [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "Es wurden keine Items zum entfernen gefunden."
 }
