@@ -160,5 +160,17 @@
     "settings.variable.userid": "Mitglied UserID.",
     "shardinfo.fail": "Fehler beim Abrufen der Shard Info vom Gateway.",
     "shardinfo.currentShard": "Dieser Shard",
-    "words.providers": "Quellen"
+    "words.providers": "Quellen",
+    "setgame.fail": "Spiel konnte nicht gesetzt werden. {{error}}",
+    "setgame.streambool": "Stream URL muss angegeben sein.",
+    "setgame.done": "Status wurde gesetzt!",
+    "music.providers.youtube": "Spiele https://www.youtube.com Videos und nicht private Wiedergabelisten.",
+    "music.providers.soundcloud": "Spiele https://www.soundcloud.com Songs und Wiedergabelisten.",
+    "music.providers.listenmoe": "Spiele Radio Streams von https://listen.moe.",
+    "music.providers.clyp": "Spiele http://clyp.it Songs.",
+    "music.providers.twitch": "Spiele Livestreams von https://twitch.tv.",
+    "f.paid": "**{{username}}** hat seinen Respekt gezollt.",
+    "f.paidfor": "**{{username}}** hat seinen Respekt für **{{type}}** gezollt.",
+    "f.paidfooter": "{{today}} Heute, {{all}} Gesamt",
+    "f.paidstats": "**{{today}}** mal wurde heute Respekt gezollt. **{{all}}** mal im Gesamten."
 }
