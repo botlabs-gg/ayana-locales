@@ -23,9 +23,13 @@
     "modlog.updateFail": "Gagal untuk muat naik perincian item log.",
     "modlog.hackAdd": "Nampaknya `{{input}}` adalah ID seorang ahli. Bersambung [y/n]?",
     "perms.denied": "Anda tidak ada keizinan `{{node}}`.",
-    "perms.cmdDenied": "Keizinan ditolak. Kamu harus sama ada ,menjadi pemilik server talian atau ada kuasa Administrator untuk ubahkan keizinan.",
+    "perms.cmdDenied": "Keizinan ditolak. Kamu harus sama ada menjadi pemilik server talian atau ada kuasa Administrator untuk ubahkan keizinan.",
     "perms.resetall.owner": "Arahan ini hanya boleh digunakan oleh pemilik server talian ini.",
     "perms.resetall.reset": "Keizinan-keizinan telah ditetapkan semula.",
     "perms.resetall.error": "Telah gagal untuk menetapkan semula keizinan-keizinan.",
-    "perms.failedUpdate": "Telah gagal untuk muat naik nod keizinan. Tolong hubungkan support kalau kesilapan masih berterusan."
+    "perms.failedUpdate": "Telah gagal untuk muat naik nod keizinan. Tolong hubungkan support kalau kesilapan masih berterusan.",
+    "perms.noRole": "Pangkat tidak dinyatakan.",
+    "perms.roleUserConflict": "Pangkat dan ahli tidak boleh dinyatakan bersama-sama.",
+    "perms.invalidOpt": "",
+    "prefix.text": "Prefix server talian ini adalah `{{prefix}}`."
 }
