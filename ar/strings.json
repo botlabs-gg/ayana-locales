@@ -147,5 +147,17 @@
     "settings.farewell.text": "نص التوديع",
     "settings.farewell.channel": "القناة المخصصة للتوديع فيها",
     "settings.farewell.dm": "إرسال كرسالة مباشرة عوض القناة؟",
-    "settings.modlog.channel": "القناة المخصصة للتسجيل فيها"
+    "settings.modlog.channel": "القناة المخصصة للتسجيل فيها",
+    "words.variables": "متغيرات",
+    "words.providers": "موفرون",
+    "modlog.requireReason": "سجل الإدارة مفعل. يجب غدو `--سبب` مضمنا.",
+    "settings.groupsHelp": "تعد هذه لائحة لمجموعات الإعدادات. لأجل معلومة أكثر ، نفذ `إسم المجموعة setting `.",
+    "settings.unknownGroup": "[**{{input}}**]() مجموعة إعدادات مجهولة.",
+    "settings.groupHelp": "الإعدادات في [**{{group}}**]().\nلأجل معلومة أكثر حول إعداد ، و لأجل معاينة المتغيرات المتعلقة ، أكتب `settings {{group}} [إسم الإعداد]`.",
+    "settings.unknownSetting": "إعداد مجهول [**{{setting}}**]() في مجموعة [**{{group}}**]().",
+    "settings.automod.channel": "قناة سجل الإدارة التلقائية.",
+    "settings.automod.log": "تفعيل/تعطيل سجلات الإدارة التلقائية.",
+    "settings.automod.links": "تفعيل/تعطيل مرشح الروابط.",
+    "settings.automod.linksbl": "لائحة الروابط السوداء.",
+    "settings.list.help": "الإصطلاح : `settings {{group}} {{setting}} [إضافة|إزالة] [عنصر]`"
 }
