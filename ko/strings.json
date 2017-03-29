@@ -172,5 +172,12 @@
     "f.paid": "**{{username}}**님이 조의를 표하셨어요.",
     "f.paidfor": "**{{username}}**님이 **{{type}}**을/를 위하여 조의를 표하셨어요.",
     "f.paidfooter": "금일 {{today}}, 총합 {{all}}",
-    "f.paidstats": "**{{today}}**개의 조의가 오늘 표해졌어요. 도합해서 **{{all}}**개에요."
+    "f.paidstats": "**{{today}}**개의 조의가 오늘 표해졌어요. 도합해서 **{{all}}**개에요.",
+    "settings.automod.channel": "자동 기록 기능이 채널을 기록",
+    "settings.automod.log": "자동 기록 기능 활성화/비활성화",
+    "settings.automod.links": "링크 필터 활성화/비활성화",
+    "settings.automod.linksbl": "블랙리스트를 연결",
+    "settings.list.help": "사용법: `settings {{group}} {{setting}} [add-추가|del-삭제] [항목]`",
+    "settings.list.delconfirm": "다음 항목들을 삭제할게요. 괜찮나요? [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "제거할 항목을 찾지 못했어요."
 }
