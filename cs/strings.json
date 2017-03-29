@@ -172,5 +172,12 @@
     "f.paid": "**{{username}}** zaplatil jeho respekt.",
     "f.paidfor": "**{{username}}** zaplatil svůj respekt pro **{{type}}**.",
     "f.paidfooter": "{{today}} dnes, {{all}} všechny",
-    "f.paidstats": "**{{today}}** respektů bylo dneska zaplaceno. Za celé období **{{all}}**."
+    "f.paidstats": "**{{today}}** respektů bylo dneska zaplaceno. Za celé období **{{all}}**.",
+    "settings.automod.links": "Zapnout/vypnout filtr odkazů.",
+    "settings.automod.linksbl": "Černá listina odkazů.",
+    "settings.list.help": "Užití: `settings {{group}} {{setting}} [add|del] [item]`",
+    "settings.list.delconfirm": "Tyto položky budou smazány. Jste si jisti [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "Nenašly se žádné položky na smazání.",
+    "settings.automod.log": "Zapnout/vypnout záznam aktivit Automoderátora.",
+    "settings.automod.channel": "Kanál pro záznam aktivit Automoderátora."
 }
