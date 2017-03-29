@@ -172,5 +172,12 @@
     "f.paid": "**{{username}}** składa wyrazy współczucia.",
     "f.paidfor": "**{{username}}** składa wyrazy współczucia dla **{{type}}**.",
     "f.paidfooter": "{{today}} dzisiaj, {{all}} razem",
-    "f.paidstats": "Dzisiaj okazano szacunek **{{today}}** razy. Łącznie **{{all}}**."
+    "f.paidstats": "Dzisiaj okazano szacunek **{{today}}** razy. Łącznie **{{all}}**.",
+    "settings.automod.channel": "Kanał do zapisywania logów Automod'a.",
+    "settings.automod.log": "Włącz/wyłącz logi Automod'a.",
+    "settings.automod.links": "Włącz/wyłącz filtrowanie linków.",
+    "settings.automod.linksbl": "Czarna lista linków.",
+    "settings.list.help": "Użycie: `settings {{group}} {{setting}} [add|del] [item]`",
+    "settings.list.delconfirm": "Następujące elementy zostaną usunięte. Czy wszystko się zgadza? [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "Nie znaleziono elementów do usunięcia."
 }
