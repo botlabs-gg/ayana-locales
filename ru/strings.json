@@ -172,5 +172,12 @@
     "f.paidfor": "**{{username}}** почтил память **{{type}}**.",
     "f.paidfooter": "{{today}} Сегодня, {{all}} Всего",
     "f.paidstats": "**{{today}}** почтено сегодня. **{{all}}** за всё время.",
-    "words.providers": "Поддерживаемые сервисы"
+    "words.providers": "Поддерживаемые сервисы",
+    "settings.automod.channel": "Канал лога автомодерации.",
+    "settings.automod.log": "Включить/Выключить логи автомодерации.",
+    "settings.automod.links": "Включить/Выключить фильтр ссылок.",
+    "settings.automod.linksbl": "Чёрный список ссылок.",
+    "settings.list.help": "Использование: `settings {{group}} {{setting}} [add|del] [item]`",
+    "settings.list.delconfirm": "Следующие предметы будут удалены. Вы уверены в этом? [y/n]:\n```\n{{items}}```",
+    "settings.list.delnomatch": "Ничего не обнаружено для удаления."
 }
