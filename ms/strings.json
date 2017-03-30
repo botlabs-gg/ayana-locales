@@ -1,6 +1,6 @@
 {
     "general.guildOnly": "Hanya didapati di server talian. ",
-    "general.cooldown": "Woah! Sudah terlalu hangat! Arahan ini akan tidak aktif sementara.",
+    "general.cooldown": "Woah! Sudah terlalu hangat! Arahan ini akan tidak aktif untuk sementara.",
     "finder.failUser": "Maaf, tidak dapat mencari ahli tersebut.",
     "finder.failRole": "Maaf, tidak dapat mencari pangkat tersebut.",
     "finder.failChannel": "Maaf, tidak dapat mencari channel talian tersebut.",
@@ -30,6 +30,14 @@
     "perms.failedUpdate": "Telah gagal untuk muat naik nod keizinan. Tolong hubungkan support kalau kesilapan masih berterusan.",
     "perms.noRole": "Pangkat tidak dinyatakan.",
     "perms.roleUserConflict": "Pangkat dan ahli tidak boleh dinyatakan bersama-sama.",
-    "perms.invalidOpt": "",
-    "prefix.text": "Prefix server talian ini adalah `{{prefix}}`."
+    "perms.invalidOpt": "Cuma `--channel [channel], --user [user], --role [role]` adalah memilih sah,  tiada hujah di channel dan akhirnya pengumuman andaikan nilai sekarang.",
+    "prefix.text": "Prefix server talian ini adalah `{{prefix}}`.",
+    "prune.missingPerms": "Maaf, saya tidak dapat keizinan 'Manage Message'.",
+    "prune.fetchFail": "Gagal untuk mengirim mesej.",
+    "prune.filterHelp": "Filter memerlukan input untuk mencari.",
+    "prune.userIDConf": "Nampaknya `{{input}}` adalah id ahli. Teruskan [y/n]?",
+    "remind.error": "Saya harus ada sesuatu untuk ingatkan kamu.",
+    "remind.invalidTime": "Masa tidak sah.Tolong menentukan masa yang lebih dari 30 saat.",
+    "remind.confirm": "Baiklah, ingatan baru untuk `{{time}}` [y/n]?",
+    "remind.okay": "Ya, saya pasti akan mengingatkan anda!"
 }
