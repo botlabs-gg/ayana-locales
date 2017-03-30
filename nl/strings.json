@@ -172,5 +172,12 @@
     "f.paid": "**{{username}}** heeft z'n condoleances gegeven.",
     "f.paidfor": "**{{username}}** heeft z'n condoleances gegeven voor **{{type}}**.",
     "f.paidfooter": "{{today}} Vandaag, {{all}} Alle",
-    "f.paidstats": "**{{today}}** condoleances zijn vandaag gegeven. **{{all}}** over de hele tijd."
+    "f.paidstats": "**{{today}}** condoleances zijn vandaag gegeven. **{{all}}** over de hele tijd.",
+    "settings.automod.channel": "Automod logt kanaal.",
+    "settings.automod.log": "Activeer/Deactiveer Automod logboek.",
+    "settings.automod.links": "Activeer/Deactiveer Link filter.",
+    "settings.automod.linksbl": "Links zwarte lijst.",
+    "settings.list.help": "Gebruik: `instellingen {{group}} {{setting}} [toevoegen|verwijderen] [item]`",
+    "settings.list.delconfirm": "De volgende items worden verwijderd. Is dit correct? [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "Geen items gevonden om te verwijderen."
 }
