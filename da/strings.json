@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Kun tilgængelig i Servere. ",
+    "general.guildOnly": "Kun tilgængelig i servere. ",
     "general.error": "Der opstod en fejl. Venligst rapporterer dette i vores support server (`support` for at få en invitation)\n```{{error}}```",
     "general.cooldown": "Wow! Lidt for hurtigt, denne kommando er på nedkøling.",
     "finder.failUser": "Kunne ikke finde en tilsvarende bruger.",
