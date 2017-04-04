@@ -102,7 +102,7 @@
     "support.text": "Mira Ayana nyerou, nyeehh~ mreow nyerou meow mew. {{support}}",
     "kick.failed": "Mow! Ra marara rowr meow meow. Nyehmruu muramura?",
     "linkcheck.headerRedirects": "[Mureow]",
-    "ping.pong": "Mrraa! {{msg}}",
+    "ping.pong": "Mrraa! {{ms}}",
     "settings.failedUpdate": "Mow! Ra nyeehh~ mreow morraru mre.",
     "settings.invalidInput": "Mow! Morraru mre mur~ nyah `{{type}}`! Mreowu `{{input}}`.",
     "settings.set": "Mrraa! **{{setting}}** nyeehh~ mreow `{{value}}`.",
