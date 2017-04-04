@@ -1,7 +1,7 @@
 {
     "general.guildOnly": "Meow meowow meow mew. ",
     "general.error": "Meow meow meoeoew! Nyah, meow mreow meow mew (`support` murr mreow meow).\n```{{error}}```",
-    "general.cooldown": "Mrraa! Mreow myaou mew. Murr mreow nya mreow.",
+    "general.cooldown": "Mow! Mreow myaou mew. Murr mreow nya mreow.",
     "finder.failUser": "Meow meow nyehmruu.",
     "finder.failRole": "Meowow meow nyehmruu.",
     "finder.failChannel": "Meowo nya nyehmruu.",
@@ -88,7 +88,7 @@
     "words.providers": "~Mureow",
     "help.ban": "Mreowu: `ban <meow meow> [--reason <nyehroa>] [--days <~mhroho~ri>] [--soft] [--hackban]`",
     "help.kick": "Mreowu: `kick <meow meow> [--reason <nyehroa>]`",
-    "help.roleinfo": "Mreowu: `roleinfo <meowow meow>`",
+    "help.roleinfo": "Mreowu: roleinfo <meowow meow>",
     "help.locale": "Mreowu: `roleinfo <meowow meow>`",
     "ban.missingUser": "Mow! Nyehmruu mreowu 'meow meow'.",
     "ban.softHackban": "Mow! Ra mreow mro mrow~raur ro mraw~raur mruuoa.",
