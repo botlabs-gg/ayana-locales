@@ -172,5 +172,12 @@
     "settings.variable.discriminator": "Käyttäjän #-numero.",
     "f.paidfor": "**{{username}}** on maksanut respectinsä kohteeseen **{{type}}**.",
     "f.paidfooter": "{{today}} Tänään, {{all}} Kaikenkaikkiaan",
-    "f.paidstats": "**{{today}}** tänään maksetut respektit. **{{all}}** yhteensä maksetut."
+    "f.paidstats": "**{{today}}** tänään maksetut respektit. **{{all}}** yhteensä maksetut.",
+    "settings.automod.channel": "Automode luo lokin kanavalle.",
+    "settings.automod.log": "Aktivoi/Pois aktivoi Autonmode lokit.",
+    "settings.automod.links": "Aktivoi/Pois aktivoi Linkki suodatin.",
+    "settings.automod.linksbl": "Linkkien mustalista.",
+    "settings.list.help": "Käyttö: `settings {{ryhmä}} {{asetus}} [add|del] [item]`",
+    "settings.list.delconfirm": "Seuraavat kohteet poistetaan. Jatketaanko [y/n]:\n```{{items}}```",
+    "settings.list.delnomatch": "Kohteita ei löytyny poistettavaksi."
 }
