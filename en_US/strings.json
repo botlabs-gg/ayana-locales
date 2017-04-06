@@ -166,6 +166,7 @@
     "music2.autoLeave": ":no_entry_sign: Left channel due to inactivity. If you enjoyed using Ayana please consider helping us keep the lights on <https://ayana.io/donate>!",
     "music2.fullHelp": "```css\n[Music v3 Temp Help]\n\nmusic sq | showqueue - shows queue\n   music sq --purge - clears queue\n   music sq --delete <ItemNumber> - Deletes item from queue\n\nmusic q | queue [song name (yt) | url] - queues song or playlist\n   music q [song name (yt) | url] --next - queues song or playlist to the next position(s)\n\nmusic qp | queueplay [song name (yt) | url] - Queue song and play from start of queue. (Emulates musicv2 music q)\n\nmusic p | play - Starts playing queued song(s)\nmusic s | skip - skips current song\nmusic shuffle - shuffles queue randomly \nmusic r | repeat <all|one|off> - Turns on|off repeat\n\nmusic pv | providers - Show list of available music providers.\n\nmusic j | join - join your current voice channel *note you must be in the voice channel* \nmusic l | leave - leaves the voice channel\n\n<> = required information, []= optional information, | = or, do not include <> [] or | in you command input\nPlease join the support server for any questions. (=support for link)```",
     "music2.tooLong": "Due to changes in musicv3, There is a **temporary** block on songs longer than 3 hours.",
+    "music2.showQueueMore": "and {{size}} more",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
