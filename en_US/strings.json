@@ -86,6 +86,8 @@
     "words.description": "Description",
     "words.variables": "Variables",
     "words.providers": "Providers",
+    "words.container": "Container",
+    "words.gatewayVersion": "Ayana Gateway",
     "help.ban": "Usage: `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]`",
     "help.kick": "Usage: `kick <user> [--reason <reason>]`",
     "help.roleinfo": "Usage: `roleinfo <role>`",
