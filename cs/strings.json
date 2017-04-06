@@ -150,7 +150,7 @@
     "music2.autoPaused": ":pause_button: Pozastaveno, kvůli chybějícím posluchačům.",
     "music2.autoResumed": ":arrow_forward: Přehrávání pokračuje.",
     "music2.autoLeave": ":no_entry_sign: Odpojeno z kanálů kvůli neaktivitě. Pokud jste si užili Ayanu, prosím rozhodněte se nás podpořit na <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Dočasná pomoc pro Hudbu v3]\n\nmusic sq | showqueue - ukáže frontu\n      music sq --purge - vyčistí frontu\n      music sq --delete <číslo písně> - odstraní píseň z fronty\n\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\n\nmusic qp [název písně | URL] - zařadí píseň do fronty a začne ji přehrávat. Simuluje příkaz music q z Hudby v2.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne opakování.\nmusic j | join - připojí se k vám do hlasového kanálu.\nmusic pv | providers - zobrazí seznam poskytovatelů\n\n*Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsímposkytovatelů.našeho serveru pro podporu (=support pro pozvánku)```",
+    "music2.fullHelp": "```css\n[Pomoc pro Hudbu]\n\nmusic q | queue - ukáže frontu\nmusic q | queue [název písně | URL] - zařadí píseň/seznam videí do fronty.\n        music q [název písně | URL] --next - zařadí píseň/seznam videí hned na další pozici.\n\nmusic qp | queueplay [název písně | URL] - zařadí píseň do fronty a začne ji přehrávat.\nmusic sq | showqueue - ukáže frontu\n        music sq  --delete <číslo ve frontě> - smaže píseň z fronty.\n\nmusic pg | purge - vyčistí frontu.\nmusic p | play - začne přehrávat frontu.\nmusic s | skip - přeskočí přehrávanou píseň.\nmusic sf | shuffle - náhodně přehází frontu.\nmusic r | repeat <all (všechno ve frontě) |one (aktuálně přehrávaná píseň) | off (vypnout)> - Zapne/vypne opakování.\n\nmusic pv | providers - zobrazí seznam poskytovatelů\n\nmusic j | join - připojí se k vám do hlasového kanálu. *Poznámka: Musíte být v hlasovém kanálu.*\nmusic l | leave - odejde z hlasového kanálu.\n<> = požadovaná informace, []= volitelná informace, | = nebo, () = překlad, nepište <> [] () nebo | ve vašem příkazu.\nProsímposkytovatelů.našeho serveru pro podporu (=support pro pozvánku)```",
     "music2.tooLong": "Kvůli změnám v Hudbě v3, **dočasně** blokujeme písně delší než 3 hodiny.",
     "modlog.requireReason": "Log moderátorských akcí byl zapnut. `--reason` musí být zahrnut v příkazu.",
     "words.variables": "Proměnné",
@@ -179,5 +179,6 @@
     "settings.list.delconfirm": "Tyto položky budou smazány. Jste si jisti [y/n]:\n```{{items}}```",
     "settings.list.delnomatch": "Nenašly se žádné položky na smazání.",
     "settings.automod.log": "Zapnout/vypnout záznam aktivit Automoderátora.",
-    "settings.automod.channel": "Kanál pro záznam aktivit Automoderátora."
+    "settings.automod.channel": "Kanál pro záznam aktivit Automoderátora.",
+    "music2.showQueueMore": "a {{size}} více"
 }
