@@ -71,8 +71,8 @@
     "words.no": "Nej",
     "words.position": "Position",
     "words.color": "Farve",
-    "words.hoist": "Hejse",
-    "words.managed": "Lykkedes",
+    "words.hoist": "Hoist",
+    "words.managed": "Managed",
     "words.mentionable": "Nævnbar",
     "words.permissions": "Tilladelser",
     "words.users": "Brugere",
@@ -180,5 +180,7 @@
     "f.paidfor": "**{{username}}** har vist deres respekt til **{{type}}**.",
     "f.paidfooter": "{{today}} I dag, {{all}} I alt",
     "f.paidstats": "**{{today}}** respekt er blevet vist i dag. **{{all}}** I alt over tid.",
-    "music2.showQueueMore": "og {{size}} mere"
+    "music2.showQueueMore": "og {{size}} mere",
+    "words.container": "Beholder",
+    "words.gatewayVersion": "Ayana Gateway"
 }
