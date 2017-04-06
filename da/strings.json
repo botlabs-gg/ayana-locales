@@ -164,7 +164,7 @@
     "music2.autoPaused": ":pause_button: Satte afspilningen på pause på grund af manglende lyttere.",
     "music2.autoResumed": ":arrow_forward: Genoptog afspilningen.",
     "music2.autoLeave": ":no_entry_sign: Forlod kanalen på grund af inaktivitet. Hvis du nød at bruge Ayana, så vær venlig at hjælpe os med at holde lysene tændt <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Music v3 midlertidig hjælp]\n\nmusic sq | showqueue - viser køen\n   music sq --purge - rydder køen\n   music sq --delete <ItemNumber> - fjerner ting fra køen\n\nmusic q | queue [sang navn (yt) | url] - sætter en sang eller en spilleliste i kø\n   music q [sang navn (yt) | url] --next - sætter en sang eller en spilleliste i kø til den næste position\n\nmusic p | play - starter med at spille sange i køen\nmusic s | skip - springer over den nuværende sang\nmusic shuffle - blander køen tilfældigt\nmusic r | repeat <all|one|off> - Slår gentagning til|fra\n\nmusic pv | providers - Viser en liste over tilgængelige musik udbydere.\n\nmusic j | join - tilslut din nuværende stemmekanal *du skal være i en stemmekanal*\nmusic l | leave - forlader stemmekanalen\n\n\n<> = krævet information, []= valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nVenligst tilslut support serveren hvis du har nogle spørgsmål. (=support for at få et link)```",
+    "music2.fullHelp": "```css\n[Musik hjælp]\n\nmusic sq | showqueue - viser køen\nmusic q | queue [sang navn (yt) | url] - sætter en sang eller en spilleliste i kø\n   music q [sang navn (yt) | url] --next - sætter en sang eller en spilleliste i kø til den næste position\n\nmusic qp | queueplay  [sang navn (yt) | url] - sæt sang i kø og spil fra starten af køen.\n\nmusic sq | showqueue - viser køen\n   music sq --delete <ItemNumber> - fjerner ting fra køen\n\nmusic pg | purge - rydder køen\n\nmusic p | play - starter med at spille sange i køen\nmusic s | skip - springer over den nuværende sang\nmusic sf | blander køen tilfældigt\nmusic r | repeat <all|one|off> - Slå gentagelse til|fra\n\nmusic pv | providers - Viser en liste over tilgængelige musik udbydere.\n\nmusic j | join - tilslut din nuværende stemmekanal *du skal være i en stemmekanal*\nmusic l | leave - forlader stemmekanalen\n\n\n<> = krævet information, []= valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nVenligst tilslut support serveren hvis du har nogle spørgsmål. (=support for at få et link)```",
     "music2.tooLong": "På grund af ændringer i musicv3 er der en **midlertidig** begrænsing på sang længder, der er 3 timer.",
     "shardinfo.fail": "Mislykkedes i at indhente shard-information fra Gateway.",
     "shardinfo.currentShard": "Denne shard",
@@ -179,5 +179,6 @@
     "f.paid": "**{{username}}** har vist deres respekt.",
     "f.paidfor": "**{{username}}** har vist deres respekt til **{{type}}**.",
     "f.paidfooter": "{{today}} I dag, {{all}} I alt",
-    "f.paidstats": "**{{today}}** respekt er blevet vist i dag. **{{all}}** I alt over tid."
+    "f.paidstats": "**{{today}}** respekt er blevet vist i dag. **{{all}}** I alt over tid.",
+    "music2.showQueueMore": "og {{size}} mere"
 }
