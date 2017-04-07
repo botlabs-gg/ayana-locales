@@ -180,5 +180,6 @@
     "settings.list.help": "Использование: `settings {{group}} {{setting}} [add|del] [item]`",
     "settings.list.delconfirm": "Следующие предметы будут удалены. Вы уверены в этом? [y/n]:\n```\n{{items}}```",
     "settings.list.delnomatch": "Ничего не обнаружено для удаления.",
-    "music2.showQueueMore": "и ещё {{size}}"
+    "music2.showQueueMore": "и ещё {{size}}",
+    "words.container": "Контейнер"
 }
