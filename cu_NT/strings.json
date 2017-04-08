@@ -167,7 +167,7 @@
     "settings.variable.discriminator": "Dickhead Discriminator.",
     "settings.variable.userid": "Dickhead UserID.",
     "shardinfo.fail": "I couldn't get the shard info from Gateway blame Randon.",
-    "shardinfo.currentShard": "You are here ->",
+    "shardinfo.currentShard": "You are here",
     "setgame.fail": "Failed to set game. {{error}}",
     "setgame.streambool": "Dumb shit, stream URL is a must.",
     "setgame.done": "Game status set!",
