@@ -131,7 +131,7 @@
     "music2.autoPaused": ":pause_button: Soitto pysäytettiin kuuntelijoiden puutten vuoksi.",
     "music2.autoResumed": ":arrow_forward: Toistoa jatketaan.",
     "music2.autoLeave": ":no_entry_sign: Lähdin pois pitkän ajan käyttämättömyyden johdosta. Jos nautit Ayanan kätöstä; tue toimintaa tästä: <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Music v3 Temp Apu]\n\nMusiikki-komennot.\n\nmusic j | join - Liittyy kanavallesi *Sinun pitää olla yhdistyneenä VOIP-kanavalle* \n\nmusic pv | providers - Lista lähteistä joista voit musiikkia toistaa.\n\nmusic q | queue [song name (yt) | url] - Lisää kohteen tai soittolistan jonoon\n   music q [song name (yt) | url] --next - Lisää kohteen tai soittolistan jonoon sijalle 2.\n\nmusic p | play - Aloittaa toistamaan jonoa \n\nmusic s | skip - Ohittaa tämänhetkisen kohteen.\n\nmusic sq | showqueue - Näytä jono\n   music sq --purge - Tyhjennä jono\n   music sq --delete <ItemNumber> - Poista kohde jonosta\n\nmusic l | leave - Lähtee kanavalta.\n\nmusic shuffle - Sekoittaa jonossa olevat kohteet satunnaiseen järjestykseen. \nmusic r | repeat <all|one|off> - Laittaa jonon automaattisen toiston päälle|yhden kappaleen toisto|pois\n\n<> = vaadittu, []= valinnainen, | = tai. Jätäthän pois: <> [] or | kirjoitettavasta komennosta.\nLiitythän tukipalvelimelle kysymyksiä varten.. (Linkki =support)```",
+    "music2.fullHelp": "```css\n[Musiikki komennot]\n\nmusic q | queu - Näyttää jonon\nmusic q | queue [song name (yt) | url] - Lisää kohteen tai soittolistan jonoon\n   music q [song name (yt) | url] --next - Lisää kohteen tai soittolistan jonoon sijalle 2.\nmusic qp | queueplay [song name (yt) | url] - Lisää kohteen ja aloittaa toiston jonon alusta.\nmusic sq | showqueue - Näytä jono\n   music sq --delete <ItemNumber> - Poista kohde jonosta\n\nmusic pg | purge - Tyhjennä jono\n\nmusic p | play - Aloittaa toistamaan jonoa\nmusic s | skip - Ohittaa tämänhetkisen kohteen.\nmusic sf | shuffle - Sekoittaa jonon kohteet \nmusic r | repeat <all|one|off> - Automaattinen uudelleentoisto: Koko jono | Yksi kappale | Ei toistoa\n\nmusic pv | providers - Näytä musiikkilähteiden(esim. YouTube) lista.\n\nmusic j | join - Liittyy kanavallesi *Sinun pitää olla yhdistyneenä VOIP-kanavalle*  \nmusic l | leave - Lähtee kanavalta.\n\n<> = vaadittu, []= valinnainen, | = tai. Jätäthän pois: <> [] or | kirjoitettavasta komennosta.\nLiitythän tukipalvelimelle kysymyksiä varten.. (Linkki =support)```",
     "music2.tooLong": "Muutoksista johtuen, **väliaikaisesti** ei voi laittaa 3h pidempiä kohteita.",
     "words.type": "Kirjoita",
     "words.value": "Arvo",
@@ -179,5 +179,8 @@
     "settings.automod.linksbl": "Linkkien mustalista.",
     "settings.list.help": "Käyttö: `settings {{ryhmä}} {{asetus}} [add|del] [item]`",
     "settings.list.delconfirm": "Seuraavat kohteet poistetaan. Jatketaanko [y/n]:\n```{{items}}```",
-    "settings.list.delnomatch": "Kohteita ei löytyny poistettavaksi."
+    "settings.list.delnomatch": "Kohteita ei löytyny poistettavaksi.",
+    "words.container": "Sisältö",
+    "words.gatewayVersion": "Ayana Nettiportti",
+    "music2.showQueueMore": "ja {{size}} muuta"
 }
