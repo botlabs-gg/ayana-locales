@@ -182,5 +182,7 @@
     "f.paidstats": "**{{today}}** respects have been paid today. **{{all}}** all time.",
     "words.container": "Container",
     "words.gatewayVersion": "Ayana Gateway Bitch",
-    "music2.showQueueMore": "and {{size}} more"
+    "music2.showQueueMore": "and {{size}} more",
+    "music2.playfailed": ":no_entry_sign: Something fucked itself again, `{{title}}` is shit anyways.",
+    "reminder.parseFailed": "You fucked up I cant find a time to remind you lazy fuck, get a damn alarm clock or something.\nFuck off..."
 }
