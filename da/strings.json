@@ -182,5 +182,7 @@
     "f.paidstats": "**{{today}}** respekt er blevet vist i dag. **{{all}}** I alt over tid.",
     "music2.showQueueMore": "og {{size}} mere",
     "words.container": "Beholder",
-    "words.gatewayVersion": "Ayana Gateway"
+    "words.gatewayVersion": "Ayana Gateway",
+    "music2.playfailed": ":no_entry_sign: En fejl forhindrede sangen `{{title}}` i at blive afspillet. Springer over...",
+    "reminder.parseFailed": "Mislykkedes i at finde et tidspunkt at påminde dig på."
 }
