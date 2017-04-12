@@ -131,7 +131,7 @@
     "music2.autoPaused": ":pause_button: Pauset spillelisten på grunn av mangel på lyttere.",
     "music2.autoResumed": ":arrow_forward: Fortsetter spillelisten.",
     "music2.autoLeave": ":no_entry_sign: Gikk ut av kanelen på grunn av inaktivitet. Om du likte a bruke Ayana, vær så snill og hjelp oss å holde lysene tent på <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Musikk v3 midlertidig hjelp]\n\nmusic sq | showqueue - viser køen\n   music sq --purge - renser køen\n   music sq --delete <ItemNumber> - Sletter ting fra køen\n\nmusic q | queue [song name (yt) | url] - setter inn sang eller spilleliste\n   music q [song name (yt) | url] --next - setter inn sang eller spilleliste til den neste posisjon\n\nmusic p | play - Starter å spille sanger i køen\nmusic s | skip - Hopper over nåværende sang\nmusic shuffle - Blander køen tilfeldig\nmusic r | repeat <all|one|off> - Slår av|på repitisjon\n\nmusic pv | providers - Viser en liste med tilgjengelige tilbydere.\n\nmusic j | join - kommer til din nåværende stemme kanal *husk, du må være inne i en stemme kanal* \nmusic l | leave - går ut av stemme kanalen\n\n<> = krever information, []= valgfri information, | = eller, ikke inkluder <> [] eller | i kommandoen\nVennligst kom til vår supportserver for andre spørsmål. (=support for linken)```",
+    "music2.fullHelp": "```css\n[Musikkhjelp]\n\nmusic q | showqueue - viser køen\nmusic q | queue [song name (yt) | url] - setter inn sang eller spilleliste i køen\n   music q [song name (yt) | url] --next - setter inn sang eller spilleliste til den neste posisjon i køen\n\nmusic qp | queueplay [song name (yt) | url] - sett in sang i køen, og start fra begynnelsen.\n\nmusic sq | showqueue - viser køen\n   music sq --delete <ItemNumber> - Sletter ting fra køen\n\nmusic pg | purge - renser køen\n\nmusic p | play - Starter å spille sanger i køen\nmusic s | skip - Hopper over nåværende sang\nmusic sf |shuffle - Blander køen tilfeldig\nmusic r | repeat <all|one|off> - Slår av|på repitisjon\n\nmusic pv | providers - Viser en liste med tilgjengelige tilbydere.\n\nmusic j | join - kommer til din nåværende stemme kanal *husk, du må være inne i en stemme kanal* \nmusic l | leave - går ut av stemme kanalen\n\n<> = krever information, []= valgfri information, | = eller, ikke inkluder <> [] eller | i kommandoen\nVennligst kom til vår supportserver for andre spørsmål. (=support for linken)```",
     "music2.tooLong": "På grunn av forandringer i musikkv3, vil det være en **midlertidig** blokkering på sanger over 3 timer.",
     "words.type": "Skriv",
     "words.value": "Verdi",
@@ -179,5 +179,10 @@
     "settings.list.help": "Bruk: `settings {{group}} {{setting}} [add|del] [item]`",
     "settings.list.delconfirm": "De følgende gjenstandene vil bli fjernet. Er dette okey [y/n]:\n```{{items}}```",
     "settings.list.delnomatch": "Fant ingen gjenstander å fjerne.",
-    "settings.automod.channel": "Automoderasjonsloggskanal."
+    "settings.automod.channel": "Automoderasjonsloggskanal.",
+    "music2.showQueueMore": "og {{size}} flere",
+    "music2.playfailed": ":no_entry_sign: En feil forhindret sangen `{{title}}` fra å bli avspilt. Hopper over...",
+    "reminder.parseFailed": "Mislyktes i å finne et tidspunkt å påminne deg om.",
+    "words.container": "Beholder",
+    "words.gatewayVersion": "Ayana Gateway"
 }
