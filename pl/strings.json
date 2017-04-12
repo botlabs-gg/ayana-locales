@@ -183,6 +183,6 @@
     "words.container": "Kontener",
     "words.gatewayVersion": "Brama sieciowa Ayany",
     "music2.showQueueMore": "oraz {{size}} więcej",
-    "music2.playfailed": ":no_entry_sign: Wystąpił błąd blokujący odtwarzanie `{{title}}`. Pomijam...",
+    "music2.playfailed": ":no_entry_sign: Wystąpił błąd niepozwalający odtworzyć `{{title}}`. Pomijam...",
     "reminder.parseFailed": "Nie znaleziono czasu po jakim miałam Tobie to przypomnieć."
 }
