@@ -180,5 +180,9 @@
     "settings.list.delnomatch": "Nenašly se žádné položky na smazání.",
     "settings.automod.log": "Zapnout/vypnout záznam aktivit Automoderátora.",
     "settings.automod.channel": "Kanál pro záznam aktivit Automoderátora.",
-    "music2.showQueueMore": "a {{size}} více"
+    "music2.showQueueMore": "a {{size}} více",
+    "words.container": "Kontejner",
+    "words.gatewayVersion": "Brána Ayany",
+    "music2.playfailed": ":no_entry_sign: Chyba přerušila píseň `{{title}}`. Přeskakuji...",
+    "reminder.parseFailed": "Nemohu najít čas pro připomínku."
 }
