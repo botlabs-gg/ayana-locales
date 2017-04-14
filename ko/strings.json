@@ -182,5 +182,7 @@
     "settings.list.delnomatch": "제거할 항목을 찾지 못했어요.",
     "words.container": "컨테이너",
     "words.gatewayVersion": "아야나 게이트웨이",
-    "music2.showQueueMore": "그리고 {{size}}개가 더 있어요."
+    "music2.showQueueMore": "그리고 {{size}}개가 더 있어요.",
+    "music2.playfailed": ":no_entry_sign: `{{title}}`곡에서 오류가 발생했어요. 스킵하는 중이에요...",
+    "reminder.parseFailed": "알려달라고 하셨던 시간을 찾을 수 없어요."
 }
