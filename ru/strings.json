@@ -181,5 +181,8 @@
     "settings.list.delconfirm": "Следующие предметы будут удалены. Вы уверены в этом? [y/n]:\n```\n{{items}}```",
     "settings.list.delnomatch": "Ничего не обнаружено для удаления.",
     "music2.showQueueMore": "и ещё {{size}}",
-    "words.container": "Контейнер"
+    "words.container": "Контейнер",
+    "words.gatewayVersion": "Сетевой шлюз Ayana'ы",
+    "music2.playfailed": ":no_entry_sign: Произошла ошибка при воспроизведении `{{title}}`. Пропускаю...",
+    "reminder.parseFailed": "Не могу понять, через сколько я должна напомнить."
 }

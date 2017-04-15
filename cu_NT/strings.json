@@ -9,7 +9,7 @@
     "finder.headerRole": "[Cartel Finder]",
     "finder.headerUser": "[Dickhead Finder]",
     "finder.headerGuild": "[Pub Finder]",
-    "finder.headerChannel": "[Channel Finder]",
+    "finder.headerChannel": "[Strip Club Finder]",
     "finder.headerUserGuild": "[Pubgoer Finder]",
     "invite.text": "Moderate your own server you fucking dickhead.\n\nModeration (recommended): {{invite}}\nMinimal (not recommended): {{invitemin}}",
     "locale.userUpdate": "Your fucking locale has been set to `{{locale}}`.",
@@ -151,7 +151,7 @@
     "settings.farewell.dm": "DO YOU FUCKING WANT A DM INSTEAD OF CHANNEL?",
     "settings.modlog.channel": "Channel to send the cunt logs to.",
     "words.value": "Cunts",
-    "words.default": "Bland default",
+    "words.default": "Normal Cunts",
     "words.variables": "Variables",
     "words.providers": "Providers",
     "settings.prefix.guild": "Shitfix for here.",
@@ -167,7 +167,7 @@
     "settings.variable.discriminator": "Dickhead Discriminator.",
     "settings.variable.userid": "Dickhead UserID.",
     "shardinfo.fail": "I couldn't get the shard info from Gateway blame Randon.",
-    "shardinfo.currentShard": "You are here ->",
+    "shardinfo.currentShard": "You are here",
     "setgame.fail": "Failed to set game. {{error}}",
     "setgame.streambool": "Dumb shit, stream URL is a must.",
     "setgame.done": "Game status set!",
@@ -182,5 +182,7 @@
     "f.paidstats": "**{{today}}** respects have been paid today. **{{all}}** all time.",
     "words.container": "Container",
     "words.gatewayVersion": "Ayana Gateway Bitch",
-    "music2.showQueueMore": "and {{size}} more"
+    "music2.showQueueMore": "and {{size}} more",
+    "music2.playfailed": ":no_entry_sign: Something fucked itself again, `{{title}}` is shit anyways.",
+    "reminder.parseFailed": "You fucked up I cant find a time to remind you lazy fuck, get a damn alarm clock or something.\nFuck off..."
 }
