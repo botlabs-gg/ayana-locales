@@ -150,7 +150,7 @@
     "music2.autoPaused": ":pause_button: Zatrzymano z powodu braku słuchaczy.",
     "music2.autoResumed": ":arrow_forward: Wznowiono odtwarzanie.",
     "music2.autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Jeżeli lubisz korzystać z Ayany, proszę rozważ możliwość wsparcia w celu utrzymania nas przy życiu <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Pomoc Muzyka]\n\nmusic q | queue - wyświetla kolejkę\nmusic  q | queue [Tytuł (yt) | url] - dodaje piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaje piosenkę lub playlistę na początek kolejki\n\nmusic qp | queueplay [Tytuł (yt) | url] - dodaje piosenkę do kolejki i zaczyna jej odtwarzanie.\n\nmusic sq | showqueue - wyświetla kolejkę\n   music sq --delete <numerPiosenki> - usuwa piosenkę z kolejki\n\nmusic pg | purge - czyści kolejkę\n\nmusic p | play - zaczyna odtwarzanie\nmusic s | skip - pomija obecną piosenkę\nmusic sf | shuffle - miesza kolejkę\nmusic r | repeat <all|one|off> - włącza tryb powtarzania\n\nmusic pv | providers - wyświetla dostępnych dostawców.\n\nmusic j | join - dołącza do Twojego kanału głosowego\nmusic l | leave - opuszcza obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
+    "music2.fullHelp": "```css\n[Pomoc Muzyka]\n\nmusic q | queue - wyświetla kolejkę\nmusic  q | queue [Tytuł (yt) | url] - dodaje piosenkę lub playlistę\n   music q [Tytuł (yt) | url] --next - dodaje piosenkę lub playlistę na początek kolejki\n\nmusic qp | queueplay [Tytuł (yt) | url] - dodaje piosenkę do kolejki i zaczyna jej odtwarzanie.\n\nmusic sq | showqueue - wyświetla kolejkę\nmusic pg | purge - czyści kolejkę\nmusic d | del | delete <numerPiosenki|wyszukaj> - usuwa piosenkę o podanym numerze lub piosenki, których nazwy pokrywają się z wyszukanym terminem\n\nmusic p | play - zaczyna odtwarzanie\nmusic s | skip - pomija obecną piosenkę\nmusic sf | shuffle - miesza kolejkę\nmusic r | repeat <all|one|off> - włącza tryb powtarzania\n\nmusic pv | providers - wyświetla dostępnych dostawców.\n\nmusic j | join - dołącza do Twojego kanału głosowego *musisz być w kanale głosowym*\nmusic l | leave - opuszcza obecny kanał głosowy\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
     "music2.tooLong": "W związku ze zmianami z muzyką v3, piosenki dłuższe niż 3h **tymczasowo** zostały wyłączone.",
     "modlog.requireReason": "Aktywny modlog. Należy dodać powód używając `--reason`.",
     "words.variables": "Zmienne",
@@ -184,5 +184,12 @@
     "words.gatewayVersion": "Brama sieciowa Ayany",
     "music2.showQueueMore": "oraz {{size}} więcej",
     "music2.playfailed": ":no_entry_sign: Wystąpił błąd niepozwalający odtworzyć `{{title}}`. Pomijam...",
-    "reminder.parseFailed": "Nie znaleziono czasu po jakim miałam Tobie to przypomnieć."
+    "reminder.parseFailed": "Nie znaleziono czasu po jakim miałam Tobie to przypomnieć.",
+    "music2.delete.fuzzyNoMatches": "Żaden tytuł nie pasuje do podanego terminu.",
+    "music2.delete.fuzzyExcessMatches": "Znaleziono zbyt wiele wyników. Proszę doprecyzować lub usunąć w inny sposób.",
+    "music2.delete.confirm": "Następujące wyniki zostaną usunięte. Czy się zgadza? [y/n]:\n```{{items}}```",
+    "music2.delete.items": "Usunięto `{{items}}` elementów z kolejki.",
+    "music2.delete.queueEmpty": "Pusta kolejka, nic do usunięcia.",
+    "music2.delete.invalidIndex": "Określiłeś niewłaściwy indeks. Proszę, spróbuj ponownie.",
+    "reminder.invalidDuration": "Proszę, określ czas dłuższy niż 2 minuty."
 }
