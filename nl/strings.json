@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Alleen te gebruiken in servers. ",
+    "general.guildOnly": "Alleen beschikbaar in servers. ",
     "general.error": "Er is iets misgegaan. Meld dit alstublieft in onze support server (`support` commando om uitnodiging te krijgen).\n```{{error}}```",
     "general.cooldown": "Woah! Je wilt te snel. Deze opdracht is op het moment nog aan het afkoelen.",
     "finder.failUser": "Genoemde gebruiker niet gevonden.",
