@@ -191,5 +191,13 @@
     "music2.delete.items": "Fjernede `{{items}}` genstande fra køen.",
     "music2.delete.queueEmpty": "Køen er tom, intet at fjerne.",
     "music2.delete.invalidIndex": "Du specificerede et forkert indeks. Vær venlig at prøve igen.",
-    "reminder.invalidDuration": "Vær venlig at specificere en tid, der er højere end 2 minutter."
+    "reminder.invalidDuration": "Vær venlig at specificere en tid, der er højere end 2 minutter.",
+    "reminder.gatewayFailure": "Mislykkedes i at kontakte Gateway. Prøv venligst igen senere.",
+    "reminder.list.none": "Du har ikke nogle påmindelser lige nu.",
+    "reminder.list.invalidPage": "Ugyldig side.",
+    "reminder.delete.confirm": "De følgende genstande vil blive fjernet. Er dette i orden [y/n]:\n```{{items}}```",
+    "reminder.created": "Okay, jeg skal nok påminde dig!",
+    "reminder.delete.nomatches": "Ingen påmindelser matchede med din søgning.",
+    "reminder.delete.done": "Påmindelse(r) fjernet.",
+    "reminder.fullhelp": "```\nreminder add <påmindelse> - tilføj en ny påmindelse\nreminder del <søgning> - fjern påmindelser ved søgning\nreminder list - vis en liste over påmindelser\n\nEksempler\nreminder add tjek ovnen in 1 hour\nreminder add vask tøjet in 20 min```"
 }
