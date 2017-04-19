@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Alleen gebruikbaar in servers. ",
+    "general.guildOnly": "Alleen beschikbaar in servers. ",
     "general.error": "Er is iets misgegaan. Meld dit alstublieft in onze support server (`support` commando om uitnodiging te krijgen).\n```{{error}}```",
     "general.cooldown": "Woah! Je wilt te snel. Deze opdracht is op het moment nog aan het afkoelen.",
     "finder.failUser": "Genoemde gebruiker niet gevonden.",
@@ -131,7 +131,7 @@
     "music2.autoPaused": ":pause_button: Onderbroken door gebrek aan luisteraars.",
     "music2.autoResumed": ":play_pause: Doorgaan met afspelen.",
     "music2.autoLeave": ":no_entry_sign: Kanaal verlaten door inactiviteit. Als je Ayana met plezier hebt gebruikt, laat dan een donatie achter op <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Music v3 Tijdelijke Help]\n\nmusic sq | showqueue - laat muziek lijst zien\n   music sq --purge - maakt muziek lijst leeg\n   music sq --delete <ItemNumber> - Verwijder item van de lijst\n\nmusic q | queue [naam van song (yt) | url] - zet een nummer of afspeellijst in de wachtrij\n   music q [naam van song (yt) | url] --next - zet een nummer of afspeellijst in de volgende positie\n\nmusic p | play - Start de muziek lijst af te spelen\nmusic s | skip - sla het huidige nummer over\nmusic shuffle - schud de muziek lijst in andere volgorde\nmusic r | repeat <all|one|off> - Zet de herhaling aan|uit\n\nmusic j | join - Verbind met het huidige spraakkanaal *Je moet in een spraakkanaal hiervoor zijn*\nmusic l | leave - Verlaat de praakkanaal\n\n<> = Benodigd informatie, []= Mogelijke informatie, | = of, Voeg dit niet toe <> [] of | in je command\nVoeg je toe aan de support server voor alle vragen. (=support voor de link)```",
+    "music2.fullHelp": "```css\n[Music v3 Tijdelijke Help]\n\nmusic sq | showqueue - laat muziek lijst zien\n   music sq --purge - maakt muziek lijst leeg\n   music sq --delete <ItemNumber> - Verwijder item van de lijst\n\nmusic q | queue [naam van song (yt) | url] - zet een nummer of afspeellijst in de wachtrij\n   music q [naam van song (yt) | url] --next - zet een nummer of afspeellijst in de volgende positie\n\nmusic p | play - Start de muziek lijst af te spelen\nmusic s | skip - sla het huidige nummer over\nmusic shuffle - schud de muziek lijst in andere volgorde\nmusic r | repeat <all|one|off> - Zet de herhaling aan|uit\n\nmusic j | join - Verbind met het huidige spraakkanaal *Je moet in een spraakkanaal hiervoor zijn*\nmusic l | leave - Verlaat het praatkanaal\n\n<> = Benodigd informatie, []= Mogelijke informatie, | = of, Voeg dit niet toe <> [] of | in je command\nVoeg je toe aan de support server voor alle vragen. (=support voor de link)```",
     "music2.tooLong": "Door veranderingen in musicv3 is er nu een **tijdelijke** blokkering van nummers langer dan 3 uur.",
     "words.type": "Type",
     "words.value": "Waarde",
@@ -184,5 +184,12 @@
     "words.gatewayVersion": "Ayana Doorgang",
     "music2.showQueueMore": "en {{grootte} meer",
     "music2.playfailed": ":no_entry_sign: Een error heeft er voor gezorgd dat `{{title}}` niet kon afspelen. Volgende.",
-    "reminder.parseFailed": "Gefaald om een tijd te vinden om je er aan te herinneren."
+    "reminder.parseFailed": "Gefaald om een tijd te vinden om je er aan te herinneren.",
+    "music2.delete.fuzzyNoMatches": "Geen items gevonden die voldoen aan je zoekopdracht.",
+    "music2.delete.fuzzyExcessMatches": "Je zoekopdracht heeft te veel items gevonden. Delete er een paar of wees meer specifiek.",
+    "music2.delete.confirm": "De volgende items worden verwijderd. Is dit oke [y/n]:\n```{{items}}```",
+    "music2.delete.items": "Heeft `{{items}}` gedeletet van de playlist.",
+    "music2.delete.queueEmpty": "Playlist leeg. Niks wat gedeletet kan worden.",
+    "music2.delete.invalidIndex": "Je hebt een niet bestaande index gespecificeerd. Probeer het alsjeblieft opnieuw.",
+    "reminder.invalidDuration": "Specificeer alsjeblieft een tijd langer dan 2 minuten."
 }

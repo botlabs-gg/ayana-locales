@@ -164,7 +164,7 @@
     "music2.autoPaused": ":pause_button: Satte afspilningen på pause på grund af manglende lyttere.",
     "music2.autoResumed": ":arrow_forward: Genoptog afspilningen.",
     "music2.autoLeave": ":no_entry_sign: Forlod kanalen på grund af inaktivitet. Hvis du nød at bruge Ayana, så vær venlig at hjælpe os med at holde lysene tændt <https://ayana.io/donate>!",
-    "music2.fullHelp": "```css\n[Musik hjælp]\n\nmusic sq | showqueue - viser køen\nmusic q | queue [sang navn (yt) | url] - sætter en sang eller en spilleliste i kø\n   music q [sang navn (yt) | url] --next - sætter en sang eller en spilleliste i kø til den næste position\n\nmusic qp | queueplay  [sang navn (yt) | url] - sæt sang i kø og spil fra starten af køen.\n\nmusic sq | showqueue - viser køen\n   music sq --delete <ItemNumber> - fjerner ting fra køen\n\nmusic pg | purge - rydder køen\n\nmusic p | play - starter med at spille sange i køen\nmusic s | skip - springer over den nuværende sang\nmusic sf | blander køen tilfældigt\nmusic r | repeat <all|one|off> - Slå gentagelse til|fra\n\nmusic pv | providers - Viser en liste over tilgængelige musik udbydere.\n\nmusic j | join - tilslut din nuværende stemmekanal *du skal være i en stemmekanal*\nmusic l | leave - forlader stemmekanalen\n\n\n<> = krævet information, []= valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nVenligst tilslut support serveren hvis du har nogle spørgsmål. (=support for at få et link)```",
+    "music2.fullHelp": "```css\n[Musik hjælp]\n\nmusic q | queue - viser køen\nmusic q | queue [sang navn (yt) | url] - sætter en sang eller en spilleliste i kø\n   music q [sang navn (yt) | url] --next - sætter en sang eller en spilleliste i kø til den næste position\n\nmusic qp | queueplay  [sang navn (yt) | url] - sæt sang i kø og spil fra starten af køen.\n\nmusic sq | showqueue - viser køen\nmusic pg | purge - rydder køen\nmusic d | delete <ItemNumber> - fjerner ting fra køen\n\nmusic p | play - starter med at spille sange i køen\nmusic s | skip - springer over den nuværende sang\nmusic sf | blander køen tilfældigt\nmusic r | repeat <all|one|off> - Slå gentagelse til|fra\n\nmusic pv | providers - Viser en liste over tilgængelige musik udbydere.\n\nmusic j | join - tilslut din nuværende stemmekanal *du skal være i en stemmekanal*\nmusic l | leave - forlader stemmekanalen\n\n\n<> = krævet information, []= valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nVenligst tilslut support serveren hvis du har nogle spørgsmål. (=support for at få et link)```",
     "music2.tooLong": "På grund af ændringer i musicv3 er der en **midlertidig** begrænsing på sang længder, der er 3 timer.",
     "shardinfo.fail": "Mislykkedes i at indhente shard-information fra Gateway.",
     "shardinfo.currentShard": "Denne shard",
@@ -184,5 +184,12 @@
     "words.container": "Beholder",
     "words.gatewayVersion": "Ayana Gateway",
     "music2.playfailed": ":no_entry_sign: En fejl forhindrede sangen `{{title}}` i at blive afspillet. Springer over...",
-    "reminder.parseFailed": "Mislykkedes i at finde et tidspunkt at påminde dig på."
+    "reminder.parseFailed": "Mislykkedes i at finde et tidspunkt at påminde dig på.",
+    "music2.delete.fuzzyNoMatches": "Ingen genstande i køen matchede med din søgning.",
+    "music2.delete.fuzzyExcessMatches": "Din søgning matchede med for mange genstande. Vær venlig enten at slette enkeltvis eller indskrænke søgningen.",
+    "music2.delete.confirm": "De følgende genstande vil blive fjernet. Er dette i orden [y/n]:\n```{{items}}```",
+    "music2.delete.items": "Fjernede `{{items}}` genstande fra køen.",
+    "music2.delete.queueEmpty": "Køen er tom, intet at fjerne.",
+    "music2.delete.invalidIndex": "Du specificerede et forkert indeks. Vær venlig at prøve igen.",
+    "reminder.invalidDuration": "Vær venlig at specificere en tid, der er højere end 2 minutter."
 }

@@ -89,7 +89,7 @@
     "help.ban": "Mreowu: `ban <meow meow> [--reason <nyehroa>] [--days <~mhroho~ri>] [--soft] [--hackban]`",
     "help.kick": "Mreowu: `kick <meow meow> [--reason <nyehroa>]`",
     "help.roleinfo": "Mreowu: roleinfo <meowow meow>",
-    "help.locale": "Mreowu: `roleinfo <meowow meow>`",
+    "help.locale": "Mreowu: locale [set <mreoww mra> [--meow mew]]",
     "ban.missingUser": "Mow! Nyehmruu mreowu 'meow meow'.",
     "ban.softHackban": "Mow! Ra mreow mro mrow~raur ro mraw~raur mruuoa.",
     "ban.invalidDays": "Mow! Mreowu mureow~ mreh, mreowu ra murrr~ mroho-ri.",
