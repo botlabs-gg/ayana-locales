@@ -170,7 +170,7 @@
     "music2.tooLong": "Due to changes in musicv3, There is a **temporary** block on songs longer than 3 hours.",
     "music2.showQueueMore": "and {{size}} more",
     "music2.playfailed": ":no_entry_sign: A error prevented song `{{title}}` from playing. Skipping...",
-    "music2.delete.fuzzyNoMatches": "No items in the queue matched you query.",
+    "music2.delete.fuzzyNoMatches": "No items in the queue matched your query.",
     "music2.delete.fuzzyExcessMatches": "Your query matched too many items. Please either force deletion or be more specific.",
     "music2.delete.confirm": "The following items will be removed. Is this okay [y/n]:\n```{{items}}```",
     "music2.delete.items": "Deleted `{{items}}` items from the queue.",
@@ -191,5 +191,12 @@
     "f.paidfooter": "{{today}} Today, {{all}} All",
     "f.paidstats": "**{{today}}** respects have been paid today. **{{all}}** all time.",
     "reminder.parseFailed": "Failed to find a time to remind you.",
-    "reminder.invalidDuration": "Please specify a time great than 2 minutes."
+    "reminder.invalidDuration": "Please specify a time great than 2 minutes.",
+    "reminder.gatewayFailure": "Failed to contact Gateway. Please try again later.",
+    "reminder.list.none": "You don't have any reminders right now.",
+    "reminder.list.invalidPage": "Invalid Page.",
+    "reminder.delete.confirm": "The following items will be removed. Is this okay [y/n]:\n```{{items}}```",
+    "reminder.created": "Okay I will be sure to remind you!",
+    "reminder.delete.nomatches": "No items in your reminders matched your query.",
+    "reminder.delete.done": "Reminder(s) deleted."
 }
