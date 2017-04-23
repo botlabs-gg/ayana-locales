@@ -199,5 +199,12 @@
     "reminder.created": "꼭 알려드릴게요!",
     "reminder.delete.nomatches": "검색하신 내용에 맞는 알림을 찾지 못했어요...",
     "reminder.delete.done": "알림이 삭제되었어요.",
-    "reminder.fullhelp": "```\nreminder add <reminder string> - 새 알림 추가\nreminder del <search> - 검색어를 입력하여 검색한 뒤 해당 알림을 삭제\nreminder list - 모든 알림 목록 보기\n\n예시:\n reminder add 한 시간 뒤 게임 약속\n reminder add 20분 뒤 외출```"
+    "reminder.fullhelp": "```\nreminder add <reminder string> - 새 알림 추가\nreminder del <search> - 검색어를 입력하여 검색한 뒤 해당 알림을 삭제\nreminder list - 모든 알림 목록 보기\n\n예시:\n reminder add 한 시간 뒤 게임 약속\n reminder add 20분 뒤 외출```",
+    "general.gatewayFailure": "게이트웨이에 연결하는데 실패했어요. 다시 시도해주세요.",
+    "general.pagination": "페이지 {{page}}/{{pages}}",
+    "general.pagination.invalidPage": "잘못된 페이지에요.",
+    "words.donators": "기부자",
+    "music2.queue.maxsize": "대기열 최대 항목 갯수인 1000개에 도달했어요.",
+    "music2.provider.unknown": "알수 없는 제공자에요. `music pv`를 입력하셔서 제공자 목록에서 올바른 제공자를 통해 실행해주세요.",
+    "donators.none": "기부자를 찾을 수 없어요."
 }
