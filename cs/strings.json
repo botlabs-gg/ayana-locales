@@ -185,11 +185,19 @@
     "words.gatewayVersion": "Brána Ayany",
     "music2.playfailed": ":no_entry_sign: Chyba přerušila píseň `{{title}}`. Přeskakuji...",
     "reminder.parseFailed": "Nemohu najít čas pro připomínku.",
-    "music2.delete.fuzzyNoMatches": "Žádná píseň ve frontě neodpovídá vášemu dotazu.",
+    "music2.delete.fuzzyNoMatches": "Žádná píseň ve frontě neodpovídá vašemu dotazu.",
     "music2.delete.fuzzyExcessMatches": "Na váš dotaz se našlo příliš moc písní. Prosím, buďto vynuťte smazání nebo buďte specifičtí.",
     "music2.delete.confirm": "Tyto písně budou vymazány z fronty. Souhlasíte? [y/n]:\n```{{items}}```",
     "music2.delete.items": "Smazáno `{{items}}` písní z fronty.",
     "music2.delete.queueEmpty": "Fronta je prázdná, nic na vymazání.",
     "music2.delete.invalidIndex": "Specifikovali jste špatné číslo. Zkuste to znovu.",
-    "reminder.invalidDuration": "Prosím, specifikuje čas větší než 2 minuty."
+    "reminder.invalidDuration": "Prosím, specifikuje čas větší než 2 minuty.",
+    "reminder.gatewayFailure": "Nemohu se připojit k Bráně. Zkuste to znovu a později.",
+    "reminder.list.none": "Nemáte žádné připomínky.",
+    "reminder.list.invalidPage": "Neznámá strana.",
+    "reminder.delete.confirm": "Tyto připomínky budou smazány. Je to v pořádku [y/n]:\n```{{items}}```",
+    "reminder.created": "Dobře, připomenu vám to!",
+    "reminder.delete.nomatches": "Žádné připomínky nebyly nalezeny.",
+    "reminder.delete.done": "Připomínky smazány.",
+    "reminder.fullhelp": "```\nreminder add <text připomínky> - přidejte připomínku\nreminder del <dotaz> - smaže připomínky podle dotazu.\nreminder list - ukáže seznam připomínek\n\nPříklady:\nreminder add zkontrolovat troubu in 1 hour\nreminder add zapnout zprávy in 20 min\n\n!!! Čas musí být uveden anglicky, tak jako na příkladech !!!```"
 }

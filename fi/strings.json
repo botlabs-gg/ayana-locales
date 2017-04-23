@@ -191,5 +191,13 @@
     "music2.delete.queueEmpty": "Ei poistettavaa - jono on tyhjä.",
     "music2.delete.invalidIndex": "Annoit epäkelvon osoittajan. Yritä uudelleen kiitos.",
     "reminder.parseFailed": "Aikaa, jolloin muistuttaa sinua, ei löytynyt.",
-    "reminder.invalidDuration": "Ajan pitää olla pidempi kuin 2 min, kiitos."
+    "reminder.invalidDuration": "Ajan pitää olla pidempi kuin 2 min, kiitos.",
+    "reminder.gatewayFailure": "Yhteyden ottaminen epäonnistui. Yritä myöhemmin uudelleen.",
+    "reminder.list.none": "Sinulla ei ole muistutuksia tällä hetkellä.",
+    "reminder.list.invalidPage": "Epäkelpo sivu.",
+    "reminder.delete.confirm": "Seuraavat kohteet poistetaan. OK? [y/n]:\n```{{items}}```",
+    "reminder.created": "OK, muistutan sinua!",
+    "reminder.delete.nomatches": "Ei muistutuksia löytynyt suorituksellasi.",
+    "reminder.delete.done": "Muistutus/kset poistettiin.",
+    "reminder.fullhelp": "```\nreminder add <reminder string> - aseta uusi muistutus\nreminder del <search> - poista muistutus haun kautta\nreminder list - listaa muistutukset\n\nEsim.\n reminder add Pelaa peliä kaverin kanssa tunnin päästä\n reminder add Kuvaa video 20minuutin päästä```"
 }

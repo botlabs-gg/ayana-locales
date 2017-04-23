@@ -187,9 +187,17 @@
     "reminder.parseFailed": "Не могу понять, через сколько я должна напомнить.",
     "music2.delete.fuzzyNoMatches": "Песен в очереди по вашему запросу не обнаружено.",
     "music2.delete.fuzzyExcessMatches": "Вашему запросу соответствует несколько песен. Удалите их принудительно, или укажите более точный запрос.",
-    "music2.delete.confirm": "Следующие песни будут удалены. Вы согласны [y/n]:\n```{{items}}``",
+    "music2.delete.confirm": "Следующие песни будут удалены. Вы уверены в этом? [y/n]:\n```{{items}}``",
     "music2.delete.items": "Удалено `{{items}}` песен из очереди.",
     "music2.delete.queueEmpty": "Очередь пуста. Нет ничего, что можно было бы убрать из очереди.",
     "music2.delete.invalidIndex": "Вы указали неверный индекс. Попробуйте снова.",
-    "reminder.invalidDuration": "Укажите время, больше чем 2 минуты."
+    "reminder.invalidDuration": "Укажите время, больше чем 2 минуты.",
+    "reminder.gatewayFailure": "Произошла ошибка при подключении к сетевому шлюзу. Пожалуйста, попробуйте позже.",
+    "reminder.list.none": "У вас нет никаких напоминаний на данный момент.",
+    "reminder.list.invalidPage": "Неверная страница.",
+    "reminder.delete.confirm": "Следующие предметы будут удалены. Вы уверены в этом? [y/n]:\n```{{items}}```",
+    "reminder.created": "Окей, я напомню Вам об этом!",
+    "reminder.delete.nomatches": "Совпадений в ваших напоминаниях по данному запросу не найдено.",
+    "reminder.delete.done": "Напоминания удалены.",
+    "reminder.fullhelp": "```\nreminder add <напоминание> - добавить новое напоминание\nreminder del <поиск> - удалить напоминания через поиск\nreminder list - показать список всех напоминания\n\nExamples:\n reminder add проверить печку in 1 hour\n reminder add заняться стиркой in 20 min```"
 }

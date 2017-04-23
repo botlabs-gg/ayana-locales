@@ -191,5 +191,12 @@
     "music2.delete.items": "Heeft `{{items}}` gedeletet van de playlist.",
     "music2.delete.queueEmpty": "Playlist leeg. Niks wat gedeletet kan worden.",
     "music2.delete.invalidIndex": "Je hebt een niet bestaande index gespecificeerd. Probeer het alsjeblieft opnieuw.",
-    "reminder.invalidDuration": "Specificeer alsjeblieft een tijd langer dan 2 minuten."
+    "reminder.invalidDuration": "Specificeer alsjeblieft een tijd langer dan 2 minuten.",
+    "reminder.gatewayFailure": "Gefaald om met de Gateway te verbinden. Probeer het later opnieuw.",
+    "reminder.list.none": "Je hebt nu geen herinneringen meer.",
+    "reminder.list.invalidPage": "Foutieve pagina.",
+    "reminder.delete.confirm": "De volgende spullen worden verwijderd. Is dit oke? [y/n]:\n```{{items}}```",
+    "reminder.created": "Oke, Ik zal je er aan herinneren!",
+    "reminder.delete.nomatches": "Geen items in je herinneringen voldoen aan je zoekopdracht.",
+    "reminder.delete.done": "Herrinnering(en) gedelete."
 }
