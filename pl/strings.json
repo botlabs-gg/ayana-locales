@@ -199,5 +199,12 @@
     "reminder.created": "Okej, na pewno Ci o tym przypomnę!",
     "reminder.delete.nomatches": "Żadne przypomnienia nie pasują do Twojego zapytania.",
     "reminder.delete.done": "Przypomnienia usunięte.",
-    "reminder.fullhelp": "```\nreminder add <coś do przypomnienia> - dodaje nowe przypomnienie\nreminder del <szukaj> - usuwa przypomnienia przez wyszukiwanie\nreminder list - wyświetla Twoją listę przypomnień\n\nPrzykłady:\n reminder add sprawdź piekarnik in 1 hour\n reminder add zrobić pranie in 20 min```"
+    "reminder.fullhelp": "```\nreminder add <coś do przypomnienia> - dodaje nowe przypomnienie\nreminder del <szukaj> - usuwa przypomnienia przez wyszukiwanie\nreminder list - wyświetla Twoją listę przypomnień\n\nPrzykłady:\n reminder add sprawdź piekarnik in 1 hour\n reminder add zrobić pranie in 20 min```",
+    "general.gatewayFailure": "Nie udało się skontaktować z bramą sieciową. Proszę spróbować później.",
+    "general.pagination": "Strona {{page}}/{{pages}}",
+    "general.pagination.invalidPage": "Nieprawidłowa strona.",
+    "words.donators": "Darczyńcy",
+    "music2.queue.maxsize": "Osiągnąłeś limit 1000 pozycji w kolejce.",
+    "music2.provider.unknown": "Nieznany dostawca. Proszę wpisz `music pv` aby wyświetlić listę obsługiwanych dostawców.",
+    "donators.none": "Nie udało się znaleźć żadnego darczyńcy."
 }
