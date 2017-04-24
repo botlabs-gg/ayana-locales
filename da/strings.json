@@ -199,5 +199,12 @@
     "reminder.created": "Okay, jeg skal nok påminde dig!",
     "reminder.delete.nomatches": "Ingen påmindelser matchede med din søgning.",
     "reminder.delete.done": "Påmindelse(r) fjernet.",
-    "reminder.fullhelp": "```\nreminder add <påmindelse> - tilføj en ny påmindelse\nreminder del <søgning> - fjern påmindelser ved søgning\nreminder list - vis en liste over påmindelser\n\nEksempler\nreminder add tjek ovnen in 1 hour\nreminder add vask tøjet in 20 min```"
+    "reminder.fullhelp": "```\nreminder add <påmindelse> - tilføj en ny påmindelse\nreminder del <søgning> - fjern påmindelser ved søgning\nreminder list - vis en liste over påmindelser\n\nEksempler\nreminder add tjek ovnen in 1 hour\nreminder add vask tøjet in 20 min```",
+    "general.gatewayFailure": "Mislykkedes i at kontakte Gateway. Prøv venligst igen senere.",
+    "general.pagination": "Side {{page}}/{{pages}}",
+    "general.pagination.invalidPage": "Ugyldig side.",
+    "words.donators": "Donerer",
+    "music2.queue.maxsize": "Du har nået den maksimale størrelse for en kø på 1000 sange.",
+    "music2.provider.unknown": "Ukendt udgiver. Vær venlig at bruge `music pv` for en liste af gyldige udgivere.",
+    "donators.none": "Kunne ikke finde nogle donorer."
 }
