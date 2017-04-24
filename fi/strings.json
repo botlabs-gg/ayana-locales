@@ -199,5 +199,12 @@
     "reminder.created": "OK, muistutan sinua!",
     "reminder.delete.nomatches": "Ei muistutuksia löytynyt suorituksellasi.",
     "reminder.delete.done": "Muistutus/kset poistettiin.",
-    "reminder.fullhelp": "```\nreminder add <reminder string> - aseta uusi muistutus\nreminder del <search> - poista muistutus haun kautta\nreminder list - listaa muistutukset\n\nEsim.\n reminder add Pelaa peliä kaverin kanssa tunnin päästä\n reminder add Kuvaa video 20minuutin päästä```"
+    "reminder.fullhelp": "```\nreminder add <reminder string> - aseta uusi muistutus\nreminder del <search> - poista muistutus haun kautta\nreminder list - listaa muistutukset\n\nEsim.\n reminder add Pelaa peliä kaverin kanssa tunnin päästä\n reminder add Kuvaa video 20minuutin päästä```",
+    "general.gatewayFailure": "Yhdistäminen epäonnistui. Yritä myöhemmiin uudelleen.",
+    "general.pagination": "Sivu {{page}}/{{pages}}",
+    "general.pagination.invalidPage": "Epäkelpo Sivu.",
+    "words.donators": "Lahjoittajat",
+    "music2.queue.maxsize": "Olet saavuttanut suurimman mahdollisen jonon pituuden; 1000 kohdetta.",
+    "music2.provider.unknown": "Epäkelpo lähde. Suorita `music pv`niin saat listan lähteistä.",
+    "donators.none": "Lahjoittajia ei löytynyt."
 }
