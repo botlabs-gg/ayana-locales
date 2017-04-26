@@ -133,7 +133,7 @@
     "music2.autoLeave": ":no_entry_sign: Gikk ut av kanelen på grunn av inaktivitet. Om du likte a bruke Ayana, vær så snill og hjelp oss å holde lysene tent på <https://ayana.io/donate>!",
     "music2.fullHelp": "```css\n[Musikkhjelp]\n\nmusic q | showqueue - viser køen\nmusic q | queue [song name (yt) | url] - setter inn sang eller spilleliste i køen\n   music q [song name (yt) | url] --next - setter inn sang eller spilleliste til den neste posisjon i køen\n\nmusic qp | queueplay [song name (yt) | url] - sett in sang i køen, og start fra begynnelsen.\n\nmusic sq | showqueue - viser køen\nmusic pg | purge - renser køen\nmusic d | delete <itemNumber|search> - Sletter en eller flere sanger fra køen\n\nmusic p | play - Starter å spille sanger i køen\nmusic s | skip - Hopper over nåværende sang\nmusic sf |shuffle - Blander køen tilfeldig\nmusic r | repeat <all|one|off> - Slår av|på repitisjon\n\nmusic pv | providers - Viser en liste med tilgjengelige tilbydere.\n\nmusic j | join - kommer til din nåværende stemme kanal *husk, du må være inne i en stemme kanal* \nmusic l | leave - går ut av stemme kanalen\n\n<> = krever information, []= valgfri information, | = eller, ikke inkluder <> [] eller | i kommandoen\nVennligst kom til vår supportserver for andre spørsmål. (=support for linken)```",
     "music2.tooLong": "På grunn av forandringer i musikkv3, vil det være en **midlertidig** blokkering på sanger over 3 timer.",
-    "words.type": "Skriv",
+    "words.type": "Type",
     "words.value": "Verdi",
     "words.default": "Standard",
     "words.description": "Beskrivelse",
