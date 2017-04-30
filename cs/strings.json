@@ -199,5 +199,12 @@
     "reminder.created": "Dobře, připomenu vám to!",
     "reminder.delete.nomatches": "Žádné připomínky nebyly nalezeny.",
     "reminder.delete.done": "Připomínky smazány.",
-    "reminder.fullhelp": "```\nreminder add <text připomínky> - přidejte připomínku\nreminder del <dotaz> - smaže připomínky podle dotazu.\nreminder list - ukáže seznam připomínek\n\nPříklady:\nreminder add zkontrolovat troubu in 1 hour\nreminder add zapnout zprávy in 20 min\n\n!!! Čas musí být uveden anglicky, tak jako na příkladech !!!```"
+    "reminder.fullhelp": "```\nreminder add <text připomínky> - přidejte připomínku\nreminder del <dotaz> - smaže připomínky podle dotazu.\nreminder list - ukáže seznam připomínek\n\nPříklady:\nreminder add zkontrolovat troubu in 1 hour\nreminder add zapnout zprávy in 20 min\n\n!!! Čas musí být uveden anglicky, tak jako na příkladech !!!```",
+    "general.gatewayFailure": "Nemohu se připojit k Bráně. Zkuste to prosím později.",
+    "general.pagination": "Strana {{page}} z {{pages}}",
+    "general.pagination.invalidPage": "Neznámá strana.",
+    "words.donators": "Přispěvatelé",
+    "music2.queue.maxsize": "Dosáhli jste maximální povolené velikosti fronty (1000 písní).",
+    "music2.provider.unknown": "Neznámý poskytovatel. Prosím použijte příkaz `music pv`, abyste zobrazili seznam správných poskytovatelů.",
+    "donators.none": "Nemohu najít žádné přispěvatele."
 }
