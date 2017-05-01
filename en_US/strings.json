@@ -17,6 +17,8 @@
     "invite.text": "Sure thing :ok_hand:\n\nTo have me join your server please choose one of the links:\n\nModeration (recommended): {{invite}}\nMinimal (not recommended): {{invitemin}}",
     "invite.patreon": "Patreon stuff here {{patreon}}",
     "invite.error": "​Sorry, but I don't have the invite link for `{{instance}}`",
+    "flipcoin.heads": "Heads!",
+    "flipcoin.tails": "Tails!",
     "locale.userUpdate": "Your Locale has been set to `{{locale}}`.",
     "locale.guildUpdate": "Guild Locale has been set to `{{locale}}`.",
     "locale.headerAvail": "[Available Locales]",
