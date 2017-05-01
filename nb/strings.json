@@ -83,7 +83,7 @@
     "help.ban": "Bruk: `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]`",
     "help.kick": "Bruk: `kick <user> [--reason <reason>]`",
     "help.roleinfo": "Bruk: `roleinfo <role>`",
-    "help.locale": "Bruk: locale [set <locale> [--guild]]",
+    "help.locale": "Bruk: `locale [set <locale> [--guild]]`",
     "ban.missingUser": "Mangler nødvendige parameterbrukere.",
     "ban.softHackban": "Kan ikke myk- og hackbanne samtidig.",
     "ban.invalidDays": "Dager spesifisert er ikke et gyldig heltall.",
