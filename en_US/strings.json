@@ -117,7 +117,7 @@
     "help.roleinfo": "Usage: `roleinfo <role>`",
     "help.rolemembers": "Usage: `rolemembers <role> [page]`",
     "rolemembers.headerPage": "Members of Role {{role}} page {{page}}/{{total}}",
-    "help.locale": "Usage: locale [set <locale> [--guild]]",
+    "help.locale": "Usage: `locale [set <locale> [--guild]]`",
     "ban.missingUser": "Missing required parameter user.",
     "ban.softHackban": "Cannot soft and hackban at the same time.",
     "ban.invalidDays": "Days opt specified, not a valid integer.",
