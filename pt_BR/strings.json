@@ -199,5 +199,7 @@
     "reminder.created": "Eu irei lembrar você!",
     "reminder.delete.nomatches": "Nenhum item em seus lembretes corresponde à sua pesquisa.",
     "reminder.delete.done": "Lembrete(s) deletados.",
-    "reminder.fullhelp": "```\nreminder add <reminder string> - adiciona um novo lembrete\nreminder del <search> - deleta os lembretes por pesquisa\nreminder list - mostra a lista dos seus lembretes\n\nExemplos:\n reminder add checar o miojo em 2 minutos\n reminder add ir para a lavanderia em 20 minutos```"
+    "reminder.fullhelp": "```\nreminder add <reminder string> - adiciona um novo lembrete\nreminder del <search> - deleta os lembretes por pesquisa\nreminder list - mostra a lista dos seus lembretes\n\nExemplos:\n reminder add checar o miojo em 2 minutos\n reminder add ir para a lavanderia em 20 minutos```",
+    "general.gatewayFailure": "Falha ao conectar ao Gateway. Por favor tente mais tarde.",
+    "general.pagination": "Página {{page}}/{{pages}}"
 }
