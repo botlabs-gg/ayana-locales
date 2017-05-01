@@ -1,7 +1,7 @@
 {
     "general.guildOnly": "Disponible uniquement dans le serveur.",
     "general.error": "Une erreur s'est produite. Veuillez la rapporter sur notre serveur de support. ( utilisez la commande `support` pour recevoir une invitation )\n```{{error}}```",
-    "general.cooldown": "Woah ! Je suis en surchauffe, là! Cette commande est en veille temporairement.",
+    "general.cooldown": "Woah! Je suis en surchauffe, là! Cette commande est en veille temporairement!",
     "finder.failUser": "Impossible de trouver l'utilisateur correspondant.",
     "finder.failRole": "Impossible de trouver le rôle correspondant.",
     "finder.failChannel": "Impossible de trouver le salon correspondant.",
