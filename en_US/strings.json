@@ -19,7 +19,6 @@
     "invite.error": "​Sorry, but I don't have the invite link for {{instance}}",
     "flipcoin.heads": "Heads!",
     "flipcoin.tails": "Tails!",
-    "gitpls": "Gitpls",
     "locale.userUpdate": "Your Locale has been set to `{{locale}}`.",
     "locale.guildUpdate": "Guild Locale has been set to `{{locale}}`.",
     "locale.headerAvail": "[Available Locales]",
