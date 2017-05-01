@@ -237,5 +237,7 @@
     "perms.fullHelp": "```css\nperms <allow|default|deny> węzełUprawnień [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = wymagane, [] = opcjonalne, | = lub, Proszę nie używać `<>[]|` w komendach```\nBardziej szczegółową instrukcję można znaleźć pod adresem <https://ayana.io/permissions>",
     "words.directlink": "Bezpośredni Link",
     "help.rolemembers": "Użycie: `rolemembers <rola> [strona]` lub `rolemembers <rola> [--page <strona>]`",
-    "rolemembers.headerPage": "Użytkownicy z rolą {{role}} strona {{page}}/{{total}}"
+    "rolemembers.headerPage": "Użytkownicy z rolą {{role}} strona {{page}}/{{total}}",
+    "invite.patreon": "Ayana Patreon jest specjalnym dodatkiem dla patronów Ayany!\nJeżeli chcesz dołożyć się do rachunków Ayany oraz uzyskać w zamian specjalne nagrody, proszę rozważ możliwości dotacji :heart:\n\n{{patreon}}",
+    "invite.error": "​Przepraszam, nie posiadam zaproszenia dla {{instance}}"
 }
