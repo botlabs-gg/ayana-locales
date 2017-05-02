@@ -206,5 +206,12 @@
     "words.donators": "기부자",
     "music2.queue.maxsize": "대기열 최대 항목 갯수인 1000개에 도달했어요.",
     "music2.provider.unknown": "알수 없는 제공자에요. `music pv`를 입력하셔서 제공자 목록에서 올바른 제공자를 통해 실행해주세요.",
-    "donators.none": "기부자를 찾을 수 없어요."
+    "donators.none": "기부자를 찾을 수 없어요.",
+    "invite.patreon": "아야나 Patreon을 후원해주시면 독점 특전을 얻으실 수 있어요!\n만약 저를 후원해주시고 멋진 특전을 얻고 싶으시다면 기부를 고려해보세요! :heart:\n\n{{patreon}}",
+    "invite.error": "죄송해요, {{instance}}에 대한 초대 링크는 없어요",
+    "perms.validOpts": "적절한 권한 수준을 지정해주세요. `--guild, --channel [채널], --role <역할>, --user [유저]` or `--channel [검색어] [--role <검색어>|--user [검색어]]`",
+    "perms.invalidNode": "잘못된 권한 노드에요. `perms nodes`를 실행해서 노드 리스트를 확인해주세요.",
+    "perms.roleRequired": "역할 옵션은 역할이 지정되어야 해요.",
+    "perms.showGuild": "길드에 대한 권한을 보여주기",
+    "perms.showChannel": "채널 `{{name}}` 의 권한을 보여주기"
 }
