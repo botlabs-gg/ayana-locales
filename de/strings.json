@@ -186,7 +186,7 @@
     "words.donators": "Spender",
     "words.directlink": "Direkter Link",
     "invite.patreon": "Ayana Patreon ist exklusiv für Unterstützer von Ayana!\nWenn du dabei helfen willst die Kosten von Ayana zu bezahlen und dabei ein paar Vorteile zu erhalten, denke darüber nach zu Spenden :heart:!\n\n{{patreon}}",
-    "invite.error": "Entschuldigung, ich habe leider keinen Einladungslink für {{instance}}",
+    "invite.error": "Entschuldigung, ich habe leider keinen Einladungslink für `{{instance}}`\nGültige Instanzen sind `producton, patreon, beta`",
     "perms.validOpts": "Bitte spezifiziere eine gültige Berechtigungsstufe `--guild, --channel [Kanal], --role <Rolle>, --user [Nutzer]` or `--channel [Suche] [--role <Suche>|--user [Suche]]`",
     "perms.invalidNode": "Ungültiger Berechtigungsknoten. Führe `perms nodes` aus um eine Liste aller gültigen Knoten einzusehen.",
     "perms.roleRequired": "Für das optionale Argument role muss eine Rolle spezifiziert werden.",
