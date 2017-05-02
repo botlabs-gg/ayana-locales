@@ -83,7 +83,7 @@
     "help.ban": "Do you not know how to fucking read the docs? Seriously, it takes like 5 minutes. Go fucking read it, cunt.\n\nUsage: `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]`",
     "help.kick": "Do you not know how to fucking read the docs? Seriously, it takes like 5 minutes. Go fucking read it, cunt.\n\nUsage: `kick <user> [--reason <reason>]`",
     "help.roleinfo": "Use it like this you fucking dickhead: `roleinfo <role>`",
-    "help.locale": "Did you even bother reading the fucking docs? Usage: locale [set <locale> [--guild]]",
+    "help.locale": "Did you even bother reading the fucking docs? Usage: `locale [set <locale> [--guild]]`",
     "ban.missingUser": "Put the fucking user parameter in you know-nothing cunt.",
     "ban.softHackban": "You can't softban and hackban at the same time, fucking idiot.",
     "ban.invalidDays": "You specified the `days` option but it's not an integer, did you drop out of school in grade 2 or some shit?",
