@@ -241,5 +241,11 @@
     "reminder.delete.nomatches": "Keine Einträge in deinen Erinnerungen passten zu deiner Suche.",
     "reminder.delete.done": "Erinnerung(en) entfernt.",
     "reminder.fullhelp": "```\nreminder add <Erinnerungs Zeichenkette> - Fügt eine neue Erinnerung hinzu\nreminder del <Suche> - Löscht Erinnerungen anhand der Suche\nreminder list - Zeigt eine Liste deiner Erinnerungen\n\nExamples:\n reminder Den Ofen ausschalten in 1 hour\n reminder Die Wäsche machen in 20 min```",
-    "donators.none": "Konnte keine Spender finden."
+    "donators.none": "Konnte keine Spender finden.",
+    "prune.invalidAmount": "Der eingegebene Betrag ist ungültig.",
+    "prune.userHelp": "Der Nutzer benötigt eine Eingabe nach der gesucht werden soll.",
+    "prune.tooManyOptions": "Du hast mindestens zwei der folgenden Optionen benutzt, welches ungültig ist `--all, --user, --bots,`",
+    "prune.deleteQuestion": "Alle Nachrichten, die mit deiner Anfrage übereinstimmen werden FÜR IMMER gelöscht. Möchtest du fortfahren? (y/n)",
+    "help.prune": "Nutzung: `prune <Anzahl> [--all|--user [Suche]|--bots] [--filter [Filter]|--embeds|--attachments|--pinned]`",
+    "settings.autodel.prune": "Lösche die gesamte generierte Ausgabe nach 10 Sekunden?"
 }
