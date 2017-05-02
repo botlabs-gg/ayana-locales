@@ -239,7 +239,7 @@
     "help.rolemembers": "Użycie: `rolemembers <rola> [strona]` lub `rolemembers <rola> [--page <strona>]`",
     "rolemembers.headerPage": "Użytkownicy z rolą {{role}} strona {{page}}/{{total}}",
     "invite.patreon": "Ayana Patreon jest specjalnym dodatkiem dla patronów Ayany!\nJeżeli chcesz dołożyć się do rachunków Ayany oraz uzyskać w zamian specjalne nagrody, proszę rozważ możliwości dotacji :heart:\n\n{{patreon}}",
-    "invite.error": "Przepraszam, nie posiadam zaproszenia dla {{instance}}",
+    "invite.error": "Przepraszam, nie posiadam zaproszenia dla `{{instance}}`\nPrawidłowe wersje to `production, patreon, beta`",
     "flipcoin.heads": "Orzeł!",
     "flipcoin.tails": "Reszka!",
     "prune.invalidAmount": "Niepoprawna ilość.",
