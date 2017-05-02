@@ -241,5 +241,11 @@
     "invite.patreon": "Ayana Patreon jest specjalnym dodatkiem dla patronów Ayany!\nJeżeli chcesz dołożyć się do rachunków Ayany oraz uzyskać w zamian specjalne nagrody, proszę rozważ możliwości dotacji :heart:\n\n{{patreon}}",
     "invite.error": "Przepraszam, nie posiadam zaproszenia dla {{instance}}",
     "flipcoin.heads": "Orzeł!",
-    "flipcoin.tails": "Reszka!"
+    "flipcoin.tails": "Reszka!",
+    "prune.invalidAmount": "Niepoprawna ilość.",
+    "prune.userHelp": "Użytkownik wymaga podania jego nazwy.",
+    "prune.tooManyOptions": "Użyłeś co najmniej dwóch opcji, które są niepoprawne `--all, --user, --bots`",
+    "prune.deleteQuestion": "Wszystkie pasujące wiadomości zostaną BEZPOWROTNIE usunięte. Czy chcesz kontynuować? (y/n)",
+    "help.prune": "Użycie: `prune <ilość> [--all|--user [szukaj]|--bots] [--filter [słowa]|--embeds|--attachments|--pinned]`",
+    "settings.autodel.prune": "Usunąć wygenerowane wyjście po 10 sekundach?"
 }
