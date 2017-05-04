@@ -239,5 +239,13 @@
     "help.rolemembers": "Brug: `rolemembers <rolle> [side]` or `rolemembers <rolle> [--page <side>]`",
     "rolemembers.headerPage": "Medlemmer i rollen {{role}} side {{page}}/{{total}}",
     "invite.patreon": "Ayana Patreon er en eksklusiv frynsegod tilgængelig for dem, der støtter Ayana på Patreon!\nHvis du ønsker at hjælpe til med at betale Ayanas regninger og få nogle fede frynsegoder med i købet, så overvej venligst at donere :heart:!\n\n{{patreon}}",
-    "invite.error": "Beklager, men jeg har ikke invitations linket for {{instance}}"
+    "invite.error": "Beklager, men jeg har ikke invitations linket for  `{{instance}}`\nGyldige links er `producton, patreon, beta`",
+    "flipcoin.heads": "Plat!",
+    "flipcoin.tails": "Krone!",
+    "prune.invalidAmount": "Antallet som du angav er ugyldigt.",
+    "prune.userHelp": "Bruger kræver noget at søge efter.",
+    "prune.tooManyOptions": "Du brugte minimum to af de følgende valgmuligheder, der er ugyldigt `--all, --user, --bots,`",
+    "prune.deleteQuestion": "Alle beskeder, der stemmer overens med din anmodning vil blive slettet FOREVIGT. Ønsker du at fortsætte? (y/n)",
+    "help.prune": "Brug: `prune <antal> [--all|--user [søg]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
+    "settings.autodel.prune": "Slet alt output genereret efter 10 sekunder?"
 }
