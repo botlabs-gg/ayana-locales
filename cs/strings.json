@@ -236,10 +236,16 @@
     "perms.defaultUser": "`{{node}}` pro uživatele `{{name}}` bylo změněno na výchozí nastavení",
     "words.directlink": "Přímý odkaz",
     "invite.patreon": "Ayana Patreon je exkluzivní možnost pro patrony Ayany!\nPokud chcete pomoct platit Ayanu a dostat nějaké bonusy, prosím uvažujte o podpoření :heart:!\n\n{{patreon}}",
-    "invite.error": "Omlouvám se, nemám odkaz pro pozvánku pro {{instance}}",
+    "invite.error": "Omlouvám se, nemám odkaz pro pozvánku pro `{{instance}}`.\nSprávné instance jsou `production, patreon, beta`",
     "flipcoin.heads": "Panna!",
     "flipcoin.tails": "Orel!",
     "perms.fullHelp": "```css\nperms <allow|default|deny> oprávnění [--guild]|[--user [dotaz]|[--role <dotaz>]|[--channel [dotaz] --role <role>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [search]|[--role <dotaz>]|[--channel [dotaz] --role <role>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = vyžadováno, [] = volitelné, | = nebo. Prosím nepoužívejte `<>[]|` ve vašich příkazech```\nVíce informací v angličtině na <https://ayana.io/permissions>",
     "help.rolemembers": "Užití: `rolemembers <role> [strana]` nebo `rolemembers <role> [--page <strana>]`",
-    "rolemembers.headerPage": "Uživatelé s rolí {{role}}, strana {{page}} z {{total}}"
+    "rolemembers.headerPage": "Uživatelé s rolí {{role}}, strana {{page}} z {{total}}",
+    "prune.invalidAmount": "Daná hodnota je nesprávná.",
+    "prune.userHelp": "Parametr Uživatel potřebuje uživatele kterého hledat.",
+    "prune.tooManyOptions": "Použili jste alespoň 2 následující možnosti, což je nesprávné: `--all, --user, --bots`",
+    "prune.deleteQuestion": "Všechny zprávy které odpovídají vašemu požadavku budou smazány NAVŽDY. Chcete pokračovat? (y/n)",
+    "help.prune": "Užití: `prune <hodnota> [-all|--user [dotaz]|--bots] [--filter [filtr]|--embeds|--attachments|--pinned]`",
+    "settings.autodel.prune": "Smazat všechen generovaný výstup po 10 sekundách?"
 }
