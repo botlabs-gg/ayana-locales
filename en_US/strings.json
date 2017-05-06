@@ -238,5 +238,7 @@
     "reminder.delete.nomatches": "No items in your reminders matched your query.",
     "reminder.delete.done": "Reminder(s) deleted.",
     "reminder.fullhelp": "```\nreminder add <reminder string> - add a new reminder\nreminder del <search> - delete reminders by search\nreminder list - show a list of your reminders\n\nExamples:\n reminder add check the oven in 1 hour\n reminder add do the laundry in 20 min```",
-    "donators.none": "Unable to find any donators."
+    "donators.none": "Unable to find any donators.",
+    "question.timeout": "Question timed out.",
+    "question.cancelled": "Question cancelled."
 }
