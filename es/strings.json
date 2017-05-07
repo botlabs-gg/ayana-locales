@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Disponible solo en Servidores.",
+    "general.guildOnly": "Disponible sólo en servidores. ",
     "general.error": "Un error ocurrió. Porfavor reporta ésto en nuestro servidor de soporte. (Usa el comando `support` para obtener una invitación. ```{{error}}```",
     "general.cooldown": "Bajale al chile güey, este comando está prohibido de usarse por un rato más.",
     "finder.failUser": "No encontré coincidencias para dicho usuario.",
