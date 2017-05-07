@@ -247,5 +247,7 @@
     "prune.tooManyOptions": "Du brugte minimum to af de følgende valgmuligheder, der er ugyldigt `--all, --user, --bots,`",
     "prune.deleteQuestion": "Alle beskeder, der stemmer overens med din anmodning vil blive slettet FOREVIGT. Ønsker du at fortsætte? (y/n)",
     "help.prune": "Brug: `prune <antal> [--all|--user [søg]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
-    "settings.autodel.prune": "Slet alt output genereret efter 10 sekunder?"
+    "settings.autodel.prune": "Slet alt output genereret efter 10 sekunder?",
+    "question.timeout": "Spørgsmål løb tør for tid.",
+    "question.cancelled": "Spørgsmål annulleret."
 }
