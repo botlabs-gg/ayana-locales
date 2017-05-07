@@ -198,5 +198,8 @@
     "reminder.delete.confirm": "De volgende spullen worden verwijderd. Is dit oke? [y/n]:\n```{{items}}```",
     "reminder.created": "Oke, Ik zal je er aan herinneren!",
     "reminder.delete.nomatches": "Geen items in je herinneringen voldoen aan je zoekopdracht.",
-    "reminder.delete.done": "Herrinnering(en) gedelete."
+    "reminder.delete.done": "Herrinnering(en) gedelete.",
+    "general.gatewayFailure": "Mislukt om te verbinden. Probeer het later opnieuw.",
+    "general.pagination": "Pagina {{page}}/{{pages}}",
+    "general.pagination.invalidPage": "Ongeldige pagina."
 }
