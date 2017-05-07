@@ -1,6 +1,7 @@
 {
     "general.guildOnly": "Only available in Servers. ",
     "general.error": "An error occurred. Please report this on our support guild (`support` command to get invite).\n```{{error}}```",
+    "general.forbidden": "I tried to send a reply to your command. However I lack permission to. Please have someone from staff give me the `Send Message` Discord permission.\n\nGuild: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`",
     "general.gatewayFailure": "Failed to contact Gateway. Please try again later.",
     "general.cooldown": "Woah! Way too spicy, This command is currently on cooldown.",
     "general.pagination": "Page {{page}}/{{pages}}",
@@ -120,6 +121,7 @@
     "words.gatewayVersion": "Ayana Gateway",
     "words.donators": "Donators",
     "words.directlink": "Direct Link",
+    "words.contributors": "Contributors",
     "help.ban": "Usage: `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]`",
     "help.kick": "Usage: `kick <user> [--reason <reason>]`",
     "help.roleinfo": "Usage: `roleinfo <role>`",
