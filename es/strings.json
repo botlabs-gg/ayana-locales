@@ -16,7 +16,7 @@
     "locale.guildUpdate": "La región del servidor ha sido configurada como `{{locale}}`.",
     "locale.headerAvail": "[Lugares disponibles]",
     "locale.fail": "No se pudo actualizar el lugar.",
-    "modlog.genFail": "Falla en el registro de moderación.",
+    "modlog.genFail": "Fallo en el registro de moderación.",
     "modlog.addFail": "No pude agregar el nuevo elemento al registro de moderación.",
     "modlog.created": "Elemento de registro de moderación creado.",
     "modlog.updated": "Elemento del registro de moderación actualizado.",
