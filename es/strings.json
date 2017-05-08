@@ -136,5 +136,6 @@
     "general.pagination": "Página {{page}}/{{pages}}",
     "general.pagination.invalidPage": "Página inválida.",
     "general.gatewayFailure": "Fallo en contactar con la puerta de acceso . Por favor inténtalo de nuevo.",
-    "general.forbidden": "Intenté enviar una respuesta a tu comando. De cualquier forma me faltan permisos. Por favor alguien del equipo me de el permiso de Discord `Send Message`.\n\nServidor: `{{guild}}`\nCanal: `{{channel}}\nComando: `{{cmd}}`"
+    "general.forbidden": "Intenté enviar una respuesta a tu comando. De cualquier forma me faltan permisos. Por favor alguien del equipo me de el permiso de Discord `Send Message`.\n\nServidor: `{{guild}}`\nCanal: `{{channel}}\nComando: `{{cmd}}`",
+    "invite.patreon": "¡Ayana Patreon es un beneficio exclusivo disponible para los clientes de Ayana! \nSi quieres ayudar a pagar las facturas de Ayana y obtener unos beneficios impresionantes en el proceso, entonces por favor considere donar :heart:"
 }
