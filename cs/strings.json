@@ -251,5 +251,15 @@
     "general.forbidden": "Zkusila jsem odpovědět na váš příkaz. Ale chybí mi na to oprávnění. Prosím, řekněte moderátorům, aby mi dali oprávnění posílat zprávy na Discordu.\n\nServer: `{{guild}}`\nKanál: `{{channel}}`\nPříkaz: `{{cmd}}`",
     "words.contributors": "Přispěvatelé kódu",
     "question.timeout": "Čas na odpovězení otázky vypršel.",
-    "question.cancelled": "Otázka je zrušena."
+    "question.cancelled": "Otázka je zrušena.",
+    "prune.results": "Výsledky mazání",
+    "prune.totalMsgsDeleted": "Celkem smazáno",
+    "prune.oldMsgsDelted": "Staré zprávy byly smazány",
+    "prune.oldMsgsNotDeleted": "Staré zprávy nebyly smazány",
+    "prune.deletedByUser": "Zpráv smazáno podle uživatele",
+    "prune.alreadyPruning": "Někdo začal mazání zpráv v tomto kanále, prosím počkejte než se mazání dokončí.",
+    "words.arguments": "Argumenty",
+    "words.delete": "Smazat",
+    "words.uptime": "Čas od spustění Ayany",
+    "help.pruneFull": "```css\n[Pomoc s mazáním]\n\nprune <hodnota> - Smaže zprávy\n\nMožnosti:\n    [--bots] - Smaže zprávy od botů\n    [--user <dotaz>] - Smaže zprávy od daného uživatele\n\n    [--filter <filtr>] - Smaže jen zprávy které obsahují daný dotaz\n\n    [--attachments | -a] - Smaže jen zprávy se soubory (dá se kombinovat s --embeds)\n    [--embeds | -e] - Smaže jen zprávy s odkazy (dá se kombinovat s --attachments)\n    [--pinned | -p] - Smaže i připnuté zprávy (ve výchozím nastavení nejsou mazány)\n\nFlags:\n    [-f] - Vynutit. Předchází dotazu jestli chcete opravdu smazat zprávy\n    [-s] - Ticho. Neposílá výsledky mazání na konci.\n\nPříklady:\n    prune 10\n    prune 10 -aes\n    prune 10 -f --filter ahoj\n\n<> = vyžadováno, [] = volitelné, | = nebo. Prosím vynechte <>, [] nebo | z vašeho příkazu.\nPro dotazy, prosím jděte na náš server podpory. (=support pro odkaz)```"
 }
