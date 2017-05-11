@@ -244,12 +244,21 @@
     "flipcoin.tails": "Krone!",
     "prune.invalidAmount": "Antallet som du angav er ugyldigt.",
     "prune.userHelp": "Bruger kræver noget at søge efter.",
-    "prune.tooManyOptions": "Du brugte minimum to af de følgende valgmuligheder, der er ugyldigt `--all, --user, --bots,`",
+    "prune.tooManyOptions": "Du brugte minimum to af de følgende valgmuligheder, der er ugyldigt `--all, --user, --bots`",
     "prune.deleteQuestion": "Alle beskeder, der stemmer overens med din anmodning vil blive slettet FOREVIGT. Ønsker du at fortsætte? (y/n)",
     "help.prune": "Brug: `prune <antal> [--all|--user [søg]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
     "settings.autodel.prune": "Slet alt output genereret efter 10 sekunder?",
     "question.timeout": "Spørgsmål løb tør for tid.",
     "question.cancelled": "Spørgsmål annulleret.",
     "general.forbidden": "Jeg prøvede at svare på din kommando, men jeg har ikke tilladelse til det. Vær venlig at få bede en fra personalet om at give mig Discord tilladelsen `Send Beskeder`.\n\nServer: `{{guild}}`\nKanal: `{{channel}}`\nKommando: `{{cmd}}`",
-    "words.contributors": "Bidragydere"
+    "words.contributors": "Bidragydere",
+    "prune.results": "Fjern resultater",
+    "prune.totalMsgsDeleted": "Samlede beskeder slettet",
+    "prune.oldMsgsDelted": "Gamle beskeder slettet",
+    "prune.oldMsgsNotDeleted": "Gamle beskeder ikke slettet",
+    "prune.deletedByUser": "Slettet beskeder af bruger",
+    "prune.alreadyPruning": "Nogen har allerede brugt prune kommandoen i denne kanal! Vent venligst indtil, at den er færdig.",
+    "words.arguments": "Argumenter",
+    "words.delete": "Slet",
+    "words.uptime": "Driftstid"
 }
