@@ -247,5 +247,9 @@
     "prune.tooManyOptions": "Použili jste alespoň 2 následující možnosti, což je nesprávné: `--all, --user, --bots`",
     "prune.deleteQuestion": "Všechny zprávy které odpovídají vašemu požadavku budou smazány NAVŽDY. Chcete pokračovat? (y/n)",
     "help.prune": "Užití: `prune <hodnota> [-all|--user [dotaz]|--bots] [--filter [filtr]|--embeds|--attachments|--pinned]`",
-    "settings.autodel.prune": "Smazat všechen generovaný výstup po 10 sekundách?"
+    "settings.autodel.prune": "Smazat všechen generovaný výstup po 10 sekundách?",
+    "general.forbidden": "Zkusila jsem odpovědět na váš příkaz. Ale chybí mi na to oprávnění. Prosím, řekněte moderátorům, aby mi dali oprávnění posílat zprávy na Discordu.\n\nServer: `{{guild}}`\nKanál: `{{channel}}`\nPříkaz: `{{cmd}}`",
+    "words.contributors": "Přispěvatelé kódu",
+    "question.timeout": "Čas na odpovězení otázky vypršel.",
+    "question.cancelled": "Otázka je zrušena."
 }
