@@ -244,7 +244,7 @@
     "donators.none": "Konnte keine Spender finden.",
     "prune.invalidAmount": "Der eingegebene Betrag ist ungültig.",
     "prune.userHelp": "Der Nutzer benötigt eine Eingabe nach der gesucht werden soll.",
-    "prune.tooManyOptions": "Du hast mindestens zwei der folgenden Optionen benutzt, welches ungültig ist `--all, --user, --bots,`",
+    "prune.tooManyOptions": "Du hast mindestens zwei der folgenden Optionen benutzt, was ungültig ist `--all, --user, --bots`",
     "prune.deleteQuestion": "Alle Nachrichten, die mit deiner Anfrage übereinstimmen werden FÜR IMMER gelöscht. Möchtest du fortfahren? (y/n)",
     "help.prune": "Nutzung: `prune <Anzahl> [--all|--user [Suche]|--bots] [--filter [Filter]|--embeds|--attachments|--pinned]`",
     "settings.autodel.prune": "Lösche die gesamte generierte Ausgabe nach 10 Sekunden?"
