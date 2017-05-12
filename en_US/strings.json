@@ -1,5 +1,6 @@
 {
     "general.guildOnly": "Only available in Servers. ",
+    "general.unableToDM": "I was unable to send you a direct message. This may be caused by you having the option `Allow direct messages from server members` in your Discord privacy settings set to false. Please enable this option to receive this direct message.",
     "general.error": "An error occurred. Please report this on our support guild (`support` command to get invite).\n```{{error}}```",
     "general.forbidden": "I tried to send a reply to your command. However I lack permission to. Please have someone from staff give me the `Send Message` Discord permission.\n\nGuild: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`",
     "general.gatewayFailure": "Failed to contact Gateway. Please try again later.",
