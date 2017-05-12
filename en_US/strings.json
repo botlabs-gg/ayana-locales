@@ -190,6 +190,7 @@
     "channelinfo.bitrate": "Voice Bitrate",
     "channelinfo.connected": "Connected Users",
     "channelinfo.overwrite": "Permission Overwrites",
+    "info.moreInfo": "To view more information about all shards use {{prefix}}shardinfo",
     "music2.join": ":white_check_mark: Joined and bound to :speaker: `{{voice}}` and :newspaper: `{{text}}`.",
     "music2.rebound": ":white_check_mark: Resuming music after backend disconnect.",
     "music2.userNoChannel": "You are currently not in a channel. Please join a voice channel.",
