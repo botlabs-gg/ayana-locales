@@ -177,7 +177,7 @@
     "settings.groupHelp": "Settings in [**{{group}}**]().\nFor more information about a setting, and to see associated variables, type `settings {{group}} [settingName]`.",
     "settings.unknownSetting": "Unknown setting [**{{setting}}**]() in group [**{{group}}**]().",
     "settings.active": "Enable/Disable",
-    "settings.prefix.guild": "LEGACY PREFIX SETTINGS, Please use guild.prefix",
+    "settings.prefix.guild": "Prefix for current server.",
     "settings.greeting.text": "Greeting Text.",
     "settings.greeting.channel": "Channel to greet in.",
     "settings.greeting.dm": "Send as DM instead of channel?",
