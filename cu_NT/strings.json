@@ -201,5 +201,6 @@
     "reminder.delete.done": "Reminder(s) are fucking gone.",
     "reminder.fullhelp": "```\nreminder add <reminder string> - add a new reminder\nreminder del <search> - delete reminders by search\nreminder list - show a list of your reminders\n\nExamples:\n reminder add hey time to fuck me 1 hour\n reminder i think i need some painkillers 20 min```",
     "general.gatewayFailure": "I can't contact Gateway you sucker.",
-    "general.pagination": "Page {{page}}/{{pages}}"
+    "general.pagination": "Page {{page}}/{{pages}}",
+    "general.forbidden": "Listen cunt, I can't reply to you because some staff member doesn't want me to. Tell them I need the fucking `Send Message` Discord permission.\n\nGuild: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`"
 }
