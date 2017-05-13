@@ -81,7 +81,7 @@
     "prune.alreadyPruning": "Someone already ran the prune command in this channel! Please wait until it's done.",
     "role.missingPerms": "Sorry, I lack the `Manage Roles` Discord permission.",
     "role.noRoleSpecified": "You didn't specify a role that should be given or taken.",
-    "role.tooManyOptions": "You used at least two of the following options which is invalid `--all, ,--user <user>, --users, --bots`",
+    "role.tooManyOptions": "You used at least two of the following options which is invalid `--all, --user <user>, --users, --bots`",
     "role.specifyUser": "You need to specify a user when using `--user <user>`",
     "role.cannotUseInroleNotinrole": "You cannot combine `--inrole` and `--notinrole`",
     "role.specifyAdditionalRole": "You need to specify an additional role when using `--inrole` or `--notinrole`",
