@@ -140,7 +140,7 @@
     "modlog.requireReason": "Moderasjonslogg aktivert. `--reason`må nå bli inkludert.",
     "settings.set": "Sett **{{setting}}** til `{{value}}`.",
     "settings.notset": "ikke satt",
-    "settings.groupsHelp": "Dette er en liste over tilgjengelige intstillingsgrupper.\nFor mer informasjon, bruk kommandoen `settings [groupName]`.",
+    "settings.groupsHelp": "Dette er en liste over tilgjengelige instillingsgrupper.\nFor brukerinstillinger, bruk kommandoen `settings user`.\nFor mer informasjon, bruk kommandoen `settings [groupName]`.",
     "settings.unknownGroup": "Ukjent innstillingsgruppe [**{{input}}**]().",
     "settings.groupHelp": "Innstillinger i [**{{group}}**]().\nFor mer informasjon om en innstilling, og for a se gyldige variabler, skriv `settings {{group}} [settingName]`.",
     "settings.unknownSetting": "Ukjent innstilling [**{{setting}}**]() i gruppen [**{{group}}**]().",
@@ -245,7 +245,7 @@
     "help.rolemembers": "Bruk: `rolemembers <rolle> [sidenummer]` eller `rolemembers <rolle> [--page <sidenummer>]`",
     "help.prune": "Bruk: `prune <antall> [--all|--user [søk]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
     "rolemembers.headerPage": "Medlemmer i rollen {{role}} side {{page}}/{{total}}",
-    "prune.tooManyOptions": "Minimum to av de følgende valgmulighetene du brukte er ugyldige; `--all, --user, --bots,`",
+    "prune.tooManyOptions": "Minimum to av de følgende valgmulighetene du brukte er ugyldige; `--all, --user, --bots`",
     "settings.autodel.prune": "Slett all output generert etter 10 sekunder?",
     "invite.patreon": "Ayana Patreon er et eksklusivt frynsegode, tilgjengelig for de som støtter Ayana på Patreon!\nHvis du ønsker å hjelpe til med å betale Ayanas regninger, og få noen kule frynsegoder med på kjøpet, så overvei vennligst å donere :heart:!\n\n{{patreon}}"
 }
