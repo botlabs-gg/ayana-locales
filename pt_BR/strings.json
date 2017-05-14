@@ -190,7 +190,7 @@
     "music2.delete.items": "Os itens `{{items}}` foram deletados da fila.",
     "music2.delete.queueEmpty": "Fila vazia, nada para deletar.",
     "music2.delete.invalidIndex": "Você me especificou algo errado. Por favor, tente novamente.",
-    "reminder.parseFailed": "Falha ao achar um tempo para lembrar de você.",
+    "reminder.parseFailed": "Falha em encontrar um tempo para lhe lembrar.",
     "reminder.invalidDuration": "Por favor, especifique um tempo maior do que 2 minutos.",
     "reminder.gatewayFailure": "Falha ao conectar ao Gateway. Por favor, tente mais tarde.",
     "reminder.list.none": "Você não tem mais lembretes agora.",
