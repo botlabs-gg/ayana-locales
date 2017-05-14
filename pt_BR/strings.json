@@ -181,7 +181,7 @@
     "settings.automod.linksbl": "Lista negra de Links.",
     "settings.list.help": "Use: `settings {{group}} {{setting}} [add|del] [item]`",
     "settings.list.delconfirm": "Os items a seguir irão ser removidos, beleza? [y/n]:\n```{{items}}```",
-    "settings.list.delnomatch": "Não encontrei items para remover.",
+    "settings.list.delnomatch": "Não foram encontrados itens para remover.",
     "music2.showQueueMore": "e {{size}} a mais",
     "music2.playfailed": ":no_entry_sign: Um erro impediu a música `{{title}}` de tocar. Pulando...",
     "music2.delete.fuzzyNoMatches": "Sem items na fila corresponde à sua busca.",
@@ -245,5 +245,6 @@
     "prune.invalidAmount": "A quantidade inserida não é valida.",
     "prune.userHelp": "O usuário necessita de uma entrada para pesquisar.",
     "prune.deleteQuestion": "Todas as mensagens correspondentes ao seu pedido serão deletadas PARA SEMPRE. Você quer continuar? (y/n)",
-    "help.prune": ""
+    "help.prune": "",
+    "settings.autodel.prune": "deletar tudo que é gerado apos 10 segundos?"
 }
