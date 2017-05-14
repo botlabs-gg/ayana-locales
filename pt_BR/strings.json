@@ -139,7 +139,7 @@
     "words.description": "Descrição",
     "settings.set": "Colocando **{{setting}}** para `{{value}}`.",
     "settings.notset": "Não configurado",
-    "settings.groupsHelp": "Aqui está uma lista de grupos de configuração disponível.\nPara mais informações digite `settings [groupName]`.",
+    "settings.groupsHelp": "Aqui está uma lista de grupos de configuração disponível.\nPara configuração de usuários digite `settings user`.\nPara mais informações digite `settings [groupName]`.",
     "settings.unknownGroup": "Grupo de configuração desconhecido [**{{input}}**]().",
     "settings.groupHelp": "Configurações em [**{{group}}**]().\nPara mais informações sobre configuração, e ver variáveis associadas, digite `settings {{group}} [settingName]`.",
     "settings.unknownSetting": "Configuração desconhecida [**{{setting}}**]() no grupo [**{{group}}**]().",
