@@ -246,5 +246,5 @@
     "prune.userHelp": "O usuário necessita de uma entrada para pesquisar.",
     "prune.deleteQuestion": "Todas as mensagens correspondentes ao seu pedido serão deletadas PARA SEMPRE. Você quer continuar? (y/n)",
     "help.prune": "",
-    "settings.autodel.prune": "deletar tudo que é gerado apos 10 segundos?"
+    "settings.autodel.prune": "Deletar tudo gerado após 10 segundos?"
 }
