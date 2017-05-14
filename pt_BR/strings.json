@@ -185,7 +185,7 @@
     "music2.showQueueMore": "e {{size}} a mais",
     "music2.playfailed": ":no_entry_sign: Um erro impediu a música `{{title}}` de tocar. Pulando...",
     "music2.delete.fuzzyNoMatches": "Sem items na fila corresponde à sua busca.",
-    "music2.delete.fuzzyExcessMatches": "Sua busca achou muitas coisas. Por favor, ou force a deleção ou seja mais específico.",
+    "music2.delete.fuzzyExcessMatches": "Sua consulta corresponde a muitos itens. Por favor, ou delete ou seja mais específico.",
     "music2.delete.confirm": "Os items a seguir serão removidos, beleza? [y/n]\n```{{items}}```",
     "music2.delete.items": "Os items `{{items}}` foram deletados da fila.",
     "music2.delete.queueEmpty": "Fila vazia, nada para deletar.",
