@@ -241,5 +241,6 @@
     "music2.provider.unknown": "Provedor desconhecido. Por favor digite `music pv` para uma lista de provedores válidos.",
     "donators.none": "Incapaz de achar qualquer doador.",
     "flipcoin.heads": "Cara!",
-    "flipcoin.tails": "Coroa!"
+    "flipcoin.tails": "Coroa!",
+    "prune.invalidAmount": "A quantidade inserida não é valida."
 }
