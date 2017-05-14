@@ -243,5 +243,6 @@
     "flipcoin.heads": "Cara!",
     "flipcoin.tails": "Coroa!",
     "prune.invalidAmount": "A quantidade inserida não é valida.",
-    "prune.userHelp": "O usuário necessita de uma entrada para pesquisar."
+    "prune.userHelp": "O usuário necessita de uma entrada para pesquisar.",
+    "prune.deleteQuestion": "Todas as mensagens correspondentes ao seu pedido serão deletadas PARA SEMPRE. Você quer continuar? (s/n)"
 }
