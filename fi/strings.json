@@ -280,5 +280,15 @@
     "settings.autodel.prune": "Poista botti vastaukset 10 sekunnin sisällä?",
     "info.moreInfo": "Lisätietoa Palasista(Shards) {{prefix}}shardinfo",
     "question.timeout": "Aikaraja ylittyi.",
-    "question.cancelled": "Kysymys peruutettu."
+    "question.cancelled": "Kysymys peruutettu.",
+    "help.avatar.short": "Kaappaa käyttäjän kuva",
+    "help.bigtext.short": "Luo tekstin, jossa alueellisia merkkejä",
+    "help.botlist.short": "Hae lista boteista Carbonilta",
+    "help.channelinfo.short": "Hae tietoa kanavasta",
+    "help.clean.short": "Poistan viimeiset 100 viestiäni",
+    "help.donators.short": "Lista Ayanan tukijoista",
+    "help.f.short": "F antaaksesi respektiä",
+    "help.flipcoin.short": "Heitä kolikkea",
+    "help.help.short": "Näytä tämä viesti",
+    "help.info.short": "Näytä botin tiedot"
 }
