@@ -120,6 +120,7 @@
     "role.userHeader": "Please pick the User you meant with `{{search}}`",
     "role.skippingUser": "Skipping user `{{search}}`",
     "role.statusMessageDeleted": "The status message has been deleted. The process has been aborted.",
+    "role.higherThanUser": "The role you tried to assign is in a higher position than your highest role. You are therefore not allowed to give or take it to or from anyone.",
     "words.user": "User",
     "words.role": "Role",
     "words.roles": "Roles",
