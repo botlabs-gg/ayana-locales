@@ -274,5 +274,10 @@
     "help.serverinfo.short": "서버에 대한 정보를 얻기",
     "help.settings.short": "설정 제어 인터페이스",
     "help.support.short": "서포트 서버의 링크를 얻기",
-    "help.userinfo.short": "유저에 대한 정보를 얻기"
+    "help.userinfo.short": "유저에 대한 정보를 얻기",
+    "prune.results": "정리 결과",
+    "prune.totalMsgsDeleted": "모든 메시지를 삭제했어요",
+    "prune.oldMsgsDelted": "오래된 메시지를 삭제했어요",
+    "prune.oldMsgsNotDeleted": "오래된 메세지들이 삭제되지 않았어요",
+    "prune.deletedByUser": "유저에 의해 메시지가 삭제되었어요"
 }
