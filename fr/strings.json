@@ -1,7 +1,7 @@
 {
-    "general.guildOnly": "Disponible uniquement dans le serveur.",
+    "general.guildOnly": "Disponible uniquement dans le serveur. ",
     "general.error": "Une erreur s'est produite. Veuillez la rapporter sur notre serveur de support. ( utilisez la commande `support` pour recevoir une invitation )\n```{{error}}```",
-    "general.cooldown": "Woah! Je suis en surchauffe, là! Cette commande est en veille temporairement!",
+    "general.cooldown": "Woah ! Je suis en surchauffe, là ! Cette commande est en veille temporairement !",
     "finder.failUser": "Impossible de trouver l'utilisateur correspondant.",
     "finder.failRole": "Impossible de trouver le rôle correspondant.",
     "finder.failChannel": "Impossible de trouver le salon correspondant.",
@@ -179,5 +179,20 @@
     "f.paid": "**{{username}}** a montré son respect.",
     "f.paidfor": "**{{username}}** a montré son rspect pour **{{type}}**.",
     "f.paidfooter": "{{today}} aujourd'hui, {{all}} tout",
-    "f.paidstats": "Les respects de **{{today}}** ron été montrés aujourd'hui. **{{all}}** à tous moments."
+    "f.paidstats": "Les respects de **{{today}}** ron été montrés aujourd'hui. **{{all}}** à tous moments.",
+    "general.unableToDM": "Je n'ai pas pu vous envoyer un message directement. Cela peut être dû au fait que vous n'ayez pas coché l'option `Autoriser les messages directs des membres du serveur` dans vos paramètres de confidentialité Discord. Veuillez activer cette option pour recevoir ce message direct.",
+    "general.pagination.invalidPage": "Page invalide.",
+    "help.avatar.short": "Obtenir l'avatar d'un utilisateur",
+    "general.pagination": "Page {{page}}/{{pages}}",
+    "help.bigtext.short": "Génère du texte avec les indicateurs régionaux",
+    "help.channelinfo.short": "Avoir des informations sur un channel",
+    "help.clean.short": "Je vais supprimer mes 100 derniers messages",
+    "help.donators.short": "Liste des gens qui ont fait qu'Ayana existe",
+    "help.f.short": "F pour payer le respect",
+    "help.flipcoin.short": "Lancer une pièce",
+    "help.help.short": "Afficher ce message",
+    "help.info.short": "Afficher les informations du bot",
+    "help.invite.short": "Demande-moi de rejoindre ton serveur",
+    "help.music.short": "Lecteur de musique",
+    "help.neko.short": "chat.random"
 }
