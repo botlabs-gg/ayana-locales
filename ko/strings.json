@@ -292,5 +292,5 @@
     "role.maximumReached": "요청하신 유저 역할 변경이 최대 100개를 초과하였어요.",
     "role.alreadyProcessing": "저는 이미 이 길드의 역할 요청을 처리 중이에요.",
     "role.doneProcessing": "끝! {{amount}}명의 역할을 수정했어요.",
-    "role.userHeader": "`{{search}}`에서 검색하려는 유저를 골라 주세요."
+    "role.userHeader": "`{{search}}`에서 검색하시려는 유저를 골라 주세요."
 }
