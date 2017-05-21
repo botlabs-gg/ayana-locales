@@ -282,5 +282,5 @@
     "prune.deletedByUser": "유저에 의해 메시지가 삭제되었어요",
     "prune.alreadyPruning": "누군가 이 채널에서 정리 명령어를 실행했어요! 완료될 때까지 기다려 주세요.",
     "role.missingPerms": "죄송해요, 제게 `역할 관리` 권한이 없어요...",
-    "role.noRoleSpecified": "부여했거나 받은 역할을 명시하지 않으셨어요."
+    "role.noRoleSpecified": "주었거나 받은 역할을 지정하지 않았어요."
 }
