@@ -285,5 +285,6 @@
     "role.noRoleSpecified": "주었거나 받은 역할을 지정하지 않았어요.",
     "role.specifyUser": "`--user <user>`를 사용하실 때는 유저를 지정해주셔야 해요.",
     "role.cannotUseInroleNotinrole": "`--inrole`과 `--notinrole`을 같이 사용하실 수 없어요.",
-    "role.specifyAdditionalRole": "`--inrole` 또는 `--notinrole`를 사용하려면 추가 역할을 지정해야 해요."
+    "role.specifyAdditionalRole": "`--inrole` 또는 `--notinrole`를 사용하려면 추가 역할을 지정해야 해요.",
+    "role.noOptionsSpecified": "어떤 옵션도 지정하지 않으셨어요. 이 명령어에 대한 더 많은 정보가 필요하면 도움말을 확인해 주세요."
 }
