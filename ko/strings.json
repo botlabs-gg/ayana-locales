@@ -297,5 +297,6 @@
     "words.contributors": "기부자",
     "words.arguments": "인자",
     "words.delete": "삭제",
-    "words.uptime": "가동 시간"
+    "words.uptime": "가동 시간",
+    "question.timeout": "질문 시간이 초과되었어요."
 }
