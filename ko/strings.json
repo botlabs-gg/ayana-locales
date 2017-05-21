@@ -298,5 +298,6 @@
     "words.arguments": "인자",
     "words.delete": "삭제",
     "words.uptime": "가동 시간",
-    "question.timeout": "질문 시간이 초과되었어요."
+    "question.timeout": "질문 시간이 초과되었어요.",
+    "question.cancelled": "질문이 취소되었어요."
 }
