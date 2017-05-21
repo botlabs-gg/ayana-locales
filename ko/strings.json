@@ -284,5 +284,6 @@
     "role.missingPerms": "죄송해요, 제게 `역할 관리` 권한이 없어요...",
     "role.noRoleSpecified": "주었거나 받은 역할을 지정하지 않았어요.",
     "role.specifyUser": "`--user <user>`를 사용하실 때는 유저를 지정해주셔야 해요.",
-    "role.cannotUseInroleNotinrole": "`--inrole`과 `--notinrole`을 같이 사용하실 수 없어요."
+    "role.cannotUseInroleNotinrole": "`--inrole`과 `--notinrole`을 같이 사용하실 수 없어요.",
+    "role.specifyAdditionalRole": "`--inrole` 또는 `--notinrole`를 사용하려면 추가 역할을 지정해야 해요."
 }
