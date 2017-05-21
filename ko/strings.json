@@ -290,5 +290,6 @@
     "role.mainRoleHeader": "주었거나 받은 역할을 골라주세요. (검색어: `{{search}}`)",
     "role.secondaryRoleHeader": "`--inrole` 또는 `--notinrole`에서 역할을 골라주세요. (검색어: `{{search}}`)",
     "role.maximumReached": "요청하신 유저 역할 변경이 최대 100개를 초과하였어요.",
-    "role.alreadyProcessing": "저는 이미 이 길드의 역할 요청을 처리 중이에요."
+    "role.alreadyProcessing": "저는 이미 이 길드의 역할 요청을 처리 중이에요.",
+    "role.doneProcessing": "완료! {{amount}}명의 역할을 수정했어요."
 }
