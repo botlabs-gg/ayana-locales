@@ -1,6 +1,17 @@
 # Ayana Localization Instructions
 > If you wish to contribute please be sure to read and follow the below instructions
 
+## Weblate
+Ayana Using crowd source user translations. To help manage that we use Weblate. A nice
+piece of software that takes the headache out of translations for both sides.
+It has a small learning curve. But once you learn it we think you will enjoy it.
+
+Your first step to using weblate is to create an account. [Click here](https://weblate.ayana.io/accounts/register/)
+to go to the form. After creating an account please make sure to join [Ayana support server](https://ayana.io/support)
+and tell someone from support you have joined the team.
+
+**WARNING YOU MUST TELL SUPPORT. NEW ACCOUNTS ONLY HAVE SUGGESTION RIGHTS. TELLING SUPPORT WILL GET YOUR ACCOUNT APPROVED TO SAVE TRANSLATIONS**
+
 ## Variables
 Any string surrounded by `{{}}` is a variable. You **should not** translate anything
 inside of these double brackets. They are replaced at runtime with the correct information.
