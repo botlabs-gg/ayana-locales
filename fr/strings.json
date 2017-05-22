@@ -210,5 +210,10 @@
     "help.shrugd.short": "Identique aux haussements d'épaules, je supprime aussi votre commande",
     "help.support.short": "Avoir le lien du serveur de support",
     "help.userinfo.short": "Avoir les informations sur un utilisateur",
-    "help.waa.short": "Tu dois pleurer ?"
+    "help.waa.short": "Tu dois pleurer ?",
+    "help.role.full": "`` `Css\n[Aide aux rôles]\n\nLe rôle donne <rôle [, rôle ...]> - Donne des rôles\nPrise de rôle <rôle [, rôle ...]> - prend des rôles\nModfier rôle <rôle> - Modifie un rôle\n\nAlias :\n    Giverole, takerole, modifyrole\n\nLes options pour le rôle et la prise de rôle:\n    [--bots] - Ne changera que les rôles pour les robots\n    [--users] - Ne changera que les rôles pour les utilisateurs\n    [--user <user [, user ...]>] - Ne changera que les rôles pour les utilisateurs spécifiés\n\n    [--introle <rôle>] - Ne changera que les rôles si la cible a le rôle spécifié\n    [--notinrole <role>] - Ne changera que les rôles si la cible n'a pas le rôle spécifié\n\nOptions pour modifier le rôle\n    [--color <color>] - Change la couleur d'un rôle\n\nExemples :\n    ce rôle rend Admin, Mod --user TheAkio\n    donne le rôle Bot - Inaule Bot\n    prend le rôle Muted --user HcgRandon, TheAkio\n    modifier le rôle Mauvais -color # FF0000\n    modifyrole Admin - couleur bleu\n\nRemarque : \n    Cette commande ne vous permettra pas de donner, de prendre ou de modifier des rôles qui sont dans une position supérieure à celle de votre rôle le plus important !\n\n<> = Informations requises, [] = informations facultatives, | = Ou, ne pas inclure <> [] ou | En entrée de commande\nVeuillez vous joindre au serveur de support pour toute question. (= Support pour le lien) ```",
+    "flipcoin.heads": "Têtes !",
+    "flipcoin.tails": "Queues !",
+    "locale.percent": "[{{num}}%]",
+    "locale.usageShort": "Usage : `locale [locale] [--guilde]` ou `Liste locale`"
 }
