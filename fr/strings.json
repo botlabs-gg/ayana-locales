@@ -194,5 +194,21 @@
     "help.info.short": "Afficher les informations du bot",
     "help.invite.short": "Demande-moi de rejoindre ton serveur",
     "help.music.short": "Lecteur de musique",
-    "help.neko.short": "chat.random"
+    "help.neko.short": "chat.aléatoire",
+    "help.inu.short": "chien.aléatoire",
+    "help.lenny.short": "( ͡° ͜ʖ ͡°)",
+    "help.lewd.short": "C'est obscène !",
+    "help.lennyd.short": "Comme lenny, je supprime aussi votre commande",
+    "help.ping.short": "Tennis de table",
+    "help.pout.short": "Moue",
+    "help.prefix.short": "Vérifier le préfixe du bot",
+    "help.prune.short": "Élimination des messages",
+    "help.role.short": "Donner, prendre et modifier les rôles",
+    "help.roleinfo.short": "Obtenir des informations sur un rôle",
+    "help.shrug.short": "¯\\_(ツ)_/¯",
+    "help.smug.short": "Suffisant",
+    "help.shrugd.short": "Identique aux haussements d'épaules, je supprime aussi votre commande",
+    "help.support.short": "Avoir le lien du serveur de support",
+    "help.userinfo.short": "Avoir les informations sur un utilisateur",
+    "help.waa.short": "Tu dois pleurer ?"
 }
