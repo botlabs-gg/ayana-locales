@@ -317,5 +317,19 @@
     "prune.oldMsgsDeleted": "Skasowane stare wiadomości",
     "prune.autodelInfo": "Autokasowanie jest włączone. Ta wiadomość zostanie usunięta za 10 sekund. Wpisz 'c' aby anulować.",
     "role.invalidHexCode": "Nie użyłeś właściwego kodu szesnastkowego. Przykłady poprawnych kodów: #F4C, #F77800",
-    "role.modified": "Rola `{{role}}` została zmodyfikowana."
+    "role.modified": "Rola `{{role}}` została zmodyfikowana.",
+    "general.targetHigherRole": "{{target}} posiada wyższą rolę niż Ty. Nie możesz modyfikować tego użytkownika.",
+    "help.bad.short": "Stop! Nie wolno!",
+    "help.ban.short": "Banuje użytkowników",
+    "help.lewd.short": "To zboczone!",
+    "help.pout.short": "Dąsaj się",
+    "help.smug.short": "Zadowolony z siebie",
+    "help.sumfuk.short": "u want, sum fuk?",
+    "help.waa.short": "Chcesz płakać?",
+    "locale.percent": "[{{num}}%]",
+    "locale.usageShort": "Użycie: `locale set [język] [--guild]` lub `locale list`",
+    "locale.invalidLocale": "`{{input}}` nie jest poprawnym językiem. Proszę wpisz `locale list` aby wyświetlić listę dostępnych języków.\n Jeżeli chcesz pomóc tłumaczyć Ayanę to odwiedź ten link{{url}}",
+    "locale.current": "```css\nObecne ustawienia\n  Gidia: {{guild}}\n  Użytkownik: {{user}}```\n{{help}}\nJeżeli chcesz pomóc tłumaczyć Ayanę proszę odwiedź ten link {{url}}",
+    "settings.autorole.role": "Rola, która powinna być przypisana z autorole",
+    "settings.failedUpdateAutorole": "Ta rola nie może być użyta jako autorole, ponieważ jest wyżej niż Twoja najwyższa rola."
 }
