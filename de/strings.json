@@ -320,5 +320,10 @@
     "words.delete": "Löschen",
     "words.uptime": "Betriebszeit",
     "question.timeout": "Frage abgelaufen.",
-    "question.cancelled": "Frage abgebrochen."
+    "question.cancelled": "Frage abgebrochen.",
+    "help.kick.short": "Nutzer kicken",
+    "help.linkcheck.short": "Benutzt www.getlinkinfo.com um zu überprüfen wohin ein Link geht",
+    "help.locale.short": "Spracheinstellungsschnittstelle",
+    "finder.skippingUser": "Überspringe Nutzer `{{search}}`",
+    "finder.skippingRole": "Überspringe Rolle `{{search}}`"
 }
