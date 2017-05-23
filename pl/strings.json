@@ -331,5 +331,11 @@
     "locale.invalidLocale": "`{{input}}` nie jest poprawnym językiem. Proszę wpisz `locale list` aby wyświetlić listę dostępnych języków.\n Jeżeli chcesz pomóc tłumaczyć Ayanę to odwiedź ten link{{url}}",
     "locale.current": "```css\nObecne ustawienia\n  Gidia: {{guild}}\n  Użytkownik: {{user}}```\n{{help}}\nJeżeli chcesz pomóc tłumaczyć Ayanę proszę odwiedź ten link {{url}}",
     "settings.autorole.role": "Rola, która powinna być przypisana z autorole",
-    "settings.failedUpdateAutorole": "Ta rola nie może być użyta jako autorole, ponieważ jest wyżej niż Twoja najwyższa rola."
+    "settings.failedUpdateAutorole": "Ta rola nie może być użyta jako autorole, ponieważ jest wyżej niż Twoja najwyższa rola.",
+    "help.kick.short": "Wyrzuca użytkownika",
+    "help.linkcheck.short": "Używa www.gelinkinfo.com aby sprawdzić dokąd przekierowuje podany link",
+    "help.locale.short": "Interfejs ustawień języka",
+    "finder.skippingUser": "Pomijam użytkownika `{{search}}`",
+    "finder.skippingRole": "Pomijam rolę `{{search}}`",
+    "help.role.full": "```css\n[Pomoc Role]\n\nrole give <rola[, rola...]> - dodaje rolę\nrole take <rola[, rola...]> - zabiera rolę\nrole modify <rola> - modyfikuje rolę\n\nAliasy:\n    giverole, takerole, modifyrole\n\nOpcje dla giverole i takerole:\n    [--bots] - zmieni tylko role botów\n    [--users] - zmieni role tylko użytkowników\n    [--user <użytkownik[, użytkownik...]>] - zmieni role tylko określonym użytkownikom\n\n    [--inrole <rola>] - zmieni tylko role użytkownikom, którzy posiadają określoną rolę\n    [--notinrole <rola>] -  zmieni tylko role użytkownikom, którzy nie posiadają określonej rolę\n\nOpcje dla modifyrole:\n    [--color <kolor>] -zmienia kolor roli\n\nPrzykłady:\n    role give Admin, Mod --user TheAkio\n    giverole Bot --inrole Bot\n    takerole Muted --user HcgRandon, TheAkio\n    role modify Bad --color #FF0000\n    modifyrole Admin --color blue\n\nUwaga:\n    Ta komenda nie pozwala nadawać, zabierać lub modyfikować role, które są wyżej niż Twoja najwyższa rola!\n\n<> = wymagane, []= opcjonalnie, | = lub, nie używaj <> [] lub | we wpisywanych komendach\nW razie pytań proszę dołącz do serwera wsparcia. (=support aby wyświetlić link)```"
 }
