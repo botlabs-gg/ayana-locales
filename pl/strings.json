@@ -264,7 +264,7 @@
     "role.noOptionsSpecified": "Nie określono żadnych opcji. Sprawdź pomoc dla tej komend, aby uzyskać więcej informacji.",
     "role.mainRoleHeader": "Wybierz rolę, która ma zostać nadana lub odebrana (Twoje wyszukiwanie: `{{search}}`)",
     "role.secondaryRoleHeader": "Wybierz rolę określoną w `--inrole` lub `--notinrole` (Twoje wyszukiwanie: `{{search}}`)",
-    "role.pleaseWait": "Proszę czekać, Ayana przetwarza twoje żądanie. (Przetworzeni użytkownicy: {{usersProcessed}})",
+    "role.pleaseWait": "Proszę czekać, Ayana przetwarza twoje żądanie. Wpisz `{{prefix}}role cancel` aby anulować proces. (Przetworzeni użytkownicy: {{usersProcessed}})",
     "role.maximumReached": "Twoje żądanie przekroczyło maksimum 100 zmian ról.",
     "role.alreadyProcessing": "Ayana aktualnie przetwarza żądanie roli w tej gildii.",
     "role.doneProcessing": "Zrobione! Zmodyfikowano role {{amount}} użytkowników.",
@@ -306,7 +306,7 @@
     "help.settings.short": "Interfejs kontroli ustawień",
     "help.support.short": "Wyświetl link do serwera wsparcia",
     "help.userinfo.short": "Wyświetl informacje o użytkowniku",
-    "role.higherThanUser": "Rola, którą próbowałeś modyfikować jest wyżej niż Twoja najwyższa rola. Z tego powodu nie masz uprawnień, aby jej zmienić.",
+    "role.higherThanUser": "Rola, którą próbowałeś modyfikować jest wyżej lub na równi z Twoja najwyższą rolą. Z tego powodu nie masz uprawnień, aby jej zmienić.",
     "help.bigtextd.short": "To samo co bigtext, dodatkowo kasuję Twoją wiadomość",
     "help.inu.short": "random.dog",
     "help.lenny.short": "( ͡° ͜ʖ ͡°)",
@@ -337,5 +337,9 @@
     "help.locale.short": "Interfejs ustawień języka",
     "finder.skippingUser": "Pomijam użytkownika `{{search}}`",
     "finder.skippingRole": "Pomijam rolę `{{search}}`",
-    "help.role.full": "```css\n[Pomoc Role]\n\nrole give <rola[, rola...]> - dodaje rolę\nrole take <rola[, rola...]> - zabiera rolę\nrole modify <rola> - modyfikuje rolę\n\nAliasy:\n    giverole, takerole, modifyrole\n\nOpcje dla giverole i takerole:\n    [--bots] - zmieni tylko role botów\n    [--users] - zmieni role tylko użytkowników\n    [--user <użytkownik[, użytkownik...]>] - zmieni role tylko określonym użytkownikom\n\n    [--inrole <rola>] - zmieni tylko role użytkownikom, którzy posiadają określoną rolę\n    [--notinrole <rola>] -  zmieni tylko role użytkownikom, którzy nie posiadają określonej rolę\n\nOpcje dla modifyrole:\n    [--color <kolor>] -zmienia kolor roli\n\nPrzykłady:\n    role give Admin, Mod --user TheAkio\n    giverole Bot --inrole Bot\n    takerole Muted --user HcgRandon, TheAkio\n    role modify Bad --color #FF0000\n    modifyrole Admin --color blue\n\nUwaga:\n    Ta komenda nie pozwala nadawać, zabierać lub modyfikować role, które są wyżej niż Twoja najwyższa rola!\n\n<> = wymagane, []= opcjonalnie, | = lub, nie używaj <> [] lub | we wpisywanych komendach\nW razie pytań proszę dołącz do serwera wsparcia. (=support aby wyświetlić link)```"
+    "help.role.full": "```css\n[Pomoc Role]\n\nrole give <rola[, rola...]> - dodaje rolę\nrole take <rola[, rola...]> - zabiera rolę\nrole modify <rola> - modyfikuje rolę\n\nAliasy:\n    giverole, takerole, modifyrole\n\nOpcje dla giverole i takerole:\n    [--bots] - zmieni tylko role botów\n    [--users] - zmieni role tylko użytkowników\n    [--user <użytkownik[, użytkownik...]>] - zmieni role tylko określonym użytkownikom\n\n    [--inrole <rola>] - zmieni tylko role użytkownikom, którzy posiadają określoną rolę\n    [--notinrole <rola>] -  zmieni tylko role użytkownikom, którzy nie posiadają określonej rolę\n\nOpcje dla modifyrole:\n    [--color <kolor>] -zmienia kolor roli\n\nPrzykłady:\n    role give Admin, Mod --user TheAkio\n    giverole Bot --inrole Bot\n    takerole Muted --user HcgRandon, TheAkio\n    role modify Bad --color #FF0000\n    modifyrole Admin --color blue\n\nUwaga:\n    Ta komenda nie pozwala nadawać, zabierać lub modyfikować role, które są wyżej niż Twoja najwyższa rola!\n\n<> = wymagane, []= opcjonalnie, | = lub, nie używaj <> [] lub | we wpisywanych komendach\nW razie pytań proszę dołącz do serwera wsparcia. (=support aby wyświetlić link)```",
+    "prune.autodelCancelled": "Automatycznie kasowanie zostało porzucone.",
+    "role.ayanaLowerThanModified": "Ayana posiada niższą lub tą samą rolę, która powinna być zmodyfikowana",
+    "role.notProcessing": "Brak uruchomionego żądania z rolą.",
+    "role.cancelled": "Anulowano żądanie przetworzenia ról."
 }
