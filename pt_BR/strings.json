@@ -349,7 +349,7 @@
     "sar.assign": "Atribuir: {{role}}",
     "sar.unassign": "Desatribuir: {{role}}",
     "sar.pick": "Escolha o cargo que você deseja para você colocar ou retirar",
-    "sar.assigned": "O cargo `{{role}}` foi atribuído a você",
+    "sar.assigned": "O cargo `{{role}}` foi atribuído a você.",
     "sar.unassigned": "A role `{{role}}` foi retirada de você.",
     "sar.noActiveGroups": "Sem grupos ativos :(",
     "sar.viewInactive": "Para ver grupos inativos digite `{{prefix}}sar groups --all`",
@@ -388,6 +388,7 @@
     "finder.headerRoleCSV": "Por favor escolha o cargo que você deseja com `{{search}}`",
     "sar.reqRoleNotOwned": "Você precisa ter a role `{{role}}` para usar este grupo.",
     "sar.action.reqrole": "O cargo que o usuário precisa ter para entrar neste grupo. Use `everyone` como um cargo para remover o cargo necessário.",
-    "sar.groupRenamed": "O grupo `{{group}}` foi renomeado com sucesso para `{{newGroup}}`",
-    "sar.reqRole": "Cargo requirido"
+    "sar.groupRenamed": "O grupo `{{group}}` foi renomeado com sucesso para `{{newGroup}}`.",
+    "sar.reqRole": "Cargo requirido",
+    "help.bigtext.full": "Usagem: `bigtext <texto> [--spacesize <número>] [--addspace <number>]]`"
 }
