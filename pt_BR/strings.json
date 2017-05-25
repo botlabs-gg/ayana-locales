@@ -316,5 +316,6 @@
     "help.lewd.short": "Isso é indecente!",
     "help.lennyd.short": "Igual a Lenny, mas removerei seu comando",
     "help.linkcheck.short": "Usa www.getlinkinfo.com para verificiar onde um link redireciona",
-    "help.inu.short": "random.dog"
+    "help.inu.short": "random.dog",
+    "help.locale.short": "Interface de configurações de idioma"
 }
