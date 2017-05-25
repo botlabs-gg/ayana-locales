@@ -307,5 +307,6 @@
     "question.timeout": "O tempo de resposta acabou.",
     "question.cancelled": "Questão cancelada.",
     "general.targetHigherRole": "{{target}} Possui um cargo maior que o seu. Você não pode modifica-lo.",
-    "general.notFound": "Não encontrado"
+    "general.notFound": "Não encontrado",
+    "help.bad.short": "Não, ruim!"
 }
