@@ -332,5 +332,6 @@
     "locale.percent": "[{{num}}%]",
     "locale.usageShort": "Usar: `locale set [idioma] [--guild]` ou `locale list`",
     "locale.invalidLocale": "`{{input}}` não é um idioma reconhecido. Por favor digite `locale list` para uma lista de opções válidas.\n Se você quer ajudar a me traduzir para a sua língua vá para {{url}}",
-    "locale.current": "```css\nConfigurações atuais\n  Servidor: {{guild}}\n  Usuário: {{user}}```\n{{help}}\nSe você quer ajudar a me traduzir para a sua língua vá para {{url}}"
+    "locale.current": "```css\nConfigurações atuais\n  Servidor: {{guild}}\n  Usuário: {{user}}```\n{{help}}\nSe você quer ajudar a me traduzir para a sua língua vá para {{url}}",
+    "prune.oldMsgsDeleted": "Mensagens antigas deletadas"
 }
