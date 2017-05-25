@@ -351,7 +351,7 @@
     "sar.assign": "Tildel: {{role}}",
     "sar.unassign": "Fjern: {{role}}",
     "sar.pick": "Vælg rollen som du vil tildele dig selv, eller fjerne fra dig selv",
-    "sar.assigned": "Rollen `{{role}}` er blevet tildelt dig",
+    "sar.assigned": "Rollen `{{role}}` er blevet tildelt til dig.",
     "sar.unassigned": "Rollen `{{role}}` er blevet fjernet fra dig.",
     "sar.noActiveGroups": "Ingen aktive grupper :(",
     "sar.viewInactive": "For at se inaktive grupper, skriv `{{prefix}}sar groups --all`",
@@ -379,7 +379,7 @@
     "sar.reqRoleNotOwned": "Du skal have rollen `{{role}}` for at bruge denne gruppe.",
     "sar.noGroups": "Ingen grupper :(",
     "sar.action.reqrole": "Rollen som en bruger skal have for at bruge denne gruppe. Brug `everyone` som rolle for at fjerne den påkrævne rolle.",
-    "sar.groupRenamed": "Gruppen `{{group}}` blev omdøbt til `{{newGroup}}`",
+    "sar.groupRenamed": "Gruppen `{{group}}` blev omdøbt til `{{newGroup}}`.",
     "sar.noDefaultGroup": "Ingen standard gruppe er indstillet. Tjek hjælp under `{{prefix}}sar help`.",
     "sar.cannotUseReserved": "Du kan ikke benytte dette reserverede nøgleord som gruppenavn.",
     "sar.setDefault": "Satte standard gruppen til `{{group}}`.",
@@ -388,5 +388,6 @@
     "sar.noLimit": "Ingen grænse",
     "sar.createHelp": "Brug `{{prefix}}sar create <gruppe>` for at lave en gruppe.",
     "words.active": "Aktiv",
-    "question.alreadyHasQuestion": "Du har allerede en løbende forespørgsel i denne server."
+    "question.alreadyHasQuestion": "Du har allerede en løbende forespørgsel i denne server.",
+    "help.bigtext.full": "Brug: `bigtext <tekst> [--spacesize <nummer>] [--addspace <nummer>]`"
 }
