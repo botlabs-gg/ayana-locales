@@ -313,5 +313,6 @@
     "help.bigtextd.short": "O mesmo de bigtext, mas eu removo seu comando.",
     "help.kick.short": "Expulsa usuários",
     "help.lenny.short": "( ͡° ͜ʖ ͡°)",
-    "help.lewd.short": "Isso é indecente!"
+    "help.lewd.short": "Isso é indecente!",
+    "help.lennyd.short": "Igual a Lenny, mas removerei seu comando"
 }
