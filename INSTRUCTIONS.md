@@ -2,7 +2,7 @@
 > If you wish to contribute please be sure to read and follow the below instructions
 
 ## Weblate
-Ayana Using crowd source user translations. To help manage that we use Weblate. A nice
+Ayana uses crowd source user translations. To help manage that we use Weblate. A nice
 piece of software that takes the headache out of translations for both sides.
 It has a small learning curve. But once you learn it we think you will enjoy it.
 
