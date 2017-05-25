@@ -343,7 +343,7 @@
     "role.notProcessing": "Brak uruchomionego żądania z rolą.",
     "role.cancelled": "Anulowano żądanie przetworzenia ról.",
     "general.notFound": "Nie znaleziono",
-    "help.sar.full": "```css\n[Pomoc Self Assignable Roles (SAR)]\n\nsar | sar help - Wyświetla tę wiadomość\nsar create <grupa> - Tworzy grupę SAR\nsar delete <grupa> - Usuwa grupę SAR\nsar groups - Wyświetla wszystkie grupy\n\nModyfikacje grupy:\n    sar <grupa> active <bool> - Włącza lub wyłącza grupę\n    sar <grupa> reqrole <rola> - Ustawia rolę jaką użytkownik musi posiadać aby móc użyć daną grupę\n    sar <grupa> max <numer> - Ustala maksymalną liczbę ról jaką użytkownik może sobie nadać z danej grupy\n    sar <grupa> roles add <rola> - Dodaje rolę do grupy\n    sar <grupa> roles remove <rola> - Usuwa rolę z grupy\n    sar <grupa> default - Ustawia grupę jako domyślną\n\nPrzykłady:\n    sar create kolory\n    sar kolory default\n    sar kolory roles add Zielona\n    sar kolory max 1\n    sar kolory active false\n\nUwaga:\n    Aby użyć interfejsu SAR wpisz {{prefix}}rank [grupa]\n\n<> = wymagane, []= opcjonalne, | = lub, nie używaj <> [] lub | w swoich komendach\nW razie pytań, proszę dołącz do serwera wsparcia. ({{prefix}}support aby wyświetlić link)```",
+    "help.sar.full": "```css\n[Pomoc Self Assignable Roles (SAR)]\n\nsar | sar help - Wyświetla tę wiadomość\nsar create <grupa> - Tworzy grupę SAR\nsar delete <grupa> - Usuwa grupę SAR\nsar rename <grupa> <nowa nazwa> - Zmienia nazwę grupy\nsar groups - Wyświetla wszystkie grupy\n\nModyfikacje grupy:\n    sar <grupa> active <bool> - Włącza lub wyłącza grupę\n    sar <grupa> reqrole <rola> - Ustawia rolę jaką użytkownik musi posiadać aby móc użyć daną grupę\n    sar <grupa> max <numer> - Ustala maksymalną liczbę ról jaką użytkownik może sobie nadać z danej grupy\n    sar <grupa> roles add <rola> - Dodaje rolę do grupy\n    sar <grupa> roles remove <rola> - Usuwa rolę z grupy\n    sar <grupa> default - Ustawia grupę jako domyślną\n\nPrzykłady:\n    sar create kolory\n    sar kolory default\n    sar kolory roles add Zielona\n    sar kolory max 1\n    sar kolory active false\n\nUwaga:\n    Aby użyć interfejsu SAR wpisz {{prefix}}rank [grupa]\n\n<> = wymagane, []= opcjonalne, | = lub, nie używaj <> [] lub | w swoich komendach\nW razie pytań, proszę dołącz do serwera wsparcia. ({{prefix}}support aby wyświetlić link)```",
     "sar.groupNotFound": "Grupa `{{group}}` nie została odnaleziona.",
     "sar.groupInactive": "Grupa `{{group}}` jest wyłączona.",
     "sar.roleTooLow": "Twoja najwyższa rola jest za nisko aby móc używać tę grupę. Musisz posiadać co najmniej rolę `{{role}}`.",
@@ -384,5 +384,7 @@
     "words.groups": "Grupy",
     "words.active": "Aktywne",
     "settings.actionlog.channel": "Kanał do zapisywania logów.",
-    "question.alreadyHasQuestion": "Pytanie jest już uruchomione w tej gildii."
+    "question.alreadyHasQuestion": "Pytanie jest już uruchomione w tej gildii.",
+    "finder.headerRoleCSV": "Proszę wybierz rolę, którą miałeś na myśli `{{search}}`",
+    "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`"
 }
