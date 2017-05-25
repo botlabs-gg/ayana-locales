@@ -387,7 +387,7 @@
     "question.alreadyHasQuestion": "Você já tem uma Questão em execução neste servidor.",
     "finder.headerRoleCSV": "Por favor escolha o cargo que você deseja com `{{search}}`",
     "sar.reqRoleNotOwned": "Você precisa ter a role `{{role}}` para usar este grupo.",
-    "sar.action.reqrole": "O cargo que o usuário precisa usar neste grupo. Use `everyone` como cargo para tirar o cargo requirido.",
+    "sar.action.reqrole": "O usuário tem que ter um cargo para usar este grupo. Use `todos` como um cargo para remover o cargo necessário",
     "sar.groupRenamed": "O grupo `{{group}}` foi renomeado com sucesso para `{{newGroup}}`",
     "sar.reqRole": "Cargo requirido"
 }
