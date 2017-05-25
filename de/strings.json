@@ -330,7 +330,7 @@
     "locale.invalidLocale": "`{{input}}`ist keine eingetragene Sprache. Bitte führe `locale list` aus um eine Liste von gültigen Optionen zu erhalten.\n Alternativ kannst du unter {{url}} dabei helfen mich in deine Sprache zu übersetzen.",
     "locale.current": "```css\nAktuelle Einstellungen\n  Gilde: {{guild}}\n  Nutzer: {{user}}```\n{{help}}\nWenn du dabei helfen möchtest mich in deine Sprache zu übersetzen gehe zu {{url}}",
     "prune.autodelCancelled": "Die automatische Löschung wurde abgebrochen.",
-    "role.higherThanUser": "Die Rolle die du versucht hast zu modifizieren ist deine höchste Rolle oder eine Rolle in einer höheren Position als deine höchste Rolle. Daher kannst du diese Rolle nicht modifizieren.",
+    "role.higherThanUser": "Die Rolle die du versucht hast zu modifizieren ist deine höchste Rolle oder über deiner höchste Rolle. Daher kannst du diese Rolle nicht modifizieren.",
     "role.invalidHexCode": "Du hast keinen gültigen HEX-Code benutzt. Beispiele für gültige HEX-Codes sind #F4C und #F77800",
     "role.ayanaLowerThanModified": "Ayana ist in einer niedrigeren Rolle oder in der selben Rolle die modifiziert werden soll",
     "role.modified": "Die Rolle `{{role}}` wurde modifiziert.",
