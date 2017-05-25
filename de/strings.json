@@ -386,5 +386,6 @@
     "sar.action.reqrole": "Die Rolle, die ein Nutzer haben muss um diese Gruppe zu benutzen. Benutze `everyone` als Rolle um die benötigte Rolle zu entfernen.",
     "sar.reqRole": "Rolle benötigt",
     "finder.headerRoleCSV": "Bitte wähle die Rolle aus, die du mit `{{search}}` gemeint hast",
-    "sar.groupRenamed": "Die Gruppe `{{group}}` wurde in `{{newGroup}}` umbenannt."
+    "sar.groupRenamed": "Die Gruppe `{{group}}` wurde in `{{newGroup}}` umbenannt.",
+    "help.bigtext.full": "Nutzung: `bigtext <text> [--spacesize <Zahl>] [--addspace <Zahl>]`"
 }
