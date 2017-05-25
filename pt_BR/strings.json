@@ -329,5 +329,6 @@
     "help.sar.full": "Futuramente TM",
     "finder.skippingUser": "Pulando usuário `{{search}}",
     "finder.skippingRole": "Pulando cargo `{{search}}`",
-    "locale.percent": "[{{num}}%]"
+    "locale.percent": "[{{num}}%]",
+    "locale.usageShort": "Usado: `locale set [locale] [--guild]` ou `locale list`"
 }
