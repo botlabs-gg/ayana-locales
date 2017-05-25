@@ -182,7 +182,7 @@
     "sar.checkHelp": "The command you entered is invalid. Check the help under `{{prefix}}sar help`.",
     "sar.changed": "Changed `{{action}}` in group `{{group}}` to `{{value}}`.",
     "sar.noDefaultGroup": "No default group has been defined. Check the help under `{{prefix}}sar help`.",
-    "sar.cannotUseReserved": "You cannot use this reserved keywords as group name.",
+    "sar.cannotUseReserved": "You cannot use this reserved keyword as group name.",
     "sar.setDefault": "Set default group to `{{group}}`.",
     "sar.reqRole": "Role required",
     "sar.maxRoles": "Max roles assignable",
