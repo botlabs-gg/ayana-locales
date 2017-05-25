@@ -359,7 +359,7 @@
     "sar.groupCreated": "Die Gruppe `{{group}}` wurde erstellt.",
     "sar.groupDeleted": "Die Gruppe `{{group}}` wurde gelöscht.",
     "sar.cannotCreateMoreGroups": "Du kannst nicht mehr als {{amnt}} Gruppen erstellen.",
-    "sar.cannotAddMoreRoles": "Du kannst nicht mehr als 15 Rollen in einer Gruppe haben.",
+    "sar.cannotAddMoreRoles": "Du kannst nicht mehr als {{amnt}} Rollen in einer Gruppe haben.",
     "sar.checkHelp": "Der Befehl, den du eingegeben hast, ist ungültig. Überprüfe die Hilfe unter `{{prefix}}sar help`.",
     "sar.changed": "`{{action}}` in der Gruppe `{{group}}` wurde auf `{{value}}` geändert.",
     "sar.noDefaultGroup": "Keine Standardguppe wurde definiert. Überprüfe die Hilfe unter `{{prefix}}sar help`.",
