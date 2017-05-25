@@ -351,7 +351,7 @@
     "sar.assign": "Przydziel: {{role}}}",
     "sar.unassign": "Zabierz: {{role}}",
     "sar.pick": "Wybierz rolę, którą chcesz sobie nadać lub odebrać",
-    "sar.assigned": "Rola `{{role}}` została Tobie przydzielona",
+    "sar.assigned": "Rola `{{role}}` została Tobie przydzielona.",
     "sar.unassigned": "Rola `{{role}}` została Tobie odebrana.",
     "sar.noActiveGroups": "Brak aktywnych grup :(",
     "sar.noGroups": "Brak grup :(",
@@ -386,5 +386,5 @@
     "settings.actionlog.channel": "Kanał do zapisywania logów.",
     "question.alreadyHasQuestion": "Pytanie jest już uruchomione w tej gildii.",
     "finder.headerRoleCSV": "Proszę wybierz rolę, którą miałeś na myśli `{{search}}`",
-    "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`"
+    "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`."
 }
