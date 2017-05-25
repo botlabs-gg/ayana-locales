@@ -162,7 +162,7 @@
     "sar.assign": "Assign: {{role}}",
     "sar.unassign": "Unassign: {{role}}",
     "sar.pick": "Pick the role you want to assign to yourself or unassign from yourself",
-    "sar.assigned": "The Role `{{role}}` has been assigned to you",
+    "sar.assigned": "The Role `{{role}}` has been assigned to you.",
     "sar.unassigned": "The Role `{{role}}` has been unassigned from you.",
     "sar.noActiveGroups": "No active groups :(",
     "sar.noGroups": "No groups :(",
