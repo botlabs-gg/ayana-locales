@@ -338,5 +338,6 @@
     "prune.autodelCancelled": "A deleção automática foi abortada",
     "role.higherThanUser": "Este cargo que você tentou modificar é o seu maior cargo ou o cargo que está em uma posição superior à posição do seu cargo. Você não irá conseguir modificar este cargo.",
     "role.invalidHexCode": "Você não usou um código hex válido. Exemplos de códigos hex válidos são #F4C e #F77800",
-    "role.ayanaLowerThanModified": "Ayana está em um cargo baixo ou no mesmo cargo que seria modificado"
+    "role.ayanaLowerThanModified": "Ayana está em um cargo baixo ou no mesmo cargo que seria modificado",
+    "role.modified": "O cargo `{{role}}` foi modificado."
 }
