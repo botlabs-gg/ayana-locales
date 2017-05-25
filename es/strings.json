@@ -291,5 +291,10 @@
     "role.noOptionsSpecified": "No especificaste ninguna opción. Consulte la ayuda de este comando para obtener más información.",
     "prune.results": "Resultados de mensajes eliminados",
     "help.neko.short": "random.cat",
-    "role.mainRoleHeader": "Por favor escoge el rol que debería ser dado o tomado (Tu búsqueda: `{{search}}`)"
+    "role.mainRoleHeader": "Por favor escoge el rol que debería ser dado o tomado (Tu búsqueda: `{{search}}`)",
+    "general.targetHigherRole": "{{target}} tienes un oficio más alto que usted. Usted no puede modificarlo.",
+    "general.notFound": "no encontré",
+    "help.bad.short": "¡No, que malo!",
+    "help.ban.short": "banir usuarios",
+    "help.bigtextd.short": "Igual que `bigtext`, También elimino tu comando"
 }
