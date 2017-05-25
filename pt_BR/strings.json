@@ -306,5 +306,6 @@
     "info.moreInfo": "Para mais informações sobre os fragmentos use {{prefix}}shardinfo",
     "question.timeout": "O tempo de resposta acabou.",
     "question.cancelled": "Questão cancelada.",
-    "general.targetHigherRole": "{{target}} Possui um cargo maior que o seu. Você não pode modifica-lo"
+    "general.targetHigherRole": "{{target}} Possui um cargo maior que o seu. Você não pode modifica-lo.",
+    "general.notFound": "Não encontrado"
 }
