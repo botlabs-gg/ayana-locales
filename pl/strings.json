@@ -386,5 +386,6 @@
     "settings.actionlog.channel": "Kanał do zapisywania logów.",
     "question.alreadyHasQuestion": "Pytanie jest już uruchomione w tej gildii.",
     "finder.headerRoleCSV": "Proszę wybierz rolę, którą miałeś na myśli `{{search}}`",
-    "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`."
+    "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`.",
+    "help.bigtext.full": "Użycie: `bigtext <tekst> [--spacesize <liczba>] [--addspace <liczba>]`"
 }
