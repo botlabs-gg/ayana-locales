@@ -119,7 +119,7 @@
     "perms.defaultUser": "Defaulted `{{node}}` for User `{{name}}`",
     "perms.fullHelp": "```css\nperms <allow|default|deny> permNode [--guild]|[--user [search]|[--role <search>]|[--channel [search] --role <role>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [search]|[--role <search>]|[--channel [search] --role <role>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = required, [] = optional, | = or, Please do not include the `<>[]|` in your commands```\nMore detailed help can be found at <https://ayana.io/permissions>",
     "prefix.text": "Prefix on this server is `{{prefix}}`.",
-    "prune.missingPerms": "Sorry, I lack the `Manage Message` Discord permission.",
+    "prune.missingPerms": "Sorry, I lack the `Manage Messages` Discord permission.",
     "prune.invalidAmount": "The amount you entered is invalid.",
     "prune.userHelp": "User requires an input to search for.",
     "prune.tooManyOptions": "You used at least two of the following options which is invalid `--all, --user, --bots`",
