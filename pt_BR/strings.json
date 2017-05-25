@@ -322,5 +322,9 @@
     "help.smug.short": "Encara",
     "help.pout.short": "Chateada",
     "help.prefix.short": "Verifique o prefixo do bot",
-    "help.sumfuk.short": "vc quer tranzar?"
+    "help.sumfuk.short": "vc quer tranzar?",
+    "help.waa.short": "Vai chorar?",
+    "help.shrugd.short": "Igual ao shrug, mas removerei o comando",
+    "help.role.full": "```css\n[Ajuda do comando Role]\n\nrole give <role[,cargo...]> - Da um cargo\nrole take <role[,cargo...]> - Tira um cargo\nrole modify <role> - Modifica um cargo\n\nTambém pode ser usado como:\n    giverole, takerole, modifyrole\n\nOpções para dar o cargo e tomar o cargo:\n    [--bots] - Irá trocar o cargo dos bots\n    [--users] - Irá trocar o cargo dos usuários\n    [--user <user[,usuário...]>] - Irá trocar o cargo de usuários específicos\n\n    [--inrole <cargo>] - Irá mudar o cargo se o destinatário tiver o cargo específico\n    [--notinrole <cargo>] - Irá mudar o cargo se o destinatário não tiver o cargo específico\n    [--noroles] - Irá mudar o cargo se o destinatário não tiver nenhum cargo\nOpções para \"role modify\":\n    [--name <nome>] - renomeia o cargo\n    [--color <cor>] - Troca a cor do cargo\n    [--move-after <cargo>] - Coloca na posição depois do cargo especificado\n\nExemplos:\n    role give Admin, Mod --user Fulano\n    giverole Bot --inrole Bot\n    takerole Muted --user Fulano, Ciclano\n    role modify Bad --color #FF0000\n    modifyrole Admin --color blue\n\nNota:\n    Este comando não permitirá que você para dar, tirar ou modificar cargos que estão em uma posição mais elevada do que o seu cargo mais alto!\n\n<> = informações necessárias, [] = informações opcionais, | = ou, não inclua <> [] ou | no comando\nPor favor, entre no servidor de suporte para mais informações. (=support para pegar o link)```",
+    "help.sar.full": "Futuramente TM"
 }
