@@ -86,7 +86,7 @@
     "help.locale": "Nutzung: `locale [set <Sprache> [--guild]]`",
     "ban.missingUser": "Erfoderliches Parameter Nutzer fehlt.",
     "ban.softHackban": "Soft und hackbannen zur selben Zeit funktioniert nicht.",
-    "ban.invalidDays": "Du hast keine gültige Zahl angegeben.",
+    "ban.invalidDays": "Days Option angegeben. Diese ist keine gültige Zahl.",
     "ban.hackbanUserID": "Hackban benötigt eine Nutzer ID.",
     "ban.failed": "Entschuldige, ich konnte den Nutzer nicht bannen. Vielleicht fehlt mir die Berechtigung dafür?",
     "ban.softFailed": "Softban Fehler. Nutzer wurde gebannt, konnte aber nicht entbannt werden. Bitte entbanne den Nutzer selber.",
