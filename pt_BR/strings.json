@@ -203,7 +203,7 @@
     "general.gatewayFailure": "Falha ao conectar ao Gateway. Por favor tente mais tarde.",
     "general.pagination": "Página {{page}}/{{pages}}",
     "general.pagination.invalidPage": "Página inválida.",
-    "invite.patreon": "Ayana Patreon é um bot com exclusividades disponível apenas para os patrões da Ayana!\nSe você quer ajudar a pagar a Ayana e ter conteudos adicionais incriveis no processo então por favor considere doando :heart:!\n\n{{patreon}}",
+    "invite.patreon": "Ayana Patreon é um bot com exclusividades disponível apenas para os patrões da Ayana!\nSe você quer ajudar a pagar a Ayana e ter conteudos adicionais incriveis no processo, então por favor considere doando :heart:!\n\n{{patreon}}",
     "invite.error": "Desculpa, mas eu não tenho o link de convite para `{{instance}}`\nAs instâncias válidas são `producton, patreon, beta`",
     "perms.validOpts": "Por favor especifique um nível de permissão válido. `--guild, --channel [channel], --role <Cargo>, --user [Usuário]` ou `--channel [Pesquisar] [--role <Cargo>|--user [Pesquisar]]`",
     "perms.invalidNode": "Nódulo de permissão inválido. Utilize `perms nodes` para uma lista válida de nódulos.",
