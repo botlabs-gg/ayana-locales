@@ -308,5 +308,9 @@
     "question.cancelled": "Questão cancelada.",
     "general.targetHigherRole": "{{target}} Possui um cargo maior que o seu. Você não pode modifica-lo.",
     "general.notFound": "Não encontrado",
-    "help.bad.short": "Não, ruim!"
+    "help.bad.short": "Não, ruim!",
+    "help.ban.short": "Bane usúarios",
+    "help.bigtextd.short": "O mesmo de bigtext, mas eu removo seu comando.",
+    "help.kick.short": "Expulsa usuários",
+    "help.lenny.short": "( ͡° ͜ʖ ͡°)"
 }
