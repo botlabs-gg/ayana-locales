@@ -335,5 +335,8 @@
     "locale.current": "```css\nConfigurações atuais\n  Servidor: {{guild}}\n  Usuário: {{user}}```\n{{help}}\nSe você quer ajudar a me traduzir para a sua língua vá para {{url}}",
     "prune.oldMsgsDeleted": "Mensagens antigas deletadas",
     "prune.autodelInfo": "Deletando mensagens automaticamente. Esta mensagem será deletada depois de 10 segundos. Digite 'c' para cancelar a deleção.",
-    "prune.autodelCancelled": "A \"deletação\" automática foi abortada"
+    "prune.autodelCancelled": "A deleção automática foi abortada",
+    "role.higherThanUser": "Este cargo que você tentou modificar é o seu maior cargo ou o cargo que está em uma posição superior à posição do seu cargo. Você não irá conseguir modificar este cargo.",
+    "role.invalidHexCode": "Você não usou um código hex válido. Exemplos de códigos hex válidos são #F4C e #F77800",
+    "role.ayanaLowerThanModified": "Ayana está em um cargo baixo ou no mesmo cargo que seria modificado"
 }
