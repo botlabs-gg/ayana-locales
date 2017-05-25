@@ -178,7 +178,7 @@
     "sar.groupAlreadyCreated": "The group `{{group}}` has already been created.",
     "sar.groupCreated": "The group `{{group}}` has been created.",
     "sar.groupDeleted": "The group `{{group}}` has been deleted.",
-    "sar.groupRenamed": "The group `{{group}}` has been renamed to `{{newGroup}}`",
+    "sar.groupRenamed": "The group `{{group}}` has been renamed to `{{newGroup}}`.",
     "sar.cannotCreateMoreGroups": "You cannot create more than {{amnt}} groups.",
     "sar.cannotAddMoreRoles": "You cannot add more than {{amnt}} roles to a group.",
     "sar.checkHelp": "The command you entered is invalid. Check the help under `{{prefix}}sar help`.",
