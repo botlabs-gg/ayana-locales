@@ -32,7 +32,7 @@
     "perms.roleUserConflict": "Cargos e Usuários não podem ser especificados ao mesmo tempo.",
     "perms.invalidOpt": "Somente `--channel [channel], --user [user], --role [role]` são opções validas, nenhum argumento no canal e usuário assume valores atuais.",
     "prefix.text": "O prefixo utilizado neste servidor é `{{prefix}}`.",
-    "prune.missingPerms": "Desculpe-me, eu desabilitei a permissão do Discord `Gerenciar Mensagens`.",
+    "prune.missingPerms": "Desculpe-me, eu não tenho a permissão do Discord `Gerenciar Mensagens`.",
     "prune.fetchFail": "Falha ao buscar mensagens.",
     "prune.filterHelp": "O filtro requer uma entrada para procurar por algo.",
     "prune.userIDConf": "Parece que `{{input}}` é um ID de usuário. Continuar [y/n]?",
