@@ -265,7 +265,7 @@
     "help.perms.short": "Interface de controle de permissão",
     "help.ping.short": "Ping Pong",
     "help.prune.short": "Deletando mensagem",
-    "help.role.short": "Dar e receber cargos",
+    "help.role.short": "Dar, pegar e modificar cargos",
     "help.roleinfo.short": "Pegar informação sobre um cargo",
     "help.rolemembers.short": "Pegar membros de um cargo",
     "help.say.short": "Faça eu falar alguma coisa",
@@ -310,12 +310,17 @@
     "general.notFound": "Não encontrado",
     "help.bad.short": "Não, ruim!",
     "help.ban.short": "Bane usúarios",
-    "help.bigtextd.short": "O mesmo de bigtext, mas eu removo seu comando.",
+    "help.bigtextd.short": "O mesmo de bigtext, mas eu removo seu comando",
     "help.kick.short": "Expulsa usuários",
     "help.lenny.short": "( ͡° ͜ʖ ͡°)",
     "help.lewd.short": "Isso é indecente!",
     "help.lennyd.short": "Igual a Lenny, mas removerei seu comando",
     "help.linkcheck.short": "Usa www.getlinkinfo.com para verificiar onde um link redireciona",
     "help.inu.short": "random.dog",
-    "help.locale.short": "Interface de configurações de idioma"
+    "help.locale.short": "Interface de configurações de idioma",
+    "help.shrug.short": "¯\\_(ツ)_/¯",
+    "help.smug.short": "Encara",
+    "help.pout.short": "Chateada",
+    "help.prefix.short": "Verifique o prefixo do bot",
+    "help.sumfuk.short": "vc quer tranzar?"
 }
