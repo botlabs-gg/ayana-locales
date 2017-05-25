@@ -288,6 +288,7 @@
     "settings.variable.userid": "Member UserID.",
     "settings.autodel.prune": "Delete all output generated after 10 seconds?",
     "settings.autorole.role": "The role that should be assigned with autorole",
+    "settings.actionlog.channel": "Channel to log actions in.",
     "settings.failedUpdateAutorole": "This role cannot be used for autorole because it's higher than your highest role.",
     "avatar.resolveFailed": "Failed to get avatar.",
     "translation.nativeName": "US English",
