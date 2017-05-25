@@ -249,7 +249,7 @@
     "role.cannotUseInroleNotinrole": "Stop making a dumb paradox combining `--inrole`, `--notinrole` and `--noroles`",
     "role.specifyAdditionalRole": "You do realize that I need to know what other role I need to use when you used `--inrole` or `--notinrole`, right?",
     "role.noOptionsSpecified": "You told me NOTHING to use for this command. Read the command help and learn for once.",
-    "role.pleaseWait": "Now wait while I deal with your shit. (Cunts processed: {{usersProcessed}})",
+    "role.pleaseWait": "Now wait while I deal with your shit. Type `{{prefix}}role cancel` to cancel this damn process. (Cunts processed: {{usersProcessed}})",
     "role.maximumReached": "Your shit used too many user role changes. The limit is 100 by the way.",
     "role.alreadyProcessing": "I'm already processing role request shit. Hold on.",
     "role.doneProcessing": "I'm done with your shit. Modifies roles of {{amount}} cunts.",
