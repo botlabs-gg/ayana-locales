@@ -334,5 +334,6 @@
     "locale.invalidLocale": "`{{input}}` não é um idioma reconhecido. Por favor digite `locale list` para uma lista de opções válidas.\n Se você quer ajudar a me traduzir para a sua língua vá para {{url}}",
     "locale.current": "```css\nConfigurações atuais\n  Servidor: {{guild}}\n  Usuário: {{user}}```\n{{help}}\nSe você quer ajudar a me traduzir para a sua língua vá para {{url}}",
     "prune.oldMsgsDeleted": "Mensagens antigas deletadas",
-    "prune.autodelInfo": "Deletando mensagens automaticamente. Esta mensagem será deletada depois de 10 segundos. Digite 'c' para cancelar a deleção."
+    "prune.autodelInfo": "Deletando mensagens automaticamente. Esta mensagem será deletada depois de 10 segundos. Digite 'c' para cancelar a deleção.",
+    "prune.autodelCancelled": "A \"deletação\" automática foi abortada"
 }
