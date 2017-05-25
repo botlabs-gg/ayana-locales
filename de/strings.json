@@ -332,7 +332,7 @@
     "prune.autodelCancelled": "Die automatische Löschung wurde abgebrochen.",
     "role.higherThanUser": "Die Rolle die du versucht hast zu modifizieren ist deine höchste Rolle oder über deiner höchste Rolle. Daher kannst du diese Rolle nicht modifizieren.",
     "role.invalidHexCode": "Du hast keinen gültigen HEX-Code benutzt. Beispiele für gültige HEX-Codes sind #F4C und #F77800",
-    "role.ayanaLowerThanModified": "Ayana ist in einer niedrigeren Rolle oder in der selben Rolle die modifiziert werden soll",
+    "role.ayanaLowerThanModified": "Ayana ist in einer niedrigeren Rolle oder in der selben Rolle, die du versuchst zu modifizieren",
     "role.modified": "Die Rolle `{{role}}` wurde modifiziert.",
     "role.notProcessing": "Keine Rollenbearbeitungsanfrage wird zurzeit bearbeitet.",
     "role.cancelled": "Die Rollenbearbeitungsanfrage wurde abgebrochen.",
