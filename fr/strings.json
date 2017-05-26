@@ -250,5 +250,11 @@
     "perms.showChannelUser": "Aperçu des permission du salon `{{cname}}` pour l'utilisateur `{{uname}}`",
     "perms.showChannelRole": "Aperçu des permissions du salon `{{cname}}` pour le rôle `{{rname}}`",
     "perms.showRole": "Aperçu des permissions pour le rôle `{{name}}`",
-    "perms.showUser": "Aperçu des permissions pour l'utilisateur `{{name}}`"
+    "perms.showUser": "Aperçu des permissions pour l'utilisateur `{{name}}`",
+    "general.gatewayFailure": "Impossible de contacter la passerelle. Veuillez réessayer plus tard.",
+    "perms.invalidNode": "Noeud d'autorisation invalide. Exécuter `perms nodes` pour une liste de nœuds valides.",
+    "perms.allowGuild": "Accordé `{{node}}` pour la Guilde entière",
+    "perms.denyGuild": "Révoqué `{{node}}` pour l'ensemble de la guilde",
+    "perms.defaultGuild": "`{{node}}`mit à défaut pour toute la guilde",
+    "perms.allowChannel": "Accordé `{{node}}` pour Channel `{{name}}`"
 }
