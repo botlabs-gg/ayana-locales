@@ -397,5 +397,6 @@
     "help.sar.short": "Einstellungsschnittstelle für selbst zuweisbare Rollen",
     "general.noDiscordPermission": "Entschuldigung, mir fehlt das `{{perm}}` Discord Recht.",
     "settings.guild.dmerrors": "Aktiviere/Deaktiviere dmerrors für diese Gilde.",
-    "settings.user.dmerrors": "Aktiviere/Deaktiviere dmerrors."
+    "settings.user.dmerrors": "Aktiviere/Deaktiviere dmerrors.",
+    "perms.legend": ":heavy_check_mark: => Standardmäßig erlaubt :heavy_multiplication_x: => Standardmäßig verweigert :white_check_mark: => Erlaubt :no_entry: => Verweigert"
 }
