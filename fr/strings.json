@@ -261,5 +261,5 @@
     "perms.defaultChannel": "`{{node}}` mit à défaut pour le salon `{{name}}`",
     "perms.allowChannelUser": "Accordé `{{node}}` sur le salon `{{cname}}` pour l'utilisateur `{{uname}}`",
     "perms.denyChannelUser": "Révoqué `{{node}}` sur le salon `{{cname}}` pour l'utilisateur `{{uname}}`",
-    "perms.defaultChannelUser": "`{{node}}`mit à défaut sur le canal `{{cname}}` pour l'utilisateur `{{uname}}`"
+    "perms.defaultChannelUser": "`{{node}}`mit à défaut sur le salon `{{cname}}` pour l'utilisateur `{{uname}}`"
 }
