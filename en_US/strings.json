@@ -173,6 +173,8 @@
     "sar.action.reqrole": "The role a user must have to use this group. Use `everyone` as role to remove the required role.",
     "sar.ayanaLowerThanRole": "I won't add or remove roles to SAR that are higher than or equal to my highest role.",
     "sar.cannotAddHigherRoles": "You cannot add or remove roles that are higher than or equal to your highest role.",
+    "sar.rolesAlreadyAdded": "The roles `{{role}}` have already been added.",
+    "sar.rolesNotInGroup": "The roles `{{role}}` were not in the group.",
     "sar.roleAlreadyAdded": "The role `{{role}}` has already been added.",
     "sar.roleNotInGroup": "The role `{{role}}` was not in the group.",
     "sar.rolesHelp": "Use `{{prefix}}sar <group> roles <add|remove> <role>` to add or remove roles to or from a group.",
