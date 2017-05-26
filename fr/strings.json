@@ -165,7 +165,7 @@
     "settings.variable.mention": "Mentionner l'utilisateur.",
     "settings.variable.username": "Nom d'utilisateur du membre.",
     "settings.variable.discriminator": "Discriminateur de membre.",
-    "settings.variable.userid": "ID du compte du membre.",
+    "settings.variable.userid": "id du membre",
     "shardinfo.fail": "Échec lors de l'extraction des informations de branche de la passerelle.",
     "shardinfo.currentShard": "Cette branche",
     "setgame.fail": "Échec du lancement du jeu. {{error}}",
