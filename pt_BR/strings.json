@@ -395,7 +395,7 @@
     "sar.rolesNotInGroup": "Os cargos `{{role}}` não estão no grupo.",
     "help.modlog.short": "Interface de configurações do ModLog",
     "help.pat.short": "Acariciar",
-    "help.rank.short": "Atribuir classificação do SAR",
+    "help.rank.short": "Atribuir a classificação do SAR",
     "help.reminder.short": "Deixe-me lembrá-lo",
     "help.sar.short": "Interface de configurações de cargos auto-atribuíveis"
 }
