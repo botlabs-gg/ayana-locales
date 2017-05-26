@@ -257,5 +257,5 @@
     "perms.denyGuild": "Révoqué `{{node}}` pour l'ensemble de la guilde",
     "perms.defaultGuild": "`{{node}}`mit à défaut pour toute la guilde",
     "perms.allowChannel": "Accordé `{{node}}` pour le salon `{{name}}`",
-    "perms.denyChannel": "Accordé `{{node}}` pour le canal `{{name}}`"
+    "perms.denyChannel": "Accordé `{{node}}` pour le salon `{{name}}`"
 }
