@@ -398,5 +398,6 @@
     "general.noDiscordPermission": "Entschuldigung, mir fehlt das `{{perm}}` Discord Recht.",
     "settings.guild.dmerrors": "Aktiviere/Deaktiviere dmerrors für diese Gilde.",
     "settings.user.dmerrors": "Aktiviere/Deaktiviere dmerrors.",
-    "perms.legend": ":heavy_check_mark: => Standardmäßig erlaubt :heavy_multiplication_x: => Standardmäßig verweigert :white_check_mark: => Erlaubt :no_entry: => Verweigert"
+    "perms.legend": ":heavy_check_mark: => Standardmäßig erlaubt :heavy_multiplication_x: => Standardmäßig verweigert :white_check_mark: => Erlaubt :no_entry: => Verweigert",
+    "bigtext.outputTooLarge": "Hoppla! Die Ausgabenachricht wurde größer als 2000 Zeichen!"
 }
