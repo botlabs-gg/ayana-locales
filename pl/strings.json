@@ -387,5 +387,12 @@
     "question.alreadyHasQuestion": "Pytanie jest już uruchomione w tej gildii.",
     "finder.headerRoleCSV": "Proszę wybierz rolę, którą miałeś na myśli `{{search}}`",
     "sar.groupRenamed": "Nazwa grupy `{{group}}` została zmieniona na `{{newGroup}}`.",
-    "help.bigtext.full": "Użycie: `bigtext <tekst> [--spacesize <liczba>] [--addspace <liczba>]`"
+    "help.bigtext.full": "Użycie: `bigtext <tekst> [--spacesize <liczba>] [--addspace <liczba>]`",
+    "help.modlog.short": "Interfejs ustawień Modlog",
+    "help.pat.short": "Pat",
+    "help.rank.short": "Przydziel role z SAR",
+    "help.reminder.short": "Ustaw przypomnienie",
+    "help.sar.short": "Interfejs ustawień samodzielnie przydzielanych ról",
+    "sar.rolesAlreadyAdded": "Role `{{role}}` już były dodane.",
+    "sar.rolesNotInGroup": "Role `{{role}}` nie były w grupie."
 }
