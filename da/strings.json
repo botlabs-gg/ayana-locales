@@ -389,5 +389,12 @@
     "sar.createHelp": "Brug `{{prefix}}sar create <gruppe>` for at lave en gruppe.",
     "words.active": "Aktiv",
     "question.alreadyHasQuestion": "Du har allerede en løbende forespørgsel i denne server.",
-    "help.bigtext.full": "Brug: `bigtext <tekst> [--spacesize <nummer>] [--addspace <nummer>]`"
+    "help.bigtext.full": "Brug: `bigtext <tekst> [--spacesize <nummer>] [--addspace <nummer>]`",
+    "help.modlog.short": "Indstillinger for moderationslog",
+    "help.pat.short": "klap",
+    "help.rank.short": "Tildel roller fra SAR",
+    "help.reminder.short": "Lad mig påminde dig",
+    "help.sar.short": "Selv-rolle-tildelings indstillinger",
+    "sar.rolesAlreadyAdded": "Rollerne `{{role}}` er allerede tilføjet.",
+    "sar.rolesNotInGroup": "Rollerner `{{role}}` var ikke i gruppen."
 }
