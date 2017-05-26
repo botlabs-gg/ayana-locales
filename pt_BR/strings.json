@@ -390,5 +390,7 @@
     "sar.action.reqrole": "O cargo que o usuário precisa ter para entrar neste grupo. Use `everyone` como um cargo para remover o cargo necessário.",
     "sar.groupRenamed": "O grupo `{{group}}` foi renomeado com sucesso para `{{newGroup}}`.",
     "sar.reqRole": "Cargo requirido",
-    "help.bigtext.full": "Usagem: `bigtext <texto> [--spacesize <número>] [--addspace <number>]]`"
+    "help.bigtext.full": "Usagem: `bigtext <texto> [--spacesize <número>] [--addspace <number>]]`",
+    "sar.rolesAlreadyAdded": "Os cargos `{{role}}` já foram adicionados.",
+    "sar.rolesNotInGroup": "Os cargos `{{role}}` não estão no grupo."
 }
