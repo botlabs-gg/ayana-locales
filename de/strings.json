@@ -389,5 +389,10 @@
     "sar.groupRenamed": "Die Gruppe `{{group}}` wurde in `{{newGroup}}` umbenannt.",
     "help.bigtext.full": "Nutzung: `bigtext <text> [--spacesize <Zahl>] [--addspace <Zahl>]`",
     "sar.rolesAlreadyAdded": "Die Rollen `{{role}}` wurden bereits hinzugefügt.",
-    "sar.rolesNotInGroup": "Die Rollen `{{role}}` waren nicht in dieser Gruppe vorhanden."
+    "sar.rolesNotInGroup": "Die Rollen `{{role}}` waren nicht in dieser Gruppe vorhanden.",
+    "help.modlog.short": "ModLog Einstellungsschnittstelle",
+    "help.pat.short": "Pat",
+    "help.rank.short": "Weise dir Rollen von SAR zu",
+    "help.reminder.short": "Lass mich dich an etwas erinnern",
+    "help.sar.short": "Einstellungsschnittstelle für selbst zuweisbare Rollen"
 }
