@@ -397,5 +397,7 @@
     "sar.rolesNotInGroup": "Role `{{role}}` nie były w grupie.",
     "general.noDiscordPermission": "Przepraszam, brakuje mi uprawnień Discord `{{perm}}`.",
     "settings.guild.dmerrors": "Włącz/wyłącz dmerrors dla całej gildii.",
-    "settings.user.dmerrors": "Włącz/wyłącz dmerrors."
+    "settings.user.dmerrors": "Włącz/wyłącz dmerrors.",
+    "bigtext.outputTooLarge": "Ups! Wiadomość przekroczyła limit 2000 znaków!",
+    "perms.legend": ":heavy_check_mark: => Domyślnie zezwolone :heavy_multiplication_x: => Domyślnie zablokowane :white_check_mark: => Zezwolone :no_entry: => Zablokowane"
 }
