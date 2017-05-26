@@ -1,6 +1,6 @@
 {
     "general.guildOnly": "Disponible uniquement dans le serveur. ",
-    "general.error": "Une erreur s'est produite. Veuillez la rapporter sur notre serveur de support. ( utilisez la commande `support` pour recevoir une invitation )\n```{{error}}```",
+    "general.error": "Une erreur s'est produite. Veuillez la rapporter sur notre serveur de support. ( Utilisez la commande `support` pour recevoir une invitation )\n```{{error}}```",
     "general.cooldown": "Woah ! Je suis en surchauffe, là ! Cette commande est en veille temporairement.",
     "finder.failUser": "Impossible de trouver l'utilisateur correspondant.",
     "finder.failRole": "Impossible de trouver le rôle correspondant.",
@@ -249,5 +249,6 @@
     "perms.showChannel": "Aperçu des permissions pour le salon `{{name}}`",
     "perms.showChannelUser": "Aperçu des permission du salon `{{cname}}` pour l'utilisateur `{{uname}}`",
     "perms.showChannelRole": "Aperçu des permissions du salon `{{cname}}` pour le rôle `{{rname}}`",
-    "perms.showRole": "Aperçu des permissions pour le rôle `{{name}}`"
+    "perms.showRole": "Aperçu des permissions pour le rôle `{{name}}`",
+    "perms.showUser": "Aperçu des permissions pour l'utilisateur `{{name}}`"
 }
