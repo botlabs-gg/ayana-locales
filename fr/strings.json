@@ -258,5 +258,5 @@
     "perms.defaultGuild": "`{{node}}`mit à défaut pour toute la guilde",
     "perms.allowChannel": "Accordé `{{node}}` pour le salon `{{name}}`",
     "perms.denyChannel": "Accordé `{{node}}` pour le salon `{{name}}`",
-    "perms.defaultChannel": "`{{node}}` mit à défaut pour le canal `{{name}}`"
+    "perms.defaultChannel": "`{{node}}` mit à défaut pour le salon `{{name}}`"
 }
