@@ -259,5 +259,6 @@
     "perms.allowChannel": "Accordé `{{node}}` pour le salon `{{name}}`",
     "perms.denyChannel": "Accordé `{{node}}` pour le salon `{{name}}`",
     "perms.defaultChannel": "`{{node}}` mit à défaut pour le salon `{{name}}`",
-    "perms.allowChannelUser": "Accordé `{{node}}` sur le salon `{{cname}}` pour l'utilisateur `{{uname}}`"
+    "perms.allowChannelUser": "Accordé `{{node}}` sur le salon `{{cname}}` pour l'utilisateur `{{uname}}`",
+    "perms.denyChannelUser": "Révoqué `{{node}}` sur le canal `{{cname}}` pour l'utilisateur `{{uname}}`"
 }
