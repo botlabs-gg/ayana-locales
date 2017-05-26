@@ -269,5 +269,5 @@
     "perms.denyRole": "Révoqué `{{node}}` pour le rôle `{{name}}`",
     "perms.defaultRole": "`{{node}}` mit à défaut pour le rôle `{{name}}`",
     "perms.allowUser": "Accordé `{{node}}` pour l'utilisateur {{name}} `",
-    "general.noDiscordPermission": "Sorry, I lack the `{{perm}}` Discord permission."
+    "general.noDiscordPermission": "Désolé, Je pénurie le `{{perm}}` Discord permission."
 }
