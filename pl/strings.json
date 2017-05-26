@@ -249,7 +249,7 @@
     "help.prune": "Użycie: `prune <ilość> [--all|--user [szukaj]|--bots] [--filter [słowa]|--embeds|--attachments|--pinned]`",
     "settings.autodel.prune": "Usunąć wygenerowane wyjście po 10 sekundach?",
     "general.unableToDM": "Nie byłam w stanie wysłać Ci prywatnej wiadomości. Może to być spowodowane wyłączeniem opcji `Allow direct messages from server members` w ustawieniach prywatności Discord. Proszę, włącz tę opcję, aby otrzymać prywatną wiadomość.",
-    "general.forbidden": "Próbowałam wysłać odpowiedź na twoją komendę. Jednakże brakuje mi uprawnień. Proszę, niech ktoś z administracji doda mi uprawnienia Discord `Wysyłanie wiadomości`.\n\nGildia: `{{guild}}`\nKanał: `{{channel}}`\nKomenda: `{{cmd}}`",
+    "general.forbidden": "Próbowałam wysłać odpowiedź na twoją komendę. Jednakże brakuje mi uprawnień. Proszę, niech ktoś z administracji doda mi uprawnienia Discord `Wysyłanie wiadomości`.\n\nGildia: `{{guild}}`\nKanał: `{{channel}}`\nKomenda: `{{cmd}}`\n\nJeżeli nie chcesz otrzymywać wiadomości tego typu, proszę wpisz na czacie gildii `settings user dmerrors false`.",
     "prune.totalMsgsDeleted": "Łącznie",
     "prune.oldMsgsDelted": "Stare wiadomości",
     "prune.oldMsgsNotDeleted": "Nie usunięte stare wiadomości",
@@ -394,5 +394,8 @@
     "help.reminder.short": "Ustaw przypomnienie",
     "help.sar.short": "Interfejs ustawień samodzielnie przydzielanych ról",
     "sar.rolesAlreadyAdded": "Role `{{role}}` już były dodane.",
-    "sar.rolesNotInGroup": "Role `{{role}}` nie były w grupie."
+    "sar.rolesNotInGroup": "Role `{{role}}` nie były w grupie.",
+    "general.noDiscordPermission": "Przepraszam, brakuje mi uprawnień Discord `{{perm}}`.",
+    "settings.guild.dmerrors": "Włącz/wyłącz dmerrors dla całej gildii.",
+    "settings.user.dmerrors": "Włącz/wyłącz dmerrors."
 }
