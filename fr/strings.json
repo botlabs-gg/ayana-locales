@@ -21,7 +21,7 @@
     "modlog.created": "Objet Modlog créé.",
     "modlog.updated": "L'objet Modlog a été mis à jour.",
     "modlog.updateFail": "Échec de la mise à jour des détails de l'objet Modlog.",
-    "modlog.hackAdd": "Il semblerait que `{{input}}` est l'ID d'un utilisateur. Continuer [y/n]?\n(y = oui/ n = non)",
+    "modlog.hackAdd": "Il semblerait que `{{input}}` soit l'ID d'un utilisateur. Continuer [y/n]?\n(y = oui/ n = non)",
     "perms.denied": "Vous n'avez pas la permission `{{node}}`.",
     "perms.cmdDenied": "Permission refusée. Vous devez être le propriétaire du serveur ou avoir un rôle d'administrateur pour modifier les permissions.",
     "perms.resetall.owner": "Seul le propriétaire du serveur peut utiliser cette commande.",
