@@ -9,6 +9,7 @@
     "general.targetHigherRole": "{{target}} possess a higher role than you. You may not modify them.",
     "general.pagination.invalidPage": "Invalid Page.",
     "general.notFound": "Not found",
+    "general.noDiscordPermission": "Sorry, I lack the `{{perm}}` Discord permission.",
     "help.avatar.short": "Get a user's avatar",
     "help.bad.short": "No, bad!",
     "help.ban.short": "Ban users",
