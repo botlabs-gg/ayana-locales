@@ -328,5 +328,13 @@
     "role.alreadyProcessing": "Ayana ya está procesando una solicitud de role en este servidor.",
     "role.doneProcessing": "¡Hecho! He modificado roles de usuarios {{amount}}.",
     "role.userHeader": "Por favor, elija el usuario que quiere decir `{{search}}`",
-    "role.statusMessageDeleted": "Se ha eliminado el mensaje de \"status\". El proceso ha sido abortado."
+    "role.statusMessageDeleted": "Se ha eliminado el mensaje de \"status\". El proceso ha sido abortado.",
+    "help.modlog.short": "Interfaz de configuración de ModLog",
+    "help.reminder.short": "Déjame recordarte",
+    "help.sar.short": "Interfaz de configuraciones de roles asignables automáticamente",
+    "bigtext.outputTooLarge": "¡Vaya! ¡El mensaje de salida se hizo más grande que 2000 caracteres!",
+    "role.higherThanUser": "El rol que intentó modificar es su rol más alto o está por encima de su rol más alto. Por lo tanto no podrá modificar este rol.",
+    "role.invalidHexCode": "No utilice un código hexadecimal válido. Ejemplos de códigos hexagonales válidos son #F4C y #F77800",
+    "role.ayanaLowerThanModified": "Ayana está en un nivel inferior o en el mismo rol que está intentando modificar",
+    "role.notProcessing": "Ninguna solicitud de rol está procesando en este momento."
 }
