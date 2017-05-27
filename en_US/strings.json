@@ -276,6 +276,8 @@
     "support.text": "For support, suggestions, or bugs with Ayana please join the Support server. {{support}}",
     "kick.failed": "Sorry, I was unable to kick the user. Maybe I lack the permission to?",
     "linkcheck.headerRedirects": "[Redirects]",
+    "linkcheck.error": "Failed to check link.",
+    "linkcheck.pleaseWait": "Please wait while I check this spoopy link for you.",
     "ping.pong": "Pong! {{ms}}",
     "settings.failedUpdate": "Failed to update Setting.",
     "settings.invalidInput": "Expected Setting to be `{{type}}` Got `{{input}}`.",
