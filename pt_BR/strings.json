@@ -109,7 +109,7 @@
     "channelinfo.connected": "Usuários Conectados",
     "channelinfo.overwrite": "Permissão Substitui",
     "music2.join": ":white_check_mark: Registrado e vinculado à :speaker: `{{voice}}` e :newspaper: `{{text}}`.",
-    "music2.rebound": ":white_check_mark: Resumindo música após desconexão.",
+    "music2.rebound": ":white_check_mark: Resumindo playback da música após desconexão.",
     "music2.userNoChannel": "Você não está em um canal neste momento. Por favor entre em um canal de voz.",
     "music2.leave": ":no_entry: Saindo do canal. Se você gostou de utilizar a Ayana por favor, nos ajude a continuar de pé em <https://ayana.io/donate>!",
     "music2.nowplaying": ":notes: Tocando agora: `{{title}}` pedida por `{{requester}}`.",
@@ -248,7 +248,7 @@
     "help.prune": "Uso: `prune <quantidade> [--all|--user [buscar]|--bots] [--filter [filtrar]|--embeds|--attachments|--pinned]`",
     "settings.autodel.prune": "Deletar tudo gerado após 10 segundos?",
     "general.unableToDM": "Não consegui enviar uma mensagem direta para você. Isso pode ter acontecido se você está com a opção `Permitir mensagem direta de membros do servidor` na aba de Privacidade desabilitada. Por favor habilite esta opção para receber esta mensagem direta.",
-    "general.forbidden": "Tentei enviar uma resposta para o seu comando. De qualquer forma estou sem permições. Por favor, peça para alguém da equipe do servidor me dar a permissão `Send Message`.\n\nServidor: `{{guild}}`\nCanal: `{{channel}}\nComando: `{{cmd}}",
+    "general.forbidden": "Tentei enviar uma resposta para o seu comando. De qualquer forma estou sem permições. Por favor, peça para alguém da equipe do servidor me dar a permissão `Send Message`.\n\nServidor: `{{guild}}`\nCanal: `{{channel}}\nComando: `{{cmd}}\n\nSe você não deseja ver essas mensagens por favor digite `settings user dmerrors false`no servidor.",
     "help.avatar.short": "Pegue o avatar de um usuário",
     "help.bigtext.short": "Gera textos com indicadores regionais (Exemplo: :regional_indicator_k: :regional_indicator_k: :regional_indicator_e: :regional_indicator_a: :regional_indicator_e: :regional_indicator_m: :regional_indicator_e: :regional_indicator_n: )",
     "help.botlist.short": "Pegue uma lista de bots do carbon",
@@ -397,5 +397,12 @@
     "help.pat.short": "Acariciar",
     "help.rank.short": "Atribuir a classificação do SAR",
     "help.reminder.short": "Deixe-me lembrá-lo",
-    "help.sar.short": "Interface de configurações de cargos auto-atribuíveis"
+    "help.sar.short": "Interface de configurações de cargos auto-atribuíveis",
+    "general.noDiscordPermission": "Desculpe, mas eu preciso da permissão `{{perm}}`.",
+    "bigtext.outputTooLarge": "Eita! A mensagem de saída que você fez tem mais de 2000 caracteres!",
+    "perms.legend": ":heavy_check_mark: => Aceito por padrão :heavy_multiplication_x: => Negado por padrão :white_check_mark: => Aceito :no_entry: => Negado",
+    "linkcheck.error": "Falha ao checar o link.",
+    "linkcheck.pleaseWait": "Por favor espere enquanto eu checo se esse link é assustador para você.",
+    "settings.guild.dmerrors": "Habilitar/desabilitar mensagem direta de erros do servidor.",
+    "settings.user.dmerrors": "Habilitar / desabilitar mensagem direta de erros."
 }
