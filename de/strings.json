@@ -401,5 +401,16 @@
     "perms.legend": ":heavy_check_mark: => Standardmäßig erlaubt :heavy_multiplication_x: => Standardmäßig verweigert :white_check_mark: => Erlaubt :no_entry: => Verweigert",
     "bigtext.outputTooLarge": "Hoppla! Die Ausgabenachricht wurde größer als 2000 Zeichen!",
     "linkcheck.error": "Ich konnte den Link nicht überprüfen.",
-    "linkcheck.pleaseWait": "Bitte warte während ich diesen gruseligen Link für dich überprüfe."
+    "linkcheck.pleaseWait": "Bitte warte während ich diesen gruseligen Link für dich überprüfe.",
+    "aliases.noAliasDefined": "Du musst einen Alias definieren: `--addalias <Alias>`.",
+    "aliases.alreadyAyanaCmd": "Der Alias, den du versucht hast zu setzen wird von Ayana benutzt.",
+    "aliases.alreadyExists": "Der Alias `{{alias}}` existiert bereits.",
+    "aliases.aliasAdded": "Der Alias `{{alias}}` wurde für den Befehl `{{cmd}}` hinzugefügt.",
+    "aliases.notAlphanumeric": "Der Alias muss alphanumerisch sein. Du hast `{{input}}` eingegeben.",
+    "aliases.addHelp": "Um Aliase hinzuzufügen benutze den Befehl den du hinzufügen willst wie normal und füge `--addalias <Alias>` zu ihm hinzu.",
+    "aliases.notExistent": "Der Alias `{{alias}}` existiert nicht.",
+    "aliases.removed": "The Alias `{{alias}}` wurde entfernt.",
+    "aliases.renamed": "Der Alias `{{alias}}` wurde in `{{new}}` umbenannt.",
+    "aliases.cannotAddAliasToAlias": "Du kannst keinen Alias für einen Alias hinzufügen.",
+    "aliases.cannotHaveMore": "Du kannst nicht mehr als {{amnt}} Aliase haben."
 }
