@@ -2,7 +2,7 @@
     "general.guildOnly": "Sadece sunucularda kullanılabilir. ",
     "general.unableToDM": "Mesaj gönderemedim. Mesajlarımı alabilmeniz için lütfen Discord gizlilik ayarlarınızdan `Sunucu üyelerinden gelen direkt mesajlara izin ver.` seçeneğini aktif hale getirin.",
     "general.error": "Bir hata oluştu. Lütfen bunu destek ekibimize bildirin. (`support` komutunu kullanarak davet adresini alabilirsiniz).\n```{{error}}```",
-    "general.forbidden": "Cevap göndermeye çalıştım. Ancak buna yetkim yok. Lütfen sunucu yöneticilerinden bana `Mesaj Gönder` yetkisini vermelerini isteyin.\n\nSunucu: `{{guild}}`\nKanal: `{{channel}}`\nKomut: `{{cmd}}`",
+    "general.forbidden": "Cevap göndermeye çalıştım. Ancak buna yetkim yok. Lütfen sunucu yöneticilerinden bana `Mesaj Gönder` yetkisini vermelerini isteyin.\n\nSunucu: `{{guild}}`\nKanal: `{{channel}}`\nKomut: `{{cmd}}`\nEğer bu mesajları görmek istemiyorsanız sunucunuzda `settings user dmerrors false` komutunu kullanın.",
     "general.gatewayFailure": "Bağlantı kurulamadı. Lütfen daha sonra tekrar deneyin.",
     "general.cooldown": "Woah! Yavaş olmalısın.",
     "general.pagination": "Sayfa {{page}}/{{pages}}",
@@ -27,7 +27,7 @@
     "help.say.short": "Bir şeyler söylet",
     "help.serverinfo.short": "Sunucu hakkında bilgi al",
     "help.settings.short": "Ayar kontrol arabirimi",
-    "help.support.short": "Destek sunucusu adresi al",
+    "help.support.short": "Destek sunucusu için davet adresi al",
     "help.userinfo.short": "Kullanıcı hakkında bilgi al",
     "finder.failUser": "Aramanızla eşleşen kullanıcı bulunamadı.",
     "finder.failRole": "Aramanızla eşleşen rol bulunamadı.",
@@ -129,8 +129,8 @@
     "words.arguments": "Argüman",
     "words.delete": "Sil",
     "words.uptime": "Çalışma Süresi",
-    "help.rolemembers.short": "Rol üyeleri",
-    "perms.fullHelp": "```css\nperms <allow|default|deny> izin [--guild]|[--user [ara]|[--role <ara>]|[--channel [ara] --role <rol>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [ara]|[--role <ara>]|[--channel [ara] --role <rol>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = zorunlu, [] = opsiyonel, | Komutu yazarken `<>[]|` kullanmayın```\nDetaylı bilgiye <https://ayana.io/permissions> adresinden ulaşabilirsiniz.",
+    "help.rolemembers.short": "Rol üyelerini listele",
+    "perms.fullHelp": "```css\nperms <allow|default|deny> izin [--guild]|[--user [ara]|[--role <ara>]|[--channel [ara] --role <rol>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [ara]|[--role <ara>]|[--channel [ara] --role <rol>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = zorunlu, [] = opsiyonel, | Komutu yazarken <> [] | kullanmayın```\nDetaylı bilgiye <https://ayana.io/permissions> adresinden ulaşabilirsiniz.",
     "prefix.text": "Bu sunucuda ön ek `{{prefix}}`.",
     "prune.missingPerms": "Üzgünüm, `Mesajları Yönet`yetkisine sahip değilim.",
     "prune.invalidAmount": "Geçerli bir sayı girin.",
@@ -147,5 +147,5 @@
     "role.missingPerms": "Üzgünüm, `Rolleri Yönet` iznine sahip değilim.",
     "role.noRoleSpecified": "Verilmesi veya alınması gereken bir rol belirtmediniz.",
     "role.specifyUser": "`--user <user>` parametresini kullanırken bir kullanıcı belirtmeniz gerekir.",
-    "role.cannotUseInroleNotinrole": "`--inrole` ile `--notinrole` parametresini aynı anda kullanamazsınız."
+    "role.cannotUseInroleNotinrole": "`--inrole` ve `--notinrole` parametresini aynı anda kullanamazsınız."
 }
