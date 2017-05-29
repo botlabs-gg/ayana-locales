@@ -234,7 +234,7 @@
     "perms.allowUser": "Zezwolono `{{node}}` dla użytkownika `{{name}}`",
     "perms.denyUser": "Zablokowano `{{node}}` dla użytkownika `{{name}}`",
     "perms.defaultUser": "Przywrócono wartość domyślną `{{node}}` dla użytkownika `{{name}}`",
-    "perms.fullHelp": "```css\nperms <allow|default|deny> węzełUprawnień [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = wymagane, [] = opcjonalne, | = lub, Proszę nie używać `<>[]|` w komendach```\nBardziej szczegółową instrukcję można znaleźć pod adresem <https://ayana.io/permissions>",
+    "perms.fullHelp": "```css\nperms <allow|default|deny> węzełUprawnień [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [szukaj]|[--role <szukaj>]|[--channel [szukaj] --role <rola>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = wymagane, [] = opcjonalne, | = lub, Proszę nie używać <> [] | w swoich komendach```\nBardziej szczegółową instrukcję można znaleźć pod adresem <https://ayana.io/permissions>",
     "words.directlink": "Bezpośredni Link",
     "help.rolemembers": "Użycie: `rolemembers <rola> [strona]` lub `rolemembers <rola> [--page <strona>]`",
     "rolemembers.headerPage": "Użytkownicy z rolą {{role}} strona {{page}}/{{total}}",
@@ -401,5 +401,16 @@
     "bigtext.outputTooLarge": "Ups! Wiadomość przekroczyła limit 2000 znaków!",
     "perms.legend": ":heavy_check_mark: => Domyślnie zezwolone :heavy_multiplication_x: => Domyślnie zablokowane :white_check_mark: => Zezwolone :no_entry: => Zablokowane",
     "linkcheck.error": "Nie udało się sprawdzić linku.",
-    "linkcheck.pleaseWait": "Proszę czekać póki nie sprawdzę tego linku."
+    "linkcheck.pleaseWait": "Proszę czekać póki nie sprawdzę tego linku.",
+    "aliases.noAliasDefined": "Najpierw musisz określić alias: `--addalias <alias>`.",
+    "aliases.alreadyAyanaCmd": "Alias, który próbowałeś użyć jest już używany przez Ayanę.",
+    "aliases.alreadyExists": "Alias `{{alias}}` już istnieje.",
+    "aliases.aliasAdded": "Alias `{{alias}}` został dodany dla `{{cmd}}`.",
+    "aliases.notAlphanumeric": "Alias musi być alfanumeryczny. Wpisałeś `{{input}}`.",
+    "aliases.addHelp": "Aby dodać aliasy, użyj komendy tak jak zawsze, oraz dopisz `--addalias <alias>` na końcu.",
+    "aliases.notExistent": "Alias `{{alias}}` nie istnieje.",
+    "aliases.removed": "Alias `{{alias}}` został usunięty.",
+    "aliases.renamed": "Nazwa aliasu `{{alias}}` została zmieniona na `{{new}}`.",
+    "aliases.cannotAddAliasToAlias": "Nie możesz dodać aliasu dla aliasu.",
+    "aliases.cannotHaveMore": "Nie możesz mieć więcej niż {{amnt}} aliasów."
 }
