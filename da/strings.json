@@ -234,7 +234,7 @@
     "perms.allowUser": "Tildelte `{{node}}` til brugeren `{{name}}`",
     "perms.denyUser": "Tilbagetog `{{node}}` fra brugeren `{{name}}`",
     "perms.defaultUser": "Tilbagesatte `{{node}}` for brugeren `{{name}}`",
-    "perms.fullHelp": "```css\nperms <allow|default|deny> permNode [--guild]|[--user [søg]|[--role <søg>]|[--channel [søg] --role <rolle>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [søg]|[--role <søg>]|[--channel [søg] --role <rolle>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = påkrævet, [] = valgfri, | = eller, Vær venlig ikke at inkludere `<>[]|` i dine kommandoer```\nMere detaljeret hjælp kan findes på <https://ayana.io/permissions>",
+    "perms.fullHelp": "```css\nperms <allow|default|deny> permNode [--guild]|[--user [søg]|[--role <søg>]|[--channel [søg] --role <rolle>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [søg]|[--role <søg>]|[--channel [søg] --role <rolle>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = påkrævet, [] = valgfri, | = eller, Vær venlig ikke at inkludere `<> [] |` i dine kommandoer```\nMere detaljeret hjælp kan findes på <https://ayana.io/permissions>",
     "words.directlink": "Direkte link",
     "help.rolemembers": "Brug: `rolemembers <rolle> [side]` or `rolemembers <rolle> [--page <side>]`",
     "rolemembers.headerPage": "Medlemmer i rollen {{role}} side {{page}}/{{total}}",
