@@ -414,5 +414,11 @@
     "linkcheck.error": "Mislykkedes i at tjekke linket.",
     "linkcheck.pleaseWait": "Vent venligt, mens jeg undersøger dette _\"uhyggelige\"_ link for dig.",
     "settings.guild.dmerrors": "Aktiver/Deaktiver dmerrors for hele serveren.",
-    "settings.user.dmerrors": "Aktiver/Deaktiver dmerrors."
+    "settings.user.dmerrors": "Aktiver/Deaktiver dmerrors.",
+    "general.pagination.altNavi": "Som et alternativ, i stedet for at bruge reaktioner, kan du bruge `<` og `>` for at skifte side.",
+    "general.pagination.altClose": "Skriv `x` for at lukke sidevisningen.",
+    "help.aliases.short": "Kommando alias kontrolpanel",
+    "help.aliases.full": "```css\n[Alias hjælp]\n\naliases list - Viser en liste over all aliaser i denne server\naliases rename <alias> <new name> - Omdøber et alias\naliases remove <alias> - Fjerner et alias\naliases <alias> userargs <bool> - Tillader eller nægter argumenter og valgmuligheder, der skal tilføjes til et alias når det laves\n\nLav et alias:\n    Brug kommandoen som du normalt ville og tilføj '--addalias <alias>' bagefter.\n    Lad os sige at du ønsker at lave '{{prefix}}hej' som et alias for '{{prefix}}say hej'.\n    For at gøre dette skal du bruge kommandoen '{{prefix}}say hej --addalias hej'.\n    Valgmuligheder gemmes også når et alias laves (Undtagen --addalias selvfølgelig).\n\n<> = pårkrævet information, [] = valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nTilslut venligst support serveren for spørgsmål. ({{prefix}}support for at få et link)```",
+    "sar.assignmentInterface": "For at bruge SAR tildelings interfacen, brug `{{prefix}}rank [gruppe]`.",
+    "general.pagination.blocked": "Sidevisning er blokeret for dig i øjeblikket. Luk venligst din allerede åbne sidevisning."
 }
