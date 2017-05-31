@@ -13,6 +13,7 @@
     "general.pagination.blocked": "The pagination for you is blocked right now. Please close your currently running pagination.",
     "general.pagination.altNavi": "Alternatively to the reactions you can type `<` and `>` to switch the page.",
     "general.pagination.altClose": "Type `x` to close the pagination.",
+    "help.aliases.short": "Manage command aliases",
     "help.avatar.short": "Get a user's avatar",
     "help.bad.short": "No, bad!",
     "help.ban.short": "Ban users",
