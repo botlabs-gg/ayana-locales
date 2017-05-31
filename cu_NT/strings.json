@@ -410,5 +410,11 @@
     "settings.guild.dmerrors": "Enable/Disable bad code errors guild wide.",
     "settings.user.dmerrors": "Enable/Disable bad code errors.",
     "settings.failedUpdateAutorole": "I'm not using that for autorole because that shit is better than you.",
-    "question.alreadyHasQuestion": "I'm already asking shit here."
+    "question.alreadyHasQuestion": "I'm already asking shit here.",
+    "general.pagination.blocked": "I'm not gonna flip pages for two fucking books.",
+    "general.pagination.altNavi": "Alternatively to the reactions you can type `<` and `>` to switch the page.",
+    "general.pagination.altClose": "Type `x` to stop dealing with this shit.",
+    "help.aliases.short": "Manage command aliases",
+    "help.aliases.full": "```css\n[Aliases Help]\n\naliases list - Lists all aliases created in this guild\naliases rename <alias> <new name> - Renames aliases\naliases remove <alias> - Removes aliases\naliases <alias> userargs <bool> - Allows or denys arguments, options and flags to be added to the alias when it's executed\n\nCreate an alias:\n    Type the command as you would normally do and add '--addalias <alias>' to the end of it.\n    Let's say you want to make '{{prefix}}hello' as an alias for '{{prefix}}say hello'.\n    To add this alias you would execute '{{prefix}}say hello --addalias hello'.\n    Options and flags are also saved when an alias is added (except --addalias of course).\n\n<> = required information, [] = optional information, | = or, Don't put <> [] or | in your command input or else you are a fucking idiot\nJoin the server to annoy us about the simplest problems. ({{prefix}}support for link)```",
+    "sar.assignmentInterface": "To use the SAR shit use `{{prefix}}rank [group]`."
 }
