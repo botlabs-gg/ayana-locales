@@ -412,5 +412,9 @@
     "aliases.removed": "The Alias `{{alias}}` wurde entfernt.",
     "aliases.renamed": "Der Alias `{{alias}}` wurde in `{{new}}` umbenannt.",
     "aliases.cannotAddAliasToAlias": "Du kannst keinen Alias für einen Alias hinzufügen.",
-    "aliases.cannotHaveMore": "Du kannst nicht mehr als {{amnt}} Aliase haben."
+    "aliases.cannotHaveMore": "Du kannst nicht mehr als {{amnt}} Aliase haben.",
+    "general.pagination.blocked": "Die Pagination ist für dich zurzeit blockiert. Bitte schließe deine aktuell laufende Pagination.",
+    "general.pagination.altNavi": "Alternativ zu den Reaktionen kannst du `<` und `>` eintippen um die Seite zu wechseln.",
+    "general.pagination.altClose": "Tippe `x` um die Pagination zu schließen.",
+    "sar.assignmentInterface": "Um die SAR Zuweisungsschnittstelle zu benutzen, benutze `{{prefix}}rank [group]`."
 }
