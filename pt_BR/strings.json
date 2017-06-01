@@ -404,5 +404,9 @@
     "linkcheck.error": "Falha ao checar o link.",
     "linkcheck.pleaseWait": "Por favor espere enquanto eu checo se esse link é assustador para você.",
     "settings.guild.dmerrors": "Habilitar/desabilitar mensagem direta de erros do servidor.",
-    "settings.user.dmerrors": "Habilitar / desabilitar mensagem direta de erros."
+    "settings.user.dmerrors": "Habilitar / desabilitar mensagem direta de erros.",
+    "general.pagination.blocked": "A paginação está bloqueada para você agora. Por favor feche sua paginação em andamento.",
+    "general.pagination.altNavi": "Alternativamente às reações, você pode digitar `<` e `>` para trocar a página. Escreva `p<num>` para pular de página (exemplo: `p10`).",
+    "general.pagination.altClose": "Escreva `x` para fechar a paginação.",
+    "help.aliases.short": "Gerenciar \"alias\" de comando"
 }
