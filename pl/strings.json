@@ -412,5 +412,11 @@
     "aliases.removed": "Alias `{{alias}}` został usunięty.",
     "aliases.renamed": "Nazwa aliasu `{{alias}}` została zmieniona na `{{new}}`.",
     "aliases.cannotAddAliasToAlias": "Nie możesz dodać aliasu dla aliasu.",
-    "aliases.cannotHaveMore": "Nie możesz mieć więcej niż {{amnt}} aliasów."
+    "aliases.cannotHaveMore": "Nie możesz mieć więcej niż {{amnt}} aliasów.",
+    "general.pagination.blocked": "Paginacja w tej chwili jest dla Ciebie zablokowana. Proszę zamknij twoją aktualnie uruchomioną paginację.",
+    "general.pagination.altNavi": "Alternatywnie do reakcji możesz wpisać '<' i '>', aby przełączać się między stronami. Wpisz 'p<num>', aby skoczyć do strony (np. 'p10').",
+    "general.pagination.altClose": "Wpisz 'x', aby zamknąć paginację.",
+    "help.aliases.short": "Zarządzaj aliasami komend",
+    "help.aliases.full": "```css\n[Pomoc aliasów]\n\naliases list - Pokazuje listę wszystkich aliasów stworzonych na tym kanale\naliases rename <alias> <nowa nazwa> - Zmienia nazwę aliasu\naliases remove <alias> - Usuwa alias\naliases <alias> userargs <bool> - Zezwala lub odmawia wykonania argumentów, opcji lub oznaczania, w chwili kiedy alias jest tworzony. \n\nTworzenie aliasów:\n\tWpisz komendę tak jak zwykle to robisz i dodaj '--addalias <alias>' na jej końcu.\n\tUstalmy, że chcesz to zrobić z '{{prefix}}hello' jako alias komendy '{{prefix}}say hello'.\n \tAby dodać ten alias należy wpisać '{{prefix}}say hello --addalias hello'.\n \tOpcje i oznaczenia również zostają zapisane, kiedy alias zostaje dodany (wykluczając --addalias of course).\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
+    "sar.assignmentInterface": "Aby użyć interfejsu przydzielania SAR użyj `{{prefix}}rank [group]`."
 }
