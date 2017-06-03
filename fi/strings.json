@@ -245,7 +245,7 @@
     "words.directlink": "Suora linkki",
     "help.rolemembers": "Käyttö: `rolemembers <role> [page]` tai `rolemembers <role> [--page <page>]`",
     "general.unableToDM": "En pystynyt lähettämään sinulle yksityisviestiä. Tämä voi johtua siitä että sinulla ei ole aktivoitu `Allow direct messages from server members` -yksityisyys asetusta. Aseta tämä asetus päälle, jotta voit saada viestin minulta.",
-    "general.forbidden": "Yritin vastata komentoosi, mutta minulta puuttuu oikeudet siihen. Pyydä palvelimen ylläpitoa antamaan minulle oikeus `Send Message` Discord palvelin asetuksista. \nPalvelin: `{{guild}}`\nKanava: `{{channel}}`\nKomento: `{{cmd}}`",
+    "general.forbidden": "Yritin vastata komentoosi, mutta minulta puuttuu oikeudet siihen. Pyydä palvelimen ylläpitoa antamaan minulle oikeus `Send Message` Discord palvelin asetuksista. \nPalvelin: `{{guild}}`\nKanava: `{{channel}}`\nKomento: `{{cmd}}`\n\nJos et enää halua näitä viestejä, suorita `settings user dmerrors false` palvelimella.",
     "perms.fullHelp": "```css\nperms <allow|default|deny> permNode [--guild]|[--user [search]|[--role <search>]|[--channel [search] --role <role>]\n perms allow guild.ban --role admin\n perms deny fun.all --guild\n\nperms show [--guild]|[--user [search]|[--role <search>]|[--channel [search] --role <role>]\n perms show --guild\n perms show --channel general\n perms show --channel gen --user HcgRandon\n\n<> = vaadittu, [] = vaihtoehtoinen, | = joko/tai. Jätäthän `<>[]|` pois komennon suorittamisesta.```\nLisätietoja osoitteessa: <https://ayana.io/permissions>",
     "prune.results": "Tyhjennä vastaukset",
     "prune.totalMsgsDeleted": "Viestejä poistettu yhteensä",
@@ -290,5 +290,9 @@
     "help.f.short": "F antaaksesi respektiä",
     "help.flipcoin.short": "Heitä kolikkea",
     "help.help.short": "Näytä tämä viesti",
-    "help.info.short": "Näytä botin tiedot"
+    "help.info.short": "Näytä botin tiedot",
+    "general.targetHigherRole": "{{target}} käyttäjällä on korkeampi rooli kuin sinulla. Et voi muuttaa heitä.",
+    "general.notFound": "Ei tuloksia",
+    "general.noDiscordPermission": "Pahoittelut, minulta puuttuu seuraava Discord-oikeus`{{perm}}`.",
+    "general.pagination.blocked": "Sivutus on estetty sinulta nyt. Sulje nykyinen sivutus."
 }
