@@ -201,5 +201,7 @@
     "role.statusMessageDeleted": "Durum mesajı silindi. İşlem iptal edildi.",
     "role.invalidHexCode": "Geçerli bir hex kodu kullanmadın. #F4C ve  #F77800 geçerli hex kodlarına örnektir",
     "role.ayanaLowerThanModified": "Ayana düzenlemeye çalıştığınız rollerden aşağı bir role sahip",
-    "role.modified": "`{{role}}` rolü düzenlendi."
+    "role.modified": "`{{role}}` rolü düzenlendi.",
+    "role.notProcessing": "Şu anda herhangi bir rol isteği işlenmiyor.",
+    "role.cancelled": "Rol isteği iptal edildi."
 }
