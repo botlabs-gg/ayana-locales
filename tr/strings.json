@@ -195,5 +195,6 @@
     "prune.oldMsgsDeleted": "Silinen eski mesaj",
     "prune.autodelInfo": "Otomatik silme etkin. Bu mesaj 10 saniye sonra silinecek. İptal etmek için 'c' yazın.",
     "prune.autodelCancelled": "Otomatik silme iptal edildi.",
-    "role.maximumReached": "İsteğiniz maksimum 100 kullanıcının rol değişikliğini geçti."
+    "role.maximumReached": "İsteğiniz maksimum 100 kullanıcının rol değişikliğini geçti.",
+    "role.alreadyProcessing": "Ayana bu sunucuda zaten bir rol isteği işliyor."
 }
