@@ -198,5 +198,8 @@
     "role.maximumReached": "İsteğiniz maksimum 100 kullanıcının rol değişikliğini geçti.",
     "role.alreadyProcessing": "Ayana bu sunucuda zaten bir rol isteği işliyor.",
     "role.doneProcessing": "Tamam! {{amount}} kullanıcının rolü düzenlendi.",
-    "role.statusMessageDeleted": "Durum mesajı silindi. İşlem iptal edildi."
+    "role.statusMessageDeleted": "Durum mesajı silindi. İşlem iptal edildi.",
+    "role.invalidHexCode": "Geçerli bir hex kodu kullanmadın. #F4C ve  #F77800 geçerli hex kodlarına örnektir",
+    "role.ayanaLowerThanModified": "Ayana düzenlemeye çalıştığınız rollerden aşağı bir role sahip",
+    "role.modified": "`{{role}}` rolü düzenlendi."
 }
