@@ -203,5 +203,6 @@
     "role.ayanaLowerThanModified": "Ayana düzenlemeye çalıştığınız rollerden aşağı bir role sahip",
     "role.modified": "`{{role}}` rolü düzenlendi.",
     "role.notProcessing": "Şu anda herhangi bir rol isteği işlenmiyor.",
-    "role.cancelled": "Rol isteği iptal edildi."
+    "role.cancelled": "Rol isteği iptal edildi.",
+    "sar.groupNotFound": "`{{group}}` grubu bulunamadı."
 }
