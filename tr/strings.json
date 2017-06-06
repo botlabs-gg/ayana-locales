@@ -204,5 +204,7 @@
     "role.modified": "`{{role}}` rolü düzenlendi.",
     "role.notProcessing": "Şu anda herhangi bir rol isteği işlenmiyor.",
     "role.cancelled": "Rol isteği iptal edildi.",
-    "sar.groupNotFound": "`{{group}}` grubu bulunamadı."
+    "sar.groupNotFound": "`{{group}}` grubu bulunamadı.",
+    "translation.nativeName": "Türkçe",
+    "translation.englishName": "Turkish"
 }
