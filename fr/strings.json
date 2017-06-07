@@ -318,7 +318,7 @@
     "role.cannotUseInroleNotinrole": "Vous ne pouvez pas combiner `--inrole`, `--notinrole` et`--noroles`",
     "role.specifyAdditionalRole": "Vous devez spécifier un rôle additionnel lorsque vous utilisez `--inrole` ou `--notinrole`",
     "role.noOptionsSpecified": "Vous n'avez spécifié aucune option. Veuillez regarder l'aide de cette commande pour plus d'information.",
-    "role.mainRoleHeader": "Choisiez le rôle qui devrait être donné ou enlevé (Votre recherche: `{{search}}`)",
+    "role.mainRoleHeader": "Choisissez le rôle qui doit être donné ou enlevé (Votre recherche: `{{search}}`)",
     "role.secondaryRoleHeader": "Veuillez choisir le rôle spécifié dans `--inrole` ou `--notinrole` (Votre recherche: `{{search}}`)",
     "role.pleaseWait": "Veuillez attendre pendant qu'Ayana procède votre requête. Écrivez `{{prefix}}role cancel`pour annuler le procédé. (Utilisateurs procédés: {{usersProcessed}})",
     "role.maximumReached": "Votre requête a dépassé le maximum de 100 changements de rôle.",
