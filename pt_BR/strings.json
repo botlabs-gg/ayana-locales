@@ -408,5 +408,6 @@
     "general.pagination.blocked": "A paginação está bloqueada para você agora. Por favor feche sua paginação em andamento.",
     "general.pagination.altNavi": "Alternativamente às reações, você pode digitar `<` e `>` para trocar a página. Escreva `p<num>` para pular de página (exemplo: `p10`).",
     "general.pagination.altClose": "Escreva `x` para fechar a paginação.",
-    "help.aliases.short": "Gerenciar \"alias\" de comando"
+    "help.aliases.short": "Gerenciar \"alias\" de comando",
+    "general.ayanaRoleTooLow": "O maior cargo atual da Ayana é mais baixo ou igual ao cargo targeto. Por favor, mova o cargo da Ayana para mais alto."
 }
