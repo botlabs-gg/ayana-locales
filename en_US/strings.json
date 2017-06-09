@@ -95,7 +95,7 @@
     "finder.skippingRole": "Skipping role `{{search}}`",
     "invite.text": "Sure thing :ok_hand:\n\nTo have me join your server please choose one of the links:\n\nModeration (recommended): {{invite}}\nMinimal (not recommended): {{invitemin}}",
     "invite.patreon": "Ayana Patreon is an exclusive perk available to patrons of Ayana!\nIf you want to help pay Ayana's bills and get some awesome perks in the process, then please consider donating :heart:!\n\n{{patreon}}",
-    "invite.error": "Sorry, but I don't have the invite link for `{{instance}}`\nValid instances are `producton, patreon, beta`",
+    "invite.error": "Sorry, but I don't have the invite link for `{{instance}}`\nValid instances are `production, patreon, beta`",
     "flipcoin.heads": "Heads!",
     "flipcoin.tails": "Tails!",
     "locale.percent": "[{{num}}%]",
