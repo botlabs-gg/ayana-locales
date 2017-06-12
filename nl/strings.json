@@ -23,7 +23,7 @@
     "modlog.updateFail": "Mislukt om log item gegevens te bijwerken.",
     "modlog.hackAdd": "ziet eruit dat `{{input}}` een gebruiker id is. Verdergaan [y'n]?",
     "perms.denied": "Je hebt de `{{node}}` toestemming niet.",
-    "perms.cmdDenied": "Toestemming genegeerd. Je moet server eigenaar zijn of administratie rechten hebben om deze toestemming te veranderen.",
+    "perms.cmdDenied": "Toestemming geweigerd. Je moet server eigenaar zijn of administratie rechten hebben om deze toestemming te veranderen.",
     "perms.resetall.owner": "Dit commando kan alleen gebruikt worden door de server eigenaar.",
     "perms.resetall.reset": "Toestemingen hersteld.",
     "perms.resetall.error": "Herstellen van alle perms mislukt.",
