@@ -206,5 +206,9 @@
     "role.cancelled": "Rol isteği iptal edildi.",
     "sar.groupNotFound": "`{{group}}` grubu bulunamadı.",
     "translation.nativeName": "Türkçe",
-    "translation.englishName": "Turkish"
+    "translation.englishName": "Turkish",
+    "general.pagination.blocked": "Sayfalamanız bloke edildi. Lütfen şu an kullandığınız sayfalamayı kapatınız.",
+    "general.pagination.altClose": "Sayfalamayı kapatmak için `x` yazın.",
+    "general.pagination.altNavi": "Sayfayı değiştirmek için alternatif olarak `<` ve `>`yazabilirsiniz. Başka bir sayfaya atlamak için `p<num>` yazabilirsiniz (örnek `p10`).",
+    "general.ayanaRoleTooLow": "Ayana'nın en yüksek pozisyonu hedefe eşit ya da daha düşüktür. Lütfen Ayana'nın pozisyonunu yükseltin."
 }
