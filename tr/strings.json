@@ -210,5 +210,21 @@
     "general.pagination.blocked": "Sayfalamanız bloke edildi. Lütfen şu an kullandığınız sayfalamayı kapatınız.",
     "general.pagination.altClose": "Sayfalamayı kapatmak için `x` yazın.",
     "general.pagination.altNavi": "Sayfayı değiştirmek için alternatif olarak `<` ve `>`yazabilirsiniz. Başka bir sayfaya atlamak için `p<num>` yazabilirsiniz (örnek `p10`).",
-    "general.ayanaRoleTooLow": "Ayana'nın en yüksek pozisyonu hedefe eşit ya da daha düşüktür. Lütfen Ayana'nın pozisyonunu yükseltin."
+    "general.ayanaRoleTooLow": "Ayana'nın en yüksek pozisyonu hedefe eşit ya da daha düşüktür. Lütfen Ayana'nın pozisyonunu yükseltin.",
+    "general.pagination.perms": "`Mesajları Yönet` iznine sahipmişim gibi gözükmüyor. Mesajları silebilmem için bu izni vermelisin.",
+    "finder.skippingUser": "Kullanıcı `{{search}}` geçiliyor",
+    "finder.skippingRole": "Rol `{{search}}` geçiliyor",
+    "music2.emptyQueue": "Burada bir şey yok…",
+    "music2.headerQueue": "[Müzik Sırası]",
+    "question.timeout": "Zaman aşımına uğradı.",
+    "music2.enqueued": "Sıraya alındı: `{{title}}` ve **{{position}}**. sırada. `music play` komutunu kullanarak sıraya alınmış müzikleri çalabilirsiniz.",
+    "music2.enqueuedPlaylist": "Sıraya alındı: `{{items}}` şu çalma listesinden: `{{title}}`. `music play` komutunu kullanarak sıraya alınmış müzikleri çalabilirsiniz.",
+    "music2.join": ":white_check_mark: Giriş yapıldı, :speaker: `{{voice}}` ve :newspaper: `{{text}}` kanallarına bağlandı.",
+    "music2.nowplaying": ":notes: `{{requester}}` tarafından istenen `{{title}}` çalıyor.",
+    "music2.skipped": ":fast_forward: `{{item}}` geçildi.",
+    "music2.queuePurged": "Sıra temizlendi.",
+    "music2.queueShuffled": ":twisted_rightwards_arrows: Sıra karıştırıldı.",
+    "music2.loopOne": ":repeat_one: Şimdiki şarkı tekrarlanıyor.",
+    "music2.loopAll": ":repeat: Sıra tekrarlanıyor.",
+    "music2.loopOff": "Tekrarlama devre dışı bırakıldı."
 }
