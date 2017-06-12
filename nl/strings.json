@@ -221,7 +221,7 @@
     "help.info.short": "Laat bot-info zien",
     "help.inu.short": "random.dog",
     "help.invite.short": "Ik kan je server joinen",
-    "help.kick.short": "Kick Gebruikers",
+    "help.kick.short": "Kick gebruikers",
     "help.lenny.short": "( ͡° ͜ʖ ͡°)",
     "help.lewd.short": "Lewd!",
     "help.lennyd.short": "Zelfde als lenny, maar ik verwijder ook je commando",
@@ -268,5 +268,6 @@
     "words.directlink": "Directe Link",
     "words.contributors": "Bijdragers",
     "help.rolemembers": "Gebruik: `rolemembers <role> [page]` of `rolemembers <role> [--page <page>]`",
-    "rolemembers.headerPage": "Leden van Rol {{role}} pagina {{page}}/{{total}}"
+    "rolemembers.headerPage": "Leden van Rol {{role}} pagina {{page}}/{{total}}",
+    "general.ayanaRoleTooLow": "Ayana's hoogste rol is lager of gelijk aan de target rol. Zet Ayana's rol hoger in de rollenlijst aub."
 }
