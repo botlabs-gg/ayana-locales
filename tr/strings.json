@@ -294,5 +294,6 @@
     "f.paid": "**{{username}}**: Saygılar.",
     "f.paidfor": "**{{username}}**: Saygılar **{{type}}**.",
     "f.paidfooter": "{{today}} Bugün, {{all}} Toplam",
-    "f.paidstats": "Bugün **{{today}}**. Toplam **{{all}}**."
+    "f.paidstats": "Bugün **{{today}}**. Toplam **{{all}}**.",
+    "question.cancelled": "Soru iptal edildi."
 }
