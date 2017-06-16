@@ -239,7 +239,7 @@
     "help.rolemembers": "Brug: `rolemembers <rolle> [side]` or `rolemembers <rolle> [--page <side>]`",
     "rolemembers.headerPage": "Medlemmer i rollen {{role}} side {{page}}/{{total}}",
     "invite.patreon": "Ayana Patreon er en eksklusiv frynsegod tilgængelig for dem, der støtter Ayana på Patreon!\nHvis du ønsker at hjælpe til med at betale Ayanas regninger og få nogle fede frynsegoder med i købet, så overvej venligst at donere :heart:!\n\n{{patreon}}",
-    "invite.error": "Beklager, men jeg har ikke invitations linket for  `{{instance}}`\nGyldige links er `producton, patreon, beta`",
+    "invite.error": "Beklager, men jeg har ikke invitations linket for  `{{instance}}`\nGyldige links er `production, patreon, beta`",
     "flipcoin.heads": "Plat!",
     "flipcoin.tails": "Krone!",
     "prune.invalidAmount": "Antallet som du angav er ugyldigt.",
@@ -415,7 +415,7 @@
     "linkcheck.pleaseWait": "Vent venligt, mens jeg undersøger dette _\"uhyggelige\"_ link for dig.",
     "settings.guild.dmerrors": "Aktiver/Deaktiver dmerrors for hele serveren.",
     "settings.user.dmerrors": "Aktiver/Deaktiver dmerrors.",
-    "general.pagination.altNavi": "Som et alternativ, i stedet for at bruge reaktioner, kan du bruge `<` og `>` for at skifte side. Skriv `p<num>` for at hoppe til en specifik side (eks. `p10`).",
+    "general.pagination.altNavi": "Brug `<` og `>` for at skifte side. Skriv `p<num>` for at hoppe til en specifik side (eks. `p10`).",
     "general.pagination.altClose": "Skriv `x` for at lukke sidevisningen.",
     "help.aliases.short": "Kommando alias kontrolpanel",
     "help.aliases.full": "```css\n[Alias hjælp]\n\naliases list - Viser en liste over all aliaser i denne server\naliases rename <alias> <new name> - Omdøber et alias\naliases remove <alias> - Fjerner et alias\naliases <alias> userargs <bool> - Tillader eller nægter argumenter og valgmuligheder, der skal tilføjes til et alias når det laves\n\nLav et alias:\n    Brug kommandoen som du normalt ville og tilføj '--addalias <alias>' bagefter.\n    Lad os sige at du ønsker at lave '{{prefix}}hej' som et alias for '{{prefix}}say hej'.\n    For at gøre dette skal du bruge kommandoen '{{prefix}}say hej --addalias hej'.\n    Valgmuligheder gemmes også når et alias laves (Undtagen --addalias selvfølgelig).\n\n<> = pårkrævet information, [] = valgfri information, | = eller, inkluder ikke <> [] eller | i din kommando\nTilslut venligst support serveren for spørgsmål. ({{prefix}}support for at få et link)```",
@@ -424,5 +424,6 @@
     "general.ayanaRoleTooLow": "Ayana's højeste rolle er lavere eller lig med den valgte rolle. Flyt venligst Ayana højere op.",
     "general.userRoleTooLow": "The valgte rolle er enten højere eller din højeste rolle, og kan dermed ikke blive brugt.",
     "aliases.empty": "Der er ikke nogle aliaser i denne server. Brug venligst `aliases` kommandoen uden argumenter for at se hjælpen.",
-    "music2.skipEmpty": "Køen er tom. Intet til at springe over."
+    "music2.skipEmpty": "Køen er tom. Intet til at springe over.",
+    "general.pagination.perms": "Det ser ikke ud til, at jeg har Discord tilladelsen `MANAGE MESSAGES`. Dette vil automatisk slette sideskift beskederne, hvis denne tilladelse er givet."
 }
