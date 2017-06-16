@@ -24,7 +24,7 @@
     "modlog.hackAdd": "Il semblerait que `{{input}}` soit l'ID d'un utilisateur. Continuer [y/n]?\n(y = oui/ n = non)",
     "perms.denied": "Vous n'avez pas la permission `{{node}}`.",
     "perms.cmdDenied": "Permission refusée. Vous devez être le propriétaire du serveur ou avoir un rôle d'administrateur pour modifier les permissions.",
-    "perms.resetall.owner": "Cette commande ne peut être utilisé que par le propriétaire du serveur.",
+    "perms.resetall.owner": "Cette commande ne peut être utilisée que par le propriétaire du serveur.",
     "perms.resetall.reset": "Les permissions ont été réinitialisées.",
     "perms.resetall.error": "Erreur lors de la réinitialisation de toutes les permissions.",
     "perms.failedUpdate": "Erreur lors de la mise a jour du nœud de permission. Veuillez contacter le support si l'erreur persiste.",
