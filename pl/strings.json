@@ -423,5 +423,9 @@
     "general.userRoleTooLow": "Docelowa rola jest albo wyższa lub jest to twoja najwyższa rola. Nie można wykonać czynności.",
     "aliases.empty": "Nie ustawiono żadnych aliasów na tej gildii. Po pomoc, wpisz bez żadnych argumentów komendę `aliases`.",
     "music2.skipEmpty": "Pusta kolejka. Nic do pominięcia.",
-    "general.pagination.perms": "Nie wygląda na to jakbym miała permisję 'ZARZĄDZAJ WIADOMOŚCIAMI'. Automatycznie usunę wiadomości, kiedy zostanie nadana mi permisja."
+    "general.pagination.perms": "Nie wygląda na to jakbym miała permisję 'ZARZĄDZAJ WIADOMOŚCIAMI'. Automatycznie usunę wiadomości, kiedy zostanie nadana mi permisja.",
+    "aliases.updatedAlias": "Zmieniono w aliasie `{{alias}}` wartość z `{{key}}` na `{{Value}}`.",
+    "aliases.setting.userargs": "Zezwól lub zabroń użytkownikom na dodawanie argumentów, opcji lub oznaczeń do komendy, którą twój alias wykonuje.",
+    "aliases.userargs": "Argumenty użytkownika",
+    "words.alias": "Alias"
 }
