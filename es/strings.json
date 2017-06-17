@@ -347,7 +347,7 @@
     "help.aliases.short": "Gestionar comando de alias",
     "help.pat.short": "Palmada",
     "help.rank.short": "Asignar rango para SAR",
-    "help.sumfuk.short": "Quieres, suma fuk?",
+    "help.sumfuk.short": "\"u want, sum fuk?\" meme",
     "help.bigtext.full": "usar: `bigtext <texto> [--spacesize <numero>] [--addspace <numero>]`",
     "help.aliases.full": "```css\n[Ayuda de Alias]\n\naliases list - Lista todos los alias creados en este servidor\naliases rename <alias> <nuevo nombre> - Cambia el nombre de los alias\naliases remove <alias> - Elimina los alias\naliases <alias> userargs <bool> - Permite o niega argumentos, opciones y banderas para ser agregados al alias cuando es ejecutado\n\nCrear un alias:\n     Escriba el comando como lo haría normalmente y agregue '--addalias <alias>' al final de la misma.\n     Digamos que quieres hacer '{{prefix}} hello' como alias para '{{prefix}} say hello'.\n     Para agregar este alias ejecute '{{prefix}} say hello --addalias hello'.\n     Las opciones y las banderas también se guardan cuando se añade un alias (excepto --addalias, por supuesto).\n\n<> = Información requerida, [] = información opcional, | = O, no incluya <> [] o | En la entrada de comandos\nPor favor unirse al servidor de soporte para cualquier pregunta. ({{Prefix}} soporte para el enlace) `` `",
     "aliases.noAliasDefined": "Tú necesitas agregar un alias: `--addalias <alias>`.",
