@@ -421,7 +421,7 @@
     "sar.assignmentInterface": "Aby użyć interfejsu przydzielania SAR użyj `{{prefix}}rank [grupa]`.",
     "general.ayanaRoleTooLow": "Największa rola Ayany jest mniej lub równie uprawniona od roli docelowej. Proszę umieść Ayanę wyżej.",
     "general.userRoleTooLow": "Docelowa rola jest albo wyższa lub jest to twoja najwyższa rola. Nie można wykonać czynności.",
-    "aliases.empty": "Nie ustawiono żadnych aliasów na tej gildii. Po pomoc, wpisz bez żadnych argumentów komendę `aliases`.",
+    "aliases.empty": "Nie ustawiono żadnych aliasów dla tej gildii. Po pomoc, wpisz, bez żadnych argumentów, komendę `aliases`.",
     "music2.skipEmpty": "Pusta kolejka. Nic do pominięcia.",
     "general.pagination.perms": "Nie wygląda na to jakbym miała permisję 'ZARZĄDZAJ WIADOMOŚCIAMI'. Automatycznie usunę wiadomości, kiedy zostanie nadana mi permisja.",
     "aliases.updatedAlias": "Zmieniono w aliasie `{{alias}}` wartość z `{{key}}` na `{{Value}}`.",
