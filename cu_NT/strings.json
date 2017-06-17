@@ -421,7 +421,7 @@
     "general.userRoleTooLow": "That cunt is bigger than you or some shit you have. Therefore you cannot use the cunt.",
     "general.pagination.perms": "I cant FUCKING `MANAGE MESSAGES` CUNT. I'll delete page switching shit if you give it to me, cunt.",
     "aliases.empty": "Theres no fucking aliases on this shit. Run the `aliases` fucking command to fix shit.",
-    "aliases.updatedAlias": "Updated fucking `{{key}}` for the cunt `{{alias}}` to `{{value}}`",
+    "aliases.updatedAlias": "Updated fucking `{{key}}` for the cunt `{{alias}}` to `{{value}}`.",
     "aliases.setting.userargs": "Allows or stops cunts from adding shit like arguments, options or flags to the command you are executing",
     "aliases.userargs": "Cunts arguments",
     "words.alias": "Differences",
