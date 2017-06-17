@@ -411,5 +411,6 @@
     "help.aliases.short": "Gerenciar \"alias\" de comando",
     "general.ayanaRoleTooLow": "O maior cargo atual da Ayana é mais baixo ou igual ao cargo alvo. Por favor, mova o cargo da Ayana para mais alto.",
     "general.userRoleTooLow": "O cargo alvo ou é maior ou é o seu maior cargo e não pode ser usado.",
-    "general.pagination.perms": "Parece que eu não tenho a permissão do Discord `MANAGE MESSAGES`. Eu vou automaticamente deletar mensagens de troca de página se essa permissão for dada."
+    "general.pagination.perms": "Parece que eu não tenho a permissão do Discord `MANAGE MESSAGES`. Eu vou automaticamente deletar mensagens de troca de página se essa permissão for dada.",
+    "aliases.noAliasDefined": "Você precisa definir um codinome: '--addalias <codinome>`."
 }
