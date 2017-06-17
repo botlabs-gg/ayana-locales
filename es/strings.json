@@ -420,5 +420,9 @@
     "settings.user.dmerrors": "Habilitar/Deshabilitar dmerrors.",
     "settings.failedUpdateAutorole": "Esta función no se puede utilizar para autorol porque es superior que su rol más alto.",
     "info.moreInfo": "Para ver más información sobre todos los fragmentos usa {{prefix}}shardinfo",
-    "music2.skipEmpty": "Cola vacía. No hay nada que saltar."
+    "music2.skipEmpty": "Cola vacía. No hay nada que saltar.",
+    "aliases.updatedAlias": "Cambiado `{{key}}` para alias `{{alias}}` a `{{value}}`.",
+    "aliases.setting.userargs": "Permitir o denegar a los usuarios para agregar argumentos, opciones o indicadores al comando que está ejecutando su alias",
+    "aliases.userargs": "Argumentos del usuario",
+    "words.alias": "Alias"
 }
