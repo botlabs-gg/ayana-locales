@@ -204,7 +204,7 @@
     "general.pagination": "Page {{page}}/{{pages}}",
     "general.forbidden": "Listen cunt, I can't reply to you because some staff member doesn't want me to. Tell them I need the fucking `Send Messages` Discord permission.\n\nGuild: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`\n\nIf I should no longer annoy you with this shit use `settings user dmerrors false` in your shitty guild.",
     "general.pagination.invalidPage": "That page doesn't fucking exist you cunt.",
-    "invite.error": "I don't have whatever invitation for `{{instance}}`\nHere are the ONLY fucking instances you should have used: `producton, patreon, beta`",
+    "invite.error": "I don't have whatever invitation for `{{instance}}`\nHere are the ONLY fucking instances you should have used: `production, patreon, beta`",
     "perms.invalidNode": "That's not even a fucking node you idiot! Execute `perms nodes` for a list of valid nodes.",
     "prune.invalidAmount": "Whatever amount you entered, it's fucking wrong.",
     "prune.tooManyOptions": "Stop using so many fucking options, just use one of these: `--all, --user, --bots`",
@@ -417,5 +417,13 @@
     "help.aliases.short": "Manage command aliases",
     "help.aliases.full": "```css\n[Aliases Help]\n\naliases list - Lists all aliases created in this guild\naliases rename <alias> <new name> - Renames aliases\naliases remove <alias> - Removes aliases\naliases <alias> userargs <bool> - Allows or denys arguments, options and flags to be added to the alias when it's executed\n\nCreate an alias:\n    Type the command as you would normally do and add '--addalias <alias>' to the end of it.\n    Let's say you want to make '{{prefix}}hello' as an alias for '{{prefix}}say hello'.\n    To add this alias you would execute '{{prefix}}say hello --addalias hello'.\n    Options and flags are also saved when an alias is added (except --addalias of course).\n\n<> = required information, [] = optional information, | = or, Don't put <> [] or | in your command input or else you are a fucking idiot\nJoin the server to annoy us about the simplest problems. ({{prefix}}support for link)```",
     "sar.assignmentInterface": "To use the SAR shit use `{{prefix}}rank [group]`.",
-    "general.ayanaRoleTooLow": "Ayana's highest role isn't fuckin' high nuff. Move Ayana-bitch higher."
+    "general.ayanaRoleTooLow": "Ayana's highest role isn't fuckin' high nuff. Move Ayana-bitch higher.",
+    "general.userRoleTooLow": "That cunt is bigger than you or some shit you have. Therefore you cannot use the cunt.",
+    "general.pagination.perms": "I cant FUCKING `MANAGE MESSAGES` CUNT. I'll delete page switching shit if you give it to me, cunt.",
+    "aliases.empty": "Theres no fucking aliases on this shit. Run the `aliases` fucking command to fix shit.",
+    "aliases.updatedAlias": "Updated fucking `{{key}}` for the cunt `{{alias}}` to `{{value}}`",
+    "aliases.setting.userargs": "Allows or stops cunts from adding shit like arguments, options or flags to the command you are executing",
+    "aliases.userargs": "Cunts arguments",
+    "words.alias": "Differences",
+    "music2.skipEmpty": "Cunts empty, nuthin' to skip."
 }
