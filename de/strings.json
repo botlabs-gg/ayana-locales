@@ -423,5 +423,9 @@
     "general.userRoleTooLow": "Die Zielrolle ist entweder höher als deine höchste Rolle oder ist deine höchste Rolle, weshalb sie nicht genutzt werden kann.",
     "general.pagination.perms": "Es sieht nicht so aus als hätte ich das `MANAGE MESSAGES` Discord Recht. Ich werde Seitenwechselnachrichten automatisch löschen, wenn ich dieses Recht habe.",
     "aliases.empty": "Es gibt keine Aliase für diese Gilde. Bitte führe den `aliases` Befehl ohne Argumente aus um die Hilfe zu sehen.",
-    "music2.skipEmpty": "Warteschlange leer. Nichts zum überspringen."
+    "music2.skipEmpty": "Warteschlange leer. Nichts zum überspringen.",
+    "aliases.updatedAlias": "`{{key}}` wurde für den alias `{{alias}}` auf `{{value}}` geändert.",
+    "aliases.setting.userargs": "Erlaubt oder verbietet es Nutzern eigene Argumente, Optionen oder Flaggen zu dem Befehl anzufügen, den der Alias ausführt",
+    "aliases.userargs": "Nutzerargumente",
+    "words.alias": "Alias"
 }
