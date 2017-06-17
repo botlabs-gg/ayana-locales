@@ -425,5 +425,9 @@
     "general.userRoleTooLow": "The valgte rolle er enten højere eller din højeste rolle, og kan dermed ikke blive brugt.",
     "aliases.empty": "Der er ikke nogle aliaser i denne server. Brug venligst `aliases` kommandoen uden argumenter for at se hjælpen.",
     "music2.skipEmpty": "Køen er tom. Intet til at springe over.",
-    "general.pagination.perms": "Det ser ikke ud til, at jeg har Discord tilladelsen `MANAGE MESSAGES`. Dette vil automatisk slette sideskift beskederne, hvis denne tilladelse er givet."
+    "general.pagination.perms": "Det ser ikke ud til, at jeg har Discord tilladelsen `MANAGE MESSAGES`. Dette vil automatisk slette sideskift beskederne, hvis denne tilladelse er givet.",
+    "aliases.updatedAlias": "Ændrede `{{key}}` for aliaset `{{alias}}` til `{{value}}`.",
+    "aliases.setting.userargs": "Tillad eller nægt brugere i at tilføje argumenter og indstillinger til kommandoen når aliaset bruges",
+    "aliases.userargs": "Bruger argumenter",
+    "words.alias": "Alias"
 }
