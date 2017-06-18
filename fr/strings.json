@@ -423,5 +423,7 @@
     "aliases.updatedAlias": "Changé `{{key}}` pour l'alias `{{alias}}` à `{{value}}`.",
     "aliases.setting.userargs": "Autoriser ou refuser les utilisateurs à ajouter des arguments, options, ou flags à la commande que votre alias exécute",
     "aliases.userargs": "Arguments d'utilisateur",
-    "words.alias": "Alias"
+    "words.alias": "Alias",
+    "actionlog.newChannel": "Nouveau salon",
+    "actionlog.oldChannel": "Ancien salon"
 }
