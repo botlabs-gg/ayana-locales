@@ -427,5 +427,10 @@
     "aliases.updatedAlias": "Zmieniono w aliasie `{{alias}}` wartość z `{{key}}` na `{{Value}}`.",
     "aliases.setting.userargs": "Zezwól lub zabroń użytkownikom na dodawanie argumentów, opcji lub oznaczeń do komendy, którą twój alias wykonuje",
     "aliases.userargs": "Argumenty użytkownika",
-    "words.alias": "Alias"
+    "words.alias": "Alias",
+    "general.banInfo": "Zostałeś wyrzucony z serwera, na którym się znajdowałeś.",
+    "words.reason": "Powód",
+    "actionlog.newChannel": "Nowy kanał",
+    "actionlog.oldChannel": "Stary kanał",
+    "settings.guild.dmbans": "Włącz/Wyłącz dmbans i dmkicks dla całej gildii."
 }
