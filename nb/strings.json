@@ -431,5 +431,6 @@
     "help.aliases.short": "Kontrollpanel for kommando-alias",
     "help.sar.short": "Innstillinger for selvutdelingsroller",
     "help.aliases.full": "```css\n[Hjelpesider for Aliaser]\n\naliases list - Lister alle aliaser på en server\naliases rename <alias> <nytt navn> - Omdøper aliaser\naliases remove <alias> - Fjerner aliaser\naliases <alias> userargs <bool> - Tillater eller nekter at argumenter, valgmuligheter og innstillinger kan bli lagt til et alias når den utføres\n\nLag et alias:\n    Bruk kommandoen du normalt ville brukt, men legg til `-addalias <alias>` på slutten.\n    La oss si at du ønsker å lage et alias '{{prefix}}hallo' for '{{prefix}}say hallo'.\n    For å legge til dette aliaset utfører du '{{prefix}}say hello --addalias hello'.\n    Valgmuligheter og innstillinger blir lagret når et alias blir lagt til (untatt --addalias selvfølgelig).\n\n<> = nødvendig informasjon, [] = frivillig informasjon, | = eller, inkluder ikke <> [] eller | i dine kommandoer\nVennligst bli med i supportserveren om du har spørsmål ({{prefix}}support for link)```",
-    "sar.assignmentInterface": "For å bruke kontrollpanelet for SAR-utdelinger, bruk `{{prefix}}rank [group]`."
+    "sar.assignmentInterface": "For å bruke kontrollpanelet for SAR-utdelinger, bruk `{{prefix}}rank [group]`.",
+    "general.pagination.cooldown": "Wow! Litt for raskt, sideskift er til nedkjølning."
 }
