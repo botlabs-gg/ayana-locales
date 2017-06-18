@@ -432,5 +432,6 @@
     "actionlog.oldChannel": "Alter Kanal",
     "settings.guild.dmbans": "Aktiviert/Deaktiviert dmbans und dmkicks in der gesamten Gilde.",
     "general.banInfo": "Du wurdest von einem Server gebannt auf dem du warst.",
-    "words.reason": "Grund"
+    "words.reason": "Grund",
+    "general.pagination.cooldown": "Woah! Die Pagination Eingabe ist überhitzt und muss nun etwas abkühlen."
 }
