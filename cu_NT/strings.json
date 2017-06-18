@@ -425,5 +425,7 @@
     "aliases.setting.userargs": "Allows or stops cunts from adding shit like arguments, options or flags to the command you are executing",
     "aliases.userargs": "Cunts arguments",
     "words.alias": "Differences",
-    "music2.skipEmpty": "Cunts empty, nuthin' to skip."
+    "music2.skipEmpty": "Cunts empty, nuthin' to skip.",
+    "actionlog.newChannel": "New table",
+    "actionlog.oldChannel": "Old table"
 }
