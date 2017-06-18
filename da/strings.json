@@ -434,5 +434,6 @@
     "words.reason": "Begrundelse",
     "actionlog.newChannel": "Ny kanal",
     "actionlog.oldChannel": "Gammel kanal",
-    "settings.guild.dmbans": "Aktiver/Deaktiver dmbans og dmkicks for hele serveren."
+    "settings.guild.dmbans": "Aktiver/Deaktiver dmbans og dmkicks for hele serveren.",
+    "general.pagination.cooldown": "Wow! Lidt for hurtigt, sideskift input er på nedkøling."
 }
