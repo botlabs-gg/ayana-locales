@@ -341,7 +341,7 @@
     "settings.autorole.role": "The role that should be assigned with autorole",
     "settings.actionlog.channel": "Channel to log actions in.",
     "settings.guild.dmerrors": "Enable/Disable dmerrors guild wide.",
-    "settings.guild.dmbanskicks": "Enable/Disable dmbans and kicks guild wide.",
+    "settings.guild.dmbans": "Enable/Disable dmbans and dmkicks guild wide.",
     "settings.user.dmerrors": "Enable/Disable dmerrors.",
     "settings.failedUpdateAutorole": "This role cannot be used for autorole because it's higher than your highest role.",
     "avatar.resolveFailed": "Failed to get avatar.",
