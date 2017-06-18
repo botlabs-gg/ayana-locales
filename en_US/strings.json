@@ -281,6 +281,8 @@
     "words.delete": "Delete",
     "words.uptime": "Uptime",
     "words.alias": "Alias",
+    "actionlog.newChannel": "New channel",
+    "actionlog.oldChannel": "Old channel",
     "help.ban": "Usage: `ban <user> [--reason <reason>] [--days <days>] [--soft] [--hackban]`",
     "help.kick": "Usage: `kick <user> [--reason <reason>]`",
     "help.roleinfo": "Usage: `roleinfo <role>`",
