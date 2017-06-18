@@ -429,5 +429,10 @@
     "aliases.updatedAlias": "Ændrede `{{key}}` for aliaset `{{alias}}` til `{{value}}`.",
     "aliases.setting.userargs": "Tillad eller nægt brugere i at tilføje argumenter og indstillinger til kommandoen når aliaset bruges",
     "aliases.userargs": "Bruger argumenter",
-    "words.alias": "Alias"
+    "words.alias": "Alias",
+    "general.banInfo": "Du blev bandlyst fra en server som du var på.",
+    "words.reason": "Begrundelse",
+    "actionlog.newChannel": "Ny kanal",
+    "actionlog.oldChannel": "Gammel kanal",
+    "settings.guild.dmbans": "Aktiver/Deaktiver dmbans og dmkicks for hele serveren."
 }
