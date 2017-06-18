@@ -117,5 +117,6 @@
     "perms.resetall.owner": "Seda käsku saab ainult serveri omanik kasutada.",
     "perms.resetall.reset": "Juurdepääsud lähtestati.",
     "perms.resetall.error": "Ebaõnnestus kõik juurdepääsud lähtestada.",
-    "perms.failedUpdate": "Ebaõnnestus juurdepääsu sõlme uuendada. Palun võta ühendust toega, kui see tõrge püsib."
+    "perms.failedUpdate": "Ebaõnnestus juurdepääsu sõlme uuendada. Palun võta ühendust toega, kui see tõrge püsib.",
+    "aliases.updatedAlias": "Muutsin `{{key}}` aliasele `{{alias}}` `{{value}}`ks."
 }
