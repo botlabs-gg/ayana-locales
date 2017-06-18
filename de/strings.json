@@ -427,5 +427,7 @@
     "aliases.updatedAlias": "`{{key}}` wurde für den alias `{{alias}}` auf `{{value}}` geändert.",
     "aliases.setting.userargs": "Erlaubt oder verbietet es Nutzern eigene Argumente, Optionen oder Flaggen zu dem Befehl anzufügen, den der Alias ausführt",
     "aliases.userargs": "Nutzerargumente",
-    "words.alias": "Alias"
+    "words.alias": "Alias",
+    "actionlog.newChannel": "Neuer Kanal",
+    "actionlog.oldChannel": "Alter Kanal"
 }
