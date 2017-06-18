@@ -424,5 +424,7 @@
     "aliases.updatedAlias": "Cambiado `{{key}}` para alias `{{alias}}` a `{{value}}`.",
     "aliases.setting.userargs": "Permitir o denegar a los usuarios para agregar argumentos, opciones o indicadores al comando que está ejecutando su alias",
     "aliases.userargs": "Argumentos del usuario",
-    "words.alias": "Alias"
+    "words.alias": "Alias",
+    "actionlog.newChannel": "Nuevo canal",
+    "actionlog.oldChannel": "Antiguo canal"
 }
