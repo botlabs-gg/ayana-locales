@@ -5,6 +5,7 @@
     "general.forbidden": "I tried to send a reply to your command, however, I lack the permission to. Please have someone from the staff give me the `Send Messages` Discord permission.\n\nGuild: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`\n\nIf you no longer wish to see these messages please run `settings user dmerrors false` in the guild.",
     "general.gatewayFailure": "Failed to contact Gateway. Please try again later.",
     "general.cooldown": "Woah! Way too spicy, This command is currently on cooldown.",
+    "general.pagination.cooldown": "Woah! Way too spicy, the pagination inputs are currently on cooldown.",
     "general.ayanaRoleTooLow": "Ayana's highest role is lower than or equal to the target role. Please move Ayana higher.",
     "general.userRoleTooLow": "The targeted role is either higher or is your highest role and cannot be used.",
     "general.pagination": "Page {{page}}/{{pages}}",
