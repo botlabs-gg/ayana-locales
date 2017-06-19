@@ -426,5 +426,8 @@
     "aliases.userargs": "Argumentos del usuario",
     "words.alias": "Alias",
     "actionlog.newChannel": "Nuevo canal",
-    "actionlog.oldChannel": "Antiguo canal"
+    "actionlog.oldChannel": "Antiguo canal",
+    "general.banInfo": "Tu has sido baneado del servidor en que estabas.",
+    "words.reason": "Razón",
+    "settings.guild.dmbans": "Habilitar/Desabilitar dmbans y dmckicks del servidor."
 }
