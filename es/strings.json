@@ -1,6 +1,6 @@
 {
     "general.guildOnly": "Disponible sólo en servidores. ",
-    "general.error": "A ocurrido un error. Por favor reporta esto en nuestro servidor de soporte. (Usa el comando `support` para obtener la invitación. ```{{error}}```",
+    "general.error": "Ha ocurrido un error. Por favor reporta esto en nuestro servidor de soporte. (Usa el comando `support` para obtener la invitación. ```{{error}}```",
     "general.cooldown": "¡Woah! Demasiado picante, este comando está en tiempo de reutilización.",
     "finder.failUser": "No encontré coincidencias para dicho usuario.",
     "finder.failRole": "No encontré coincidencias para dicho rol.",
