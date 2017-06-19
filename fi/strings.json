@@ -1,6 +1,6 @@
 {
     "general.guildOnly": "Saatavilla vain Palvelimille. ",
-    "general.error": "Virhe tapahtui. Raportoi tästä meidän tukipalvelimellemme (suorita komento 'support' saadaksesi kutsun). \n```{{error}}```",
+    "general.error": "Virhe tapahtui. Raportoi tästä meidän tukipalvelimellemme (suorita komento `support` saadaksesi kutsun). \n```{{error}}```",
     "general.cooldown": "Wou wou wou! Hidasta, komento on nyt jäähyllä.",
     "finder.failUser": "Kyseistä henkilöä ei löydetty.",
     "finder.failRole": "Kyseistä roolia ei löydetty.",
@@ -80,7 +80,7 @@
     "words.topic": "Aihe",
     "words.twitter": "Twitter",
     "words.mention": "Maininta",
-    "help.ban": "Käyttö: 'ban [Käyttäjä] (syy) (kesto päivissä) (--softban) (--Hackban)'",
+    "help.ban": "Käyttö: 'ban <Käyttäjä> [--resason <syy>] [--days <kesto päivissä>] [--softban] [--hackban]'",
     "help.kick": "Käyttö: 'kick [Käyttäjä] (syy)",
     "help.roleinfo": "Käyttö: ´roleinfo <rooli>",
     "help.locale": "Käyttö: `locale [set <locale> [--guild]]`",
@@ -274,7 +274,7 @@
     "words.delete": "Poista",
     "words.uptime": "Ylhäälläoloaika",
     "help.prune": "Käyttö: `prune <amount> [--all|--user [search]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
-    "help.pruneFull": "```css\n[Prune Help]\n\nprune <amount> - Tyhjentää <> kappaletta viestejä\n\nTarkennuksen komennoon perään:\n    [--bots] - Viestit, jotka ovat bottien lähettämiä\n    [--user <search>] - Viestit, jotka ovat henkilön <> lähettämiä\n\n    [--filter <filter>] - Vain viestit, jotka sisältävät <>\n\n    [--attachments | -a] - Vain viestit jossa on liitettyjä tiedostoja (Voidaan käyttää seuraavan kanssa; --embeds)\n    [--embeds | -e] - Vain viestit, joissa on  (Voidaan käyttää seuraavan kanssa; --attachments)\n    [--pinned | -p] - Tyhjentää myös kiinnitetyt(pinned) viestit (Oletuksena ei tyhjennä)\n\nLisätarkennukset:\n    [-f] - Pakotettu. Ei kysy varmistusta\n    [-s] - Hiljainen. Ei tulosta tulosta loppuun\n\nExamples:\n    prune 10\n    prune 10 -aes\n    prune 10 -f --filter Moi\n\n<> = Pakolölinen, []= vaihtoehtoinen, | = joko/tai. Ethän sisällytä <>, [] tai |  -  suoritukseen.\nJos on lisäkysymyksiä, liitythän tukipalvelimellemme. (=support for link)```",
+    "help.pruneFull": "```css\n[Prune Help]\n\nprune <amount> - Tyhjentää <> kappaletta viestejä\n\nTarkennuksen komennoon perään:\n    [--bots] - Viestit, jotka ovat bottien lähettämiä\n    [--user <search>] - Viestit, jotka ovat henkilön <> lähettämiä\n\n    [--filter <filter>] - Vain viestit, jotka sisältävät <>\n\n    [--attachments | -a] - Vain viestit jossa on liitettyjä tiedostoja (Voidaan käyttää seuraavan kanssa; --embeds)\n    [--embeds | -e] - Vain viestit, joissa on  (Voidaan käyttää seuraavan kanssa; --attachments)\n    [--pinned | -p] - Tyhjentää myös kiinnitetyt(pinned) viestit (Oletuksena ei tyhjennä)\n    [--invites | -i] - Tyhjentää vain Discord-kutsulinkit\n\nLisätarkennukset:\n    [-f] - Pakotettu. Ei kysy varmistusta\n    [-s] - Hiljainen. Ei tulosta tulosta loppuun\n\nExamples:\n    prune 10\n    prune 10 -aes\n    prune 10 -f --filter Moi\n\n<> = Pakolölinen, []= vaihtoehtoinen, | = joko/tai. Ethän sisällytä <>, [] tai |  -  suoritukseen.\nJos on lisäkysymyksiä, liitythän tukipalvelimellemme. (=support for link)```",
     "rolemembers.headerPage": "Roolin {{rooli}} käyttäjät. Sivu {{page}}/{{total}}",
     "settings.userHelp": "Nämä ovat sinun käyttäjä asetuksesi.\nLisätietoa; suorita `settings user [setting]`",
     "settings.autodel.prune": "Poista botti vastaukset 10 sekunnin sisällä?",
@@ -421,5 +421,15 @@
     "sar.maxRoles": "Suurin mahdollinen roolimäärä",
     "sar.noLimit": "Ei rajaa",
     "sar.assignmentInterface": "Käyttääksesi roolija/ryhmiä: `{{prefix}}rank [group]`.",
-    "general.pagination.perms": "Näyttää siltä etä minulta puuttuu `MANAGE MESSAGES` discord-oikeutta. Poistan automaattisesti sivunvaihtoviestit, jos minulla on tämä oikeus."
+    "general.pagination.perms": "Näyttää siltä etä minulta puuttuu `MANAGE MESSAGES` discord-oikeutta. Poistan automaattisesti sivunvaihtoviestit, jos minulla on tämä oikeus.",
+    "general.pagination.cooldown": "Wou! Odotas hetki, en voi selata sivuja noin nopeasti.",
+    "general.banInfo": "Olet saanut porttikiellon palvelimelle jossa olit.",
+    "aliases.updatedAlias": "Vaihdettu `{{key}}`aliakselle `{{alias}}` arvoon `{{value}}`.",
+    "aliases.setting.userargs": "Salli tai kiellä käyttäjiä lisäämästä argumentteja, asetuksia tai merkintöjä komentoon, jota aliaksesi suorittaa",
+    "aliases.userargs": "käyttäjän argumentit",
+    "words.alias": "nimike",
+    "words.reason": "Syy",
+    "actionlog.newChannel": "Uusi kanava",
+    "actionlog.oldChannel": "Vanha kanava",
+    "settings.guild.dmbans": "Päälle/pois YV-porttikiellot ja -potkut pelvelimella."
 }
