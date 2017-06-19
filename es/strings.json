@@ -429,5 +429,5 @@
     "actionlog.oldChannel": "Antiguo canal",
     "general.banInfo": "Tu has sido baneado del servidor en que estabas.",
     "words.reason": "Razón",
-    "settings.guild.dmbans": "Habilitar/Desabilitar dmbans y dmckicks del servidor."
+    "settings.guild.dmbans": "Habilitar/Deshabilitar dmbans y dmkicks del servidor."
 }
