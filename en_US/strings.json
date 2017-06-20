@@ -463,7 +463,7 @@
     "music.providers.listenmoe": "Listen to radio stream from https://listen.moe.",
     "music.providers.clyp": "Listen to http://clyp.it songs.",
     "music.providers.twitch": "Listen to livestreams from https://twitch.tv.",
-    "music.songNameYt": "Song Name (YT)",
+    "music.songNameYt": "Song name (YT)",
     "f.paid": "**{{username}}** has paid their respects.",
     "f.paidfor": "**{{username}}** has paid their respects for **{{type}}**.",
     "f.paidfooter": "{{today}} Today, {{all}} All",
