@@ -460,5 +460,15 @@
     "words.number": "Número",
     "words.usage": "Uso",
     "words.text": "Texto",
-    "words.boolean": "Boolean"
+    "words.boolean": "Boolean",
+    "help.music.header": "[Música Ayuda]",
+    "help.music.desc.queue": "Muestra cola",
+    "help.music.desc.enqueue": "Coloca una canción o lista de reproducción",
+    "help.music.desc.enqueueNext": "Coloca la canción o la lista de reproducción en la siguiente posición",
+    "help.music.desc.purge": "Limpiar la cola",
+    "help.music.desc.delete": "Borrar los elementos de la cola",
+    "help.music.desc.play": "Comienza a reproducir la canción en cola",
+    "help.music.desc.skip": "Saltar la canción actual",
+    "help.music.desc.repeat": "Encender repetición|Repetición apagada",
+    "help.music.desc.providers": "Muestra una lista de proveedores de música disponibles"
 }
