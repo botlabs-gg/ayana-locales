@@ -248,7 +248,7 @@
     "reminder.created": "¡Vale, me aseguraré de recordarte!",
     "reminder.delete.nomatches": "Ningún artículo en tus recordatorios coincidió con tu consulta.",
     "reminder.delete.done": "Recordatorio(s) eliminado(s).",
-    "reminder.fullhelp": "```\nreminder add <recordatorio> - añade un nuevo recordatorio\nreminder del <buscar> - elimina recordatorios mediante búsqueda\nreminder list - muestra una lista de tus recordatorios\n\nEjemplos:\n reminder add comprobar el horno en 1 hora\n reminder add hacer la colada en 20 minutos```",
+    "reminder.fullhelp": "```\nreminder add <recordatorio> - añade un nuevo recordatorio\nreminder del <buscar> - elimina recordatorios mediante búsqueda\nreminder list - muestra una lista de tus recordatorios\n\nEjemplos:\n reminder add comprobar el horno in 1 hour\n reminder add hacer la colada in 20 min```",
     "donators.none": "Imposible de encontrar algún donador.",
     "question.timeout": "El tiempo de respuesta se terminó.",
     "question.cancelled": "Pregunta cancelada.",
@@ -429,5 +429,6 @@
     "actionlog.oldChannel": "Antiguo canal",
     "general.banInfo": "Tu has sido baneado del servidor en que estabas.",
     "words.reason": "Razón",
-    "settings.guild.dmbans": "Habilitar/Deshabilitar dmbans y dmkicks del servidor."
+    "settings.guild.dmbans": "Habilitar/Deshabilitar dmbans y dmkicks del servidor.",
+    "general.pagination.cooldown": "Wow! Muy picante, las entradas de paginación están actualmente en tiempo de reutilización."
 }

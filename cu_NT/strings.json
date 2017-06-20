@@ -427,5 +427,9 @@
     "words.alias": "Differences",
     "music2.skipEmpty": "Cunts empty, nuthin' to skip.",
     "actionlog.newChannel": "New table",
-    "actionlog.oldChannel": "Old table"
+    "actionlog.oldChannel": "Old table",
+    "general.pagination.cooldown": "What the hell are you doing! That's been used already.",
+    "general.banInfo": "Hahahahahahahahahahhaa you dumbshit, you got banned.",
+    "words.reason": "Some random reason",
+    "settings.guild.dmbans": "What do you think it is."
 }

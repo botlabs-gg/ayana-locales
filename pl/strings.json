@@ -432,5 +432,6 @@
     "words.reason": "Powód",
     "actionlog.newChannel": "Nowy kanał",
     "actionlog.oldChannel": "Stary kanał",
-    "settings.guild.dmbans": "Włącz/Wyłącz dmbans i dmkicks dla całej gildii."
+    "settings.guild.dmbans": "Włącz/Wyłącz dmbans i dmkicks dla całej gildii.",
+    "general.pagination.cooldown": "Woah! Nie tak ostro, wejścia paginacji muszą ochłonąć."
 }
