@@ -113,7 +113,7 @@
     "help.role.desc.name": "Renames a role",
     "help.role.desc.color": "Changes the color of a role",
     "help.role.desc.moveAfter": "Sets role position after target role",
-    "help.role.desc.note": "    This command will not allow you to give, take or modify roles\n    that are in a higher position than your or Ayana's highest role or\n    that are your or Ayana's highest role.",
+    "help.role.desc.note": "    This command will not allow you to give, take or modify roles\n    that are in a higher or equal position than your or Ayana's highest role.",
     "help.roleinfo.short": "Get information about a role",
     "help.rolemembers.short": "List the members of a role",
     "help.sar.short": "Self assignable roles settings interface",
