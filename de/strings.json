@@ -435,7 +435,7 @@
     "words.reason": "Grund",
     "general.pagination.cooldown": "Woah! Die Pagination Eingabe ist überhitzt und muss nun etwas abkühlen.",
     "general.commandNotFound": "Dieser Befehl konnte nicht gefunden werden.",
-    "help.footer": "<> = erforderliches Argument, [] = optionales Argument, | = oder, Bitte füge die folgenden Zeichen nicht in deine Befehle ein: <>[]|.\nBei Fragen betritt den Support Server. ({{prefix}}support um einen Link zu bekommen)",
+    "help.footer": "<> = erforderliches Argument, [] = optionales Argument, | = oder,\nBitte füge die folgenden Zeichen nicht in deine Befehle ein: <>[]|.\nBei Fragen betritt den Support Server. ({{prefix}}support um einen Link zu bekommen)",
     "help.aliases.header": "[Aliases Hilfe]",
     "help.aliases.desc.list": "Zeigt eine Lister aller Aliase an, die in dieser Gilde erstellt wurden",
     "help.aliases.desc.rename": "Benennt Aliase um",
