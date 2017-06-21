@@ -493,5 +493,13 @@
     "words.page": "Pagina",
     "words.locale": "Sitio",
     "ban.days": "Dias",
-    "music.songNameYt": "Nombre de la canción (YT)"
+    "music.songNameYt": "Nombre de la canción (YT)",
+    "help.role.header": "[Rol Ayuda]",
+    "help.role.desc.give": "Da roles",
+    "help.role.desc.take": "Asume roles",
+    "help.role.desc.modify": "Modificar un rol",
+    "help.role.options.giveTake": "Opciones para dar rol y tomar rol",
+    "help.role.desc.bots": "Sólo cambia los roles de los bots",
+    "help.role.desc.users": "Solo cambiará los roles de los usuarios",
+    "help.role.desc.user": "Solo cambiará roles para usuarios específicos"
 }
