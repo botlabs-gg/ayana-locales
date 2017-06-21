@@ -465,5 +465,20 @@
     "words.number": "Nummer",
     "words.usage": "Brug",
     "words.text": "Tekst",
-    "words.command": "Kommando"
+    "words.command": "Kommando",
+    "help.cmdForMoreInfo": "Brug `{{cmd}}` for mere information om denne kommando.",
+    "help.music.header": "[Musik hjælp]",
+    "help.music.desc.queue": "Viser køen",
+    "help.music.desc.enqueue": "Sætter en sang eller en spilleliste i kø",
+    "help.music.desc.enqueueNext": "Sætter en sang eller en spilleliste i kø til de næste positioner",
+    "help.music.desc.purge": "Rydder køen",
+    "help.music.desc.delete": "Fjerner ting fra køen",
+    "help.music.desc.play": "Starter med at spille sange i køen",
+    "help.music.desc.skip": "Springer over den nuværende sang",
+    "help.music.desc.shuffle": "Blander køen tilfældigt ",
+    "help.music.desc.repeat": "Slår gentagelse til|fra",
+    "help.music.desc.providers": "Viser en liste over tilgængelige musik udbydere",
+    "help.music.desc.join": "Tilslutter din nuværende stemmekanal *du skal være i en stemmekanal* ",
+    "help.music.desc.leave": "Forlader stemmekanalen",
+    "help.perms.header": "[Tilladelses hjælp]"
 }
