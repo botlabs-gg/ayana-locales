@@ -487,7 +487,7 @@
     "help.perms.desc.role": "Establecer o mostrar permisos de rol",
     "help.perms.desc.guild": "Establecer o mostrar permisos del servidor",
     "help.perms.desc.note": "    Los permisos están en el orden de las opciones, lo que significa que el usuario del canal\n    es el nivel más alto y el servidor es el nivel más bajo.",
-    "perms.permNode": "Perm node",
+    "perms.permNode": "Permisos de node",
     "perms.addon": "Puedes encontrar ayuda más detallada en {{url}}",
     "words.note": "Nota",
     "words.page": "Pagina",
