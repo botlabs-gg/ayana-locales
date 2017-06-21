@@ -130,7 +130,7 @@
     "help.sar.desc.rolesAdd": "Adds roles to this group",
     "help.sar.desc.rolesRemove": "Removes roles from this group",
     "help.sar.desc.default": "Sets or unsets this group as the default one",
-    "help.sar.desc.note": "    To use the assignment interface you need to use --rank [group]",
+    "help.sar.desc.note": "    To use the assignment interface you need to use {{prefix}}rank [group]",
     "help.say.short": "Have me say something",
     "help.sayd.short": "Same as say, I also remove your command",
     "help.serverinfo.short": "Get information about a server",
