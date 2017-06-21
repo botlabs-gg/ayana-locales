@@ -510,5 +510,22 @@
     "help.role.desc.name": "Renombrar un rol",
     "help.role.desc.color": "Cambiar el color de un rol",
     "help.role.desc.moveAfter": "Establece la posición del rol después del rol objetivo",
-    "help.role.desc.note": "    Este comando no le permitirá dar, tomar o modificar roles\n    que están en una posición más alta que la tuya o el rol más alto de Ayana o\n    que tú o el rol más alto de Ayana."
+    "help.role.desc.note": "    Este comando no le permitirá dar, tomar o modificar roles\n    que están en una posición más alta o igual que tú o el rol más alto de Ayana o\n    que tú o el rol más alto de Ayana.",
+    "help.sar.header": "[Ayuda de roles auto-asignables (SAR)]",
+    "help.sar.desc.help": "Muestra este mensaje de ayuda",
+    "help.sar.desc.create": "Crea un grupo SAR",
+    "help.sar.desc.delete": "Borra un grupo SAR",
+    "help.sar.desc.rename": "Renombra un grupo SAR",
+    "help.sar.desc.groups": "Lista de todos los grupos SAR",
+    "help.sar.groupModification": "Modificación de grupo",
+    "help.sar.desc.active": "Activar o Desactivar este grupo",
+    "help.sar.desc.reqrole": "Establece el rol que un usuario debe tener para usar este grupo",
+    "help.sar.desc.max": "Establece la cantidad máxima de roles que un usuario puede tener en este grupo",
+    "help.sar.desc.rolesAdd": "Agrega los roles a este grupo",
+    "help.sar.desc.rolesRemove": "Elimina los roles para este grupo",
+    "help.sar.desc.default": "Establece o desactiva este grupo como predeterminado",
+    "help.sar.desc.note": "    Para utilizar la interfaz de asignación debes utilizar --rank [grupo]",
+    "words.aliases": "Alias",
+    "words.name": "Nombre",
+    "words.word": "Palabra"
 }
