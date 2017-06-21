@@ -506,7 +506,7 @@
     "help.role.desc.name": "Zmienia nazwę roli",
     "help.role.desc.color": "Zmienia kolor roli",
     "help.role.desc.moveAfter": "Ustawia pozycję roli na jedną niżej niż wskazana",
-    "help.role.desc.note": "    Ta komenda nie pozwala nadawać, zabierać lub modyfikować ról, które są\n\twyższe lub równe Twojej lub Ayany najwyższej roli.",
+    "help.role.desc.note": "    Ta komenda nie pozwala nadawać, zabierać lub modyfikować ról, które są\n    wyższe lub równe Twojej lub Ayany najwyższej roli.",
     "help.sar.header": "[Pomoc - Self Assignable Roles (SAR)]",
     "help.sar.desc.help": "Wyświetla tę wiadomość",
     "help.sar.desc.create": "Tworzy grupę SAR",
@@ -523,5 +523,13 @@
     "help.sar.desc.note": "    Aby użyć interfejsu SAR użyj {{prefix}}rank [group]",
     "perms.permNode": "Węzeł uprawnień",
     "perms.addon": "Bardziej szczegółową instrukcję można znaleźć pod adresem {{url}}",
-    "words.note": "Uwaga"
+    "words.note": "Uwaga",
+    "words.aliases": "Aliasy",
+    "words.name": "Nazwa",
+    "words.page": "Strona",
+    "words.locale": "Język",
+    "words.word": "Słowo",
+    "rolemembers.header": "Użytkownicy z rolą {{role}}",
+    "ban.days": "Dni",
+    "music.songNameYt": "Nazwa piosenki (YT)"
 }
