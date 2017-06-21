@@ -154,7 +154,7 @@
     "general.pagination.blocked": "Pagination-ul este blocat pentru tine chiar acum. Te rog să oprești pagination-ul activ.",
     "general.pagination.altNavi": "Scrie `<` și `>` ca să schimbi paginile. Scrie `p<num>` ca să sari la o pagina (ex. `p10`).",
     "general.pagination.altClose": "Scrie `x` ca să oprești pagination-ul.",
-    "general.pagination.perms": "Aparent nu am permisiunea `MANAGE MESSAGES` din Discord. O să șterg mesajele care conțin schimb de pagini automat dacă am permisiunea asta.",
+    "general.pagination.perms": "Aparent nu am permisiunea `manage Messages` din Discord. O să șterg mesajele care conțin schimb de pagini automat dacă am permisiunea asta.",
     "help.aliases.short": "Schimbă aliasul comenzilor",
     "help.avatar.short": "Primește avatarul unui utilizator",
     "help.bad.short": "Nu, rău!",
@@ -228,5 +228,14 @@
     "aliases.alreadyAyanaCmd": "Aliasul pe care ai încercat să îl folosești este deja folosit de Ayana.",
     "aliases.alreadyExists": "Aliasul `{{alias}}` există deja.",
     "aliases.aliasAdded": "Aliasul `{{alias}}` a fost adăugat pentru `{{cmd}}`.",
-    "aliases.notAlphanumeric": "Aliasul trebuie să fie alphanumeric. Tu ai folosit `{{input}}`."
+    "aliases.notAlphanumeric": "Aliasul trebuie să fie alphanumeric. Tu ai folosit `{{input}}`.",
+    "help.cmdForMoreInfo": "Folosește `{{cmd}}` pentru mai multe informații despre această comandă.",
+    "help.music.header": "[Ajutor Muzică]",
+    "help.music.desc.queue": "Arată coada",
+    "help.music.desc.enqueue": "Adaugă un cântec sau un playlist la coadă",
+    "help.music.desc.enqueueNext": "Adaugă un cântec sau playlist la următoarea(ele) poziții",
+    "help.music.desc.purge": "Curăță coada",
+    "help.music.desc.delete": "Șterge cântece din coadă",
+    "help.music.desc.play": "Rulează cântecele din coadă",
+    "help.music.desc.skip": "Sare peste cântecul curent"
 }
