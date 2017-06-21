@@ -527,7 +527,7 @@
     "help.sar.desc.rolesAdd": "Fügt Rollen zu dieser Gruppe hinzu",
     "help.sar.desc.rolesRemove": "Entfernt Rollen von dieser Gruppe",
     "help.sar.desc.default": "Setzt oder entfernt diese Gruppe als Standardgruppe",
-    "help.sar.desc.note": "    Um die Zuweisungsschnittstelle zu benutzen, benutze =rank [Gruppe]",
+    "help.sar.desc.note": "    Um die Zuweisungsschnittstelle zu benutzen, benutze {{prefix}}rank [Gruppe]",
     "words.aliases": "Aliase",
     "words.name": "Name",
     "words.word": "Wort",
