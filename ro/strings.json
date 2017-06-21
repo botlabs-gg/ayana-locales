@@ -308,5 +308,7 @@
     "locale.percent": "[{{num}}%]",
     "locale.usageShort": "Folosire: `locale set [limbă] [--guild]` sau `locale list`",
     "locale.invalidLocale": "`{{input}}` nu este o limbă recunoscută. Te rog să folosești `locale list` pentru o listă cu opțiuni valide.\nAlternativ, dacă vrei să ajuți cu traducerea mea atunci deschide linkul {{url}}",
-    "locale.current": "```css\nSetările Curente\n Server: {{guild}}\n Utilizator: {{user}}```\n{{help}}\nDe asemenea dacă vrei sa ajuți cu traducerea mea folosește linkul {{url}}"
+    "locale.current": "```css\nSetările Curente\n Server: {{guild}}\n Utilizator: {{user}}```\n{{help}}\nDe asemenea dacă vrei sa ajuți cu traducerea mea folosește linkul {{url}}",
+    "perms.validOpts": "Te rog să specifici un nivel de permisiuni valid. `--guild, --channel [channel], --role <rol>, --user [utilizator]` sau `--channel [căutare] [--role <căutare>|--user [căutare]]`",
+    "perms.invalidNode": "Nod de permisiuni invalid. Execută `perms nodes` pentru o listă validă de noduri."
 }
