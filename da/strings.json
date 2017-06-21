@@ -480,5 +480,18 @@
     "help.music.desc.providers": "Viser en liste over tilgængelige musik udbydere",
     "help.music.desc.join": "Tilslutter din nuværende stemmekanal *du skal være i en stemmekanal* ",
     "help.music.desc.leave": "Forlader stemmekanalen",
-    "help.perms.header": "[Tilladelses hjælp]"
+    "help.perms.header": "[Tilladelses hjælp]",
+    "help.perms.desc.allow": "Tillader en tilladelsesnode (tilføj en af tilladelserne i listen)",
+    "help.perms.desc.default": "Standardisere en tilladelsesnode (tilføj en af tilladelserne i listen)",
+    "help.perms.desc.deny": "Benægter en tilladelsesnode (tilføj en af tilladelserne i listen)",
+    "help.perms.desc.show": "Viser tilladelser (tilføj en af tilladelserne i listen)",
+    "help.perms.desc.nodes": "Liste over alle tilladelsesnoder",
+    "help.perms.desc.channelUser": "Sæt eller vis tilladelser for brugere i kanalen",
+    "help.perms.desc.channelRole": "Sæt eller vis tilladelser for roller i kanalen",
+    "help.perms.desc.channel": "Sæt eller vis tilladelser for kanalen",
+    "help.perms.desc.user": "Sæt eller vis tilladelser for brugere",
+    "help.perms.desc.role": "Sæt eller vis tilladelser for roller",
+    "help.perms.desc.guild": "Sæt eller vis tilladelser for serveren",
+    "help.perms.desc.note": "    Tilladelserne er i en rækkefølge over mulighederne, der betyder at kanal bruger\n    er det højeste niveau og server er det laveste niveau.",
+    "help.role.header": "[Rolle hjælp]"
 }
