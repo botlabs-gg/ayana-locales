@@ -523,7 +523,7 @@
     "help.sar.desc.max": "Establece la cantidad máxima de roles que un usuario puede tener en este grupo",
     "help.sar.desc.rolesAdd": "Agrega los roles a este grupo",
     "help.sar.desc.rolesRemove": "Elimina los roles para este grupo",
-    "help.sar.desc.default": "Establece o desactiva este grupo como predeterminado",
+    "help.sar.desc.default": "Establecer o desactivar este grupo como por defecto",
     "help.sar.desc.note": "    Para utilizar la interfaz de asignación debes utilizar {{prefix}}rank [grupo]",
     "words.aliases": "Alias",
     "words.name": "Nombre",
