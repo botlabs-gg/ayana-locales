@@ -522,5 +522,6 @@
     "help.sar.desc.default": "Ustawia grupę jako domyślną",
     "help.sar.desc.note": "    Aby użyć interfejsu SAR użyj {{prefix}}rank [group]",
     "perms.permNode": "Węzeł uprawnień",
-    "perms.addon": "Bardziej szczegółową instrukcję można znaleźć pod adresem {{url}}"
+    "perms.addon": "Bardziej szczegółową instrukcję można znaleźć pod adresem {{url}}",
+    "words.note": "Uwaga"
 }
