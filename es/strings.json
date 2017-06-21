@@ -483,5 +483,15 @@
     "help.perms.desc.channelUser": "Definir o mostrar permisos de usuario de canal",
     "help.perms.desc.channelRole": "Establecer o mostrar permisos de función de canal",
     "help.perms.desc.channel": "Establecer o mostrar permisos de canal",
-    "help.perms.desc.user": "Establecer o mostrar permisos de usuario"
+    "help.perms.desc.user": "Establecer o mostrar permisos de usuario",
+    "help.perms.desc.role": "Establecer o mostrar permisos de rol",
+    "help.perms.desc.guild": "Establecer o mostrar permisos del servidor",
+    "help.perms.desc.note": "    Los permisos están en el orden de las opciones, lo que significa que el usuario del canal\n    es el nivel más alto y el servidor es el nivel más bajo.",
+    "perms.permNode": "Perm node",
+    "perms.addon": "Puedes encontrar ayuda más detallada en {{url}}",
+    "words.note": "Nota",
+    "words.page": "Pagina",
+    "words.locale": "Sitio",
+    "ban.days": "Dias",
+    "music.songNameYt": "Nombre de la canción (YT)"
 }
