@@ -524,8 +524,9 @@
     "help.sar.desc.rolesAdd": "Agrega los roles a este grupo",
     "help.sar.desc.rolesRemove": "Elimina los roles para este grupo",
     "help.sar.desc.default": "Establece o desactiva este grupo como predeterminado",
-    "help.sar.desc.note": "    Para utilizar la interfaz de asignación debes utilizar --rank [grupo]",
+    "help.sar.desc.note": "    Para utilizar la interfaz de asignación debes utilizar {{prefix}}rank [grupo]",
     "words.aliases": "Alias",
     "words.name": "Nombre",
-    "words.word": "Palabra"
+    "words.word": "Palabra",
+    "rolemembers.header": "Miembros del rol {{role}}"
 }
