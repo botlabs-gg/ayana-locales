@@ -513,7 +513,7 @@
     "help.role.desc.name": "Ändert den Namen einer Rolle",
     "help.role.desc.color": "Ändert die Farbe einer Rolle",
     "help.role.desc.moveAfter": "Setzt die Position einer Rolle hinter die Zielrolle",
-    "help.role.desc.note": "    Dieser Befehl erlaubt es dir nicht Rollen zu vergeben, nehmen oder zu modifizieren,\n    die in einer höheren Position als deine oder Ayana's höchste Rolle\n    oder gleich deiner oder Ayana's höchsten Rolle sind.",
+    "help.role.desc.note": "    Dieser Befehl erlaubt es dir nicht Rollen zu vergeben, nehmen oder zu modifizieren,\n    die in einer höheren oder gleichen Position als deine oder Ayana's höchste Rolle sind.",
     "help.sar.header": "[Self Assignable Roles (SAR) Hilfe]",
     "help.sar.desc.help": "Zeigt diese Hilfe an",
     "help.sar.desc.create": "Erstellt eine SAR Gruppe",
