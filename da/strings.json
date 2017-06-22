@@ -533,5 +533,10 @@
     "words.word": "Ord",
     "rolemembers.header": "Medlemmer af rolle {{role}}",
     "ban.days": "Dage",
-    "music.songNameYt": "Sangtitel (YT)"
+    "music.songNameYt": "Sangtitel (YT)",
+    "help.afk.short": "Lad folk vide, at du er AFK når de nævner dig",
+    "afk.mentionMessage": "Brugeren `{{user}}` er i øjeblikket AFK, men efterlod en besked:\n\n{{message}}",
+    "afk.noLongerAfk": "Du er ikke længere AFK.",
+    "afk.nowAfk": "Du er nu AFK. Den følgende besked vil blive vist, hvis nogen nævner dig, og AFK beskeder er slået til på denne server:\n\n{{message}}",
+    "settings.guild.afk": "Aktiver/Deaktiver AFK beskeder for hele serveren."
 }
