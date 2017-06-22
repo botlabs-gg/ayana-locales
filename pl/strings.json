@@ -531,5 +531,10 @@
     "words.word": "Słowo",
     "rolemembers.header": "Użytkownicy z rolą {{role}}",
     "ban.days": "Dni",
-    "music.songNameYt": "Nazwa piosenki (YT)"
+    "music.songNameYt": "Nazwa piosenki (YT)",
+    "help.afk.short": "Daj znać, że jesteś AFK, za każdym razem, gdy o Tobie wspomną",
+    "afk.mentionMessage": "Użytkownik `{{user}}`jest AFK. Wiadomość od niego:\n\n{{message}}",
+    "afk.noLongerAfk": "Nie jesteś AFK.",
+    "afk.nowAfk": "Jesteś AFK. Następująca wiadomość zostanie wyświetlona, jeśli ktoś Cię wspomni i wiadomości AFK będą włączone na serwerze:\n\n{{message}}",
+    "settings.guild.afk": "Włącz wiadomości AFK dla całej gildii."
 }
