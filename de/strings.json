@@ -430,7 +430,7 @@
     "words.alias": "Alias",
     "actionlog.newChannel": "Neuer Kanal",
     "actionlog.oldChannel": "Alter Kanal",
-    "settings.guild.dmbans": "Aktiviert/Deaktiviert dmbans und dmkicks in der gesamten Gilde.",
+    "settings.guild.dmbans": "Aktiviere/Deaktiviere dmbans und dmkicks für diese Gilde.",
     "general.banInfo": "Du wurdest von einem Server gebannt auf dem du warst.",
     "words.reason": "Grund",
     "general.pagination.cooldown": "Woah! Die Pagination Eingabe ist überhitzt und muss nun etwas abkühlen.",
@@ -531,5 +531,10 @@
     "words.aliases": "Aliase",
     "words.name": "Name",
     "words.word": "Wort",
-    "rolemembers.header": "Mitglieder der Rolle {{role}}"
+    "rolemembers.header": "Mitglieder der Rolle {{role}}",
+    "help.afk.short": "Lass Personen wissen, dass du AFK bist wenn sie dich erwähnen",
+    "afk.mentionMessage": "Der Nutzer `{{user}}` ist zurzeit AFK, hat allerdings eine Nachricht hinterlassen:\n\n{{message}}",
+    "afk.noLongerAfk": "Du bist nun nicht mehr AFK.",
+    "afk.nowAfk": "Du bist nun AFK. Die folgene Nachricht wird angezeigt, wenn Personen dich erfähnen und AFK Nachrichten in diesem Server aktiviert sind:\n\n{{message}}",
+    "settings.guild.afk": "Aktiviere/Deaktiviere AFK Nachrichten in der gesamten Gilde."
 }
