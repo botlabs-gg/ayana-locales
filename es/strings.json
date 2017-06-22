@@ -528,5 +528,10 @@
     "words.aliases": "Alias",
     "words.name": "Nombre",
     "words.word": "Palabra",
-    "rolemembers.header": "Miembros del rol {{role}}"
+    "rolemembers.header": "Miembros del rol {{role}}",
+    "help.afk.short": "Deja que la gente sepa que te encuentras AFK cuando te mencionan",
+    "afk.mentionMessage": "El usuario `{{user}}` se encuentra AFK pero dejo un mensaje:\n\n{{message}}",
+    "afk.noLongerAfk": "Ya no te encuentras AFK.",
+    "afk.nowAfk": "Ahora estas AFK. El siguiente mensaje se mostrará si las personas te mencionan y los mensajes AFK están habilitados en el servidor:\n\n{{message}}",
+    "settings.guild.afk": "Habilitar/Deshabilitar mensajes AFK en el servidor."
 }
