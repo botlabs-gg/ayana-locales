@@ -367,5 +367,9 @@
     "help.music.desc.skip": "Přeskočí aktuální píseň",
     "help.music.desc.shuffle": "Přehází náhodně frontu ",
     "help.music.desc.repeat": "Zapne/vypne opakování",
-    "help.music.desc.providers": "Vypíše seznam dostupných poskytovatelů hudby"
+    "help.music.desc.providers": "Vypíše seznam dostupných poskytovatelů hudby",
+    "help.afk.short": "Řekněte lidem že jste pryč když vás zmíní",
+    "help.music.desc.join": "Přijde do vašeho hlasového kanálu ",
+    "help.music.desc.leave": "Odejde z hlasového kanálu",
+    "help.perms.header": "[Pomoc s oprávněními]"
 }
