@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Jenom přístupné na serverech. ",
+    "general.guildOnly": "Jenom přístupné na serverech.",
     "general.error": "Chyba. Nahlašte tuto chybu na našem serveru podpory (příkaz `support` pro pozvánku)\n```{{error}}```",
     "general.cooldown": "Wau! Trochu otravné, ale tenhle příkaz je na chvíli pozastaven.",
     "finder.failUser": "Nemohu najít správného uživatele.",
@@ -314,7 +314,7 @@
     "help.waa.short": "Chce se vám brečet?",
     "help.bigtext.full": "Užití: `bigtext <text> [--spacesize <číslo] [--addspace <číslo>]",
     "help.role.full": "```css\n[Pomoc s rolemi]\n\nrole give <role[,role]> - dá role\nrole take <role[,role]> - sebere role\nrole modify <role> - upraví roli\n\nAliasy:\ngiverole, takerole, modifyrole\n\nMožnosti pro role give a pro role take:\n\n[--bots] - upraví role pro boty\n[--user <uživatel[, uživatel]>] - upraví role pro dané uživatele\n[--inrole <role>] - upraví role jen pro uživatele, kteří mají tuto roli\n[--notinrole <role>] - upraví role jen pro uživatele, kteří nemají tuto roli\n[--norole] - upraví role jen pro uživatele, kteří nemají žádnou roli\n\nMožnosti pro role modify:\n[--name <jméno>] - přejmenuje roli\n[--color <barva>] změní barvu role\n[--move-after <role>] - Změní pozici role pod danou roli\n\nPříklady:\n    role give Admin, Mod --user TheAkio\n    giverole Bot --inrole Bot\n    takerole Muted --user HcgRandon, TheAkio\n    role modify Bad --color #FF0000\n    modifyrole Admin --color blue\n\nPoznámka:\nTento příkaz vám nedovolí dávat, sebrat nebo upravit role nad vaší nejvyšší rolí!\n\n<> = vyžadováno, [] = volitelné, | = nebo, prosím nedávejte <> [] nebo | do vašeho příkazu.\nProsím přijďte na náš server podpory pro otázky (=support pro pozvánku)```",
-    "general.ayanaRoleTooLow": "Ayanina nejvyšší role je nižší nebo rovna dané roli. Prosím posuňte roli Ayany výš.",
+    "general.ayanaRoleTooLow": "Moje nejvyšší role je nižší nebo rovna dané roli. Prosím posuňte moji roli výš.",
     "general.userRoleTooLow": "Zadaná role je buď vyšší nebo je vaše nejvyšší role a nemůže být používána.",
     "general.noDiscordPermission": "Omlouvám se, chybí mi oprávnění Discordu `{{perm}}`.",
     "general.pagination.blocked": "Stránkování je pro vás zablokované. Prosím zavřete probíhající stránkování.",
