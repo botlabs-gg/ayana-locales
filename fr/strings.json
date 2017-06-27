@@ -289,7 +289,7 @@
     "perms.denyUser": "Révoqué `{{node}}` pour l'utilisateur `{{name}}`",
     "perms.defaultUser": "`{{node}}` mis à défaut pour l'utilisateur `{{name}}`",
     "perms.fullHelp": "```css\nperms <allow|default|deny> permNode [--guild]|[--user [recherche­­]|[--role <recherche>]|[--channel [recherche] --role <rôle>]\nperms allow guild.ban --role administrateur\nperms deny fun.all --guild\n\nperms show [--guild]|[--user [recherche]|[--role <recherche>]|[--channel [recherche] --role <rôle>]\nperms show --guild\nperms show --channel general\nperms show --channel gen --user HcgRandon\n\n<> = requis, [] = optionnel, | = ou, N'incluez pas les <> [] | dans vos commandes```\nPlus d'aide détaillée est disponible sur <https://ayana.io/permissions>",
-    "general.ayanaRoleTooLow": "Le rôle le plus haut d'Ayana est inférieur ou égal au rôle cible. Veuillez attribuer un rôle supérieur à Ayana.",
+    "general.ayanaRoleTooLow": "Je ne peux pas modifier le rôle `{{role}}` car mon rôle le plus haut est inférieur ou égal au rôle ciblé. Veuillez me donner un rôle plus important.",
     "general.userRoleTooLow": "Le rôle cible est supérieur ou égal à votre rôle le plus haut, il ne peut donc pas être utilisé.",
     "general.pagination.blocked": "La pagination est actuellement bloquée pour vous. Veuillez fermer votre pagination en cours.",
     "general.pagination.altNavi": "Écrivez `<` et `>`pour changer de page. Écrivez `p<num>` pour sauter à une page (ex. `p10`).",
