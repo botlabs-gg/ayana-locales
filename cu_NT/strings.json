@@ -433,7 +433,7 @@
     "words.reason": "Some random reason",
     "settings.guild.dmbans": "What do you think it is.",
     "general.commandNotFound": "I cant find the fucking command.",
-    "help.footer": "<> = required information, [] = optional information, | = or, do not include <> [] or | in your command input\nPlease join the support server for any questions. ({{prefix}}support for link)",
+    "help.footer": "<> = required information, []= optional information, | = or, don't include <> [] or | in your command input or you are a retard\nJoin support and annoy us if you don't know how to read the docs ({{prefix}}support for link)",
     "help.cmdForMoreInfo": "Run `{{cmd}}` for more information about this command.",
     "help.aliases.header": "[Aliases Help]",
     "help.aliases.desc.list": "Lists all aliases created in this shithole you call a guild",
