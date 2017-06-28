@@ -541,5 +541,17 @@
     "settings.guild.afk": "Aktiver/Deaktiver AFK beskeder for hele serveren.",
     "afk.afkSince": "AFK siden",
     "words.option": "Indstilling",
-    "words.message": "Besked"
+    "words.message": "Besked",
+    "afk.messageTooLarge": "Din AFK besked kan ikke være større end 1024 tegn.",
+    "fortune.invalidCategory": "Utilgængelig kategori! Tilgængelige kategorier er `{{categories}}`.",
+    "pick.inputTooLarge": "Inputtet af indstillingen jeg ville give er for stor.",
+    "pick.picked": "Jeg valgte: {{option}}",
+    "random.upperBound": "Øvre grænse",
+    "random.lowerBound": "Nedre grænse",
+    "random.noNumber": "Mindst et af de givne argumenter er ikke et tal.",
+    "random.numberTooLarge": "Mindst et af de givne tal er for stort. Det må højest være {{max}}.",
+    "random.lowerBoundTooLarge": "Nedre grænse kan ikke være større end den øvre grænse.",
+    "random.result": "Dit tilfældige tal er {{number}}.",
+    "words.streams": "Streams",
+    "words.shard": "Shard"
 }
