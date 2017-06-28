@@ -547,6 +547,6 @@
     "random.numberTooLarge": "Al menos uno de los números dados es demasiado grande. Debe ser {{max}} como máximo.",
     "random.lowerBoundTooLarge": "El límite inferior no puede ser mayor que el límite superior.",
     "random.result": "Tú número aleatorio es {{number}}.",
-    "words.streams": "Transmisión",
+    "words.streams": "Transmisiones",
     "words.shard": "Fragmentos"
 }
