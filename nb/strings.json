@@ -538,5 +538,17 @@
     "help.aliases.desc.createAlias": "    Bruk kommandoen som du normalt ville gjort, og legg til '-addalias <alias>' etter.\n    La oss si at du ønsker å gjøre '{{prefix}}hei' som et alias for '{{prefix}}say Hei'.\n    For å få til dette utfører du kommandoen '{{prefix}}say Hei --addalias hei'.\n    Valgmuligheter og innstillinger lagres også når et alias blir skapt (med unntak av --addalias).",
     "afk.afkSince": "AFK siden",
     "words.option": "Valgmuligheter",
-    "words.message": "Melding"
+    "words.message": "Melding",
+    "afk.messageTooLarge": "Din AFK-melding kan ikke være lengre enn 1024 tegn.",
+    "fortune.invalidCategory": "Ugyldig kategori! Tilgjengelige kategorier er `{{categories}}`.",
+    "pick.picked": "Jeg valgte: {{option}}",
+    "random.upperBound": "Øvre grense",
+    "random.lowerBound": "Nedre grense",
+    "random.noNumber": "Minst ett av argumentene du gav er ikke ett nummer.",
+    "random.numberTooLarge": "Minst ett av de gitte tallene er for stort. Tallet kan ikke være høyere enn {{max}}.",
+    "random.lowerBoundTooLarge": "Nedre grense kan ikke være større enn den øvre grensen.",
+    "random.result": "Ditt tilfeldige nummer er {{number}}.",
+    "words.shard": "Shard",
+    "pick.inputTooLarge": "Valget jeg ønsket å velge er for stort.",
+    "words.streams": "Strømmer"
 }
