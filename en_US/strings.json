@@ -70,7 +70,7 @@
     "help.pat.short": "Pat",
     "help.perms.short": "Permission control interface",
     "help.perms.header": "[Permissions Help]",
-    "help.perms.desc.allow": "Allow a permission node (append exactly one of the options listed below)",
+    "help.perms.desc.allow": "Allows a permission node (append exactly one of the options listed below)",
     "help.perms.desc.default": "Defaults a permission node (append exactly one of the options listed below)",
     "help.perms.desc.deny": "Denies a permission node (append exactly one of the options listed below)",
     "help.perms.desc.show": "Shows permissions (append exactly one of the options listed below)",
