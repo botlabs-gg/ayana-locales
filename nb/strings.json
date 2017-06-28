@@ -550,5 +550,6 @@
     "random.result": "Ditt tilfeldige nummer er {{number}}.",
     "words.shard": "Shard",
     "pick.inputTooLarge": "Valget jeg ønsket å velge er for stort.",
-    "words.streams": "Strømmer"
+    "words.streams": "Strømmer",
+    "general.invalidEmbed": "Embedet som jeg prøvde å sende var ugyldig. Validatoren printet ut følgende feil.\n```{{error}}```"
 }
