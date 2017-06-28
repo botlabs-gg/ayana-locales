@@ -539,5 +539,17 @@
     "settings.guild.afk": "Aktiviere/Deaktiviere AFK Nachrichten in der gesamten Gilde.",
     "afk.afkSince": "AFK seit",
     "words.option": "Option",
-    "words.message": "Nachricht"
+    "words.message": "Nachricht",
+    "words.shard": "Shard",
+    "afk.messageTooLarge": "Deine AFK Nachricht kann nicht länger als 1024 Charaktere sein.",
+    "fortune.invalidCategory": "Ungültige Kategorie! Gültige Kategorien sind `{{categories}}`.",
+    "pick.inputTooLarge": "Die Eingabe von der Option die ich auswählen wollte ist zu groß.",
+    "pick.picked": "Ich wählte: {{option}}",
+    "random.upperBound": "Obere Grenze",
+    "random.lowerBound": "Untere Grenze",
+    "random.noNumber": "Mindestens eins der gegebenen Argumente ist keine Zahl.",
+    "random.numberTooLarge": "Mindestens eine der gegebenen Zahlen ist zu groß. Sie darf maximal {{max}} sein.",
+    "random.lowerBoundTooLarge": "Untere Grenze kann nicht größer sein als die obere Grenze.",
+    "random.result": "Deine zufällige Zahl ist {{number}}.",
+    "words.streams": "Streams"
 }
