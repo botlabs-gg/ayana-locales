@@ -553,5 +553,6 @@
     "random.lowerBoundTooLarge": "Nedre grænse kan ikke være større end den øvre grænse.",
     "random.result": "Dit tilfældige tal er {{number}}.",
     "words.streams": "Streams",
-    "words.shard": "Shard"
+    "words.shard": "Shard",
+    "general.invalidEmbed": "Den indlejrede besked som jeg forsøgte at sende var invalid. Validatoren printede den følgende fejl.\n```{{error}}```"
 }
