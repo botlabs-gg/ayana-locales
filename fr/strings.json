@@ -547,5 +547,6 @@
     "random.lowerBoundTooLarge": "La limite inférieure ne peut pas être plus grande que la limite supérieure.",
     "random.result": "Votre nombre aléatoire est {{number}}.",
     "words.streams": "Streams",
-    "words.shard": "Shard"
+    "words.shard": "Shard",
+    "general.invalidEmbed": "L'intégration que j'ai essayé d'envoyer n'est pas valide. La validation a donné l'erreur suivante.\n```{{error}}```"
 }
