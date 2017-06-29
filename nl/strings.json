@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Alleen beschikbaar in servers. ",
+    "general.guildOnly": "Alleen beschikbaar in servers.",
     "general.error": "Er is iets misgegaan. Meld dit alstublieft in onze support server (`support` commando om de uitnodiging te krijgen).\n```{{error}}```",
     "general.cooldown": "Woah! Je wilt te snel. Deze opdracht is op het moment nog aan het afkoelen.",
     "finder.failUser": "Genoemde gebruiker niet gevonden.",
@@ -247,7 +247,7 @@
     "perms.showChannelRole": "Machtigingen tonen voor de rol `{{rname}}` in `{{cname}}`",
     "perms.showRole": "Machtigingen tonen voor de rol `{{rname}}`",
     "perms.showUser": "Machtigingen tonen voor gebruiker `{{name}}`",
-    "perms.allowChannel": "`{{node}}` gegeven voor Kanaal `{{name}}`",
+    "perms.allowChannel": "`{{node}}` toegekend voor Kanaal `{{name}}`",
     "perms.denyChannel": "`{{node}}` weggehaald voor Kanaal `{{name}}`",
     "perms.defaultChannel": "Teruggegaan naar de standaard instelling voor `{{node}}` voor Kanaal `{{name}}`",
     "perms.allowChannelUser": "`{{node}}` toegekend voor Kanaal `{{cname}}` voor gebruiker `{{uname}}`",
@@ -269,5 +269,8 @@
     "words.contributors": "Bijdragers",
     "help.rolemembers": "Gebruik: `rolemembers <role> [page]` of `rolemembers <role> [--page <page>]`",
     "rolemembers.headerPage": "Leden van Rol {{role}} pagina {{page}}/{{total}}",
-    "general.ayanaRoleTooLow": "Ayana's hoogste rol is lager of gelijk aan de target rol. Zet Ayana's rol hoger in de rollenlijst aub."
+    "general.ayanaRoleTooLow": "Ayana's hoogste rol is lager of gelijk aan de target rol. Zet Ayana's rol hoger in de rollenlijst aub.",
+    "perms.allowGuild": "`{{node}}` gegeven voor hele Guild",
+    "perms.denyGuild": "`{{node}}` weggehaald voor hele Guild",
+    "perms.defaultGuild": "Teruggegaan naar de standaardinstelling voor `{{node}}` voor hele Guild"
 }
