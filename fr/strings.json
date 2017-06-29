@@ -535,5 +535,17 @@
     "help.sar.desc.default": "Active ou désactive ce groupe comme groupe par défaut",
     "afk.afkSince": "Absent depuis",
     "words.option": "Option",
-    "words.message": "Message"
+    "words.message": "Message",
+    "afk.messageTooLarge": "Votre message d'absence ne peut pas faire plus de 1024 caractères.",
+    "fortune.invalidCategory": "Catégorie non valide! Les catégories valides sont `{{categories}}`.",
+    "pick.inputTooLarge": "L'entrée de l'option que je voulais choisir est trop longue.",
+    "pick.picked": "J'ai choisi: {{option}}",
+    "random.upperBound": "Limite supérieure",
+    "random.lowerBound": "Limite inférieure",
+    "random.noNumber": "Au moins un des arguments n'est pas un nombre.",
+    "random.numberTooLarge": "Au moins un des nombres donnés est trop grand. Il doit être plus petit ou égal à {{max}}.",
+    "random.lowerBoundTooLarge": "La limite inférieure ne peut pas être plus grande que la limite supérieure.",
+    "random.result": "Votre nombre aléatoire est {{number}}.",
+    "words.streams": "Streams",
+    "words.shard": "Shard"
 }
