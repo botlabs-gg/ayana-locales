@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "サーバーでのみ使用できます。 ",
+    "general.guildOnly": "サーバーでのみ使用できます。",
     "general.error": "エラーが発生しました。 このことを私たちのサポートに連絡してください。（`info` コマンドで招待リンクを取得できます。）\n```{{error}}```",
     "general.cooldown": "わぁ！ちょっと待ってね…　クールダウン中です…",
     "finder.failUser": "一致するユーザーが見つかりません。",
