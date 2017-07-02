@@ -490,7 +490,7 @@
     "help.perms.desc.user": "Ustaw lub pokaż permisje użytkownika",
     "help.perms.desc.role": "Ustaw lub pokaż permisję roli",
     "help.perms.desc.guild": "Ustaw lub pokaż permisję gildii",
-    "help.perms.desc.note": "    Permisję mają kolejność opcji, co oznacza, użytkownik kanału ma największy\n\tpoziom, a gildia najmniejszy poziom.",
+    "help.perms.desc.note": "    Permisję mają kolejność opcji, co oznacza, użytkownik kanału ma największy\n    poziom, a gildia najmniejszy poziom.",
     "help.role.header": "[Pomoc - Role]",
     "help.role.desc.give": "Nadaje rolę",
     "help.role.desc.take": "Otrzymuje rolę",
