@@ -551,5 +551,6 @@
     "random.lowerBoundTooLarge": "Dolna granica nie może być większa niż górna.",
     "random.result": "Twoją losową liczbą jest {{number}}.",
     "words.streams": "Strumienie",
-    "words.shard": "Shard"
+    "words.shard": "Shard",
+    "general.invalidEmbed": "Załącznik, który próbowałam wysłać jest nieprawidłowy. Otrzymano następujący błąd.\n```{error}```"
 }
