@@ -393,5 +393,15 @@
     "fortune.invalidCategory": "Geçersiz kategori! Geçerli katogoriler: `{{categories}}`.",
     "locale.invalidLocale": "`{{input}}` tanıdığım bir dil değil. Geçerli opsiyonlar için lütfen `locale list` komutunu çalıştırın.\n  Alternatif olarak beni kendi diline çevirmek istiyorsan {{url}} linkine git",
     "perms.allowChannelRole": "`{{cname}}` kanalında `{{rname}}` rolü için `{{node}}` yetkisi verildi",
-    "perms.denyChannelRole": "`{{cname}}` kanalında `{{rname}}` rolünden `{{node}}` yetkisi kaldırıldı"
+    "perms.denyChannelRole": "`{{cname}}` kanalında `{{rname}}` rolünden `{{node}}` yetkisi kaldırıldı",
+    "perms.defaultChannelRole": "`{{node}}` izni `{{rname}}` adlı rol için `{{cname}}` kanalında varsayılana döndü",
+    "perms.allowRole": "`{{node}}` izni `{{name}}` rolüne verildi",
+    "perms.denyRole": "`{{node}}` izni `{{name}}` rolünden alındı",
+    "perms.defaultRole": "`{{node}}` izni `{{name}}` rolü için varsayılana döndü",
+    "perms.allowUser": "`{{node}}` izni `{{name}}` adlı kullanıcıya verildi",
+    "perms.denyUser": "`{{node}}` izni `{{name}}` adlı kullanıcıdan alındı",
+    "perms.defaultUser": "`{{node}}` izni `{{name}}` adlı kullanıcı için varsayılana döndü",
+    "perms.legend": ":heavy_check_mark: => Varsayılan olarak İzin Verildi :heavy_multiplication_x: => Varsayılan olarak İzin Verilmedi :white_check_mark: => İzin Verildi :no_entry: => İzin Verilmedi",
+    "perms.permNode": "İzin",
+    "perms.addon": "Detaylı bilgi için {{url}}"
 }
