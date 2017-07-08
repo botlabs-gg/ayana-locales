@@ -549,5 +549,6 @@
     "help.sar.desc.rolesAdd": "Adds cartels to this group",
     "help.sar.desc.rolesRemove": "Removes cartels from this group",
     "help.sar.desc.default": "Sets or unsets this fucking group as the chosen one",
-    "help.sar.desc.note": "    If you read the stuff above carefully you may have noticed that\n    there is no way to enter the assignment interface. And if you would\n    start reading the help you dickhead you would know that you can use\n    {{prefix}}rank [group] to use that shit."
+    "help.sar.desc.note": "    If you read the stuff above carefully you may have noticed that\n    there is no way to enter the assignment interface. And if you would\n    start reading the help you dickhead you would know that you can use\n    {{prefix}}rank [group] to use that shit.",
+    "general.invalidEmbed": "Someone who made me fucked up his code so I couldn't send this shitty embed.\n```{{error}}```"
 }
