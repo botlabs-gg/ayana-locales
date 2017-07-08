@@ -532,5 +532,6 @@
     "reminder.delete.nomatches": "Hatırlatmalarından hiçbiri aramanla eşleşmedi.",
     "reminder.delete.done": "Hatırlatıcı(lar) silindi.",
     "reminder.fullhelp": "```\nreminder add <hatırlatıcı cümlesi> - Yeni bir hatırlatıcı ekler\nreminder del <arama> - Aramaya göre hatırlatıcı siler\nreminder list - Hatırlatıcı listesini gösterir\n\nÖrnekler:\n  reminder add ocağı kontrol et in 1 hour\n  reminder add çamaşırları hallet in 20 min",
-    "donators.none": "Bağışçı bulunamadı."
+    "donators.none": "Bağışçı bulunamadı.",
+    "general.invalidEmbed": "Göndermeye çalıştığım embed yanlıştı. Doğrulayıcı bu hatayı verdi.\n```{{error}}```"
 }
