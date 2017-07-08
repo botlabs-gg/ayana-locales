@@ -1,6 +1,6 @@
 {
     "general.guildOnly": "Nur in einem Server verfügbar.",
-    "general.error": "Ein Fehler ist aufgetreten! Bitte melde diesen auf unserem Support-Server (`support` Befehl um eine Einladung zu bekommen).\n```{{error}}```",
+    "general.error": "Ein Fehler ist aufgetreten. Bitte melde diesen auf unserem Support-Server (`support` Befehl um eine Einladung zu bekommen).\n```{{error}}```",
     "general.cooldown": "Woah! Der Befehl ist überhitzt und muss nun etwas abkühlen.",
     "finder.failUser": "Ich konnte keinen passenden Nutzer finden.",
     "finder.failRole": "Ich konnte keine passende Rolle finden.",
@@ -249,7 +249,7 @@
     "help.prune": "Nutzung: `prune <Anzahl> [--all|--user [Suche]|--bots] [--filter [Filter]|--embeds|--attachments|--pinned]`",
     "settings.autodel.prune": "Lösche die gesamte generierte Ausgabe nach 10 Sekunden?",
     "general.unableToDM": "Ich konnte dir keine private Nachricht schicken. Dies liegt wahrscheinlich daran, dass du die Option `Allow direct messages from server members` in deinen Discord Privatsphäreeinstellungen deaktiviert hast. Bitte aktiviere diese Option um diese private Nachricht zu erhalten.",
-    "general.forbidden": "Ich habe versucht eine Antwort auf deinen Befehl zu senden. Allerdings hatte ich keine Rechte dazu. Bitte sage einem Serveradministrator, dass er mir das `Send Message` Discord Recht geben soll.\n\nGilde: `{{guild}}`\nKanal: `{{channel}}`\nBefehl: `{{cmd}}`\n\nWenn du diese Nachricht nicht mehr erhalten möchtest, führe in der Gilde `settings user dmerrors false` aus.",
+    "general.forbidden": "Ich habe versucht eine Antwort auf deinen Befehl zu senden, allerdings hatte ich keine Rechte dazu. Bitte sage einem Serveradministrator, dass er mir das `Send Message` Discord Recht geben soll.\n\nGilde: `{{guild}}`\nKanal: `{{channel}}`\nBefehl: `{{cmd}}`\n\nWenn du diese Nachricht nicht mehr erhalten möchtest, führe in der Gilde `settings user dmerrors false` aus.",
     "general.targetHigherRole": "{{target}} besitzt eine höhere Rolle als du. Du kannst ihn nicht verändern.",
     "help.avatar.short": "Zeige den Avatar eines Nutzers an",
     "help.bad.short": "Nein, böse!",
