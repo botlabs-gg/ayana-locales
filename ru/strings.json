@@ -253,7 +253,7 @@
     "prune.totalMsgsDeleted": "Всего сообщений удалено",
     "prune.oldMsgsDelted": "Старых сообщений удалено",
     "prune.oldMsgsNotDeleted": "Старых сообщений не удалено",
-    "prune.deletedByUser": "Удаленных сообщений по пользователю",
+    "prune.deletedByUser": "Удаленных сообщений по пользователям",
     "prune.alreadyPruning": "Кто-то уже запустил команду очистки здесь! Пожалуйста, подождите пока её выполнение завершится.",
     "words.contributors": "Авторы и помощники",
     "words.arguments": "Аргументы",
