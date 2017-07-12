@@ -1,10 +1,10 @@
 {
-    "general.guildOnly": "Ainult saadaval Serverites. ",
+    "general.guildOnly": "Ainult saadaval Serverites.",
     "general.unableToDM": "Ma ei saanud saata sulle otsest kirja. See võib olla tekitatud sinu poolt valiku `Luba otsesed kirjad serveri liikmetelt` enda Discordi privaatsussätete väärolekusse panemisest.",
     "general.error": "Viga on toimunud. Palun anda sellest aruanne meie toetusgildi (`tugi` käsk, et saada kutse).\n```{{error}}```",
     "general.forbidden": "Ma üritasin saata vastuse sinu käsule, aga mul puudub luba selle jaoks. Palun lase kellegil personalist mulle anda Discordi luba `Saada sõnumeid`.\n\nGild: `{{guild}}`\nKanal: `{{channel}}`\nKäsk: `{{cmd}}`\n\nKui sa enam ei soovi näha neid sõnumeid, siis palun käitada käsk `settings user dmerrors false` gildis.",
     "general.gatewayFailure": "Ebaõnnestus kontakteeruda Värav. Palun proovi hiljem uuesti.",
-    "general.cooldown": "Ossa! Liiga vürtsikas kohe, see käsk on hetkel maha jahtumas.",
+    "general.cooldown": "Ossa! See oli liiga vürtsikas, see käsk on hetkel maha jahtumas.",
     "general.ayanaRoleTooLow": "Ayana suurim roll on väiksem kui või võrdne võrreldes sihtrolliga. Palun liiguta Ayana kõrgemale.",
     "general.userRoleTooLow": "Sihitud roll on kumbki kõrgem või on su suurim roll ja ei saa seda kasutada.",
     "general.pagination": "Lehekülg {{page}}/{{pages}}",
@@ -118,5 +118,17 @@
     "perms.resetall.reset": "Juurdepääsud lähtestati.",
     "perms.resetall.error": "Ebaõnnestus kõik juurdepääsud lähtestada.",
     "perms.failedUpdate": "Ebaõnnestus juurdepääsu sõlme uuendada. Palun võta ühendust toega, kui see tõrge püsib.",
-    "aliases.updatedAlias": "Muutsin `{{key}}` aliasele `{{alias}}` `{{value}}`ks."
+    "aliases.updatedAlias": "Muutsin `{{key}}` aliasele `{{alias}}` `{{value}}`ks.",
+    "question.alreadyHasQuestion": "Sul on juba Küsimus selles gildis käimas.",
+    "reminder.list.none": "Sul ei ole ühtki meeldetuletust praegu.",
+    "reminder.list.invalidPage": "Väär Lehekülg.",
+    "reminder.delete.confirm": "Järgnevad punktid eemaldatakse. Kas see kõlbab [y/n]:\n```{{items}}```",
+    "reminder.created": "Okei, ma kindlasti tuletan sulle meelde!",
+    "reminder.delete.nomatches": "Ükski punkt sinu meeldetuletustest ei vastanud sinu päringule.",
+    "reminder.delete.done": "Meeldetuletus(ed) kustutati.",
+    "reminder.fullhelp": "```\nreminder add <reminder string> - Lisab uue meeldetuletuse\nreminder del <search> - Kustutab meeldetuletused otsingu kaudu\nreminder list - Näitab nimekirja sinu meeldetuletustest\n\nExamples:\n reminder add check the oven in 1 hour\n reminder add do the laundry in 20 min```",
+    "donators.none": "Ei õnnestunud leida ühtki annetajat.",
+    "question.timeout": "Küsimus aegus.",
+    "question.cancelled": "Küsimus tühistati.",
+    "general.pagination.cooldown": "Ossa! Liiga vürtsikas kohe, nummerduse sisendid on praegu maha jahtumas."
 }
