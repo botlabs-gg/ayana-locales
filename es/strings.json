@@ -461,7 +461,7 @@
     "words.usage": "Uso",
     "words.text": "Texto",
     "words.boolean": "Boolean",
-    "help.music.header": "[Música Ayuda]",
+    "help.music.header": "[Ayuda Música]",
     "help.music.desc.queue": "Mostrar cola",
     "help.music.desc.enqueue": "Coloca una canción o lista de reproducción",
     "help.music.desc.enqueueNext": "Coloca la canción o la lista de reproducción en la(s) siguiente(s) posición(s)",
