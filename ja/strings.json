@@ -444,5 +444,18 @@
     "sar.rolesHelp": "グループに役割を追加またはグループから削除するには、 `{{prefix}} sar <group> roles <add | remove> <role>`を使用します。",
     "sar.groupAlreadyCreated": "`{{group}}`はすでに作成されています。",
     "sar.groupCreated": "`{{group}}`が作成されました。",
-    "sar.groupDeleted": "`{{group}}`は削除されました。"
+    "sar.groupDeleted": "`{{group}}`は削除されました。",
+    "general.invalidEmbed": "私が送ろうとした埋め込みは無効でした。バリデータは次のエラーを出力しました。\n```{{error}}```",
+    "sar.groupRenamed": "`{{group}}` は `{{newGroup}}`に変更されました。",
+    "sar.cannotCreateMoreGroups": "あなたは{{amnt}} 以上のグループを作ることが出来ません。",
+    "sar.cannotAddMoreRoles": "あなたは {{amnt}} 以上の役割をグループに追加出来ません。",
+    "sar.checkHelp": "あなたが入力したコマンドは無効です。`{{prefix}}sar help`で確認して下さい。",
+    "sar.changed": "グループ `{{group}}`の`{{action}}`を`{{value}}`に変更しました。",
+    "sar.noDefaultGroup": "既定のグループは定義されていません。以下のヘルプを確認してください`{{prefix}}sar help`。",
+    "sar.cannotUseReserved": "この予約されたキーワードをグループ名として使用することはできません。",
+    "sar.setDefault": "デフォルトグループを `{{group}}`に設定します。",
+    "sar.reqRole": "必要な役割",
+    "sar.maxRoles": "割り当て可能な最大役割",
+    "sar.noLimit": "制限なし",
+    "sar.createHelp": "グループを作成するには、 `{{prefix}} sar create <group>`を使用します。"
 }
