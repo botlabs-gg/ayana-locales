@@ -554,7 +554,7 @@
     "general.invalidEmbed": "Embedet som jeg prøvde å sende var ugyldig. Validatoren printet ut følgende feil.\n```{{error}}```",
     "pro.upgraded": "Denne serveren har blitt oppgradert til Ayana PRO.",
     "pro.downgraded": "Denne serveren har ikke lengre Ayana PRO.",
-    "pro.modificationError": "Noe gikk galt da vi forsøkte å oppdatere PRO-statusen.",
+    "pro.modificationError": "Noe gikk galt da vi forsøkte å oppdatere Ayana PRO-statusen.",
     "pro.noSubscriptions": "Du har ikke noen PRO-abonnementer. Du kan få Ayana PRO ved å støtte Ayana på Patreon.",
     "pro.alreadyUpgraded": "Denne serveren har allerede blitt oppgradert til Ayana PRO.",
     "pro.cannotUpgradeMore": "Du kan ikke oppgradere denne serveren til Ayana PRO fordi du allerede har brukt alle dine oppgraderinger.",
