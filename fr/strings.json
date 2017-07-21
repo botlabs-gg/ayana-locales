@@ -552,5 +552,7 @@
     "pro.upgraded": "Ce serveur a été amélioré vers Ayana PRO.",
     "pro.downgraded": "Ce serveur n'a plus Ayana PRO.",
     "pro.modificationError": "Une erreur s'est produite lors de la mise à jour au status PRO.",
-    "pro.noSubscriptions": "Vous n'avez aucun abonnement PRO. Vous pouvez obtenir Ayana PRO en supportant Ayana sur Patreon."
+    "pro.noSubscriptions": "Vous n'avez aucun abonnement PRO. Vous pouvez obtenir Ayana PRO en supportant Ayana sur Patreon.",
+    "pro.alreadyUpgraded": "Ce serveur a déjà été amélioré vers Ayana PRO.",
+    "pro.cannotUpgradeMore": "Vous ne pouvez pas améliorer ce serveur vers Ayana PRO car vous avez déjà utilisé toutes vos améliorations de serveur."
 }
