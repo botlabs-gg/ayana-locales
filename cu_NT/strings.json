@@ -550,5 +550,12 @@
     "help.sar.desc.rolesRemove": "Removes cartels from this group",
     "help.sar.desc.default": "Sets or unsets this fucking group as the chosen one",
     "help.sar.desc.note": "    If you read the stuff above carefully you may have noticed that\n    there is no way to enter the assignment interface. And if you would\n    start reading the help you dickhead you would know that you can use\n    {{prefix}}rank [group] to use that shit.",
-    "general.invalidEmbed": "Someone who made me fucked up his code so I couldn't send this shitty embed.\n```{{error}}```"
+    "general.invalidEmbed": "Someone who made me fucked up his code so I couldn't send this shitty embed.\n```{{error}}```",
+    "pro.upgraded": "This shithole now uses Ayana Non-Shit.",
+    "pro.downgraded": "This shithole no longer uses Ayana Non-Shit. I guess the shit level went over 9000 again.",
+    "pro.modificationError": "Stupid subscription bullshit threw some error so Ayana Non-Shit status could not be changed.",
+    "pro.noSubscriptions": "You don't pay me money! Go to fucking Patreon and pay me some money to get Ayana Non-Shit into this shithole.",
+    "pro.alreadyUpgraded": "2 x !Shit = Shit, why would you want that? Oh if you didn't get it you dickhead, you have Ayana Non-Shit here already.",
+    "pro.cannotUpgradeMore": "You don't pay me enough money to get more shitholes with Ayana Non-Shit.",
+    "pro.notUpgraded": "Are you stupid or some shit? This server doesn't have Ayana Non-Shit how do you want me to remove it?"
 }
