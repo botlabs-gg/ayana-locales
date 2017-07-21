@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "Disponível apenas em Servidores.",
+    "general.guildOnly": "Disponível somente em Servidores.",
     "general.error": "Um erro ocorreu. Por favor reporte isso no nosso servidor de suporte (comando `support` para receber convite). ```{{error}}```",
     "general.cooldown": "Wow! Acalme-se, Este comando está em tempo de recarga.",
     "finder.failUser": "Não foi possível encontrar o usuário que procura.",
@@ -428,8 +428,8 @@
     "help.afk.short": "Deixa que pessoas saibam que está AFK quando lhe mencionam",
     "help.music.header": "[Ajuda em Música]",
     "help.music.desc.queue": "Mostrar fila",
-    "help.music.desc.enqueue": "Coloca uma música ou uma playlist",
-    "help.music.desc.enqueueNext": "Coloca musica ou playlist na próxima posição",
+    "help.music.desc.enqueue": "Adiciona uma música ou playlist de músicas a lista",
+    "help.music.desc.enqueueNext": "Adiciona uma música ou uma playlist de músicas para a(s) próxima(s) posição(s)",
     "help.music.desc.purge": "Limpa a fila",
     "help.music.desc.delete": "Deletar itens da fila",
     "help.music.desc.play": "Começa a reproduzir a música da fila",
@@ -545,5 +545,9 @@
     "settings.guild.afk": "Habilitar/Desabilitar mensagens AFK no servidor.",
     "music2.skipEmpty": "Fila vazia. Nada para pular.",
     "music.songNameYt": "Nome da música (YT)",
-    "words.boolean": "Booleano"
+    "words.boolean": "Booleano",
+    "help.role.desc.note": "    Esse comando não irá te permitirde dar, ter ou modificar cargos\n    que estão em uma posição igual ou mais alta que o cargo mais alto seu ou da Ayana.",
+    "help.sar.desc.note": "    Para usar a interface de tarefa você precisa fazer {{prefix}}rank [grupo]",
+    "aliases.addHelp": "Para adicionar prefixo, use o comando que você quer adicionar como você normalmente iria usar e adicione `--addalias <prefixo>` no final.",
+    "aliases.updatedAlias": "Alterado `{{key}}` do prefixo `{{alias}}` para `{{value}}`."
 }
