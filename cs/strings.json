@@ -371,5 +371,9 @@
     "help.afk.short": "Řekněte lidem že jste pryč když vás zmíní",
     "help.music.desc.join": "Přijde do vašeho hlasového kanálu ",
     "help.music.desc.leave": "Odejde z hlasového kanálu",
-    "help.perms.header": "[Pomoc s oprávněními]"
+    "help.perms.header": "[Pomoc s oprávněními]",
+    "help.perms.desc.allow": "Povolí oprávnění (přidejte přesně jednu z možností dole)",
+    "help.perms.desc.deny": "Zakáže oprávnění (přijdejte přesně jednu z možností dole)",
+    "help.perms.desc.show": "Ukáže oprávnění (přijdejte přesně jednu z možností dole)",
+    "help.perms.desc.nodes": "Vypíše všechna oprávnění"
 }
