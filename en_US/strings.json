@@ -232,7 +232,7 @@
     "prefix.text": "Prefix on this server is `{{prefix}}`.",
     "pro.upgraded": "This server has been upgraded to Ayana PRO.",
     "pro.downgraded": "This server no longer has Ayana PRO.",
-    "pro.modificationError": "Something went wronge while trying to update PRO status.",
+    "pro.modificationError": "Something went wrong while trying to update Ayana PRO status.",
     "pro.noSubscriptions": "You don't have any PRO subscriptions. You can get Ayana PRO by supporting Ayana on Patreon.",
     "pro.alreadyUpgraded": "This server has already been upgraded to Ayana PRO.",
     "pro.cannotUpgradeMore": "You cannot upgrade this server to Ayana PRO because you have already used all of your server upgrades.",
