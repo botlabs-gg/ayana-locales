@@ -260,5 +260,14 @@
     "help.aliases.desc.createAlias": "    أكتب الأمر كما تفعل عادةً ثم قم بإضافة '--addalias <alias>' في نهايته.\n    لنفترض أنك تريد أنك تريد استخدام '{{prefix}}hello' كاسم مستعار الى '{{prefix}}say hello'.\n    لإضافة هذا الاسم المستعار قم بتنفيذ الأمر '{{prefix}}say hello --addalias hello'.\n    يتم حفظ الخيارات والأعلام أيضاً عند إضافة اسم مستعار (بالطبع ماعدا --addalias).",
     "help.afk.short": "دع الناس يعرفوا أنك بعيد عن الكيبورد (AFK) عندما يذكرونك",
     "help.music.desc.queue": "يظهر قائمة الإنتظار",
-    "help.music.desc.enqueue": "إدراج أغنية أو قائمة تشغيل إلى قائمة الإنتظار"
+    "help.music.desc.enqueue": "إدراج أغنية أو قائمة تشغيل إلى قائمة الإنتظار",
+    "general.invalidEmbed": "التضمين الذي حاولت ارساله غير صالح. طبع المصحح هذا الخطأ.\n```{{error}}```",
+    "help.aliases.header": "[مساعدة الاسم المستعار]",
+    "help.music.header": "[مساعدة الأغاني]",
+    "help.music.desc.skip": "يتخطى الأغنية الحالية",
+    "help.music.desc.repeat": "تشغيل | إيقاف التكرار",
+    "help.music.desc.providers": "عرض قائمة بمزودي الموسيقى المتاحين",
+    "help.music.desc.join": "ينضم إلى القناة الصوتية الحالية *ملحوظة يجب أن تكون في القناة الصوتية* ",
+    "help.music.desc.leave": "يغادر القناة الصوتية",
+    "help.perms.header": "[مساعدة الإذن]"
 }
