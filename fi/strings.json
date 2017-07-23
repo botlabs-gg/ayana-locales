@@ -514,5 +514,9 @@
     "help.sar.desc.note": "    Käyttääksesi SAR valikkoa, suorita {{prefix}}rank [group]",
     "afk.mentionMessage": "Käyttäjä {{user}} on nyt AFK",
     "afk.noLongerAfk": "Et ole enää AFK.",
-    "afk.afkSince": "AFKissa alk."
+    "afk.afkSince": "AFK, alkaen.",
+    "afk.nowAfk": "Olet nyt AFK, Seuraava viesti näytetään jos ihmiset merkkavat sinut:",
+    "afk.messageTooLarge": "AFK-viesti ei voi olla pidempi kuin 1024 merkkiä.",
+    "aliases.newName": "Uusi nimi",
+    "fortune.invalidCategory": "Epäkelpo kategoria! Kategoriat ovat `{{categories}}`."
 }
