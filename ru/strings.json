@@ -550,5 +550,12 @@
     "words.message": "Сообщение",
     "words.streams": "Стримы",
     "words.shard": "Часть",
-    "general.invalidEmbed": "Встраивание, которое я попыталась отправить оказалось неверным.\nПри проверке произошла следующая ошибка.\n```{{error}}```"
+    "general.invalidEmbed": "Встраивание, которое я попыталась отправить оказалось неверным.\nПри проверке произошла следующая ошибка.\n```{{error}}```",
+    "pro.upgraded": "Этот сервер был обновлён до Ayana PRO.",
+    "pro.downgraded": "На этом сервере теперь нет Ayana PRO.",
+    "pro.modificationError": "Произошла ошибка при обновлении статуса Ayana PRO.",
+    "pro.noSubscriptions": "У вас нет PRO подписок. Вы можете получить Ayana PRO поддержав Ayana на Patreon.",
+    "pro.alreadyUpgraded": "Этот сервер уже был улучшен до Ayana PRO.",
+    "pro.cannotUpgradeMore": "Вы не можете обновить этот сервер до Ayana PRO, т.к. вы уже использовали все Ваши улучшения.",
+    "pro.notUpgraded": "Этот сервер не улучшен до Ayana PRO."
 }
