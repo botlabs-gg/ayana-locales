@@ -504,5 +504,15 @@
     "help.sar.desc.rename": "Uudelleen nimeää SAR ryhmän",
     "help.sar.desc.groups": "Listaa SAR ryhmät",
     "help.sar.groupModification": "Ryhmän muokkaaminen",
-    "help.sar.desc.active": "Pois tai -aktivoi tämän ryhmän"
+    "help.sar.desc.active": "Pois tai -aktivoi tämän ryhmän",
+    "general.invalidEmbed": "Embed jota yritin tulostaa on epäkelpo. Virhe tiedot.\n```{{error}}```",
+    "help.sar.desc.reqrole": "Asettaa roolin jonka käyttäjä tarvitsee käyttääkseen tätä ryhmää",
+    "help.sar.desc.max": "Asettaa rooleille maksimi määrän jonka käyttäjä voi ryhmästä ottaa",
+    "help.sar.desc.rolesAdd": "Lisää rooleja tähän ryhmään",
+    "help.sar.desc.rolesRemove": "Poistaa roolit tästä ryhmästä",
+    "help.sar.desc.default": "Pois -/asettaa tämän ryhmän oletukseksi",
+    "help.sar.desc.note": "    Käyttääksesi SAR valikkoa, suorita {{prefix}}rank [group]",
+    "afk.mentionMessage": "Käyttäjä {{user}} on nyt AFK",
+    "afk.noLongerAfk": "Et ole enää AFK.",
+    "afk.afkSince": "AFKissa alk."
 }
