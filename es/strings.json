@@ -549,5 +549,12 @@
     "random.result": "Tú número aleatorio es {{number}}.",
     "words.streams": "Transmisiones",
     "words.shard": "Fragmentos",
-    "general.invalidEmbed": "La inserción que intenta enviar no era válida. El validador imprimió el siguiente error.\n```{{error}}```"
+    "general.invalidEmbed": "La inserción que intenta enviar no era válida. El validador imprimió el siguiente error.\n```{{error}}```",
+    "pro.upgraded": "Este servidor ha sido actualizado a Ayana PRO.",
+    "pro.downgraded": "Este servidor ya no cuenta con Ayana PRO.",
+    "pro.modificationError": "Se ha producido un error al intentar actualizar el estado de Ayana PRO.",
+    "pro.noSubscriptions": "No tienes ninguna suscripción a PRO. Puedes obtener Ayana PRO apoyando a Ayana en Patreon.",
+    "pro.alreadyUpgraded": "Este servidor ya ha sido actualizado a Ayana PRO.",
+    "pro.cannotUpgradeMore": "No puedes actualizar este servidor a Ayana PRO porque ya has utilizado todas sus actualizaciones de servidor.",
+    "pro.notUpgraded": "Este servidor no ha sido actualizado a Ayana PRO."
 }

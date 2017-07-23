@@ -552,5 +552,12 @@
     "random.result": "Twoją losową liczbą jest {{number}}.",
     "words.streams": "Strumienie",
     "words.shard": "Shard",
-    "general.invalidEmbed": "Załącznik, który próbowałam wysłać jest nieprawidłowy. Otrzymano następujący błąd.\n```{error}```"
+    "general.invalidEmbed": "Załącznik, który próbowałam wysłać jest nieprawidłowy. Otrzymano następujący błąd.\n```{error}```",
+    "pro.upgraded": "Ten serwer został ulepszony do Ayany PRO.",
+    "pro.downgraded": "Ten serwer nie posiada już dłużej Ayany PRO.",
+    "pro.modificationError": "Coś poszło nie po myśli podczas odświeżania statusu Ayany PRO.",
+    "pro.noSubscriptions": "Nie posiadasz żadnych subskrypcji. Ayanę PRO możesz uzyskać poprzez wsparcie Ayany na Patreonie.",
+    "pro.alreadyUpgraded": "Ten serwer został już ulepszony do Ayany PRO.",
+    "pro.cannotUpgradeMore": "Nie możesz ulepszyć tego serwera do poziomu Ayany PRO, ponieważ zużyłeś wszystkie swoje ulepszenia.",
+    "pro.notUpgraded": "Ten serwer nie został zaktualizowany do Ayany PRO."
 }

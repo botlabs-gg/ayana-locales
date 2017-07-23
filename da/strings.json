@@ -554,5 +554,12 @@
     "random.result": "Dit tilfældige tal er {{number}}.",
     "words.streams": "Streams",
     "words.shard": "Shard",
-    "general.invalidEmbed": "Den indlejrede besked som jeg forsøgte at sende var invalid. Validatoren printede den følgende fejl.\n```{{error}}```"
+    "general.invalidEmbed": "Den indlejrede besked som jeg forsøgte at sende var invalid. Validatoren printede den følgende fejl.\n```{{error}}```",
+    "pro.upgraded": "Denner server er blevet opgraderet til Ayana PRO.",
+    "pro.downgraded": "Denne server har ikke længere Ayana PRO.",
+    "pro.modificationError": "Noget gik galt mens vi forsøgte at opdatere statussen for Ayana PRO.",
+    "pro.noSubscriptions": "Du har ikke nogle PRO abonnementer. Du kan få Ayana PRO ved at støtte Ayana på Patreon.",
+    "pro.alreadyUpgraded": "Denne server er allerede opgraderet til Ayana PRO.",
+    "pro.cannotUpgradeMore": "Du kan ikke opgradere denne server til Ayana PRO, da du allerede har brugt alle dine tilgængelige opgraderinger.",
+    "pro.notUpgraded": "Denne server er ikke blevet opgraderet til Ayana PRO."
 }

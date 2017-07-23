@@ -533,5 +533,12 @@
     "reminder.delete.done": "Hatırlatıcı(lar) silindi.",
     "reminder.fullhelp": "```\nreminder add <hatırlatıcı cümlesi> - Yeni bir hatırlatıcı ekler\nreminder del <arama> - Aramaya göre hatırlatıcı siler\nreminder list - Hatırlatıcı listesini gösterir\n\nÖrnekler:\n  reminder add ocağı kontrol et in 1 hour\n  reminder add çamaşırları hallet in 20 min",
     "donators.none": "Bağışçı bulunamadı.",
-    "general.invalidEmbed": "Göndermeye çalıştığım embed yanlıştı. Doğrulayıcı bu hatayı verdi.\n```{{error}}```"
+    "general.invalidEmbed": "Göndermeye çalıştığım embed yanlıştı. Doğrulayıcı bu hatayı verdi.\n```{{error}}```",
+    "pro.upgraded": "Bu sunucu Ayana PRO'ya yükseltildi.",
+    "pro.downgraded": "Bu sunucu artık Ayana PRO'ya sahip değil.",
+    "pro.modificationError": "Ayana PRO durumunu güncellerken bir şeyler ters gitti.",
+    "pro.noSubscriptions": "PRO aboneliğe sahip değilsiniz. Patreon üzerinden Ayana'ya destek olarak Ayana PRO'ya sahip olabilirsiniz.",
+    "pro.alreadyUpgraded": "Bu sunucu zaten Ayana PRO'ya yükseltilmiş.",
+    "pro.cannotUpgradeMore": "Sunucunuzu Ayana PRO'ya yükseltemezsiniz çünkü zaten tüm sunucu yükseltmelerini kullandınız.",
+    "pro.notUpgraded": "Bu sunucu Ayana PRO'ya yükseltilmemiş."
 }
