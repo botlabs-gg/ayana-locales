@@ -562,7 +562,7 @@
     "pro.notUpgraded": "Ten serwer nie został zaktualizowany do Ayany PRO.",
     "pro.processingError": "Coś poszło nie tak podczas próby połączenia z serwisem Subskrypcji.",
     "pro.upgradePromo": "Potrzebujesz Ayana PRO, aby użyć tej funkcji.",
-    "pro.pledgeTooLow": "Zwiększ swoją składkę, by móc zmienić wiadomość subskrybenta.",
-    "pro.donatorTextNotSet": "Nie posiadasz swojego cytatu darczyńcy, który mógłby zostać zaktualizowany.",
+    "pro.pledgeTooLow": "Zwiększ swoją składkę, by móc zmienić wiadomość darczyńcy.",
+    "pro.donatorTextNotSet": "Nie posiadasz swojej wiadomości darczyńcy, która mogłaby zostać zaktualizowana.",
     "pro.noPatreon": "Potrzebujesz wspierać Ayanę na Patreonie, aby móc zaktualizować wiadomość darczyńcy."
 }
