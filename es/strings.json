@@ -556,5 +556,8 @@
     "pro.noSubscriptions": "No tienes ninguna suscripción a PRO. Puedes obtener Ayana PRO apoyando a Ayana en Patreon.",
     "pro.alreadyUpgraded": "Este servidor ya ha sido actualizado a Ayana PRO.",
     "pro.cannotUpgradeMore": "No puedes actualizar este servidor a Ayana PRO porque ya has utilizado todas sus actualizaciones de servidor.",
-    "pro.notUpgraded": "Este servidor no ha sido actualizado a Ayana PRO."
+    "pro.notUpgraded": "Este servidor no ha sido actualizado a Ayana PRO.",
+    "pro.processingError": "Algo salió mal al tratar de ponerse en contacto con el servicio de suscripción.",
+    "pro.pledgeTooLow": "Su promesa de patreon es demasiado baja para actualizar su texto de donación.",
+    "pro.upgradePromo": "Necesita Ayana PRO para usar esta función."
 }
