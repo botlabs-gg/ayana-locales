@@ -557,5 +557,10 @@
     "words.word": "Sana",
     "rolemembers.header": "Käyttäjät Roolissa {{role}}",
     "ban.days": "Päivät",
-    "settings.guild.afk": "Päälle/pois AFK viestit palvelimelle."
+    "settings.guild.afk": "Päälle/pois AFK viestit palvelimelle.",
+    "pro.processingError": "Jokin meni vikaan yrittäessäni ottaa yhteyttä Tilaukset palveluun.",
+    "pro.upgradePromo": "Tarvitsen Ayana PRO:n käyttääksesi tätä ominaisuutta.",
+    "pro.noPatreon": "Sinun pitää tukea Ayana Patreonissa päivittääksesi tuki tekstin.",
+    "pro.pledgeTooLow": "Lahjoitit liian vähän päivittääksesi lhjoitus tekstiäsi.",
+    "pro.donatorTextNotSet": "Sinulla ei ole lahjoittaja tekstiä päivitettäväksi."
 }
