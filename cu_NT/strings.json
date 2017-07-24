@@ -557,5 +557,10 @@
     "pro.noSubscriptions": "You don't pay me money! Go to fucking Patreon and pay me some money to get Ayana Non-Shit into this shithole.",
     "pro.alreadyUpgraded": "2 x !Shit = Shit, why would you want that? Oh if you didn't get it you dickhead, you have Ayana Non-Shit here already.",
     "pro.cannotUpgradeMore": "You don't pay me enough money to get more shitholes with Ayana Non-Shit.",
-    "pro.notUpgraded": "Are you stupid or some shit? This server doesn't have Ayana Non-Shit how do you want me to remove it?"
+    "pro.notUpgraded": "Are you stupid or some shit? This server doesn't have Ayana Non-Shit how do you want me to remove it?",
+    "pro.processingError": "The subscription minion fucked up. I should totally get a new one.",
+    "pro.upgradePromo": "You need Ayana Non-Shit to use this you cheap dickhead.",
+    "pro.noPatreon": "Pay me money, then you can update your shitty text with this.",
+    "pro.pledgeTooLow": "You don't pay me enough money. Pay me more, then you can update your shit text.",
+    "pro.donatorTextNotSet": "Nothing there cunt. Set a text first i can't update nothing."
 }
