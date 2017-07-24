@@ -559,5 +559,10 @@
     "pro.noSubscriptions": "Nie posiadasz żadnych subskrypcji. Ayanę PRO możesz uzyskać poprzez wsparcie Ayany na Patreonie.",
     "pro.alreadyUpgraded": "Ten serwer został już ulepszony do Ayany PRO.",
     "pro.cannotUpgradeMore": "Nie możesz ulepszyć tego serwera do poziomu Ayany PRO, ponieważ zużyłeś wszystkie swoje ulepszenia.",
-    "pro.notUpgraded": "Ten serwer nie został zaktualizowany do Ayany PRO."
+    "pro.notUpgraded": "Ten serwer nie został zaktualizowany do Ayany PRO.",
+    "pro.processingError": "Coś poszło nie tak podczas próby połączenia z serwisem Subskrypcji.",
+    "pro.upgradePromo": "Potrzebujesz Ayana PRO, aby użyć tej funkcji.",
+    "pro.pledgeTooLow": "Zwiększ swoją składkę, by móc zmienić wiadomość subskrybenta.",
+    "pro.donatorTextNotSet": "Nie posiadasz swojego cytatu darczyńcy, który mógłby zostać zaktualizowany.",
+    "pro.noPatreon": "Potrzebujesz wspierać Ayanę na Patreonie, aby móc zaktualizować wiadomość darczyńcy."
 }
