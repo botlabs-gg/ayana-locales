@@ -558,5 +558,10 @@
     "pro.noSubscriptions": "Du har ikke noen PRO-abonnementer. Du kan få Ayana PRO ved å støtte Ayana på Patreon.",
     "pro.alreadyUpgraded": "Denne serveren har allerede blitt oppgradert til Ayana PRO.",
     "pro.cannotUpgradeMore": "Du kan ikke oppgradere denne serveren til Ayana PRO fordi du allerede har brukt alle dine oppgraderinger.",
-    "pro.notUpgraded": "Denne serveren har ikke blitt oppgradert til Ayana PRO."
+    "pro.notUpgraded": "Denne serveren har ikke blitt oppgradert til Ayana PRO.",
+    "pro.processingError": "Noe gikk galt da vi forsøkte å kontakte abonnementstjenesten.",
+    "pro.upgradePromo": "Du må ha Ayana PRO for å bruke denne funksjonen.",
+    "pro.noPatreon": "Du må støtte Ayana på Patreon for å oppdatere din donasjonstekst.",
+    "pro.pledgeTooLow": "Din Patreonstøtte er for lav til å oppdatere din donasjonstekst.",
+    "pro.donatorTextNotSet": "Du har ikke en donasjonstekst som kan oppdateres."
 }
