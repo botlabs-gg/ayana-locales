@@ -559,5 +559,7 @@
     "pro.notUpgraded": "Este servidor no ha sido actualizado a Ayana PRO.",
     "pro.processingError": "Algo salió mal al tratar de ponerse en contacto con el servicio de suscripción.",
     "pro.pledgeTooLow": "Su promesa de patreon es demasiado baja para actualizar su texto de donación.",
-    "pro.upgradePromo": "Necesita Ayana PRO para usar esta función."
+    "pro.upgradePromo": "Necesita Ayana PRO para usar esta función.",
+    "pro.noPatreon": "Usted necesita apoyar a Ayana en Patreon para actualizar su texto de donación.",
+    "pro.donatorTextNotSet": "No tienes un conjunto de texto donador que pueda actualizarse."
 }
