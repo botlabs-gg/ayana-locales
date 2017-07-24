@@ -544,5 +544,10 @@
     "reminder.delete.nomatches": "あなたのリマインダーのアイテムはあなたの要求と一致しませんでした。",
     "reminder.delete.done": "リマインダーが削除されました。",
     "reminder.fullhelp": "``` \nreminder add <文字列>  - 新しいリマインダーを追加します。\nreminder del <検索>  - リマインダーを検索で削除する\nreminder list - リマインダーのリストを表示します\n\n例：\n 1時間でオーブンを確認する\n 20分で洗濯をするようリマインドする \n```",
-    "donators.none": "寄付者を見つけることができません。"
+    "donators.none": "寄付者を見つけることができません。",
+    "pro.processingError": "サブスクリプションサービスに接続する際に何らかの問題が発生しました。",
+    "pro.upgradePromo": "この機能を使用するにはAyana PROが必要です。",
+    "pro.noPatreon": "あなたの寄付のテキストを更新するには、PatreonでAyanaをサポートする必要があります。",
+    "pro.pledgeTooLow": "あなたのパトリオンの誓約はあなたの寄付のテキストを更新するには低すぎます。",
+    "pro.donatorTextNotSet": "更新できる寄付者のテキストセットがありません。"
 }
