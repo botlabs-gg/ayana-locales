@@ -540,5 +540,10 @@
     "pro.noSubscriptions": "PRO aboneliğe sahip değilsiniz. Patreon üzerinden Ayana'ya destek olarak Ayana PRO'ya sahip olabilirsiniz.",
     "pro.alreadyUpgraded": "Bu sunucu zaten Ayana PRO'ya yükseltilmiş.",
     "pro.cannotUpgradeMore": "Sunucunuzu Ayana PRO'ya yükseltemezsiniz çünkü zaten tüm sunucu yükseltmelerini kullandınız.",
-    "pro.notUpgraded": "Bu sunucu Ayana PRO'ya yükseltilmemiş."
+    "pro.notUpgraded": "Bu sunucu Ayana PRO'ya yükseltilmemiş.",
+    "pro.processingError": "Abonelik servisine bağlanmaya çalışırken bir şeyler ters gitti.",
+    "pro.upgradePromo": "Bu özelliği kullanabilmek için Ayana PRO'ya ihtiyacınız var.",
+    "pro.noPatreon": "Bağış yazınızı güncellemek için Ayana'yı Patreondan desteklemeniz gerekmektedir.",
+    "pro.pledgeTooLow": "Patreonda ödeyeceğiniz miktar, bağış yazınızı güncellemek için çok düşük.",
+    "pro.donatorTextNotSet": "Güncellenecek bir bağış yazınız yok."
 }
