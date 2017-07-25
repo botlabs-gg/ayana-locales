@@ -568,5 +568,6 @@
     "help.reminder.desc.remove": "Removes a shitty reminder by search or ID",
     "help.reminder.desc.list": "Shows a list of your shitty reminders",
     "reminder.reminderString": "Reminder string (see shitty examples)",
-    "events.processingError": "Something fucked up with the event minion. I think i need a new one."
+    "events.processingError": "Something fucked up with the event minion. I think i need a new one.",
+    "invite.alpha": "Get my unstable bitch sister.\n\n{{invite}}\n\nDickhead information: If you give my bitch sister too much weed (aka permissions) she may fuck up your server. There is no warranty if she breaks shit."
 }
