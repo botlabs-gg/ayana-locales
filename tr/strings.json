@@ -545,5 +545,11 @@
     "pro.upgradePromo": "Bu özelliği kullanabilmek için Ayana PRO'ya ihtiyacınız var.",
     "pro.noPatreon": "Bağış yazınızı güncellemek için Ayana'yı Patreondan desteklemeniz gerekmektedir.",
     "pro.pledgeTooLow": "Patreonda ödeyeceğiniz miktar, bağış yazınızı güncellemek için çok düşük.",
-    "pro.donatorTextNotSet": "Güncellenecek bir bağış yazınız yok."
+    "pro.donatorTextNotSet": "Güncellenecek bir bağış yazınız yok.",
+    "help.reminder.header": "[Hatırlatıcı Yardımı]",
+    "help.reminder.desc.add": "Yeni bir hatırlatıcı ekler",
+    "help.reminder.desc.remove": "ID veya aramaya göre bir hatırlatıcı siler",
+    "help.reminder.desc.list": "Hatırlatıcılarının bir listesini gösterir",
+    "reminder.reminderString": "Hatırlatıcı komutları (Örnekler)",
+    "events.processingError": "Etkinlik sunucusuna bağlanmaya çalışırken bir şeyler ters gitti."
 }
