@@ -560,5 +560,11 @@
     "pro.upgradePromo": "Vous devez posséder Ayana PRO afin d'utiliser cette fonctionnalité.",
     "pro.noPatreon": "Vous devez supporter Ayana sur Patreon afin de changer votre texte de don.",
     "pro.pledgeTooLow": "Votre engagement Patreon est trop faible pour changer votre texte de don.",
-    "pro.donatorTextNotSet": "Vous n'avez pas de texte de don défini qui peut être changé."
+    "pro.donatorTextNotSet": "Vous n'avez pas de texte de don défini qui peut être changé.",
+    "help.reminder.header": "[Aide Rappels]",
+    "help.reminder.desc.add": "Ajoute un rappel",
+    "help.reminder.desc.remove": "Supprime un rappel par recherche ou ID",
+    "help.reminder.desc.list": "Affiche la liste de vos rappels",
+    "reminder.reminderString": "Phrase de rappel (voir les exemples)",
+    "events.processingError": "Une erreur est survenue durant le contact du service d'événement."
 }
