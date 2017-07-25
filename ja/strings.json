@@ -555,5 +555,6 @@
     "help.reminder.desc.remove": "検索やIDでリマインダーを削除する",
     "help.reminder.desc.list": "リマインダーのリストを表示します",
     "reminder.reminderString": "リマインダーの文字列（例を参照）",
-    "events.processingError": "イベントサービスに接続する際に何か問題が発生しました。"
+    "events.processingError": "イベントサービスに接続する際に何か問題が発生しました。",
+    "invite.alpha": "もちろんです：ok_hand：\n\n私をサーバーに参加させるには、以下のリンクをクリックしてください：\n\n{{invite}}\n\n注意：Ayana Alphaにあなたのサーバの権限をあまり多く与えないでください。彼女は本当に不安定で、あなたのサーバー上で何かを破壊しても責任は負いません。"
 }
