@@ -566,5 +566,6 @@
     "help.reminder.desc.remove": "Supprime un rappel par recherche ou ID",
     "help.reminder.desc.list": "Affiche la liste de vos rappels",
     "reminder.reminderString": "Phrase de rappel (voir les exemples)",
-    "events.processingError": "Une erreur est survenue durant le contact du service d'événement."
+    "events.processingError": "Une erreur est survenue durant le contact du service d'événement.",
+    "invite.alpha": "Pas de problème :ok_hand:\n\nPour me faire rejoindre votre serveur, veuillez cliquer sur l'un des liens ci-dessous:\n\n{{invite}}\n\nNote: Ne donnez pas trop de permissions à Ayana Alpha. Elle est très instable, et il n'y a aucune garantie si elle brise quelque chose sur votre serveur."
 }
