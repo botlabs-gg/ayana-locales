@@ -561,5 +561,11 @@
     "pro.pledgeTooLow": "Su promesa de patreon es demasiado baja para actualizar su texto de donación.",
     "pro.upgradePromo": "Necesita Ayana PRO para usar esta función.",
     "pro.noPatreon": "Usted necesita apoyar a Ayana en Patreon para actualizar su texto de donación.",
-    "pro.donatorTextNotSet": "No tienes un conjunto de texto donador que pueda actualizarse."
+    "pro.donatorTextNotSet": "No tienes un conjunto de texto donador que pueda actualizarse.",
+    "help.reminder.header": "[Ayuda para recordatorios]",
+    "help.reminder.desc.add": "Añade un nuevo recordatorio",
+    "help.reminder.desc.remove": "Elimina un recordatorio por búsqueda o ID",
+    "help.reminder.desc.list": "Muestra una lista de tus recordatorios",
+    "reminder.reminderString": "Cadena de recordatorio (mirar ejemplos)",
+    "events.processingError": "Algo fue mal mientras intentaba contactar con el servicio de eventos."
 }
