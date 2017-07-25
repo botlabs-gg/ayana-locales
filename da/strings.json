@@ -572,5 +572,6 @@
     "help.reminder.desc.remove": "Fjerner en påmindelse ved enten søgning eller ID",
     "help.reminder.desc.list": "Viser en liste over dine påmindelser",
     "reminder.reminderString": "Påmindelse streng (se eksempler)",
-    "events.processingError": "Noget gik galt mens vi forsøgte at kontakte event servicen."
+    "events.processingError": "Noget gik galt mens vi forsøgte at kontakte event servicen.",
+    "invite.alpha": "Helt sikkert :ok_hand:\n\nFor at få mig til at tilslutte din server, klik venligst linket nedenunder:\n\n{{invite}}\n\nNote: Giv ikke Ayana Alpha alt for mange tilladelser på din server. Hun er meget ustabil og der er ingen garanti, hvis hun ødelægger noget på din server."
 }
