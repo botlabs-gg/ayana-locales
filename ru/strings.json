@@ -557,5 +557,17 @@
     "pro.noSubscriptions": "У вас нет PRO подписок. Вы можете получить Ayana PRO поддержав Ayana на Patreon.",
     "pro.alreadyUpgraded": "Этот сервер уже был улучшен до Ayana PRO.",
     "pro.cannotUpgradeMore": "Вы не можете обновить этот сервер до Ayana PRO, т.к. вы уже использовали все Ваши улучшения.",
-    "pro.notUpgraded": "Этот сервер не улучшен до Ayana PRO."
+    "pro.notUpgraded": "Этот сервер не улучшен до Ayana PRO.",
+    "help.reminder.header": "[Помощь по напоминаниям]",
+    "help.reminder.desc.add": "Добавляет новое напоминание",
+    "help.reminder.desc.remove": "Удаляет напоминание через поиск или по ID",
+    "help.reminder.desc.list": "Показывает список напоминаний",
+    "invite.alpha": "Конечно :ok_hand:\n\nДля приглашения меня на свой сервер нажмите на ссылку ниже:\n\n{{invite}}\n\nПримечание: Не выдавайте Ayana Alpha много прав на Вашем сервере. Она очень нестабильна и мы не можем гарантировать что она не сломает что-нибудь на вашем сервере.",
+    "pro.processingError": "Произошла ошибка при обращении к сервису подписок.",
+    "pro.upgradePromo": "Вам необходим Ayana PRO для использования данной функции.",
+    "pro.noPatreon": "Вы должны поддержать Ayana на Patreon для обновления вашего текста пожертвования.",
+    "pro.pledgeTooLow": "Ваш вклад на Patreon недостаточен для изменения вашего текста пожертвования.",
+    "pro.donatorTextNotSet": "У Вас нечего изменять.",
+    "reminder.reminderString": "Строка-напоминание (см. примеры)",
+    "events.processingError": "Произошла ошибка при попытке связаться с сервисом событий."
 }
