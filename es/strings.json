@@ -318,7 +318,7 @@
     "locale.percent": "[{{num}}%]",
     "locale.usageShort": "Uso: `locale set [locale] [--guild]` o `locale list`",
     "locale.invalidLocale": "`{{input}}` no es una configuración regional reconocida. Ejecute `locale list` para obtener una lista de opciones válidas.\nAlternativamente, si quieres ayudarme a traducirme a tu idioma, ve a {{url}}",
-    "locale.current": "```css\nconfiguraciones actuales\n  Servidor: {{guild}}\n  Usuario: {{user}}```\n{{help}}\nTambién si quieres ayudarme a traducir a tu idioma, ve a {{url}}",
+    "locale.current": "```css\nConfiguraciones actuales\n  Servidor: {{guild}}\n  Usuario: {{user}}```\n{{help}}\nTambién si quieres ayudarme a traducir a tu idioma, ve a {{url}}",
     "prune.oldMsgsDeleted": "Mensajes antiguos eliminados",
     "prune.autodelInfo": "Autodelete está habilitado. Este mensaje se borrará después de 10 segundos. Escribe 'c' para cancelar la eliminación.",
     "prune.autodelCancelled": "Se ha anulado la eliminación automática.",
