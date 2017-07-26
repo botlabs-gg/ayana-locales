@@ -181,6 +181,7 @@
     "fortune.invalidCategory": "Invalid category! Valid categories are `{{categories}}`.",
     "invite.text": "Sure thing :ok_hand:\n\nTo have me join your server please choose one of the links:\n\nModeration (recommended): {{invite}}\nMinimal (not recommended): {{invitemin}}",
     "invite.patreon": "Ayana Patreon is an exclusive perk available to patrons of Ayana!\nIf you want to help pay Ayana's bills and get some awesome perks in the process, then please consider donating :heart:!\n\n{{patreon}}",
+    "invite.alpha": "Sure thing :ok_hand:\n\nTo have me join your server please click on the link below:\n\n{{invite}}\n\nNote: Don't give Ayana Alpha too much permissions on your server. She is really unstable and there is no warranty if she breaks something on your server.",
     "flipcoin.heads": "Heads!",
     "flipcoin.tails": "Tails!",
     "locale.percent": "[{{num}}%]",
