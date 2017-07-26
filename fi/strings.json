@@ -562,5 +562,11 @@
     "pro.upgradePromo": "Tarvitsen Ayana PRO:n käyttääksesi tätä ominaisuutta.",
     "pro.noPatreon": "Sinun pitää tukea Ayana Patreonissa päivittääksesi tuki tekstin.",
     "pro.pledgeTooLow": "Lahjoitit liian vähän päivittääksesi lhjoitus tekstiäsi.",
-    "pro.donatorTextNotSet": "Sinulla ei ole lahjoittaja tekstiä päivitettäväksi."
+    "pro.donatorTextNotSet": "Sinulla ei ole lahjoittaja tekstiä päivitettäväksi.",
+    "help.reminder.header": "[Muistutin Apu]",
+    "help.reminder.desc.add": "Lisää uuden muistutuksen",
+    "help.reminder.desc.remove": "Poistaa muistutuksen ID haun perusteella",
+    "help.reminder.desc.list": "Listaa muistutuksesi",
+    "reminder.reminderString": "Käyttö: (katso esimerkt)",
+    "events.processingError": "Jotakin meni vikaan yrittäessäni ottaa yhteyttä tapahtuma palveluun."
 }

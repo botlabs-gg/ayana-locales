@@ -549,5 +549,11 @@
     "pro.upgradePromo": "この機能を使用するにはAyana PROが必要です。",
     "pro.noPatreon": "あなたの寄付のテキストを更新するには、PatreonでAyanaをサポートする必要があります。",
     "pro.pledgeTooLow": "あなたのパトリオンの誓約はあなたの寄付のテキストを更新するには低すぎます。",
-    "pro.donatorTextNotSet": "更新できる寄付者のテキストセットがありません。"
+    "pro.donatorTextNotSet": "更新できる寄付者のテキストセットがありません。",
+    "help.reminder.header": "[リマインダーヘルプ]",
+    "help.reminder.desc.add": "新しいリマインダーを追加します",
+    "help.reminder.desc.remove": "検索やIDでリマインダーを削除する",
+    "help.reminder.desc.list": "リマインダーのリストを表示します",
+    "reminder.reminderString": "リマインダーの文字列（例を参照）",
+    "events.processingError": "イベントサービスに接続する際に何か問題が発生しました。"
 }
