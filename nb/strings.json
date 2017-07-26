@@ -563,5 +563,11 @@
     "pro.upgradePromo": "Du må ha Ayana PRO for å bruke denne funksjonen.",
     "pro.noPatreon": "Du må støtte Ayana på Patreon for å oppdatere din donasjonstekst.",
     "pro.pledgeTooLow": "Din Patreonstøtte er for lav til å oppdatere din donasjonstekst.",
-    "pro.donatorTextNotSet": "Du har ikke en donasjonstekst som kan oppdateres."
+    "pro.donatorTextNotSet": "Du har ikke en donasjonstekst som kan oppdateres.",
+    "help.reminder.desc.add": "Legger til en ny påminnelse",
+    "help.reminder.desc.remove": "Fjerner en påminnelse, enten ved et søk eller ID",
+    "help.reminder.desc.list": "Viser en liste over dine påminnelser",
+    "events.processingError": "Noe gikk galt da vi forsøkte å kontakte hendelses-tjenesten.",
+    "help.reminder.header": "[Påminnelses-Hjelp]",
+    "reminder.reminderString": "Påminnelses-streng (se eksempler)"
 }
