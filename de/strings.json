@@ -553,7 +553,7 @@
     "random.result": "Deine zufällige Zahl ist {{number}}.",
     "words.streams": "Streams",
     "general.invalidEmbed": "Die Einbettung, die ich versuchte zu senden, war ungültig. Der Validator hat den folgenden Fehler ausgedruckt",
-    "general.invalidOpt": "Du hast eine ungültige Option eingegeben `{{opt}}`. Bitte änder die Befehlseingabe und versuche es erneut.",
+    "general.invalidOpt": "Du hast die ungültige Option `{{opt}}` eingegeben. Bitte änder die Befehlseingabe und versuche es erneut.",
     "events.processingError": "Etwas ging schief, während wir versuchten, den Event-Service zu kontaktieren.",
     "help.reminder.header": "[Errinerungshilfe]",
     "help.reminder.desc.add": "Fügt eine neue Erinnerung hinzu",
@@ -571,5 +571,6 @@
     "pro.noPatreon": "Du musst Ayana auf Patreon unterstützen um dein Spenden Nachricht zu ändern.",
     "pro.pledgeTooLow": "Ihr Patreon-Versprechen ist zu niedrig, um Ihren Spendentext zu aktualisieren.",
     "pro.donatorTextNotSet": "Du hast kein Spenden-Text gesetzt, den man aktualisieren kann.",
-    "reminder.reminderString": "Erinnerungszeichenfolge (Sehe Beispiele)"
+    "reminder.reminderString": "Erinnerungszeichenfolge (Sehe Beispiele)",
+    "general.invalidFlag": "Du hast die ungültige Flagge `{{flag}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut."
 }
