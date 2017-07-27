@@ -550,5 +550,13 @@
     "help.sar.desc.note": "    Para usar a interface de tarefa você precisa fazer {{prefix}}rank [grupo]",
     "aliases.addHelp": "Para adicionar prefixo, use o comando que você quer adicionar como você normalmente iria usar e adicione `--addalias <prefixo>` no final.",
     "aliases.updatedAlias": "Alterado `{{key}}` do prefixo `{{alias}}` para `{{value}}`.",
-    "general.invalidOpt": "Você introduziu a opção inválida `{{opt}}`. Por favor corrija o comando e tente novamente."
+    "general.invalidOpt": "Você introduziu a opção inválida `{{opt}}`. Por favor corrija o comando e tente novamente.",
+    "help.reminder.header": "[Ajuda para lembretes]",
+    "help.reminder.desc.add": "Adiciona um novo lembrete",
+    "help.reminder.desc.remove": "Elimina um lembrete por busca ou ID",
+    "help.reminder.desc.list": "Mostra a lista de seus lembretes",
+    "aliases.setting.userargs": "Permitir ou negar usuários de adicionar argumentos, opções ou flags ao comando que seu apelido está executando",
+    "invite.alpha": "Claro :ok_hand:\n\nPara me ter em seu servidor por favor clique no link abaixo:\n\n{{invite}}\n\nNota: Não dê à Ayana Alpha muitas permissões em seu servidor. Ela é realmente instavel e não há garantia se ela quebrar algo em seu servidor.",
+    "perms.permNode": "Permissões de nódulo",
+    "pick.inputTooLarge": "A entrada da opção que eu queria escolher é muito grande."
 }
