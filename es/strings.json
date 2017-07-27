@@ -568,5 +568,7 @@
     "help.reminder.desc.list": "Muestra una lista de tus recordatorios",
     "reminder.reminderString": "Cadena de recordatorio (mirar ejemplos)",
     "events.processingError": "Algo fue mal mientras intentaba contactar con el servicio de eventos.",
-    "invite.alpha": "Claro :ok_hand:\n\nPara tenerme en tu servidor por favor entra en el siguiente link:\n\n{{invite}}\n\nNota: No le des a Ayana Alpha muchos permisos en tu servidor. Ella es realmente muy inestable y no hay garantía si ella rompe algo en tu servidor."
+    "invite.alpha": "Claro :ok_hand:\n\nPara tenerme en tu servidor por favor entra en el siguiente link:\n\n{{invite}}\n\nNota: No le des a Ayana Alpha muchos permisos en tu servidor. Ella es realmente muy inestable y no hay garantía si ella rompe algo en tu servidor.",
+    "general.invalidOpt": "Has introducido una opción no válida. Por favor corrija la entrada de comando e inténtalo de nuevo.",
+    "general.invalidFlag": "Has introducido la bandera inválida `{{flag}}`. Por favor corrija la entrada de comandos e inténtalo de nuevo."
 }
