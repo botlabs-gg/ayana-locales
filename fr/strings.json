@@ -567,5 +567,7 @@
     "help.reminder.desc.list": "Affiche la liste de vos rappels",
     "reminder.reminderString": "Phrase de rappel (voir les exemples)",
     "events.processingError": "Une erreur est survenue durant le contact du service d'événement.",
-    "invite.alpha": "Pas de problème :ok_hand:\n\nPour me faire rejoindre votre serveur, veuillez cliquer sur l'un des liens ci-dessous:\n\n{{invite}}\n\nNote: Ne donnez pas trop de permissions à Ayana Alpha. Elle est très instable, et il n'y a aucune garantie si elle brise quelque chose sur votre serveur."
+    "invite.alpha": "Pas de problème :ok_hand:\n\nPour me faire rejoindre votre serveur, veuillez cliquer sur l'un des liens ci-dessous:\n\n{{invite}}\n\nNote: Ne donnez pas trop de permissions à Ayana Alpha. Elle est très instable, et il n'y a aucune garantie si elle brise quelque chose sur votre serveur.",
+    "general.invalidOpt": "L'option `{{opt}}` que vous avez fournie est invalide. Merci de rectifier votre commande et d'essayer à nouveau.",
+    "general.invalidFlag": "Le drapeau `{{flag}}` que vous avez fourni est invalide. Merci de rectifier votre commande et d'essayer à nouveau."
 }
