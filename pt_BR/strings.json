@@ -549,5 +549,6 @@
     "help.role.desc.note": "    Esse comando não irá te permitirde dar, ter ou modificar cargos\n    que estão em uma posição igual ou mais alta que o cargo mais alto seu ou da Ayana.",
     "help.sar.desc.note": "    Para usar a interface de tarefa você precisa fazer {{prefix}}rank [grupo]",
     "aliases.addHelp": "Para adicionar prefixo, use o comando que você quer adicionar como você normalmente iria usar e adicione `--addalias <prefixo>` no final.",
-    "aliases.updatedAlias": "Alterado `{{key}}` do prefixo `{{alias}}` para `{{value}}`."
+    "aliases.updatedAlias": "Alterado `{{key}}` do prefixo `{{alias}}` para `{{value}}`.",
+    "general.invalidOpt": "Você introduziu a opção inválida `{{opt}}`. Por favor corrija o comando e tente novamente."
 }
