@@ -552,5 +552,7 @@
     "help.reminder.desc.list": "Hatırlatıcılarının bir listesini gösterir",
     "reminder.reminderString": "Hatırlatıcı komutları (Örnekler)",
     "events.processingError": "Etkinlik sunucusuna bağlanmaya çalışırken bir şeyler ters gitti.",
-    "invite.alpha": "Tamamdır :ok_hand:\n\nServerine katılmam için aşağıdaki linke tıkla:\n\n{{invite}}\n\nNot: Ayana Alpha'ya çok yetki vermeyin. Şu anda aşırı dengesiz ve serverinizde hiçbir şeyi mahvetmemenin garantisini veremeyiz."
+    "invite.alpha": "Tamamdır :ok_hand:\n\nServerine katılmam için aşağıdaki linke tıkla:\n\n{{invite}}\n\nNot: Ayana Alpha'ya çok yetki vermeyin. Şu anda aşırı dengesiz ve serverinizde hiçbir şeyi mahvetmemenin garantisini veremeyiz.",
+    "general.invalidOpt": "Yanlış opsiyonu girdiniz `{{opt}}`. Komut girişinizi düzeltip lütfen tekrar deneyiniz.",
+    "general.invalidFlag": "Yanlış bayrağı girdiniz `{{flag}}`. Komut girişinizi düzeltip lütfen tekrar deneyiniz."
 }
