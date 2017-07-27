@@ -564,5 +564,14 @@
     "pro.upgradePromo": "Potrzebujesz Ayana PRO, aby użyć tej funkcji.",
     "pro.pledgeTooLow": "Zwiększ swoją składkę, by móc zmienić wiadomość darczyńcy.",
     "pro.donatorTextNotSet": "Nie posiadasz swojej wiadomości darczyńcy, która mogłaby zostać zaktualizowana.",
-    "pro.noPatreon": "Potrzebujesz wspierać Ayanę na Patreonie, aby móc zaktualizować wiadomość darczyńcy."
+    "pro.noPatreon": "Potrzebujesz wspierać Ayanę na Patreonie, aby móc zaktualizować wiadomość darczyńcy.",
+    "general.invalidOpt": "Wybrałeś nieprawidłową opcję `{{opt}}`. Proszę popraw wpisaną komendę i spróbuj ponownie.",
+    "general.invalidFlag": "Wpisano nieprawidłową flagę `{{flag}}`. Popraw komendę i spróbuj ponownie.",
+    "help.reminder.header": "[Pomoc Przypominajek]",
+    "help.reminder.desc.add": "Dodaj nową przypominajkę",
+    "help.reminder.desc.remove": "Usuwa przypominajkę wyszukując nazwę lub ID",
+    "help.reminder.desc.list": "Pokazuje listę twoich przypominajek",
+    "invite.alpha": "Nie ma problemu :ok_hand:\n\nAbym dołączyła do twojego serwera kliknij link poniżej:\n\n{{invite}}\n\nUwaga: Nie nadawaj Ayanie Alpha zbyt dużych permisji na twoim serwerze. Jest ona bardzo niestabilna i nie ma gwarancji, że nic nie zepsuje na twoim serwerze.",
+    "reminder.reminderString": "Notatka przypominajki (zobacz przykłady)",
+    "events.processingError": "Coś poszło nie tak podczas łączenia z usługą wydarzeń."
 }
