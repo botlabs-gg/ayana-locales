@@ -569,5 +569,8 @@
     "help.reminder.desc.list": "Viser en liste over dine påminnelser",
     "events.processingError": "Noe gikk galt da vi forsøkte å kontakte hendelses-tjenesten.",
     "help.reminder.header": "[Påminnelses-Hjelp]",
-    "reminder.reminderString": "Påminnelses-streng (se eksempler)"
+    "reminder.reminderString": "Påminnelses-streng (se eksempler)",
+    "general.invalidOpt": "Du brukte den ugyldige muligheten `{{opt}}`. Vennligst fiks din kommando og prøv igjen.",
+    "general.invalidFlag": "Du brukte den ugyldige muligheten `{{flag}}`. Vennligst fiks din kommando og prøv igjen.",
+    "invite.alpha": "Selvfølgelig :ok_hand:\n\nFor å få meg til å bli med til din server, bruk linken under:\n\n{{invite}}\n\nAdvarsel: Ikke gi Ayana Alpha for mange tillatelser på din server. Hun er utrolig ustabil, og vi tar ikke noe ansvar om hun ødelegger noe på din server."
 }
