@@ -562,7 +562,7 @@
     "invite.alpha": "Natürlich :ok_hand:\n\nDamit ich deinen Server betreten kann, klicke bitte auf Link:\n\n{{invite}}\n\nÜbrigens: Gib Ayana Alpha nicht zu viel Rechte auf deinem Server. Sie ist unstabil und wir geben keine Garantie dafür, wenn sie etwas auf deinem Server zerstört.",
     "pro.upgraded": "Dieser Server wurde zu Ayana PRO hochgestuft.",
     "pro.downgraded": "Dieser Server hat kein Ayana PRO mehr.",
-    "pro.processingError": "Etwas ging schief, während wir den Abonnement-Service kontaktierten.",
+    "pro.processingError": "Etwas ging schief, während wir versuchten den Abonnement-Service zu kontaktierten.",
     "pro.noSubscriptions": "Du hast kein Ayana PRO Abonnement. Du bekommst Ayana PRO indem du Ayana auf Patreon unterstützt.",
     "pro.alreadyUpgraded": "Dieser Server hat schon Ayana PRO.",
     "pro.cannotUpgradeMore": "Du kannst diesen Server nicht zu Ayana PRO hochstufen, da du all deine Upgrades schon aufgebraucht hast.",
