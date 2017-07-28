@@ -304,5 +304,22 @@
     "help.role.desc.noroles": "يقوم بتعديل الأدوار فقط إذا كان المستهدف لا يحمل أي دور",
     "help.role.options.modify": "خيارات لتعديل الدور",
     "help.role.desc.name": "إعادة تسمية دور",
-    "help.role.desc.color": "تغيير لون دور"
+    "help.role.desc.color": "تغيير لون دور",
+    "aliases.removed": "تم إزالة الاسم المستعار `{{alias}}`.",
+    "aliases.renamed": "تم تغيير اسم الاسم المستعار `{{alias}}` إلى `{{new}}`.",
+    "aliases.cannotAddAliasToAlias": "لا يمكنك إضافة اسم مستعار لاسم مستعار.",
+    "aliases.cannotHaveMore": "لا يمكنك الحصول على أكثر من {{amnt}} اسم مستعار.",
+    "aliases.empty": "لا يوجد اسم مستعار لهذا الخادم. من فضلك أدخل الأمر `aliases` بدون إضافة للحصول على مساعدة.",
+    "aliases.updatedAlias": "تم تغيير `{{key}}` للاسم المستعار `{{alias}}` إلى `{{value}}`.",
+    "aliases.setting.userargs": "سماح أو منع المستخدمين من إضافة مُعامِلات, خيارات أو أعلام للأمر الذي ينفذه الاسم المستعار الخاص بك",
+    "aliases.userargs": "مُعامِلات المستخدم",
+    "aliases.newName": "اسم جديد",
+    "finder.headerRoleCSV": "من فضلك إختر الدور الذي قصدته بالبحث `{{search}}`",
+    "finder.skippingUser": "يتخطى المستخدم `{{search}}`",
+    "finder.skippingRole": "يتخطى الدور `{{search}}`",
+    "fortune.invalidCategory": "فئة غير صالحة! الفئات الصالحة هي `{{categories}}`.",
+    "flipcoin.heads": "مَلِك!",
+    "flipcoin.tails": "كتابة!",
+    "general.invalidOpt": "لقد أدخلت خيار غير صالح `{{opt}}`. من فضلك أصلح إدخال الأمر وحاول مرة أخرى.",
+    "general.invalidFlag": "لقد أدخلت علم غير صالح `{{flag}}`. من فضلك أصلح إدخال الأمر وحاول مرة أخرى."
 }
