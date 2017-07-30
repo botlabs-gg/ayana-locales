@@ -85,7 +85,7 @@
     "help.roleinfo": "Se usa así: `roleinfo <rol>`",
     "help.locale": "Se usa así: `locale [set <lugar> [--guild]]`",
     "ban.missingUser": "No está el parámetro requerido del usuario.",
-    "ban.softHackban": "No puedes usar \"soft\" y \"hackban\" al mismo tiempo.",
+    "ban.softHackban": "No puedes usar soft y hackban al mismo tiempo.",
     "ban.invalidDays": "Opción de día especificado, no es un entero valido.",
     "ban.hackbanUserID": "\"Hackban\" requiere un ID de usuario.",
     "ban.failed": "Perdón, no pude prohibir el usuario de entrar al servidor. ¿Quizás me faltan permisos?",
