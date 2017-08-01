@@ -375,5 +375,15 @@
     "help.perms.desc.allow": "Povolí oprávnění (přidejte přesně jednu z možností dole)",
     "help.perms.desc.deny": "Zakáže oprávnění (přijdejte přesně jednu z možností dole)",
     "help.perms.desc.show": "Ukáže oprávnění (přijdejte přesně jednu z možností dole)",
-    "help.perms.desc.nodes": "Vypíše všechna oprávnění"
+    "help.perms.desc.nodes": "Vypíše všechna oprávnění",
+    "general.invalidEmbed": "Embed který jsem chtěla poslat je špatný. Validátor vypsal tuto chybu:\n```{{error}}```",
+    "general.invalidOpt": "Byla užita špatná možnost `{{opt}}`. Prosím opravte váš vstup a zkuste to znovu.",
+    "general.invalidFlag": "Byl užit špatný přepínač `{{flag}}`. Prosím opravte váš vstup a zkuste to znovu.",
+    "help.perms.desc.default": "Nastaví oprávnění na výchozí nastavení (přidejte přesně jednu z možností dole)",
+    "help.perms.desc.channelUser": "Nastaví nebo ukáže oprávnění uživatele v kanálu",
+    "help.perms.desc.channelRole": "Nastaví nebo ukáže oprávnění role v kanálu",
+    "help.perms.desc.channel": "Nastaví nebo ukáže oprávnění kanálu",
+    "help.perms.desc.user": "Nastaví nebo ukáže oprávnění uživatele",
+    "help.perms.desc.role": "Nastaví nebo ukáže oprávnění role",
+    "help.perms.desc.guild": "Nastaví nebo ukáže oprávnění na serveru"
 }
