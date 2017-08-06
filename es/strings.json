@@ -570,5 +570,9 @@
     "events.processingError": "Algo fue mal mientras intentaba contactar con el servicio de eventos.",
     "invite.alpha": "Claro :ok_hand:\n\nPara tenerme en tu servidor por favor entra en el siguiente link:\n\n{{invite}}\n\nNota: No le des a Ayana Alpha muchos permisos en tu servidor. Ella es realmente muy inestable y no hay garantía si ella rompe algo en tu servidor.",
     "general.invalidOpt": "Has introducido una opción no válida `{{opt}}`. Por favor corrija la entrada de comandos e inténtalo de nuevo.",
-    "general.invalidFlag": "Has introducido la bandera inválida `{{flag}}`. Por favor corrija la entrada de comandos e inténtalo de nuevo."
+    "general.invalidFlag": "Has introducido la bandera inválida `{{flag}}`. Por favor corrija la entrada de comandos e inténtalo de nuevo.",
+    "help.prune.desc.reactions": "Sólo elimina las reacciones de los mensajes seleccionados en lugar de eliminarlos",
+    "words.voiceChannel": "Canal de voz",
+    "words.textChannel": "Canal de texto",
+    "music3.alreadyConnecting": "Ya tengo una conexión pendiente abierta a este servidor. Espere a que se complete antes de intentarlo de nuevo."
 }
