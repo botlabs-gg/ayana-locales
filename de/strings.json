@@ -572,5 +572,15 @@
     "pro.pledgeTooLow": "Dein Patreon Beitrag ist zu niedrig, um deinen Spendentext zu aktualisieren.",
     "pro.donatorTextNotSet": "Du hast kein Spenden-Text gesetzt, den man aktualisieren kann.",
     "reminder.reminderString": "Erinnerungszeichenfolge (Sehe Beispiele)",
-    "general.invalidFlag": "Du hast die ungültige Flagge `{{flag}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut."
+    "general.invalidFlag": "Du hast die ungültige Flagge `{{flag}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut.",
+    "help.prune.desc.reactions": "Entfernt nur die Reaktionen von den Zielnachrichten anstatt diese zu löschen",
+    "help.prune.desc.system": "Entfernt nur Systemnachrichten (Ignoriert -a, -e, -p, -i und -r)",
+    "words.voiceChannel": "Sprachkanal",
+    "words.textChannel": "Textkanal",
+    "music3.join": ":white_check_mark: Beigetreten und an :speaker: `{{voice}}` und :newspaper: `{{text}}` gebunden.",
+    "music3.leave": ":no_entry: Bindung aufgehoben und Sprachkanal verlassen.",
+    "music3.alreadyConnecting": "Ich habe bereits eine ausstehende Verbindung in dieser Gilde offen. Bitte warte bis sie fertig ist, bevor du es erneut versuchst.",
+    "music3.noNodes": "Es sind zurzeit keine Musikknoten in der Region `{[region}}` verfügbar. Bitte versuche es mit einer anderen Region.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) übersprungen."
 }
