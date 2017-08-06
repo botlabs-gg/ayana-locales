@@ -405,7 +405,7 @@
     "perms.permNode": "İzin",
     "perms.addon": "Detaylı bilgi için {{url}}",
     "general.pagination.cooldown": "Woah! Çok hızlı, sayfalandırma inputları şu anda beklemede.",
-    "help.perms.desc.default": "Bir yetki nodunu eski haline getirir (Aşağidaki opsiyonlardan birini ekleyin)",
+    "help.perms.desc.default": "Bir yetki nodunu varsayılan yapar. (Aşağidaki opsiyonlardan birini ekleyin)",
     "pick.inputTooLarge": "Almak istediğim opsiyonun inputu çok büyük (Karakter limiti).",
     "pick.picked": "Bunu aldım: {{option}}",
     "random.upperBound": "Üst sınır",
