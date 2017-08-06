@@ -455,7 +455,7 @@
     "help.prune.desc.attachments": "Sólo limpia los mensajes que contengan archivos adjuntos (pueden combinarse con --embeds)",
     "help.prune.desc.embeds": "Sólo limpia los mensajes que contengan enlaces (pueden combinarse con --attachments)",
     "help.prune.desc.pinned": "También limpia los mensajes fijados (no se limpian por defecto)",
-    "help.prune.desc.invites": "Solo limpia mensajes que contengan invitaciones de discord",
+    "help.prune.desc.invites": "Solo limpia mensajes que contengan invitaciones de Discord",
     "help.prune.desc.silent": "Silencio. Deshabilita la lista de mensajes borrados al final",
     "words.number": "Número",
     "words.usage": "Uso",
@@ -574,5 +574,11 @@
     "help.prune.desc.reactions": "Sólo elimina las reacciones de los mensajes seleccionados en lugar de eliminarlos",
     "words.voiceChannel": "Canal de voz",
     "words.textChannel": "Canal de texto",
-    "music3.alreadyConnecting": "Ya tengo una conexión pendiente abierta a este servidor. Espere a que se complete antes de intentarlo de nuevo."
+    "music3.alreadyConnecting": "Ya tengo una conexión pendiente abierta a este servidor. Espere a que se complete antes de intentarlo de nuevo.",
+    "help.prune.desc.system": "Sólo elimina los mensajes del sistema (Ignora -a, -e, -p, -i y -r)",
+    "music3.join": ":white_check_mark: Unido y vinculado a :speaker: `{{voice}}` y :newspaper: `{{text}}`.",
+    "music3.leave": ":no_entry: Canales izquierdos y no enlazados.",
+    "music3.noNodes": "Actualmente no hay nodos de música disponibles en `{{region}}`. Por favor intenta otra región.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Omitido [{{title}}]({{uri}})."
 }
