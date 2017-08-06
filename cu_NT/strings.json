@@ -571,5 +571,15 @@
     "events.processingError": "Something fucked up with the event minion. I think i need a new one.",
     "invite.alpha": "Get my unstable bitch sister.\n\n{{invite}}\n\nDickhead information: If you give my bitch sister too much weed (aka permissions) she may fuck up your server. There is no warranty if she breaks shit.",
     "general.invalidOpt": "Read the fucking docs you dickhead. `{{opt}}` does not belong to this command. Fix your shit.",
-    "general.invalidFlag": "Read the fucking docs you dickhead. `{{flag}}` does not belong to this command. Fix your shit."
+    "general.invalidFlag": "Read the fucking docs you dickhead. `{{flag}}` does not belong to this command. Fix your shit.",
+    "help.prune.desc.reactions": "Only removes those cancerous emojis from shitty messages",
+    "help.prune.desc.system": "Only removes shitsystem messages (Ignores -a, -e, -p, -i and -r)",
+    "words.voiceChannel": "Oral table",
+    "words.textChannel": "Keyboard table",
+    "music3.join": ":white_check_mark: Inserted 1 coin into :speaker: `{{voice}}` jukebox and bound to :newspaper: `{{text}}` text channel.",
+    "music3.leave": ":no_entry: I'm gonna fuck off, this shit's boring.",
+    "music3.alreadyConnecting": "Let me finish my tasks before you annoy me again. Wait until super technical music connection is there.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Skipped. This song was shit anyways. [{{title}}]({{uri}}).",
+    "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region."
 }
