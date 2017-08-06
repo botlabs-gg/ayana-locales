@@ -345,7 +345,7 @@
     "help.prune.desc.attachments": "Sadece eklemeleri olan mesajları siler (--embeds ile kombine edilebilir)",
     "help.prune.desc.embeds": "Sadece embed içeren mesajları siler (--attachments ile kombine edilebilir)",
     "help.prune.desc.pinned": "Ayrıca pinlenmiş mesajları da siler (normalde silinmezler)",
-    "help.prune.desc.invites": "Sadece discord daveti içeren mesajları siler",
+    "help.prune.desc.invites": "Sadece Discord daveti içeren mesajları siler",
     "help.prune.desc.silent": "Sessiz. Silme işleminden sonra sonuçları göstermeyi devre dışı bırakır",
     "help.role.header": "[Rol yardımı]",
     "help.role.desc.give": "Roller verir",
@@ -554,5 +554,15 @@
     "events.processingError": "Etkinlik sunucusuna bağlanmaya çalışırken bir şeyler ters gitti.",
     "invite.alpha": "Tamamdır :ok_hand:\n\nServerine katılmam için aşağıdaki linke tıkla:\n\n{{invite}}\n\nNot: Ayana Alpha'ya çok yetki vermeyin. Şu anda aşırı dengesiz ve serverinizde hiçbir şeyi mahvetmemenin garantisini veremeyiz.",
     "general.invalidOpt": "Yanlış opsiyonu girdiniz `{{opt}}`. Komut girişinizi düzeltip lütfen tekrar deneyiniz.",
-    "general.invalidFlag": "Yanlış bayrağı girdiniz `{{flag}}`. Komut girişinizi düzeltip lütfen tekrar deneyiniz."
+    "general.invalidFlag": "Yanlış bayrağı girdiniz `{{flag}}`. Komut girişinizi düzeltip lütfen tekrar deneyiniz.",
+    "help.prune.desc.reactions": "Hedeflenen mesajlardan sadece reaksiyonları siler",
+    "help.prune.desc.system": "Sadece sistem mesajlarını siler (-a, -e, -p, -i ve -r parametrelerini boşverir)",
+    "words.voiceChannel": "Ses Kanalı",
+    "words.textChannel": "Yazı Kanalı",
+    "music3.join": ":white_check_mark: :speaker: `{{voice}}` kanalına katıldım ve :newspaper: `{{text}}` kanalına kısıtlandım.",
+    "music3.leave": ":no_entry: Kanallardan çıktım.",
+    "music3.alreadyConnecting": "Bu sunucuya zaten bekleyen bir bağlanma isteği var. Lütfen denemeden önce işlemin bitmesini bekleyin.",
+    "music3.noNodes": "`{{region}}` bölgesinde şu anda müzik nodları yok. Lütfen başka bir bölge deneyin.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) geçildi."
 }
