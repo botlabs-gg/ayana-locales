@@ -451,7 +451,7 @@
     "help.prune.desc.attachments": "Usuwa wiadomości zawierające załączniki (można używać z --embeds)",
     "help.prune.desc.embeds": "Usuwa wiadomości zawierające osadzone obiekty (można używać z --attachments)",
     "help.prune.desc.pinned": "Usuwa przypięte wiadomości (domyślnie nie są one kasowane)",
-    "help.prune.desc.invites": "Usuwa tylko wiadomości zawierające zaproszenia na serwer Discorda",
+    "help.prune.desc.invites": "Usuwa wiadomości zawierające zaproszenia na serwery Discord",
     "help.prune.desc.silent": "Pomija wyświetlenie wyniku skasowanych wiadomości",
     "aliases.newName": "Nowa nazwa",
     "words.amount": "Ilość",
@@ -573,5 +573,15 @@
     "help.reminder.desc.list": "Pokazuje listę twoich przypominajek",
     "invite.alpha": "Nie ma problemu :ok_hand:\n\nAbym dołączyła do twojego serwera kliknij link poniżej:\n\n{{invite}}\n\nUwaga: Nie nadawaj Ayanie Alpha zbyt dużych permisji na twoim serwerze. Jest ona bardzo niestabilna i nie ma gwarancji, że nic nie zepsuje na twoim serwerze.",
     "reminder.reminderString": "Notatka przypominajki (zobacz przykłady)",
-    "events.processingError": "Coś poszło nie tak podczas łączenia z usługą wydarzeń."
+    "events.processingError": "Coś poszło nie tak podczas łączenia z usługą wydarzeń.",
+    "help.prune.desc.reactions": "Usuwa reakcje z dopasowanych wiadomości",
+    "help.prune.desc.system": "Usuwa wiadomości systemowe (Ignoruje -a, -e, -p, -i oraz -r)",
+    "words.voiceChannel": "Kanał Głosowy",
+    "words.textChannel": "Kanał Tekstowy",
+    "music3.join": ":white_check_mark: Dołączono do :speaker: `{{voice}}` i powiązano z :newspaper: `{{text}}`.",
+    "music3.leave": ":no_entry: Opuszczono i rozwiązano kanały.",
+    "music3.alreadyConnecting": "Mam już oczekujące połączenie dla tej gildii. Poczekaj, aż zakończy się, zanim spróbujesz ponownie.",
+    "music3.noNodes": "Brak dostępnych węzłów muzycznych dla `{{region}}`. Proszę, spróbuj innego regionu.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Pominięto [{{title}}]({{uri}})."
 }
