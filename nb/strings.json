@@ -572,5 +572,15 @@
     "reminder.reminderString": "Påminnelses-streng (se eksempler)",
     "general.invalidOpt": "Du brukte den ugyldige muligheten `{{opt}}`. Vennligst fiks din kommando og prøv igjen.",
     "general.invalidFlag": "Du brukte den ugyldige muligheten `{{flag}}`. Vennligst fiks din kommando og prøv igjen.",
-    "invite.alpha": "Selvfølgelig :ok_hand:\n\nFor å få meg til å bli med til din server, bruk linken under:\n\n{{invite}}\n\nAdvarsel: Ikke gi Ayana Alpha for mange tillatelser på din server. Hun er utrolig ustabil, og vi tar ikke noe ansvar om hun ødelegger noe på din server."
+    "invite.alpha": "Selvfølgelig :ok_hand:\n\nFor å få meg til å bli med til din server, bruk linken under:\n\n{{invite}}\n\nAdvarsel: Ikke gi Ayana Alpha for mange tillatelser på din server. Hun er utrolig ustabil, og vi tar ikke noe ansvar om hun ødelegger noe på din server.",
+    "help.prune.desc.reactions": "Fjerner kun reaksjoner fra de valgte meldingene i stedet for å slette dem",
+    "help.prune.desc.system": "Fjerner kun meldinger (overser -a, -e, -p, -i og -r)",
+    "words.voiceChannel": "Stemmekanal",
+    "words.textChannel": "Tekstkanal",
+    "music3.join": ":white_check_mark: Ble med i og koblet til :speaker: `{{voice}}` og :newspaper: `{{text}}`.",
+    "music3.leave": ":no_entry: Forlot og kuttet tilkobling til kanaler.",
+    "music3.alreadyConnecting": "Jeg har allerede en åpen tilkobling åpen på denne serveren. Vennligst vent på at den avsluttes før du prøver igjen.",
+    "music3.noNodes": "Det er for øyeblikket ingen tilgjengelige musikk-noder i `{{region}}`. Vennligst forsøk en annen region.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Hoppet over [{{title}}]({{uri}})."
 }
