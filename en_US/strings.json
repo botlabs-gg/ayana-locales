@@ -508,7 +508,7 @@
     "music3.leave": ":no_entry: Left and unbound channels.",
     "music3.alreadyConnecting": "I already have a pending connection open to this guild. Please wait for it to complete before trying again.",
     "music3.noNodes": "There are currently no music nodes available in `{{region}}`. Please try another region.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.nowplaying": "Now Playing: {{title}}",
     "music3.skip": ":fast_forward: Skipped [{{title}}]({{uri}}).",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
