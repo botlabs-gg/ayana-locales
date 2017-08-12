@@ -472,7 +472,7 @@
     "help.afk.short": "Permettre aux gens de savoir que vous êtes absent quand ils vous mentionnent",
     "help.perms.desc.default": "Nœud de permission par défaut (n'utiliser qu'une seule des options ci-dessous)",
     "help.prune.desc.pinned": "Supprime aussi les messages épinglés (ils ne sont pas supprimés par défaut)",
-    "help.prune.desc.invites": "Supprime seulement les messages contenant des liens d'invitation discord",
+    "help.prune.desc.invites": "Supprime seulement les messages contenant des liens d'invitation Discord",
     "help.prune.desc.silent": "Silencieux. Désactive le message indiquant les résultats des messages supprimés à la fin",
     "help.role.header": "[Aide aux rôles]",
     "help.role.desc.give": "Assigne un ou plusieurs rôles",
@@ -569,5 +569,15 @@
     "events.processingError": "Une erreur est survenue durant le contact du service d'événement.",
     "invite.alpha": "Pas de problème :ok_hand:\n\nPour me faire rejoindre votre serveur, veuillez cliquer sur l'un des liens ci-dessous:\n\n{{invite}}\n\nNote: Ne donnez pas trop de permissions à Ayana Alpha. Elle est très instable, et il n'y a aucune garantie si elle brise quelque chose sur votre serveur.",
     "general.invalidOpt": "L'option `{{opt}}` que vous avez fournie est invalide. Merci de rectifier votre commande et d'essayer à nouveau.",
-    "general.invalidFlag": "Le drapeau `{{flag}}` que vous avez fourni est invalide. Merci de rectifier votre commande et d'essayer à nouveau."
+    "general.invalidFlag": "Le drapeau `{{flag}}` que vous avez fourni est invalide. Merci de rectifier votre commande et d'essayer à nouveau.",
+    "help.prune.desc.reactions": "Retire les réactions des messages ciblés plutôt que de les supprimer",
+    "help.prune.desc.system": "Ne supprime que les messages système (Ignore -a, -e, -p, -i et -r)",
+    "words.voiceChannel": "Salon Vocal",
+    "words.textChannel": "Salon Textuel",
+    "music3.join": ":white_check_mark: Rejoint et lié à :speaker: `{{voice}}` et :newspaper: `{{text}}`.",
+    "music3.leave": ":no_entry: Sortie et déliée des salons.",
+    "music3.alreadyConnecting": "J'ai déjà une connexion en attente pour cette guilde. Merci de d'attendre sa fin avant de ressayer.",
+    "music3.noNodes": "Il n'y a actuellement aucun nœud de musique disponible en `{{region}}`. Merci d'essayer une autre région.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Passage de [{{title}}]({{uri}})."
 }

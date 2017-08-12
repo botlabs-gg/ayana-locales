@@ -575,5 +575,15 @@
     "events.processingError": "Noget gik galt mens vi forsøgte at kontakte event servicen.",
     "invite.alpha": "Helt sikkert :ok_hand:\n\nFor at få mig til at tilslutte din server, klik venligst linket nedenunder:\n\n{{invite}}\n\nNote: Giv ikke Ayana Alpha alt for mange tilladelser på din server. Hun er meget ustabil og der er ingen garanti, hvis hun ødelægger noget på din server.",
     "general.invalidOpt": "Du brugte en invalid mulighed `{{opt}}`. Ret venligst din kommando og prøv igen.",
-    "general.invalidFlag": "Du brugte en invalid mulighed `{{opt}}`. Ret venligst din kommando og prøv igen."
+    "general.invalidFlag": "Du brugte en invalid mulighed `{{opt}}`. Ret venligst din kommando og prøv igen.",
+    "help.prune.desc.reactions": "Fjerner kun reaktioner fra valgte beskeder, i stedet for at slette deme",
+    "help.prune.desc.system": "Fjerner kun system beskeder (ignorerer -a, -e, -p, -i og -r)",
+    "words.voiceChannel": "Stemmekanal",
+    "words.textChannel": "Tekstkanal",
+    "music3.join": ":white_check_mark: Joinede og bandt til :speaker: `{{voice}}` og :newspaper: `{{text}}`.",
+    "music3.leave": ":no_entry: Forlod og ubandt kanaler.",
+    "music3.alreadyConnecting": "Jeg har allerede en ventende forbindelse åben til denne server. Vent venligst på at den færdiggøres før du prøver igen.",
+    "music3.noNodes": "Der er i øjeblikket ikke nogle tilgængelige musik noder i `{{region}}`. Prøv venligst en anden region.",
+    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.skip": ":fast_forward: Sprang over [{{title}}]({{uri}})."
 }
