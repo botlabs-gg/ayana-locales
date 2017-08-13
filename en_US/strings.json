@@ -510,6 +510,7 @@
     "music3.noNodes": "There are currently no music nodes available in `{{region}}`. Please try another region.",
     "music3.nowplaying": "Now Playing: {{title}}",
     "music3.skip": ":fast_forward: Skipped [{{title}}]({{uri}}).",
+    "music3.deletedMultiple": "Removed `{{count}}` item(s) from the queue.",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
