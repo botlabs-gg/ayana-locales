@@ -579,7 +579,8 @@
     "music3.join": ":white_check_mark: Inserted 1 coin into :speaker: `{{voice}}` jukebox and bound to :newspaper: `{{text}}` text channel.",
     "music3.leave": ":no_entry: I'm gonna fuck off, this shit's boring.",
     "music3.alreadyConnecting": "Let me finish my tasks before you annoy me again. Wait until super technical music connection is there.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.nowplaying": "Now Playing: {{title}}",
     "music3.skip": ":fast_forward: Skipped. This song was shit anyways. [{{title}}]({{uri}}).",
-    "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region."
+    "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region.",
+    "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue."
 }
