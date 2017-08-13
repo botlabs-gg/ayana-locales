@@ -579,6 +579,7 @@
     "music3.join": ":white_check_mark: Unido y vinculado a :speaker: `{{voice}}` y :newspaper: `{{text}}`.",
     "music3.leave": ":no_entry: Canales izquierdos y no enlazados.",
     "music3.noNodes": "Actualmente no hay nodos de música disponibles en `{{region}}`. Por favor intenta otra región.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: Omitido [{{title}}]({{uri}})."
+    "music3.nowplaying": "Reproducción en curso: {{title}}",
+    "music3.skip": ":fast_forward: Omitido [{{title}}]({{uri}}).",
+    "music3.deletedMultiple": "Eliminado `{{count}}` elemento(s) de la cola."
 }
