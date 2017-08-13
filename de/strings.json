@@ -581,6 +581,7 @@
     "music3.leave": ":no_entry: Bindung aufgehoben und Sprachkanal verlassen.",
     "music3.alreadyConnecting": "Ich habe bereits eine ausstehende Verbindung in dieser Gilde offen. Bitte warte bis sie fertig ist, bevor du es erneut versuchst.",
     "music3.noNodes": "Es sind zurzeit keine Musikknoten in der Region `{[region}}` verfügbar. Bitte versuche es mit einer anderen Region.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) übersprungen."
+    "music3.nowplaying": "Jetzt spielt: {{title}}",
+    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) übersprungen.",
+    "music3.deletedMultiple": "`{{count}}` Song(s) von der Warteschlange entfernt."
 }
