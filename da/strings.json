@@ -584,6 +584,7 @@
     "music3.leave": ":no_entry: Forlod og ubandt kanaler.",
     "music3.alreadyConnecting": "Jeg har allerede en ventende forbindelse åben til denne server. Vent venligst på at den færdiggøres før du prøver igen.",
     "music3.noNodes": "Der er i øjeblikket ikke nogle tilgængelige musik noder i `{{region}}`. Prøv venligst en anden region.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: Sprang over [{{title}}]({{uri}})."
+    "music3.nowplaying": "Spiller nu: {{title}}",
+    "music3.skip": ":fast_forward: Sprang over [{{title}}]({{uri}}).",
+    "music3.deletedMultiple": "Fjernede `{{count}}` genstand(e) fra køen."
 }
