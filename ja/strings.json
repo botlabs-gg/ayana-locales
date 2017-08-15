@@ -558,5 +558,11 @@
     "events.processingError": "イベントサービスに接続する際に何か問題が発生しました。",
     "invite.alpha": "もちろんです：ok_hand：\n\n私をサーバーに参加させるには、以下のリンクをクリックしてください：\n\n{{invite}}\n\n注意：Ayana Alphaにあなたのサーバの権限をあまり多く与えないでください。彼女は本当に不安定で、あなたのサーバー上で何かを破壊しても責任は負いません。",
     "general.invalidOpt": "無効なオプション `{{opt}}`を入力しました。コマンド入力を修正して、もう一度お試しください。",
-    "general.invalidFlag": "無効なフラグ `{{flag}}`を入力しました。コマンド入力を修正して、もう一度お試しください。"
+    "general.invalidFlag": "無効なフラグ `{{flag}}`を入力しました。コマンド入力を修正して、もう一度お試しください。",
+    "help.prune.desc.reactions": "対象のメッセージを削除するのではなく、対象のメッセージからリアクションだけを削除する",
+    "help.prune.desc.system": "システムメッセージのみを削除する(Ignores -a, -e, -p, -i and -r)",
+    "words.voiceChannel": "ボイスチャンネル",
+    "words.textChannel": "テキストチャンネル",
+    "music3.join": ":white_check_mark:  :speaker: `{{voice}}` と :newspaper: `{{text}}`が統合されました。",
+    "music3.leave": ":no_entry: チャンネルから切断し、統合が解除されました。"
 }
