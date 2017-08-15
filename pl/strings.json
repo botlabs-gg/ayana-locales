@@ -582,6 +582,7 @@
     "music3.leave": ":no_entry: Opuszczono i rozwiązano kanały.",
     "music3.alreadyConnecting": "Mam już oczekujące połączenie dla tej gildii. Poczekaj, aż zakończy się, zanim spróbujesz ponownie.",
     "music3.noNodes": "Brak dostępnych węzłów muzycznych dla `{{region}}`. Proszę, spróbuj innego regionu.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: Pominięto [{{title}}]({{uri}})."
+    "music3.nowplaying": "Odtwarzanie: {{title}}",
+    "music3.skip": ":fast_forward: Pominięto [{{title}}]({{uri}}).",
+    "music3.deletedMultiple": "Usunięto `{{count}}` piosenek z kolejki."
 }
