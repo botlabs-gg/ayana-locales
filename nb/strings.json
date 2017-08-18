@@ -581,6 +581,11 @@
     "music3.leave": ":no_entry: Forlot og kuttet tilkobling til kanaler.",
     "music3.alreadyConnecting": "Jeg har allerede en åpen tilkobling åpen på denne serveren. Vennligst vent på at den avsluttes før du prøver igjen.",
     "music3.noNodes": "Det er for øyeblikket ingen tilgjengelige musikk-noder i `{{region}}`. Vennligst forsøk en annen region.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: Hoppet over [{{title}}]({{uri}})."
+    "music3.nowplaying": "Spilles nå: {{title}}",
+    "music3.skip": ":fast_forward: Hoppet over [{{title}}]({{uri}}).",
+    "help.fullHelp.header": "{{emoji}} **Hallo! Jeg heter Ayana!**\n\nNedenfor kan du se alle kommandoene jeg kjenner til.\nOm du skulle trenge mer hjelp med noe, bli med i vår [Support-server]({{invite}}).\n\n**Ha en fin dag!**",
+    "help.fullHelp.info": "**Utfør `{{catHelp}}` for mer informasjon om en kategori.\nBruk `{{cmdHelp}}` for mer informasjon om en kommando.**\n\n**Eksempler:**\n`{{prefix}}help ayana`for et overblikk over AYANA-kategorien.\n`{{prefix}}help music`for detaljert hjelp for musikk-kommandoen.",
+    "help.fullHelp.usefulLinks": "**Nyttige linker:**\n[Inviter meg!]({{invite}}), [Minimale tillatelser]({{inviteMin}}), [Support-server]({{supportInvite}}), [Donere]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.category": "Kategori",
+    "music3.deletedMultiple": "Fjernet `{{count}}`sang(er) fra køen."
 }
