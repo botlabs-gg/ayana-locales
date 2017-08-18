@@ -583,5 +583,9 @@
     "music3.noNodes": "Es sind zurzeit keine Musikknoten in der Region `{[region}}` verfügbar. Bitte versuche es mit einer anderen Region.",
     "music3.nowplaying": "Jetzt spielt: {{title}}",
     "music3.skip": ":fast_forward: [{{title}}]({{uri}}) übersprungen.",
-    "music3.deletedMultiple": "`{{count}}` Song(s) von der Warteschlange entfernt."
+    "music3.deletedMultiple": "`{{count}}` Song(s) von der Warteschlange entfernt.",
+    "words.category": "Kategorie",
+    "help.fullHelp.header": "{{emoji}} **Hallo! Ich bin Ayana!**\n\nUnten findest du eine Liste mit Befehlen, die ich kenne.\nWenn du weitere Hilfe benötigst, betrete unseren [Support Server]({{invite}}).\n\n**EInen schönen Tag noch!**",
+    "help.fullHelp.info": "**Benutze `{{catHelp}}`für mehr Informationen über eine Kategorie.\nBenutze `{{cmdHelp}}` für mehr Informationen über einen Befehl.**\n\n**Beispiele:**\n`{{prefix}}help ayana` für eine Übersicht der AYANA Kategorie.\n`{{prefix}}help music` für detaillierte Hilfe des Musik-Befehls.",
+    "help.fullHelp.usefulLinks": "**Nützliche Links:**\n[Lade mich ein]({{invite}}), [Minimal Einladung]({{inviteMin}}), [Support Server]({{supportInvite}}), [Spenden]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})"
 }
