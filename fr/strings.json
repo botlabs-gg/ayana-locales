@@ -578,8 +578,11 @@
     "music3.leave": ":no_entry: Sortie et déliée des salons.",
     "music3.alreadyConnecting": "J'ai déjà une connexion en attente pour cette guilde. Merci de d'attendre sa fin avant de ressayer.",
     "music3.noNodes": "Il n'y a actuellement aucun nœud de musique disponible en `{{region}}`. Merci d'essayer une autre région.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
+    "music3.nowplaying": "Lecture en cours: {{title}}",
     "music3.skip": ":fast_forward: Passage de [{{title}}]({{uri}}).",
     "help.fullHelp.header": "{{emoji}} **Bonjour, je suis Ayana!**\n\nVoici ci-dessous toutes les commandes que je connais.\nSi vous avez besoin de plus d'aide, je vous invite à rejoindre notre [Serveur de Support]({{invite}}).\n\n**Passez une bonne journée**",
-    "help.fullHelp.info": "**Utilisez `{{catHelp}}` pour plus d'information sur une catégorie.\nUtilisez `{{cmdHelp}}` pour plus d'information sur une commande.**\n\n**Exemples:**\n`{{prefix}}help ayana` pour un résumé de la catégorie AYANA.\n`{{prefix}}help music` pour une aide détaillée de la commande music."
+    "help.fullHelp.info": "**Utilisez `{{catHelp}}` pour plus d'information sur une catégorie.\nUtilisez `{{cmdHelp}}` pour plus d'information sur une commande.**\n\n**Exemples:**\n`{{prefix}}help ayana` pour un résumé de la catégorie AYANA.\n`{{prefix}}help music` pour une aide détaillée de la commande music.",
+    "help.fullHelp.usefulLinks": "**Liens utiles:**\n[Invitez Moi]({{invite}}), [Invitation Minimale]({{inviteMin}}), [Serveur de Support]({{supportInvite}}), [Donations]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.category": "Catégorie",
+    "music3.deletedMultiple": "Suppression de `{{count}}` élément(s) de la queue."
 }
