@@ -586,5 +586,9 @@
     "music3.noNodes": "Der er i øjeblikket ikke nogle tilgængelige musik noder i `{{region}}`. Prøv venligst en anden region.",
     "music3.nowplaying": "Spiller nu: {{title}}",
     "music3.skip": ":fast_forward: Sprang over [{{title}}]({{uri}}).",
-    "music3.deletedMultiple": "Fjernede `{{count}}` genstand(e) fra køen."
+    "music3.deletedMultiple": "Fjernede `{{count}}` genstand(e) fra køen.",
+    "help.fullHelp.header": "{{emoji}} **Hey! Jeg hedder Ayana!**\n\nNedenfor kan du se alle kommandoerne som jeg kender til.\nHvis du behøver yderligere hjælp med noget, så tilslut vores [Support Server]({{invite}}).\n\n**Hav en god dag!**",
+    "help.fullHelp.info": "**Brug `{{catHelp}}` for mere information omkring en kategori.\nBrug `{{cmdHelp}}` for mere information omkring en kommando.**\n\n**Eksempler:**\n`{{prefix}}help ayana` for et overblik over AYANA-kategorien\n`{{prefix}}help music` for detaljeret hjælp til musik kommandoen.",
+    "help.fullHelp.usefulLinks": "**Brugbare links:**\n[Inviter mig]({{invite}}), [Minimale tilladelser]({{inviteMin}}), [Support Server]({{supportInvite}}), [Doner]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.category": "Kategori"
 }
