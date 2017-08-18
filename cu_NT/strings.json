@@ -582,5 +582,6 @@
     "music3.nowplaying": "Now Playing: {{title}}",
     "music3.skip": ":fast_forward: Skipped. This song was shit anyways. [{{title}}]({{uri}}).",
     "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region.",
-    "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue."
+    "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue.",
+    "help.fullHelp.header": "You noisy fuck, here are the shit I know how to do, and no I can't cook for you.\nIf you can't deal with that shit yourself you can annoy people on our [Support Pub]({{invite}})."
 }
