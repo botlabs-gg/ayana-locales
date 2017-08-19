@@ -574,7 +574,7 @@
     "help.fullHelp.header": "{{emoji}} **Hei, nimeni on Ayana!**\n\nAlla komennot joita tottelen.\nJos sinulla on lisää kysyttävää tai haluat tukea toimintaani, tule tuki palvelimellemme: [Support Server]({{invite}}).\n\n**Pidä hauskaa!**",
     "help.fullHelp.info": "**Suorita `{{catHelp}}` saadaksesi lisää tietoa kategoriasta.\nSuorita `{{cmdHelp}}` saadaksesi lisää tietoa komennosta.**\n\n**Examples:**\n`{{prefix}}help ayana` Lisätietoa AYANAsta.\n`{{prefix}}help music` Lisätietoa Musiikki-komennoista.",
     "help.fullHelp.usefulLinks": "**Hyviä Linkkejä:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
-    "help.prune.desc.reactions": "Poistaa reaktiot halutuista viesteistä, sen sijaan että poistaisi viestit.",
+    "help.prune.desc.reactions": "Poistaa reaktiot halutuista viesteistä, sen sijaan että poistaisi viestit",
     "help.prune.desc.system": "Poistaa vain järjestelmäviestit (Ohittaa -a, -e, -p, -i ja -r)",
     "invite.alpha": "Totta kai :ok_hand:\n\nLiitä minut palvelimellesi:\n\n\nHUOMAA! Älä anna Alphalle liikaa oikeuksia serverilläsi - hän on hyvin epävakaa emmekä takaa ettei riko serverilläsi jotain.",
     "words.category": "Kategoria",
