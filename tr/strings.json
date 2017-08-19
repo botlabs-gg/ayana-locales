@@ -563,6 +563,11 @@
     "music3.leave": ":no_entry: Kanallardan çıktım.",
     "music3.alreadyConnecting": "Bu sunucuya zaten bekleyen bir bağlanma isteği var. Lütfen denemeden önce işlemin bitmesini bekleyin.",
     "music3.noNodes": "`{{region}}` bölgesinde şu anda müzik nodları yok. Lütfen başka bir bölge deneyin.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) geçildi."
+    "music3.nowplaying": "Şimdi Oynatılıyor: {{title}}",
+    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) geçildi.",
+    "help.fullHelp.header": "{{emoji}} **Merhaba! Ben Ayana!**\n\nAşağıda bildiğim tüm komutları görebilirsin.\nEğer bir konuda daha fazla yardıma ihtiyacın var ise [Yardım Sunucu'muza] katılın ({{invite}}).\n\n**İyi günler dilerim!**",
+    "help.fullHelp.info": "**Bir kategori hakkında daha falza bilgi görüntülemek için `{{catHelp}}` komutunu kullanın.\n`{{cmdHelp}}` komutunu kullanarak da bir komut hakkında daha fazla bilgi görüntüleyin.**\n\n**Örnekler:**\n`{{prefix}}help ayana` -> AYANA kategorisinin içeriğini görüntüler.\n`{{prefix}}help music` -> Müzik komutunun detaylu yardımını görüntüler.",
+    "help.fullHelp.usefulLinks": "**Kullanışlı linkler:**\n[Beni Davet Et]({{invite}}), [Minimal Davet]({{inviteMin}}), [Yardım Serveri]({{supportInvite}}), [Bağış]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.category": "Kategori",
+    "music3.deletedMultiple": "`{{count}}` kadar parça, sıradan çıkarıldı."
 }
