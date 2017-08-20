@@ -426,5 +426,10 @@
     "help.sar.desc.note": "    لاستخدام واجهة التخصيص تحتاج إلى استخدام {{prefix}}رتبة [مجموعة]",
     "afk.mentionMessage": "المستخدم {{user}} هو حاليا غائب",
     "afk.noLongerAfk": "لم تعد غائب.",
-    "afk.afkSince": "غائب منذ"
+    "afk.afkSince": "غائب منذ",
+    "random.noNumber": "على الأقل إحدى المُعامِلات المعطاه ليست رقم.",
+    "random.numberTooLarge": "على الأقل إحدى الأرقام المعطاه كبير جدا. يجب أن يكون {{max}} على الأكثر.",
+    "random.lowerBoundTooLarge": "الحد الأدنى لا يمكن أن يكون أكبر من الحد الأقصى.",
+    "random.result": "رقمك العشوائي هو {{number}}.",
+    "role.noRoleSpecified": "لم تقم بتحديد الدور الذي سيتم منحه أو إلغائه."
 }
