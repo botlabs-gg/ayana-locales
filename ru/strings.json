@@ -580,6 +580,11 @@
     "music3.leave": ":no_entry: Отключена. Каналы отвязаны.",
     "music3.alreadyConnecting": "У меня уже есть активное подключение в этой гильдии. Пожалуйста подождите, пока оно завершится, прежде чем пробовать снова.",
     "music3.noNodes": "Нет доступных узлов музыки в `{{region}}`. Пожалуйста, попробуйте другой регион.",
-    "music3.nowplaying": ":notes: [{{title}}]({{uri}}) [{{requester}}]",
-    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) пропущена."
+    "music3.nowplaying": "Сейчас играет: {{title}}",
+    "music3.skip": ":fast_forward: [{{title}}]({{uri}}) пропущена.",
+    "help.fullHelp.header": "{{emoji}} **Привет! Я Ayana!**\n\nНиже вы можете увидеть все команды которые я знаю.\nЕсли вам нужно больше помощи, посетите наш [сервер поддержки]({{invite}}).\n\n**Удачного дня!**",
+    "help.fullHelp.info": "**Используйте `{{catHelp}}` для получения более подробной информации о категории.\nИспользуйте `{{cmdHelp}}` для получения более подробной информации о команде.**\n\n**Примеры:**\n`{{prefix}}help ayana` обзор категории AYANA.\n`{{prefix}}help music` детальная информация о команде music.",
+    "help.fullHelp.usefulLinks": "**Полезные ссылки:**\n[Пригласите меня]({{invite}}), [Минимальное приглашение]({{inviteMin}}), [Сервер поддержки]({{supportInvite}}), [Пожертвовать]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.category": "Категория",
+    "music3.deletedMultiple": "Из очереди удалено `{{count}}` песен."
 }
