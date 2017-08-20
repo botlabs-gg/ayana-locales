@@ -260,7 +260,7 @@
     "locale.percent": "[{{num}}%]",
     "locale.invalidLocale": "`{{input}}`は認識されたロケールではありません。有効なロケールのリストについては `locale list`を実行してください。\n アヤナの翻訳を支援したい方は{{url}}にお願いします",
     "question.alreadyHasQuestion": "あなたはすでにこのギルドで質問が実行されています。",
-    "general.pagination.altNavi": "`<` と `>`を入力することでページを変えることが出来ます。また、`p<num>`で選択したページへジャンプすることが出来ます。例えば `p10` で10ページにジャンプします。",
+    "general.pagination.altNavi": "`⬅️` と `➡️`を入力することでページを変えることが出来ます。また、`p<num>`で選択したページへジャンプすることが出来ます。例えば `p10` で10ページにジャンプします。",
     "general.pagination.perms": "私は `メッセージを管理`の許可を持っていません。この権限が与えられた場合、私はページ切り替えメッセージを自動的に削除します。",
     "help.bigtext.full": "Usage: `bigtext <text> [--spacesize <number>] [--addspace <number>]`",
     "help.bad.short": "No, bad!",
