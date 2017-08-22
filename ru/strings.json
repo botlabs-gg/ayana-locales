@@ -280,7 +280,7 @@
     "role.skippingUser": "Пропускаем пользователя `{{search}}`",
     "role.statusMessageDeleted": "Сообщение статуса было удалено. Процесс прерван.",
     "settings.userHelp": "Это ваши настройки пользователя.\nДля получения большей информации используйте `settings user [настройка]`",
-    "info.moreInfo": "Для большей информации о всех частях используйте {{prefix}}shardinfo",
+    "info.moreInfo": "Создатель, для большей информации о всех частях используйте {{prefix}}shardinfo",
     "help.avatar.short": "Выдаёт изображение профиля пользователя",
     "help.bigtext.short": "Генерирует текст при помощи индикаторов региона",
     "help.botlist.short": "Выдаёт список ботов от Carbon",
@@ -586,5 +586,6 @@
     "help.fullHelp.info": "**Используйте `{{catHelp}}` для получения более подробной информации о категории.\nИспользуйте `{{cmdHelp}}` для получения более подробной информации о команде.**\n\n**Примеры:**\n`{{prefix}}help ayana` обзор категории AYANA.\n`{{prefix}}help music` детальная информация о команде music.",
     "help.fullHelp.usefulLinks": "**Полезные ссылки:**\n[Пригласите меня]({{invite}}), [Минимальное приглашение]({{inviteMin}}), [Сервер поддержки]({{supportInvite}}), [Пожертвовать]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Категория",
-    "music3.deletedMultiple": "Из очереди удалено `{{count}}` песен."
+    "music3.deletedMultiple": "Из очереди удалено `{{count}}` песен.",
+    "words.developers": "Разработчики"
 }
