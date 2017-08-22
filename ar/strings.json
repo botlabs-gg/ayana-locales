@@ -566,5 +566,6 @@
     "perms.validOpts": "يرجى تحديد مستوى إذن صالح واحد. \n`[[guild, --channel [channel], --role <role>, --user [user]` or `--channel [search] [--role <search>|--user [search--`",
     "perms.legend": ":heavy_check_mark: => سمح by default :heavy_multiplication_x: => رفض by default :white_check_mark: => سمح :no_entry: => رفض",
     "role.pleaseWait": "يرجى الانتظار أثناء معالجة طلبك. اكتب `prefix}}role cancel}}` لإلغاء العملية. (المستخدمون الذين تمت معالجتهم: ({{usersprocessed}}",
-    "help.fullHelp.usefulLinks": "**روابط مفيدة:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})"
+    "help.fullHelp.usefulLinks": "**روابط مفيدة:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.developers": "المطورون"
 }
