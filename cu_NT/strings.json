@@ -270,7 +270,7 @@
     "help.rolemembers": "How you fucking use it: `rolemembers <role> [page]` or `rolemembers <role> [--page <page>]`",
     "help.prune": "How you fucking use it: `prune <amount> [--all|--user [search]|--bots] [--filter [filter]|--embeds|--attachments|--pinned]`",
     "rolemembers.headerPage": "Cunts that have the role {{role}} page {{page}}/{{total}}",
-    "info.moreInfo": "To view more information about all sharts use {{prefix}}shardinfo",
+    "info.moreInfo": "*Biggest fucker of em all, To view more information about all shards use {{prefix}}shardinfo",
     "question.timeout": "The question took to damn long.",
     "flipcoin.heads": "You landed on Heads. Why are you doing this?",
     "flipcoin.tails": "You landed on Tails. Fuck my life.",
@@ -584,5 +584,6 @@
     "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region.",
     "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue.",
     "help.fullHelp.header": "You noisy fuck, here is the shit I know how to do, and no I can't cook for you.\nIf you can't deal with that shit yourself you can annoy people on our [Support Pub]({{invite}}).",
-    "help.fullHelp.usefulLinks": "**Shit links:**\n[Invite Me Cunt]({{invite}}), [Minimal Fucking Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [The Pay-Me Jar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})"
+    "help.fullHelp.usefulLinks": "**Shit links:**\n[Invite Me Cunt]({{invite}}), [Minimal Fucking Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [The Pay-Me Jar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "words.developers": "The fuckers who made me"
 }
