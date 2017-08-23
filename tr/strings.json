@@ -518,7 +518,7 @@
     "settings.user.dmerrors": "Dmerrorları aç/kapa.",
     "settings.failedUpdateAutorole": "O rol autorole için kullanılamaz çünkü o rol, senin en yüksek rolünden daha yüksek.",
     "channelinfo.overwrite": "Yetki üzerine yazma",
-    "info.moreInfo": "Tüm shardlardan daha fazla bilgi almak için \"{{prefix}}shardinfo\" komutunu kullanın",
+    "info.moreInfo": "*Ayana Geliştiricisi, tüm shardlardan daha fazla bilgi almak için \"{{prefix}}shardinfo\" komutunu kullanın",
     "shardinfo.fail": "Geçitten shard bilgisi alınamadı.",
     "shardinfo.currentShard": "Bu Shard",
     "music.songNameYt": "Şarkı adı (YT)",
@@ -569,5 +569,6 @@
     "help.fullHelp.info": "**Bir kategori hakkında daha falza bilgi görüntülemek için `{{catHelp}}` komutunu kullanın.\n`{{cmdHelp}}` komutunu kullanarak da bir komut hakkında daha fazla bilgi görüntüleyin.**\n\n**Örnekler:**\n`{{prefix}}help ayana` -> AYANA kategorisinin içeriğini görüntüler.\n`{{prefix}}help music` -> Müzik komutunun detaylu yardımını görüntüler.",
     "help.fullHelp.usefulLinks": "**Kullanışlı linkler:**\n[Beni Davet Et]({{invite}}), [Minimal Davet]({{inviteMin}}), [Yardım Serveri]({{supportInvite}}), [Bağış]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Kategori",
-    "music3.deletedMultiple": "`{{count}}` kadar parça, sıradan çıkarıldı."
+    "music3.deletedMultiple": "`{{count}}` kadar parça, sıradan çıkarıldı.",
+    "words.developers": "Geliştiriciler"
 }
