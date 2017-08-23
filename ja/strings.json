@@ -564,5 +564,13 @@
     "words.voiceChannel": "ボイスチャンネル",
     "words.textChannel": "テキストチャンネル",
     "music3.join": ":white_check_mark:  :speaker: `{{voice}}` と :newspaper: `{{text}}`が統合されました。",
-    "music3.leave": ":no_entry: チャンネルから切断し、統合が解除されました。"
+    "music3.leave": ":no_entry: チャンネルから切断し、統合が解除されました。",
+    "help.fullHelp.header": "{{emoji}} **はじめまして！アヤナです!**\n\n下の一覧は私が知っているすべてのコマンドです。\nあなたがさらにサポートが必要な場合は、[サポートサーバー]({{invite}})に参加してください。\n\n**良い一日を!**",
+    "words.category": "カテゴリー",
+    "words.developers": "デベロッパー",
+    "music3.alreadyConnecting": "私はすでに、このギルドの接続を持っています。完了するまで待ってからもう一度試してください。",
+    "music3.noNodes": "現在、 `{{region}}`にはミュージックノードはありません。別のリージョンをお試しください。",
+    "music3.nowplaying": "再生中: {{title}}",
+    "music3.skip": ":fast_forward: スキップ [{{title}}]({{uri}}).",
+    "music3.deletedMultiple": "`{{count}}` 個のアイテムをキューから削除しました。"
 }
