@@ -138,5 +138,14 @@
     "general.invalidFlag": "Sa sisestasid väära lipu `{{flag}}`. Palun korrastada oma käsusisendit ja proovida uuesti.",
     "help.footer": "<> = vajalik informatsioon, [] = valikuline informatsioon, | = või, mitte sisaldada <> [] või | enda käsusisendis.\nPalun liitu tugiserveriga, kui on küsimusi. ({{prefix}}support lingi jaoks)",
     "help.cmdForMoreInfo": "Käita `{{cmd}}` , et saada käsu kohta rohkem informatsiooni.",
-    "help.fullHelp.header": "{{emoji}}  **Tere! Olen Ayana!**\n\nAll võid näha kõik käsud mida ma tunnen.\nKui sul on vaja veel abi millegiga, siis liitu meie [Support Server]({{invite}}).\n\n**Head päeva!**"
+    "help.fullHelp.header": "{{emoji}}  **Tere! Olen Ayana!**\n\nAll võid näha kõik käsud mida ma tunnen.\nKui sul on vaja veel abi millegiga, siis liitu meie [Support Server]({{invite}}).\n\n**Head päeva!**",
+    "help.fullHelp.info": "**Kasuta käsku `{{catHelp}}` , et saada rohkem teavet kategooria kohta.\nKasuta käsku `{{cmdHelp}}` , et saada rohkem teavet käsu kohta.**\n\n**Näited:**\n`{{prefix}}help ayana` Annab ülevaate AYANA kategooriast.\n`{{prefix}}help music` Muusika käsu detailse abi jaoks.",
+    "help.fullHelp.usefulLinks": "**Kasulikud lingid:**\n[Kutsu Mind]({{invite}}), [Minimaalne Kutse]({{inviteMin}}), [Tugiserver]({{supportInvite}}), [Anneta]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.aliases.header": "[Aliasede Abi]",
+    "help.aliases.desc.list": "Loetleb kõik aliased, mis on loodud selles gildis",
+    "help.aliases.desc.rename": "Nimetab aliased ümber",
+    "help.aliases.desc.remove": "Kustutab aliase",
+    "help.aliases.desc.userargs": "Lubab või keelab argumente, valikuid või lippe, mida lisada aliasele kui seda käitada",
+    "help.aliases.group.createAlias": "Loo aliast",
+    "help.afk.short": "Anna inimestele teada kui oled AFK, kui sind mainitakse"
 }
