@@ -393,7 +393,7 @@
     "settings.guild.dmerrors": "Activer/Désactiver dmerrors sur toute la guilde.",
     "settings.user.dmerrors": "Activer/Désactiver dmerrors.",
     "settings.failedUpdateAutorole": "Ce rôle ne peut pas être utilisé pour autorole car il est plus haut que vôtre rôle le plus haut.",
-    "info.moreInfo": "Afin de d'obtenir plus d'informations sur tous les shards, utilisez {{prefix}}shardinfo",
+    "info.moreInfo": "Afin d'obtenir plus d'informations sur tous les shards, utilisez {{prefix}}shardinfo",
     "music2.skipEmpty": "Playlist vide. Rien à ignorer.",
     "music2.showQueueMore": "et {{size}} de plus",
     "music2.playfailed": ":no_entry_sign: Une erreur empêche la chanson `{{title}}` de jouer. Passage au prochain élément.",
@@ -584,5 +584,6 @@
     "help.fullHelp.info": "**Utilisez `{{catHelp}}` pour plus d'information sur une catégorie.\nUtilisez `{{cmdHelp}}` pour plus d'information sur une commande.**\n\n**Exemples:**\n`{{prefix}}help ayana` pour un résumé de la catégorie AYANA.\n`{{prefix}}help music` pour une aide détaillée de la commande music.",
     "help.fullHelp.usefulLinks": "**Liens utiles:**\n[Invitez Moi]({{invite}}), [Invitation Minimale]({{inviteMin}}), [Serveur de Support]({{supportInvite}}), [Donations]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Catégorie",
-    "music3.deletedMultiple": "Suppression de `{{count}}` élément(s) de la queue."
+    "music3.deletedMultiple": "Suppression de `{{count}}` élément(s) de la queue.",
+    "words.developers": "Développeurs"
 }
