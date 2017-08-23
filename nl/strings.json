@@ -550,7 +550,7 @@
     "settings.guild.afk": "Aanzetten/Uitzetten AFK berichten guild breedvoerig.",
     "settings.user.dmerrors": "Aanzetten/Uitzetten van DM Errors.",
     "settings.failedUpdateAutorole": "Deze rol kan niet worden gebruikt voor autorol omdat het hoger is dan jouw hoogste rol.",
-    "info.moreInfo": "Om meer informatie te verkrijgen over alle schards gebruik {{prefix}}shardinfo",
+    "info.moreInfo": "*Ayana Creator, om meer informatie te verkrijgen over alle shards gebruik {{prefix}}shardinfo",
     "music2.skipEmpty": "Rij is leeg. Niks om over te slaan.",
     "music2.queue.maxsize": "Je hebt het maximale bereikt van de beschikbare afspeellijst grootte van 1000 items.",
     "music2.provider.unknown": "Onbekende provider. Voer `music pv` uit a.u.b. voor een lijst van beschikbare providers.",
@@ -566,5 +566,6 @@
     "events.processingError": "Er is iets misgegaan terwijl er contact werd geprobeerd gemaakt met de event service.",
     "donators.none": "Niet in staat om donateurs te vinden.",
     "question.timeout": "Vraag uitgesteld.",
-    "question.cancelled": "Vraag geannuleerd."
+    "question.cancelled": "Vraag geannuleerd.",
+    "words.developers": "Developers"
 }
