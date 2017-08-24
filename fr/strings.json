@@ -415,7 +415,7 @@
     "reminder.delete.nomatches": "Aucun élément dans vos rappels ne correspond à votre requête.",
     "reminder.delete.done": "Rappel(s) supprimé(s).",
     "donators.none": "Impossible de trouver des donateurs.",
-    "question.timeout": "La question a expirée.",
+    "question.timeout": "La question a expiré.",
     "question.alreadyHasQuestion": "Vous avez déjà une question en cours dans cette guilde.",
     "reminder.fullhelp": "```\nreminder add <rappel> - Ajoute un nouveau rappel\nreminder del <recherche> - Supprime les rappels correspondants à une recherche\nreminder list - Affiche la liste de vos rappels\n\nExemples:\n reminder add verifier le four in 1 hour\n reminder add étendre le linge in 20 min```",
     "general.pagination.perms": "On dirait que je n'ai pas la permission `Gérer les messages`. Je vais supprimer automatiquement les messages de changement de page si cette permission est activée.",
