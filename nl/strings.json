@@ -567,5 +567,17 @@
     "donators.none": "Niet in staat om donateurs te vinden.",
     "question.timeout": "Vraag uitgesteld.",
     "question.cancelled": "Vraag geannuleerd.",
-    "words.developers": "Developers"
+    "words.developers": "Developers",
+    "help.fortune.short": "Stuur jou een fortuin koek bericht",
+    "help.pick.short": "Laat het mij weten wanneer je niet kan beslissen",
+    "help.pro.short": "Ayana PRO management",
+    "help.random.short": "Random nummer generator",
+    "help.urban.short": "Zoekt een woord op in urbandictionary.com",
+    "help.awoo.short": "Geeft jou een Wan afbeelding zodat je awoo met iedereen kan",
+    "help.bang.short": "Schiet iets of iemand",
+    "help.blush.short": "B...Baka! (Eigenlijk bloos je)",
+    "help.confused.short": "Geeft jou een verwarde anime meisje afbeelding",
+    "help.cuddle.short": "Knuffel met mensen, of knuffel met Ayana",
+    "help.dance.short": "Dans alleen of met een vriend",
+    "help.hug.short": "Omhels jouw vrienden of als je alleen bent kan je Ayana omhelzen"
 }
