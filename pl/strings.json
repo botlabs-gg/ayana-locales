@@ -278,7 +278,7 @@
     "help.pruneFull": "```css\n[Pomoc Prune]\n\nprune <ilość> - Usuwa wiadomości\n\nOpcje:\n    [--bots] - Usuwa wiadomości botów\n    [--user <szukaj>] - Usuwa wiadomości określonego użytkownika\n\n    [--filter <filtr>] - Usuwa wiadomości z określoną zawartością\n\n    [--attachments | -a] - Usuwa wiadomości zawierające załączniki (można używać z --embeds)\n    [--embeds | -e] - Usuwa wiadomości zawierające osadzone obiekty (można używać z --attachments)\n    [--pinned | -p] - Usuwa przypięte wiadomości (domyślnie nie są one kasowane)\n    [--invites | -I] - Usuwa tylko wiadomości zawierające zaproszenia na serwer Discorda\n\nFlagi:\n    [-s] - Pomija wyświetlenie wyniku skasowanych wiadomości\n\nPrzykłady:\n   prune 10\n   prune 10 -aes\n   prune 10 -s --filter hello\n\n<> = wymagane argumenty, [] = opcjonalne, | = lub, Nie używaj <> [] ani | w swoich komendach.\nW razie pytań, proszę dołącz do serwera wsparcia. (=support aby wyświetlić link z zaproszeniem)```",
     "prune.results": "Wynik czyszczenia",
     "settings.userHelp": "Oto Twoje ustawienia użytkownika.\nWięcej informacji `settings user [ustawienia]`",
-    "info.moreInfo": "Aby wyświetlić więcej informacji o wszystkich shardach użyj {{prefix}}shardinfo",
+    "info.moreInfo": "*Twórca Ayany, aby wyświetlić więcej informacji o wszystkich shardach użyj {{prefix}}shardinfo",
     "question.timeout": "Pytanie wygasło.",
     "question.cancelled": "Pytanie odrzucone.",
     "help.avatar.short": "Wyświetl awatar użytkownika",
@@ -588,5 +588,6 @@
     "help.fullHelp.header": "{{emoji}} **Witaj! Jestem Ayana!**\n\nPod spodem możesz sprawdzić wszystkie komendy jakie znam.\nJeżeli potrzebujesz dokładniejszej pomocy dołącz do naszego [serwera wsparcia]({{invite}}).\n\n**Miłego dnia!**",
     "help.fullHelp.info": "**Użycie `{{catHelp}}` aby uzyskać więcej informacji o kategorii.\nUżyj `{{cmdHelp}}` aby uzyskać więcej informacji o komendzie.**\n\n**Przykłady:**\n`{{prefix}}help ayana` aby wyświetlić ogólną pomoc kategorii AYANA.\n`{{prefix}}help music` aby wyświetlić szczegółową pomoc komend muzyki.",
     "help.fullHelp.usefulLinks": "**Użyteczne linki:**\n[Zaproś mnie]({{invite}}), [Minimalne zaproszenie]({{inviteMin}}), [Serwer wsparcia]({{supportInvite}}), [Dotacje]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}}",
-    "words.category": "Kategoria"
+    "words.category": "Kategoria",
+    "words.developers": "Deweloperzy"
 }
