@@ -589,5 +589,14 @@
     "help.fullHelp.info": "**Użycie `{{catHelp}}` aby uzyskać więcej informacji o kategorii.\nUżyj `{{cmdHelp}}` aby uzyskać więcej informacji o komendzie.**\n\n**Przykłady:**\n`{{prefix}}help ayana` aby wyświetlić ogólną pomoc kategorii AYANA.\n`{{prefix}}help music` aby wyświetlić szczegółową pomoc komend muzyki.",
     "help.fullHelp.usefulLinks": "**Użyteczne linki:**\n[Zaproś mnie]({{invite}}), [Minimalne zaproszenie]({{inviteMin}}), [Serwer wsparcia]({{supportInvite}}), [Dotacje]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}}",
     "words.category": "Kategoria",
-    "words.developers": "Deweloperzy"
+    "words.developers": "Deweloperzy",
+    "help.fortune.short": "Wysyła Ci wiadomość z ciasteczka fortuny",
+    "help.pick.short": "Pozwól mi pomóc, kiedy nie możesz zdecydować",
+    "help.pro.short": "Zarządzanie Ayaną PRO",
+    "help.random.short": "Generator liczb losowych",
+    "help.urban.short": "Szuka definicji słowa na urbandictionary.com",
+    "help.awoo.short": "Wysyła obrazek Wan, abyś mógł awoo razem ze wszystkimi.",
+    "help.bang.short": "Zastrzel kogoś lub coś",
+    "help.blush.short": "B..Baka! (rumienić się)",
+    "help.confused.short": "Wysyła obrazek zakłopotanej dziewczyny z anime"
 }
