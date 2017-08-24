@@ -586,5 +586,14 @@
     "help.fullHelp.info": "**Usa `{{catHelp}}` para más información sobre una categoría.\nUsa `{{cmdHelp}}` para más información sobre un comando.**\n\n**Ejemplos:**\n`{{prefix}}help ayana` para una visión general de la categoría AYANA.\n`{{prefix}}help music` para ayuda detallada del comando de música.",
     "help.fullHelp.usefulLinks": "**Links útiles:**\n[Invítame]({{invite}}), [Minimal Invite]({{inviteMin}}), [Servidor de soporte]({{supportInvite}}), [Donar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Categoría",
-    "words.developers": "Desarrolladores"
+    "words.developers": "Desarrolladores",
+    "help.fortune.short": "Te envía un mensaje de la galleta de la fortuna",
+    "help.pick.short": "Déjame ayudarte cuando no puedas decidir",
+    "help.pro.short": "Manejo de Ayana PRO",
+    "help.random.short": "Generador de números aleatorios",
+    "help.urban.short": "Busca una palabra en urbandictionary.com",
+    "help.awoo.short": "Te da una imagen Wan para que puedas awoo con todo el mundo",
+    "help.bang.short": "Disparar algo o alguien",
+    "help.blush.short": "I...Idiota! (básicamente te sonrojas)",
+    "help.confused.short": "Te da una imagen de una chica de anime confusa"
 }
