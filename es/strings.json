@@ -290,7 +290,7 @@
     "role.specifyAdditionalRole": "Debes especificar un rol adicional cuando utilice `--inrole` o `--notinrole`.",
     "role.noOptionsSpecified": "No especificaste ninguna opción. Consulte la ayuda de este comando para obtener más información.",
     "prune.results": "Resultados de mensajes eliminados",
-    "help.neko.short": "random.cat",
+    "help.neko.short": "Obtener una imagen random de gato de random.cat",
     "role.mainRoleHeader": "Por favor escoge el rol que debería ser dado o tomado (Tu búsqueda: `{{search}}`)",
     "general.targetHigherRole": "{{target}} tienes un rol más alto que tú. Tú no puedes modificarlo.",
     "general.notFound": "No encontrado",
@@ -310,7 +310,7 @@
     "help.shrugd.short": "Igual que encogerse de hombros, también elimino tu comando",
     "help.waa.short": "¿Tienes que llorar?",
     "help.role.full": "```css\n[Ayuda de rol]\n\nRole give <role [, role ...]> - Da roles\nRole take <role [, role ...]> - Toma roles\nRole modify <role> - Modifica un role\n\nAlias:\n    Dar rol, tomar rol, modificar rol\n\nOpciones para el rol y la toma de rol:\n    [--bots] - Sólo cambiará los roles de los bots\n    [--users] - Sólo cambiará las roles de los usuarios\n    [--user <user [, user ...]>] - Sólo cambiará las roles de los usuarios especificados\n\n    [--inrole <rol>] - Sólo cambiará roles si el destino tiene el role especificado\n    [--notinrole <rol>] - Sólo cambiará roles si el destino no tiene el role especificado\n    [--noroles] - Sólo cambiará roles si el objetivo no tiene ningún role\n\nOpciones para modificar los roles:\n    [--name <nombre>] - Cambia el nombre del rol\n    [--color <color>] - Cambia el color de una función\n    [--move-after <rol>] - Establece la posición de rol después del rol de destino\n\nEjemplos:\n    El rol da Admin, Mod --user TheAkio\n    Dar rol Bot --inrole Bot\n    Tomar role silenciado --user HcgRandon, TheAkio\n    Rol modificado mal --color # FF0000\n    Modifica rol Admin - color azul\n\nNota:\n    Este comando no le permitirá dar, tomar o modificar roles que están en una posición más alta que tú posición más alta!\n\n<> = Información requerida, [] = información opcional, | = O, no incluya <> [] o | En la entrada de comandos\nPor favor unirse al servidor de soporte para cualquier pregunta. (=support para el enlace) ```",
-    "help.inu.short": "random.dog",
+    "help.inu.short": "Obtén una imagen random de un perro desde random.dog",
     "help.sar.full": "```css\n[Ayuda de roles auto asignables (SAR)]\n\nSar | Sar help - Muestra este mensaje de ayuda\nSar create <group> - Crea un grupo SAR\nSar delete <grupo> - Elimina un grupo SAR\nSar rename <grupo> <nuevo nombre> - Renombra un grupo SAR\nSar groups - Listar todos los grupos\n\nModificación de grupo:\n    Sar <grupo> active <bool> - Activa o desactiva este grupo\n    Sar <grupo> reqrole <role> - Establece el rol que un usuario necesita tener para usar este grupo\n    Sar <grupo> max <número> - Establece la cantidad máxima de roles que un usuario puede tener de este grupo\n    Sar <grupo> roles add <role [, role ...]> - Agrega roles a este grupo\n    Sar <grupo> roles remove <role [, role ...]> - Elimina los roles de este grupo\n    Sar <grupo> default - Establece o desactiva este grupo como predeterminado\n\nEjemplos:\n    Sar crear colores\n    Sar colores por defecto\n    Los roles de los colores del sar añaden Rojo, verde, azul\n    Sar colores maximo 1\n    Colores del sar activos falso\n\nNota:\n    Para usar la interfaz de asignación debe usar {{prefix}} rank [group]\n\n<> = Información requerida, [] = información opcional, | = O, no incluya <> [] o | En la entrada de comandos\nÚnase al servidor de soporte para cualquier pregunta. ({{Prefix}} soporte para el enlace) `` `",
     "finder.headerRoleCSV": "Elija el role que quiere decir `{{search}}`",
     "finder.skippingUser": "Omitir al usuario `{{search}}`",
@@ -595,5 +595,14 @@
     "help.awoo.short": "Te da una imagen Wan para que puedas awoo con todo el mundo",
     "help.bang.short": "Disparar algo o alguien",
     "help.blush.short": "I...Idiota! (básicamente te sonrojas)",
-    "help.confused.short": "Te da una imagen de una chica de anime confusa"
+    "help.confused.short": "Te da una imagen de una chica de anime confusa",
+    "help.cuddle.short": "Abrazar a la gente, o abrazarse con Ayana",
+    "help.dance.short": "Bailar solo o con un amigo",
+    "help.hug.short": "Abraza a tus amigos o si estás solo puedes abrazar a Ayana",
+    "help.idk.short": "No lo sé, shrug",
+    "help.insult.short": "Insultarse a si mismo o a gente que no te agrada",
+    "help.jojo.short": "memes de Jojo Bizarre Adventure, eso es todo",
+    "help.kiss.short": "Besar a tu amado, o a ti mismo....",
+    "help.lick.short": "Lamerte a ti mismo o a un amigo, lo que te venga bien",
+    "help.megumin.short": "Obtén algunos gifs de megumin del anime Konosuba"
 }
