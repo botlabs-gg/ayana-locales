@@ -160,5 +160,13 @@
     "settings.variable.username": "会员昵称。",
     "settings.variable.discriminator": "会员Discord昵称。",
     "settings.variable.userid": "会员用户ID。",
-    "words.providers": "提供者"
+    "words.providers": "提供者",
+    "general.unableToDM": "我没能办法给你发信息。这可以应为你有‘让服务器上的会员为你发信息’在您的设备里设到关闭状态。请您把这设备打开所以您可以收信息。",
+    "general.forbidden": "我已试了为您的命令回答，可是，我没有允许。 请您让员工人给我‘发信息’的Discord允许。\n\n工会： {{guild}}\n频道： {{channel}}\n命令： {{cmd}}\n\n要是您以后不想看到这些信息的话，请运行 ’settings user dmerrors false‘ 在工会里面。",
+    "general.gatewayFailure": "失败跟网管沟通。请等等再试。",
+    "general.pagination.cooldown": "哇！太辣了， 分页输入现在冷却。",
+    "general.ayanaRoleTooLow": "我不能用或者改变 {{role}} 因为我最大的角色无能。请把我的角色改变高点。",
+    "general.userRoleTooLow": "角色 {{role}} 不能被用或者改变因为您的最大的角色没有那么高。",
+    "general.pagination": "页 {{page}}/{{pages}}",
+    "general.targetHigherRole": "{{target}} 比您的角色还要高。您不能改变。"
 }
