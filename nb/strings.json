@@ -442,8 +442,8 @@
     "help.aliases.group.createAlias": "Skap et alias",
     "help.afk.short": "La folk få vite at du er AFK når de nevner deg",
     "help.music.header": "[Musikk-hjelp]",
-    "help.music.desc.queue": "Viser køen",
-    "help.music.desc.enqueue": "Legger en sang eller spilleliste til i køen",
+    "help.music.desc.queue": "Viser eller legger til sanger/spillelister",
+    "help.music.desc.enqueue": "Legger en sang/spilleliste til køen",
     "help.music.desc.enqueueNext": "Setter en sang eller spilleliste fremst i køen",
     "help.music.desc.purge": "Rensker køen",
     "help.music.desc.delete": "Sletter ting fra køen",
@@ -621,5 +621,14 @@
     "help.stare.short": "Gir deg en stirrende bilde/gif, nevn en bruker for å stirre på dem",
     "help.teehee.short": "Gir deg en leende reaksjons-gif",
     "help.waifuinsult.short": "Gir deg en 'your waifu is shit\" bilde/gif-meme",
-    "help.wasted.short": "Gir deg en wasted meme-gif"
+    "help.wasted.short": "Gir deg en wasted meme-gif",
+    "words.queue": "Kø",
+    "words.playlist": "Spilleliste",
+    "words.song": "Sang",
+    "music3.enqueued.playFooter": "Bruk `music play`for å spille køen.",
+    "music3.enqueued": "Satt i kø: `{{title}}` i posisjonen**{{position}}**",
+    "music3.enqueuedPlaylist": "Satt i kø: `{{count}}` sanger fra **{{title}}**",
+    "music3.queueUri": "[Se på ayana.io]({{uri}})",
+    "pro.guildNotPro": "Vennligst oppgrader denne serveren til Ayana PRO for a benytte deg av denne funksjonen. For mer informasjon, bruk `pro`-kommandoen.",
+    "pro.instanceNotPro": "Denne funksjonen er kun tilgjengelig på Ayana PRO. Vennligst legg henne til serveren, bruk `pro invite` for invitasjonen."
 }
