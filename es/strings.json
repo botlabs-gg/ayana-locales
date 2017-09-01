@@ -619,5 +619,10 @@
     "help.triggered.short": "Le da una imagen de un disparo, menciona a un usuario para mostrar que estás disparando",
     "help.wag.short": "Le da una cola gag gif",
     "help.waifuinsult.short": "Te da un 'tu waifu es una mierda' imagen/gif meme",
-    "help.wasted.short": "Da un meme perdido gif"
+    "help.wasted.short": "Da un meme perdido gif",
+    "words.queue": "Lista",
+    "words.playlist": "Lista de reproducción",
+    "music3.enqueued.playFooter": "Ejecute \"reproducción de música\" para reproducir la lista.",
+    "music3.queueUri": "[Ver en ayana.io]({{uri}})",
+    "pro.guildNotPro": "Actualiza este servidor a Ayana PRO para acceder a esta función. Para obtener más información, ejecute el comando `pro`."
 }
