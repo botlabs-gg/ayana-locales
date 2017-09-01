@@ -168,5 +168,9 @@
     "general.ayanaRoleTooLow": "我不能用或者改变 {{role}} 因为我最大的角色无能。请把我的角色改变高点。",
     "general.userRoleTooLow": "角色 {{role}} 不能被用或者改变因为您的最大的角色没有那么高。",
     "general.pagination": "页 {{page}}/{{pages}}",
-    "general.targetHigherRole": "{{target}} 比您的角色还要高。您不能改变。"
+    "general.targetHigherRole": "{{target}} 比您的角色还要高。您不能改变。",
+    "help.aliases.desc.rename": "重改别名",
+    "help.aliases.desc.remove": "删除别名",
+    "help.aliases.desc.userargs": "允许或者否认参数，选项和旗子要是别号开启",
+    "help.aliases.group.createAlias": "创造别号"
 }
