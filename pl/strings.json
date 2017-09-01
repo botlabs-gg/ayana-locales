@@ -92,7 +92,7 @@
     "ban.softHackban": "Nie można dać soft i hackban'a w tym samym czasie.",
     "ban.invalidDays": "Określono błędną liczbę dni.",
     "ban.hackbanUserID": "Hackban wymaga Id użytkownika.",
-    "ban.failed": "Przepraszam, nie byłam w stanie zablokować użytkownika. Prawdopodobnie nie posiadam wystarczających uprawnień.",
+    "ban.failed": "Przepraszam, nie byłam w stanie zbanować użytkownika. Prawdopodobnie nie posiadam wystarczających uprawnień.",
     "ban.softFailed": "Błąd softban'a. Nie udało się odblokować użytkownika. Proszę odblokować go ręcznie.",
     "botlist.fetchFailed": "Nie udało się pobrać listy botów z {{provider}}.",
     "botlist.headerPage": "[Lista botów {{page}}/{{total}}]",
