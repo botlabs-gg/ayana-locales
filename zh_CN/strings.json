@@ -1,5 +1,5 @@
 {
-    "general.guildOnly": "只限在服务器里使用。 ",
+    "general.guildOnly": "只限在服务器里使用。",
     "general.error": "发生错误。请到我们的支持服务器举报此错误。（输入`support`以得到邀请）\n```{{error}}```",
     "general.cooldown": "此命令正处于冷却状态。",
     "finder.failUser": "找不到任何有关用户。",
@@ -162,7 +162,7 @@
     "settings.variable.userid": "会员用户ID。",
     "words.providers": "提供者",
     "general.unableToDM": "我没能办法给你发信息。这可以应为你有‘让服务器上的会员为你发信息’在您的设备里设到关闭状态。请您把这设备打开所以您可以收信息。",
-    "general.forbidden": "我已试了为您的命令回答，可是，我没有允许。 请您让员工人给我‘发信息’的Discord允许。\n\n工会： {{guild}}\n频道： {{channel}}\n命令： {{cmd}}\n\n要是您以后不想看到这些信息的话，请运行 ’settings user dmerrors false‘ 在工会里面。",
+    "general.forbidden": "我已试了为您的命令回答，可是，我没有允许。 请您让员工人给我'发信息'的Discord允许。\n\n工会： '{{guild}}'\n频道： '{{channel}}'\n命令： '{{cmd}}'\n\n要是您以后不想看到这些信息的话，请运行 ’settings user dmerrors false‘ 在工会里面。",
     "general.gatewayFailure": "失败跟网管沟通。请等等再试。",
     "general.pagination.cooldown": "哇！太辣了， 分页输入现在冷却。",
     "general.ayanaRoleTooLow": "我不能用或者改变 {{role}} 因为我最大的角色无能。请把我的角色改变高点。",
@@ -172,5 +172,12 @@
     "help.aliases.desc.rename": "重改别名",
     "help.aliases.desc.remove": "删除别名",
     "help.aliases.desc.userargs": "允许或者否认参数，选项和旗子要是别号开启",
-    "help.aliases.group.createAlias": "创造别号"
+    "help.aliases.group.createAlias": "创造别号",
+    "general.pagination.invalidPage": "网页无效。",
+    "general.notFound": "找不到",
+    "general.noDiscordPermission": "对不起，我没有`{{perm}}`的Discord角色。",
+    "general.pagination.altClose": "用`x`来关闭分页。",
+    "general.banInfo": "您被从一个服务器取缔。",
+    "general.invalidEmbed": "我想要发的嵌入无效。验证器说。\n```{{error}}```",
+    "general.pagination.altNavi": "用 `<` 和 `>` 来换网页。用`p<num>`来跳到您要的页(ex. `p10`)。"
 }
