@@ -439,8 +439,10 @@
     "words.page": "Page",
     "words.locale": "Locale",
     "words.word": "Word",
+    "words.queue": "Queue",
     "words.voiceChannel": "Voice Channel",
     "words.textChannel": "Text Channel",
+    "words.playlist": "Playlist",
     "actionlog.newChannel": "New channel",
     "actionlog.oldChannel": "Old channel",
     "rolemembers.header": "Members of Role {{role}}",
@@ -549,6 +551,10 @@
     "music3.nowplaying": "Now Playing: {{title}}",
     "music3.skip": ":fast_forward: Skipped [{{title}}]({{uri}}).",
     "music3.deletedMultiple": "Removed `{{count}}` item(s) from the queue.",
+    "music3.enqueued.playFooter": "Run 'music play' to play the queue.",
+    "music3.enqueued": "Enqueued: `{{title}}` to position **{{position}}**",
+    "music3.enqueuedPlaylist": "Enqueued: `{{count}}` songs from `{{title}}`",
+    "music3.queueUri": "[View on ayana.io]({{uri}})",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
@@ -576,5 +582,7 @@
     "events.processingError": "Something went wrong while trying to contact the event service.",
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
-    "question.cancelled": "Question cancelled."
+    "question.cancelled": "Question cancelled.",
+    "pro.guildNotPro": "Please upgrade this server to Ayana PRO to access this feature. For more information run the `pro` command.",
+    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite."
 }
