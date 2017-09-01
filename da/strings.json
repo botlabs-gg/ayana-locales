@@ -630,7 +630,7 @@
     "music3.enqueued.playFooter": "Brug `music play` for at afspille spillelisten.",
     "music3.enqueued": "Satte i kø: `{{title}}` i positionen **{{position}}**",
     "music3.enqueuedPlaylist": "Satte i kø: `{{count}}` sange fra `{{title}}`",
-    "music3.queueUri": "[Se på ayana.io({{uri}})",
+    "music3.queueUri": "[Se på ayana.io]({{uri}})",
     "pro.guildNotPro": "Vær venlig at opgradere denne server til Ayana PRO for at anvende denne funktion. For mere information, brug `pro` kommandoen.",
     "pro.instanceNotPro": "Denne funktion er kun tilgængelig på Ayana PRO. Vær venlig at tilføje hende til din server, brug `pro invite` for invitationen."
 }
