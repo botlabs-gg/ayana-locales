@@ -446,7 +446,7 @@
     "help.music.desc.enqueue": "Legger en sang/spilleliste til køen",
     "help.music.desc.enqueueNext": "Legger en sang/spilleliste som neste",
     "help.music.desc.purge": "Fjerner alle sanger fra køen.",
-    "help.music.desc.delete": "Sletter ting fra køen",
+    "help.music.desc.delete": "Sletter en eller flere sanger fra køen",
     "help.music.desc.play": "Starter å spille sangen(e) i køen",
     "help.music.desc.skip": "Hopper over sangen som blir spilt",
     "help.music.desc.shuffle": "Blander køen tilfeldig ",
