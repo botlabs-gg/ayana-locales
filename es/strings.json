@@ -624,5 +624,8 @@
     "words.playlist": "Lista de reproducción",
     "music3.enqueued.playFooter": "Ejecute \"reproducción de música\" para reproducir la lista.",
     "music3.queueUri": "[Ver en ayana.io]({{uri}})",
-    "pro.guildNotPro": "Actualiza este servidor a Ayana PRO para acceder a esta función. Para obtener más información, ejecute el comando `pro`."
+    "pro.guildNotPro": "Actualiza este servidor a Ayana PRO para acceder a esta función. Para obtener más información, ejecute el comando `pro`.",
+    "music3.enqueued": "En cola: `{{title}}` en posición **{{position}}**",
+    "music3.enqueuedPlaylist": "En cola: `{{count}}` canciones de `{{title}}`",
+    "pro.instanceNotPro": "Esta característica está solo disponible en la instancia de Ayana PRO. Por favor añádela a tu servidor, inicia `pro invite` para la invitación."
 }
