@@ -316,7 +316,7 @@
     "help.music.desc.queue": "Sırayı gösterir veya bir şarkıyı sıraya ekler",
     "help.music.desc.enqueue": "Bir şarkıyı veya bir oynatma listesini sıraya ekler",
     "help.music.desc.enqueueNext": "Bir şarkıyı veya bir oynatma listesini sıraya ekler",
-    "help.music.desc.purge": "Sıradaki tüm şarkıları siler.",
+    "help.music.desc.purge": "Sıradaki tüm şarkıları siler",
     "help.music.desc.delete": "Bir veya birden fazla şarkıyı sıradan kaldırır",
     "help.music.desc.play": "Sıralanmış şarkıları oynatır veya bir şarkıyı sıraya ekler",
     "help.music.desc.skip": "Sırada 1. olan şarkıyı atlar/kaldırır",
@@ -611,5 +611,16 @@
     "words.queue": "Sıra",
     "words.playlist": "Oynatma listesi",
     "words.song": "Şarkı",
-    "music3.enqueued.playFooter": "Sırayı çalmak için 'music play' komutunu çalıştır."
+    "music3.enqueued.playFooter": "Sırayı çalmak için 'music play' komutunu çalıştır.",
+    "music3.enqueued": "Sırada **{{position}}** pozisyonuna `{{title}}` eklendi",
+    "music3.enqueuedPlaylist": "Sıraya `{{title}}` listesinden `{{count}}` kadar şarkı eklendi",
+    "music3.queueUri": "[ayana.io'da görüntüle]({{uri}})",
+    "pro.guildNotPro": "Lütfen bu özelliğe erişmek içiç serverinizi Ayana PRO'ya yükseltin. Daha fazla bilgi için `pro` komutunu çalıştırın.",
+    "pro.instanceNotPro": "Bu özellik sadece Ayana PRO'da vardır. Onu lütfen serverinize ekleyin, eklemek için `pro invite` komutunu çalıştırın.",
+    "music3.repeat.one": ":repeat_one: Tek şarkıyı tekrarlıyorum",
+    "music3.repeat.on": ":repeat: Tüm listeyi tekrarlıyorum",
+    "music3.repeat.off": ":no_entry: Tekrarlama kapatıldı",
+    "music3.repeat.specifyMode": "Lütfen tekrarlama için bir parametre verin: <on|one|off>",
+    "music3.skipEmpty": "Sıra boş. Geçecek bir şey yok.",
+    "music3.playEmpty": "Sıra boş, bir kaç tane şarkı ekle!"
 }
