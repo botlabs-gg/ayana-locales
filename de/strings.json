@@ -13,7 +13,7 @@
     "finder.headerUserGuild": "[Gildennutzer Suche]",
     "invite.text": "Alles klar :ok_hand: \n\nDamit ich deinen Server betrete benutze einen der folgenden Links:\n\nModeration (empfohlen): {{invite}}\nMinimal (nicht empfohlen): {{invitemin}}",
     "locale.userUpdate": "Deine Sprache wurde auf `{{locale}}` gesetzt.",
-    "locale.guildUpdate": "GIldensprache wurde auf `{{locale}}` gesetzt.",
+    "locale.guildUpdate": "Gildensprache wurde auf `{{locale}}` gesetzt.",
     "locale.headerAvail": "[Verfügbare Sprachen]",
     "locale.fail": "Sprache konnte nicht aktualisiert werden.",
     "modlog.genFail": "Es ist ein Fehler mit dem Modlog aufgetreten.",
