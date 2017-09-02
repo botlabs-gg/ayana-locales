@@ -179,5 +179,13 @@
     "general.pagination.altClose": "用`x`来关闭分页。",
     "general.banInfo": "您被从一个服务器取缔。",
     "general.invalidEmbed": "我想要发的嵌入无效。验证器说。\n```{{error}}```",
-    "general.pagination.altNavi": "用 `<` 和 `>` 来换网页。用`p<num>`来跳到您要的页(ex. `p10`)。"
+    "general.pagination.altNavi": "用 `<` 和 `>` 来换网页。用`p<num>`来跳到您要的页(ex. `p10`)。",
+    "general.pagination.perms": "看想我没有`manageMessages`的Discord角色。要是您给我这个角色的话，我会自动删除换页信息。",
+    "general.commandNotFound": "我找不到这个命令。",
+    "general.invalidOpt": "您发的选项`{{opt}}`不好用。请把您的命令修改完事重试。",
+    "general.invalidFlag": "您用的旗`{{flag}}`不好用。请把您的命令改变完事重试。",
+    "help.footer": "",
+    "help.cmdForMoreInfo": "运行`{{cmd}}`来发现更多信息。",
+    "help.fullHelp.header": "{{emoji}}**海！我是阿亚娜！**\n\n在下方您能看到我会的命令。\n要是您需要帮助的话，您可以加入到我们的[帮助服务器]({{invite}})。\n\n**祝你今天愉快！**",
+    "help.fullHelp.info": "**用`{{catHelp}}`来知道项目信息。\n用`{{cmdHelp}}`来发现命令信息。\n\n**比如**\n`{{prefix}}请助阿亚娜`来看到阿亚娜概观。\n`{{prefix}}请助音乐帮助`来看到可用的音乐命令。"
 }
