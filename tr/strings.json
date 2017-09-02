@@ -610,5 +610,6 @@
     "help.music.desc.enqueuePosition": "Sıradaki belirlenmiş pozisyona bir şarkı/oynatma listesini ekler",
     "words.queue": "Sıra",
     "words.playlist": "Oynatma listesi",
-    "words.song": "Şarkı"
+    "words.song": "Şarkı",
+    "music3.enqueued.playFooter": "Sırayı çalmak için 'music play' komutunu çalıştır."
 }
