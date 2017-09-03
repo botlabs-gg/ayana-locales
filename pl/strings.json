@@ -639,5 +639,7 @@
     "music3.repeat.one": ":repeat_one: Powtarzanie jednej piosenki",
     "music3.repeat.on": ":repeat: Powtarzanie całej kolejki",
     "music3.repeat.off": ":no_entry: Powtarzanie wyłączone",
-    "music3.repeat.specifyMode": "Proszę określ tryb powtarzania: <on|one|off>"
+    "music3.repeat.specifyMode": "Proszę określ tryb powtarzania: <on|one|off>",
+    "music3.skipEmpty": "Kolejka jest pusta. Nic do pominięcia.",
+    "music3.playEmpty": "Kolejka jest pusta, dodaj jakieś piosenki!"
 }
