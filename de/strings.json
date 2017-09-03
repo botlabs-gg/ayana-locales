@@ -552,7 +552,7 @@
     "random.lowerBoundTooLarge": "Untere Grenze kann nicht größer sein als die obere Grenze.",
     "random.result": "Deine zufällige Zahl ist {{number}}.",
     "words.streams": "Streams",
-    "general.invalidEmbed": "Die Einbettung, die ich versuchte zu senden, war ungültig. Der Prüfer hat den folgenden Fehler ausgegeben.\n```{{error}}```",
+    "general.invalidEmbed": "Die Einbettung, die ich versuchte zu senden, war ungültig. Der Validator hat den folgenden Fehler ausgegeben.\n```{{error}}```",
     "general.invalidOpt": "Du hast die ungültige Option `{{opt}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut.",
     "events.processingError": "Etwas ging schief, während wir versuchten den Event-Service zu kontaktieren.",
     "help.reminder.header": "[Errinerungshilfe]",
