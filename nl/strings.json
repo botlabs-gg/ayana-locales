@@ -299,7 +299,7 @@
     "help.music.desc.queue": "Laat afspeellijst zien of vraag een liedje/afspeellijst aan",
     "help.music.desc.enqueue": "Vraag een liedje/afspeellijst aan",
     "help.music.desc.enqueueNext": "Vraag een liedje/afspeellijst aan die als eerstvolgende wordt gespeeld",
-    "help.music.desc.purge": "Verwijder alle items van de afspeellijst.",
+    "help.music.desc.purge": "Verwijder alle items van de wachtrij",
     "help.music.desc.delete": "Verwijder één of meerdere items van de wachtrij",
     "help.music.desc.play": "Speel en/of voeg een liedje/afspeellijst toe",
     "help.music.desc.skip": "Skip/Verwijder item in positie 1 van de wachtrij",
@@ -617,5 +617,7 @@
     "music3.repeat.one": ":repeat_one: Herhaal een enkel item",
     "music3.repeat.on": ":repeat: Herhaal de gehele wachtrij",
     "music3.repeat.off": ":no_entry: Herhalen uitgeschakeld",
-    "music3.repeat.specifyMode": "A.u.b. specificeer de actie om te herhalen: <on|one|off>"
+    "music3.repeat.specifyMode": "A.u.b. specificeer de actie om te herhalen: <on|one|off>",
+    "music3.skipEmpty": "Wachtrij is leeg. Er is niks om over te slaan.",
+    "music3.playEmpty": "Wachtrij is leeg, voeg wat liedjes toe!"
 }
