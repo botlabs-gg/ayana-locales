@@ -252,7 +252,7 @@
     "general.forbidden": "Ich habe versucht eine Antwort auf deinen Befehl zu senden, allerdings hatte ich keine Rechte dazu. Bitte sage einem Serveradministrator, dass er mir das `Nachrichten versenden` Discord Recht geben soll.\n\nGilde: `{{guild}}`\nKanal: `{{channel}}`\nBefehl: `{{cmd}}`\n\nWenn du diese Nachricht nicht mehr erhalten möchtest, führe in der Gilde `settings user dmerrors false` aus.",
     "general.targetHigherRole": "{{target}} besitzt eine höhere Rolle als du. Du kannst ihn nicht verändern.",
     "help.avatar.short": "Zeige den Avatar eines Nutzers an",
-    "help.bad.short": "Vergibt ein Geschenk, welches User bestraft um es zu erwähnen",
+    "help.bad.short": "Nein, böse!",
     "help.ban.short": "Nutzer bannen",
     "help.bigtext.short": "Generiert Text mit regional indicators",
     "help.bigtextd.short": "Das gleiche wie bigtext, zudem entferne ich deinen Befehl",
