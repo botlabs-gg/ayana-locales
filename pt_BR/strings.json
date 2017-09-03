@@ -430,7 +430,7 @@
     "help.music.desc.queue": "Mostrar fila ou adicionar música/playlist à fila",
     "help.music.desc.enqueue": "Adiciona uma música/playlist à lista",
     "help.music.desc.enqueueNext": "Adiciona uma música/playlist para reprodução seguinte",
-    "help.music.desc.purge": "Remove todos os itens da fila.",
+    "help.music.desc.purge": "Remove todos os itens da fila",
     "help.music.desc.delete": "Deleta um ou mais itens da fila",
     "help.music.desc.play": "Reproduzir e/ou adicionar uma música/playlist à fila",
     "help.music.desc.skip": "Pula/Remove item na posição 1 da fila",
@@ -640,5 +640,7 @@
     "music3.repeat.off": ":no_entry: Repetição desabilitada",
     "music3.repeat.specifyMode": "Por favor especifique ação para repetir: <on|one|off>",
     "help.fullHelp.usefulLinks": "**Links úteis:**\n[Me convide]({{invite}}), [Convite mínimo]({{inviteMin}}), [Servidor de Suporte]({{supportInvite}}), [Doar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
-    "music3.queueUri": "[Ver em ayana.io]({{uri}})"
+    "music3.queueUri": "[Ver em ayana.io]({{uri}})",
+    "music3.skipEmpty": "A lista está vazia. Não há nada para pular.",
+    "music3.playEmpty": "A lista está vazia, adicione algumas músicas!"
 }
