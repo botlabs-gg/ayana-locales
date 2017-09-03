@@ -433,7 +433,7 @@
     "settings.guild.dmbans": "Aktiviere/Deaktiviere dmbans und dmkicks für diese Gilde.",
     "general.banInfo": "Du wurdest von einem Server gebannt auf dem du warst.",
     "words.reason": "Grund",
-    "general.pagination.cooldown": "Woah! Die Nummerierung ist überhitzt und muss nun etwas abkühlen.",
+    "general.pagination.cooldown": "Woah! Die Seitenverwaltung ist überhitzt und muss nun etwas abkühlen.",
     "general.commandNotFound": "Dieser Befehl konnte nicht gefunden werden.",
     "help.footer": "<> = erforderliches Argument, [] = optionales Argument, | = oder,\nBitte füge die folgenden Zeichen nicht in deine Befehle ein: <>[]|.\nBei Fragen betritt den Support Server. ({{prefix}}support um einen Link zu bekommen)",
     "help.aliases.header": "[Aliases Hilfe]",
