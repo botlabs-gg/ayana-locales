@@ -465,7 +465,7 @@
     "words.text": "Text",
     "words.command": "Befehl",
     "help.music.header": "[Musik Hilfe]",
-    "help.music.desc.queue": "Zeigt die Warteschlange an oder fügt ein Lied hinzu",
+    "help.music.desc.queue": "Zeigt die Warteschlange an oder fügt einen Song/eine Playlist hinzu",
     "help.music.desc.enqueue": "Song/Playlist der Warteschlange hinzufügen",
     "help.music.desc.enqueueNext": "Fügt einen Song/eine Playlist als nächstes Lied zur Warteschlange hinzu",
     "help.music.desc.purge": "Leert die Warteschlange",
