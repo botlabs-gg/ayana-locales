@@ -465,7 +465,7 @@
     "help.music.desc.queue": "Mostrar cola o canción en cola/lista de reproducción",
     "help.music.desc.enqueue": "Canción en cola/lista de reproducción",
     "help.music.desc.enqueueNext": "Canción en cola/lista de reproducción siguiente",
-    "help.music.desc.purge": "Remover todos los elementos de la cola.",
+    "help.music.desc.purge": "Eliminar todos los elementos de la lista",
     "help.music.desc.delete": "Borrar uno o más elementos de la cola",
     "help.music.desc.play": "Reproducir y/o colocar una canción/lista de reproducción",
     "help.music.desc.skip": "Saltar/Remover un elemento de la posición 1 de la cola",
@@ -632,5 +632,11 @@
     "help.music.desc.bindText": "Especifique el canal de texto al",
     "help.music.desc.selectRegion": "Forzar la conexión a una región especificada",
     "help.music.desc.enqueuePosition": "Colocar canción/lista de reproducción en la posición especificada",
-    "words.song": "Canción"
+    "words.song": "Canción",
+    "music3.repeat.one": ":repeat_one: Repetir elemento único",
+    "music3.repeat.on": ":repeat: Repitiendo toda la lista de música",
+    "music3.repeat.off": ":no_entry: Repetición inhabitada",
+    "music3.repeat.specifyMode": "Por favor especifica la acción para repetir: <on|one|off>",
+    "music3.skipEmpty": "La lista está vacía. No hay nada que saltar.",
+    "music3.playEmpty": "¡La lista está vacía, agrega algunas canciones!"
 }
