@@ -445,7 +445,7 @@
     "help.music.desc.queue": "Viser eller legger til sanger/spillelister",
     "help.music.desc.enqueue": "Legger en sang/spilleliste til køen",
     "help.music.desc.enqueueNext": "Legger en sang/spilleliste som neste",
-    "help.music.desc.purge": "Fjerner alle sanger fra køen.",
+    "help.music.desc.purge": "Fjerner alle sanger fra køen",
     "help.music.desc.delete": "Sletter en eller flere sanger fra køen",
     "help.music.desc.play": "Spill eller legg til en sangen/spilleliste",
     "help.music.desc.skip": "Hopp over/fjern sangen fremst i køen",
@@ -638,5 +638,7 @@
     "music3.repeat.on": ":repeat: Repeter hele køen",
     "music3.repeat.off": ":no_entry: Repetering deaktivert",
     "music3.repeat.specifyMode": "Vennligst spesifiser en handling for repetisjon: <on|one|off>",
-    "help.music.desc.selectRegion": "Tving en tilkobling til den spesifiserte regionen"
+    "help.music.desc.selectRegion": "Tving en tilkobling til den spesifiserte regionen",
+    "music3.skipEmpty": "Køen er tom. Det er ingenting å hoppe over.",
+    "music3.playEmpty": "Køen er tom, legg til noen sanger!"
 }
