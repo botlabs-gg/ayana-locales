@@ -471,7 +471,7 @@
     "help.music.desc.queue": "Viser eller lægger sange/spillelister til køen",
     "help.music.desc.enqueue": "Sætter en sang/spilleliste i kø",
     "help.music.desc.enqueueNext": "Sætter en sang/spilleliste som næste i køen",
-    "help.music.desc.purge": "Fjerner alle sange fra køen.",
+    "help.music.desc.purge": "Fjerner alle sange fra køen",
     "help.music.desc.delete": "Fjerner en eller flere sange fra køen",
     "help.music.desc.play": "Spil, og eller, sæt en sang/spilleliste i køen",
     "help.music.desc.skip": "Spring over/fjern den første sang i køen",
@@ -641,5 +641,7 @@
     "music3.repeat.one": ":repeat_one: Gentager en enkelt sang",
     "music3.repeat.on": ":repeat: Gentager hele køen",
     "music3.repeat.off": ":no_entry: Gentagning deaktiveret",
-    "music3.repeat.specifyMode": "Specificer venligst en indstilling for gentagelse: <on|one|off>"
+    "music3.repeat.specifyMode": "Specificer venligst en indstilling for gentagelse: <on|one|off>",
+    "music3.skipEmpty": "Køen er tom. Der er intet at springe over.",
+    "music3.playEmpty": "Køen er tom, tilføj nogle sange til køen!"
 }
