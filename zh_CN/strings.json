@@ -187,5 +187,10 @@
     "help.footer": "",
     "help.cmdForMoreInfo": "运行`{{cmd}}`来发现更多信息。",
     "help.fullHelp.header": "{{emoji}}**海！我是阿亚娜！**\n\n在下方您能看到我会的命令。\n要是您需要帮助的话，您可以加入到我们的[帮助服务器]({{invite}})。\n\n**祝你今天愉快！**",
-    "help.fullHelp.info": "**用`{{catHelp}}`来知道项目信息。\n用`{{cmdHelp}}`来发现命令信息。\n\n**比如**\n`{{prefix}}请助阿亚娜`来看到阿亚娜概观。\n`{{prefix}}请助音乐帮助`来看到可用的音乐命令。"
+    "help.fullHelp.info": "**用`{{catHelp}}`来知道项目信息。\n用`{{cmdHelp}}`来发现命令信息。\n\n**比如**\n`{{prefix}}请助阿亚娜`来看到阿亚娜概观。\n`{{prefix}}请助音乐帮助`来看到可用的音乐命令。",
+    "help.aliases.short": "管理命令别名",
+    "help.aliases.header": "[别名帮助]",
+    "help.afk.short": "当别人叫你的时候我会告诉它们您不在",
+    "help.avatar.short": "",
+    "help.ban.short": "禁止用户"
 }
