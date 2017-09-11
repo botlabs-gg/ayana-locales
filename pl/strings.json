@@ -641,5 +641,11 @@
     "music3.repeat.off": ":no_entry: Powtarzanie wyłączone",
     "music3.repeat.specifyMode": "Proszę określ tryb powtarzania: <on|one|off>",
     "music3.skipEmpty": "Kolejka jest pusta. Nic do pominięcia.",
-    "music3.playEmpty": "Kolejka jest pusta, dodaj jakieś piosenki!"
+    "music3.playEmpty": "Kolejka jest pusta, dodaj jakieś piosenki!",
+    "settings.guild.publicupgrades": "Pozwala komukolwiek na serwerze ulepszyć wersję do Ayana PRO. Tylko administratorzy lub użytkownik, który ulepszył, może wyłączyć",
+    "music3.autoLeave": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Wesprzyj Ayanę i otrzymaj dodatkowe funkcje z Ayaną PRO. {{uri}}",
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Dziękuję za używanie Ayany!",
+    "pro.noPublicUpgrades": "Ten serwer nie pozwala na publiczne ulepszanie Ayana PRO. Sprawdź `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Tylko administrator lub użytkownik, który ulepszył ten serwer do Ayany PRO może ją zredukować",
+    "pro.description": "Ayana PRO jest prywatnie hostowaną wersją, wyłączną dla darczyńców.\nLepsza jakość odtwarzania, większa stabilność oraz profesjonalne wsparcie to tylko kilka z korzyści jakie zyskujesz.\n\nAby dowiedzieć się więcej odwiedź {{uri}}"
 }
