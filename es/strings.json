@@ -643,5 +643,6 @@
     "music3.autoLeave": ":no_entry_sign: Canal izquierdo debido a la inactividad. Servicio de asistencia de Ayana y obtener algunas ventajas impresionantes con Ayana PRO. {{uri}}",
     "pro.noPublicUpgrades": "Este servidor no permite actualizaciones públicas de Ayana PRO. Ver `settings guild publicupgrades`",
     "pro.cannotDowngrade": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo",
-    "pro.description": "Ayana PRO es una instancia alojada privada de Ayana Exclusiva a los partidarios de Patreon.\nReproducción de mayor calidad, menos tiempo de inactividad, más estabilidad y soporte de nivel profesional son sólo algunos de los beneficios que obtiene.\n\nPara obtener más información o para subir a bordo, vaya a {{uri}}"
+    "pro.description": "Ayana PRO es una instancia alojada privada de Ayana Exclusiva a los partidarios de Patreon.\nReproducción de mayor calidad, menos tiempo de inactividad, más estabilidad y soporte de nivel profesional son sólo algunos de los beneficios que obtiene.\n\nPara obtener más información o para subir a bordo, vaya a {{uri}}",
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Canal izquierdo debido a la inactividad. Gracias por usar Ayana!"
 }
