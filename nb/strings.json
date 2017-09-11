@@ -640,5 +640,9 @@
     "music3.repeat.specifyMode": "Vennligst spesifiser en handling for repetisjon: <on|one|off>",
     "help.music.desc.selectRegion": "Tving en tilkobling til den spesifiserte regionen",
     "music3.skipEmpty": "Køen er tom. Det er ingenting å hoppe over.",
-    "music3.playEmpty": "Køen er tom, legg til noen sanger!"
+    "music3.playEmpty": "Køen er tom, legg til noen sanger!",
+    "settings.guild.publicupgrades": "Tillater alle i serveren å oppgradere til Ayana PRO. Kun administratorer eller brukeren som oppgraderte kan nedgradere",
+    "music3.autoLeave": ":no_entry_sign: Forlot kanalen på grunn av inaktivitet. Støtt opp om Ayana og få noen utrolige fordeler med Ayana PRO. {{uri}}",
+    "pro.noPublicUpgrades": "Denne serveren tillater ikke offentlige Ayana PRO oppgraderinger. Sjekk ut `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Kun en administrator eller brukeren som oppgraderte denne serveren til Ayana PRO kan nedgradere den"
 }
