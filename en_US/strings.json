@@ -503,6 +503,7 @@
     "settings.guild.afk": "Enable/Disable AFK messages guild wide.",
     "settings.user.dmerrors": "Enable/Disable dmerrors.",
     "settings.failedUpdateAutorole": "This role cannot be used for autorole because it's higher than your highest role.",
+    "settings.guild.publicupgrades": "Allows anyone in the server to upgrade it to Ayana PRO. Only Administrators or the user that upgraded can Downgrade",
     "avatar.resolveFailed": "Failed to get avatar.",
     "translation.nativeName": "US English",
     "translation.englishName": "US English",
@@ -563,6 +564,7 @@
     "music3.repeat.specifyMode": "Please specify action for repeat: <on|one|off>",
     "music3.skipEmpty": "Queue is empty. There is nothing to skip.",
     "music3.playEmpty": "Queue is empty, add some songs!",
+    "music3.autoLeave": ":no_entry_sign: Left channel due to inactivity. Help support Ayana and get some awesome perks with Ayana PRO. {{uri}}",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
@@ -592,5 +594,8 @@
     "question.timeout": "Question timed out.",
     "question.cancelled": "Question cancelled.",
     "pro.guildNotPro": "Please upgrade this server to Ayana PRO to access this feature. For more information run the `pro` command.",
-    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite."
+    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite.",
+    "pro.noPublicUpgrades": "This server does not allow Public Ayana PRO upgrades. See `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Only an Administrator or the user that upgraded this server to Ayana PRO may downgrade it",
+    "pro.description": "Ayana PRO is an private hosted instance of Ayana Exclusive to Patreon supporters.\nHigher quality Playback, less downtime, more stability, and pro level support are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}"
 }
