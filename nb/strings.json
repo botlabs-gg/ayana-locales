@@ -644,5 +644,7 @@
     "settings.guild.publicupgrades": "Tillater alle i serveren å oppgradere til Ayana PRO. Kun administratorer eller brukeren som oppgraderte kan nedgradere",
     "music3.autoLeave": ":no_entry_sign: Forlot kanalen på grunn av inaktivitet. Støtt opp om Ayana og få noen utrolige fordeler med Ayana PRO. {{uri}}",
     "pro.noPublicUpgrades": "Denne serveren tillater ikke offentlige Ayana PRO oppgraderinger. Sjekk ut `settings guild publicupgrades`",
-    "pro.cannotDowngrade": "Kun en administrator eller brukeren som oppgraderte denne serveren til Ayana PRO kan nedgradere den"
+    "pro.cannotDowngrade": "Kun en administrator eller brukeren som oppgraderte denne serveren til Ayana PRO kan nedgradere den",
+    "pro.description": "Ayana PRO er en privat-hostet versjon av Ayana som er eksklusiv for Patreon-supportere.\nHøykvalitets avspilling, mindre nedetid, mer stabilitiet og pro-level support er noen få av fordelene du får.\n\nFor å lære mer, eller bli en Patreon-supporter, gå til {{uri}}",
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Forlot kanal på grunn av inaktivitet. Takk for at du brukte Ayana!"
 }
