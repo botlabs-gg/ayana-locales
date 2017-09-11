@@ -223,7 +223,7 @@
     "music2.delete.items": "Borrados `{{items}}` artículos de la cola.",
     "music2.delete.queueEmpty": "La cola está vacía, nada para borrar.",
     "music2.delete.invalidIndex": "Especificaste un índice no válido. Por favor inténtalo de nuevo.",
-    "music2.queue.maxsize": "Has alcanzado el tamaño de cola permitida máxima de 1000 artículos.",
+    "music2.queue.maxsize": "Ha alcanzado el tamaño máximo de cola permitido de 1000 elementos.",
     "music2.provider.unknown": "Proveedor desconocido. Por favor inicia `music pv` para una lista de proveedores válidos.",
     "shardinfo.fail": "No se pudo obtener información del fragmento de la puerta de enlace.",
     "shardinfo.currentShard": "Este fragmento",
@@ -359,7 +359,7 @@
     "aliases.notExistent": "El alias `{{alias}}` no existe.",
     "aliases.removed": "El alias `{{alias}}` ha sido removido.",
     "aliases.renamed": "El alias `{{alias}}` ha sido renombrado a `{{new}}`.",
-    "aliases.cannotAddAliasToAlias": "No puede agregar un alias para un alias.",
+    "aliases.cannotAddAliasToAlias": "No puedes agregar un alias para un alias.",
     "aliases.cannotHaveMore": "No puedes tener más {{amnt}} alias.",
     "aliases.empty": "No hay alias para este servidor. Ejecute el comando `aliases` sin argumentos para ver la ayuda.",
     "perms.legend": ":heavy_check_mark: => Se permite por defecto :heavy_multiplication_x: => Denegado por defecto :white_check_mark: => Permitido :no_entry: => Denegado",
@@ -492,7 +492,7 @@
     "words.note": "Nota",
     "words.page": "Pagina",
     "words.locale": "Sitio",
-    "ban.days": "Dias",
+    "ban.days": "Días",
     "music.songNameYt": "Nombre de la canción (YT)",
     "help.role.header": "[Rol Ayuda]",
     "help.role.desc.give": "Da roles",
@@ -638,5 +638,10 @@
     "music3.repeat.off": ":no_entry: Repetición inhabitada",
     "music3.repeat.specifyMode": "Por favor especifica la acción para repetir: <on|one|off>",
     "music3.skipEmpty": "La lista está vacía. No hay nada que saltar.",
-    "music3.playEmpty": "¡La lista está vacía, agrega algunas canciones!"
+    "music3.playEmpty": "¡La lista está vacía, agrega algunas canciones!",
+    "settings.guild.publicupgrades": "Permite que cualquiera en el servidor la actualice a Ayana PRO. Sólo los administradores o el usuario actualizado pueden",
+    "music3.autoLeave": ":no_entry_sign: Canal izquierdo debido a la inactividad. Servicio de asistencia de Ayana y obtener algunas ventajas impresionantes con Ayana PRO. {{uri}}",
+    "pro.noPublicUpgrades": "Este servidor no permite actualizaciones públicas de Ayana PRO. Ver `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo",
+    "pro.description": "Ayana PRO es una instancia alojada privada de Ayana Exclusiva a los partidarios de Patreon.\nReproducción de mayor calidad, menos tiempo de inactividad, más estabilidad y soporte de nivel profesional son sólo algunos de los beneficios que obtiene.\n\nPara obtener más información o para subir a bordo, vaya a {{uri}}"
 }
