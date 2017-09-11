@@ -622,5 +622,11 @@
     "music3.repeat.off": ":no_entry: Tekrarlama kapatıldı",
     "music3.repeat.specifyMode": "Lütfen tekrarlama için bir parametre verin: <on|one|off>",
     "music3.skipEmpty": "Sıra boş. Geçecek bir şey yok.",
-    "music3.playEmpty": "Sıra boş, bir kaç tane şarkı ekle!"
+    "music3.playEmpty": "Sıra boş, bir kaç tane şarkı ekle!",
+    "settings.guild.publicupgrades": "Serverdeki herhangi birinin Ayana PRO'ya yükseltmesini sağlar. Geri çekmeyi sadece Administratörler ve yükselten kişi yapabilir",
+    "music3.autoLeave": ":no_entry_sign: Aktifsizlikten dolayı kanaldan çıktım. Ayana'ya yardım et ve Ayana PRO ile muhteşem özellikler kazan. {{uri}}",
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Aktifsizlikten dolayı kanaldan çıktım. Ayana'yı kullandığınız için teşekkürler!",
+    "pro.noPublicUpgrades": "Bu sunucu, herkese açık Ayana PRO yükseltmelerine izin vermiyor. Bkz: `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Sadece bir administratör veya Ayana PRO'ya yükselten kişi geriletebilir",
+    "pro.description": "Ayana PRO, Patreon destekçilerine özel olarak sunulan bir Ayana versiyonudur.\nYüksek kalite geri oynatma, daha az çevrimdışılık, daha istikrarlı ve prof. seviyede yardım sadece birkaç özellikleri.\n\nDaha fazla öğrenmek için veya PRO'ya sahip olmak için: {{uri}}"
 }
