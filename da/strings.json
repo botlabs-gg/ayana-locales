@@ -643,5 +643,9 @@
     "music3.repeat.off": ":no_entry: Gentagning deaktiveret",
     "music3.repeat.specifyMode": "Specificer venligst en indstilling for gentagelse: <on|one|off>",
     "music3.skipEmpty": "Køen er tom. Der er intet at springe over.",
-    "music3.playEmpty": "Køen er tom, tilføj nogle sange til køen!"
+    "music3.playEmpty": "Køen er tom, tilføj nogle sange til køen!",
+    "settings.guild.publicupgrades": "Tillader alle i serveren i at opgradere til Ayana PRO. Kun administratorer eller brugeren der opgraderede kan nedgradere",
+    "music3.autoLeave": ":no_entry_sign: Forlod kanalen på grund af inaktivitet. Hjælp med at støtte Ayana og få nogle fede fordele med Ayana PRO. {{uri}}",
+    "pro.noPublicUpgrades": "Denne server tillader ikke offentlige opgraderinger til Ayana Pro. Se `setting guild publicupgrades`",
+    "pro.cannotDowngrade": "Kun en administrator eller brugeren der opgraderede denne server til Ayana PRO kan nedgradere den"
 }
