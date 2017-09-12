@@ -619,5 +619,11 @@
     "music3.repeat.off": ":no_entry: Herhalen uitgeschakeld",
     "music3.repeat.specifyMode": "A.u.b. specificeer de actie om te herhalen: <on|one|off>",
     "music3.skipEmpty": "Wachtrij is leeg. Er is niks om over te slaan.",
-    "music3.playEmpty": "Wachtrij is leeg, voeg wat liedjes toe!"
+    "music3.playEmpty": "Wachtrij is leeg, voeg wat liedjes toe!",
+    "settings.guild.publicupgrades": "Sta toe dat iedereen in deze server naar Ayana PRO kan updaten. Alleen administrators of de gebruiker die geüpgraded heeft kan hem degraderen",
+    "music3.autoLeave": ":no_entry_sign: Kanaal verlaten vanwege inactiviteit. Help om Ayana te supporten en verkrijg waanzinnige voordelen met Ayana PRO. {{uri}}",
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Kanaal verlaten vanwege inactiviteit. Bedankt voor het gebruiken van Ayana!",
+    "pro.noPublicUpgrades": "Deze server staat niet Publieke Ayana PRO upgrades toe. Zie `settings guild publicupgrades`",
+    "pro.cannotDowngrade": "Alleen een administrator of de gebruiker dat deze server geüpgraded heeft naar Ayana PRO kan het degraderen",
+    "pro.description": "Ayana PRO is een privé gehoste voorbeeld van Ayana's exclusieve naar Patreon supporters. \nHogere kwaliteit terugspeler, lagere downtime, meer stabiliteit, en pro level support zijn gewoon een paar voordelen die jij krijgt.\n\nOm meer erover te leren of een bord krijgen ga naar {{uri}}"
 }
