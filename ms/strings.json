@@ -40,5 +40,5 @@
     "remind.invalidTime": "Masa tidak sah.Tolong menentukan masa yang lebih dari 30 saat.",
     "remind.confirm": "Baiklah, ingatan baru untuk `{{time}}` [y/n]?",
     "remind.okay": "Ya, saya pasti akan mengingatkan anda!",
-    "general.unableToDM": "Saya tidak dapat menghantar mesej langsung kepada anda. Ini mungkin disebabkan anda mengadakan pilihan ` Allow direct messages from server members` dalam tetapan privasi Discord ditetapkan kepada tidak. Sila mambolehkan tetapan ini untuk menerima mesej langsung."
+    "general.unableToDM": "Saya tidak dapat menghantar mesej langsung kepada anda. Ini mungkin disebabkan anda mengadakan pilihan `Allow direct messages from server members` dalam tetapan privasi Discord ditetapkan kepada tidak. Sila mambolehkan tetapan ini untuk menerima mesej langsung."
 }
