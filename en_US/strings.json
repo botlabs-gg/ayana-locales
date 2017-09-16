@@ -575,6 +575,7 @@
     "music3.playEmpty": "Queue is empty, add some songs!",
     "music3.autoLeave": ":no_entry_sign: Left channel due to inactivity. Help support Ayana and get some awesome perks with Ayana PRO. {{uri}}",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Left channel due to inactivity. Thanks for using Ayana!",
+    "music3.invalidIndex": "You specified an invalid index. Please try again.",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
