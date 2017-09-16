@@ -444,7 +444,7 @@
     "help.aliases.group.createAlias": "Einen Alias erstellen",
     "help.aliases.desc.createAlias": "    Tippe den Befehl so ein, wie du ihn normalerweise eingeben würdest und füge '--addalias <alias>' an das Ende von ihm an.\n    Sagen wir du möchtest '{{prefix}}hallo' als einen Alias für '{{prefix}}say Hallo' haben.\n    Um diesen Alias hinzuzufügen müsstest du '{{prefix}}say Hallo --addalias hallo' ausführen.\n    Optionen und Flaggen werden zudem auch gespeichert, wenn ein Alias hinzugefügt wird (abgesehen von --addalias selbstverständlich).",
     "help.prune.header": "[Prune Hilfe]",
-    "help.prune.desc.prune": "Löscht Nachrichten",
+    "help.prune.desc.prune": "Löscht Nachrichten nach Anzahl",
     "help.prune.desc.bots": "Löscht Nachrichten, die von Bots erstellt wurden",
     "help.prune.desc.user": "Löscht Nachrichten, die von dem angegebenen Nutzer erstellt wurden",
     "help.prune.desc.filter": "Löscht Nachrichten, die den angegebenen Filter enthalten",
@@ -641,5 +641,6 @@
     "sar.pickGroup": "Wähle eine Gruppe von der du Rollen zuweisen oder entfernen willst.",
     "settings.guild.publicupgrades": "Erlaubt jedem in diesem Server ihn auf Ayana PRO hochzustufen. Nur Administatoren und der Nutzer, der die Hochstufung ausgeführt hat, kann den Server abstufen.",
     "music3.autoLeave": ":no_entry_sign: Der Kanal wurde wegen Inaktivität verlassen. Hilf dabei Ayana zu untestützen und bekomme einige Vorteile mit Ayana PRO. {{uri}}",
-    "music3.autoLeaveNoPromo": ":no_entry_sign: Der Kanal wurde wegen Inaktivität verlassen. Danke, dass du Ayana benutzt!"
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Der Kanal wurde wegen Inaktivität verlassen. Danke, dass du Ayana benutzt!",
+    "help.prune.desc.pruneUntil": "Löscht Nachrichten bis die angegebene Nachricht erreicht ist"
 }
