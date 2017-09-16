@@ -289,6 +289,12 @@
     "pro.noPatreon": "You need to support Ayana on Patreon to update your donation text.",
     "pro.pledgeTooLow": "Your Patreon pledge is too low to update your donation text.",
     "pro.donatorTextNotSet": "You don't have a donator text set that can be updated.",
+    "pro.guildNotPro": "Please upgrade this server to Ayana PRO to access this feature. For more information run the `pro` command.",
+    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite.",
+    "pro.noPublicUpgrades": "This server does not allow public Ayana PRO upgrades. See `settings guild publicupgrades`.",
+    "pro.cannotDowngrade": "Only an Administrator or the user that upgraded this server to Ayana PRO may downgrade it.",
+    "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality Playback, less downtime, more stability, and pro level support are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}",
+    "pro.noData": "You don't have any Ayana PRO subscriptions. For more information run the `pro` command.",
     "prune.missingPerms": "Sorry, I lack the `Manage Messages` Discord permission.",
     "prune.invalidAmount": "The amount you entered is invalid.",
     "prune.userHelp": "User option requires an input to search for.",
@@ -364,6 +370,7 @@
     "sar.noLimit": "No limit",
     "sar.createHelp": "Use `{{prefix}}sar create <group>` to create a group.",
     "sar.assignmentInterface": "To use the SAR assignment interface use `{{prefix}}rank [group]`.",
+    "sar.pickGroup": "Pick a group you want to assign or unassign roles from.",
     "words.amount": "Amount",
     "words.note": "Note",
     "words.options": "Options",
@@ -593,10 +600,5 @@
     "events.processingError": "Something went wrong while trying to contact the event service.",
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
-    "question.cancelled": "Question cancelled.",
-    "pro.guildNotPro": "Please upgrade this server to Ayana PRO to access this feature. For more information run the `pro` command.",
-    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite.",
-    "pro.noPublicUpgrades": "This server does not allow Public Ayana PRO upgrades. See `settings guild publicupgrades`",
-    "pro.cannotDowngrade": "Only an Administrator or the user that upgraded this server to Ayana PRO may downgrade it",
-    "pro.description": "Ayana PRO is an private hosted instance of Ayana Exclusive to Patreon supporters.\nHigher quality Playback, less downtime, more stability, and pro level support are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}"
+    "question.cancelled": "Question cancelled."
 }
