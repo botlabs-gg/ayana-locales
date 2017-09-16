@@ -453,7 +453,7 @@
     "help.perms.desc.guild": "Define ou mostra permissões do servidor",
     "help.perms.desc.note": "    As permissões estão na ordem das opções, isso significa que o usuário do canal\n    é o nível mais alto e o servidor é o nível mais baixo.",
     "help.prune.header": "[Ajuda em Prune]",
-    "help.prune.desc.prune": "Pune mensagens",
+    "help.prune.desc.prune": "Apaga mensagens por quantidade",
     "help.prune.desc.bots": "Pune todas as mensagens criadas por qualquer bot",
     "help.prune.desc.user": "Pune todas as mensagens pelo usuário especificado",
     "help.prune.desc.filter": "Apenas pune mensagens que contém a linha especificada",
@@ -596,7 +596,7 @@
     "help.confused.short": "Te dá uma imagem de uma garota de anime confusa",
     "help.kiss.short": "Te dá uma gif de beijo, você pode mencionar alguém para beija-lo",
     "help.lick.short": "Te dá uma gif de lambida, você pode mencionar alguém para lamber",
-    "help.owo.short": "Te dá 'OwO, o que é isso?' memes ",
+    "help.owo.short": "Te dá memes de 'OwO, o que é isso?'",
     "help.sleepy.short": "Te dá uma GIF para dormir",
     "words.category": "Categoria",
     "words.developers": "Desenvolvedores",
@@ -642,5 +642,7 @@
     "help.fullHelp.usefulLinks": "**Links úteis:**\n[Me convide]({{invite}}), [Convite mínimo]({{inviteMin}}), [Servidor de Suporte]({{supportInvite}}), [Doar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "music3.queueUri": "[Ver em ayana.io]({{uri}})",
     "music3.skipEmpty": "A lista está vazia. Não há nada para pular.",
-    "music3.playEmpty": "A lista está vazia, adicione algumas músicas!"
+    "music3.playEmpty": "A lista está vazia, adicione algumas músicas!",
+    "help.prune.desc.pruneUntil": "Apaga mensagens até que chegue na mensagem mencionada",
+    "pro.noPublicUpgrades": "Este servidor não permite melhorias da Ayana PRO pública. Veja `settings guild publicupgrades`."
 }
