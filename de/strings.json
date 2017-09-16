@@ -572,7 +572,7 @@
     "pro.pledgeTooLow": "Dein Patreon Beitrag ist zu niedrig, um deinen Spendentext zu aktualisieren.",
     "pro.donatorTextNotSet": "Du hast kein Spenden-Text gesetzt, den man aktualisieren kann.",
     "reminder.reminderString": "Erinnerungszeichenfolge (Sehe Beispiele)",
-    "general.invalidFlag": "Du hast die ungültige Flagge `{{flag}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut.",
+    "general.invalidFlag": "Du hast die ungültige Option `{{flag}}` eingegeben. Bitte ändere die Befehlseingabe und versuche es erneut.",
     "help.prune.desc.reactions": "Entfernt nur die Reaktionen von den Zielnachrichten anstatt diese zu löschen",
     "help.prune.desc.system": "Entfernt nur Systemnachrichten (Ignoriert -a, -e, -p, -i und -r)",
     "words.voiceChannel": "Sprachkanal",
