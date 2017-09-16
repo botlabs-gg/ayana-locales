@@ -443,7 +443,7 @@
     "help.prune.desc.bots": "Suprimir todos los mensajes creados por cualquier bot",
     "help.prune.desc.user": "Suprimir todos los mensajes por el usuario especificado",
     "help.prune.header": "[Suprimir Ayuda]",
-    "help.prune.desc.prune": "Suprimir mensajes",
+    "help.prune.desc.prune": "Suprimir mensajes por cantidad",
     "aliases.newName": "Nuevo nombre",
     "words.amount": "Cantidad",
     "words.options": "Opciones",
@@ -646,5 +646,7 @@
     "pro.description": "Ayana PRO es una instancia alojada privada de Ayana Exclusiva a los partidarios de Patreon.\nReproducción de mayor calidad, menos tiempo de inactividad, más estabilidad y soporte de nivel profesional son sólo algunos de los beneficios que obtiene.\n\nPara obtener más información o para subir a bordo, vaya a {{uri}}",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Canal izquierdo debido a la inactividad. Gracias por usar Ayana!",
     "pro.noData": "No tienes subscripciones de Ayana PRO. Para más información inicia el comando `pro`.",
-    "sar.pickGroup": "Elige un grupo al que quieras asignar o  no asignar roles."
+    "sar.pickGroup": "Elige un grupo al que quieras asignar o  no asignar roles.",
+    "help.prune.desc.pruneUntil": "Suprimir mensajes dado se alcance",
+    "words.messageID": "Mensaje ID"
 }
