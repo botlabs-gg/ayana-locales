@@ -647,5 +647,6 @@
     "music3.skipEmpty": "La file est vide. Il n'y a rien à passer.",
     "music3.playEmpty": "La file est vide, ajoutez des musiques!",
     "music3.autoLeave": ":no_entry_sign: Salon quitté dû à un manque d'activité. Supportez Ayana et accédez à des avantages géniaux avec Ayana PRO. {{uri}}",
-    "music3.autoLeaveNoPromo": ":no_entry_sign: Salon quitté dû à un manque d'activité. Merci d'avoir utilisé Ayana!"
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Salon quitté dû à un manque d'activité. Merci d'avoir utilisé Ayana!",
+    "music3.invalidIndex": "Vous avez spécifié un index non valide. Veuillez ressayer."
 }
