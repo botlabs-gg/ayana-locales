@@ -629,5 +629,6 @@
     "help.prune.desc.pruneUntil": "Filtert / verwijdert berichten totdat de gegeven bericht is bereikt",
     "pro.noData": "Je hebt geen Ayana PRO abonnementen. Voor meer informatie voer de `pro` commando uit.",
     "sar.pickGroup": "Kies een groep waarvan je rollen wilt toevoegen of verwijderen.",
-    "words.messageID": "Bericht ID"
+    "words.messageID": "Bericht ID",
+    "music3.invalidIndex": "Je hebt een ongeldige index gespecificeerd. Probeer het opnieuw a.u.b."
 }
