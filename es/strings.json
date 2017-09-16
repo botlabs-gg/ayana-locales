@@ -606,7 +606,7 @@
     "help.lick.short": "Da un gif de lamida, puedes mencionar a alguien para lamerlo",
     "help.megumin.short": "Obtén algunos gifs de Megumin del anime konosuba",
     "help.nyan.short": "Obtén una imagen de una chica gato",
-    "help.owo.short": "Te da 'OwO, ¿qué es esto?' memes ",
+    "help.owo.short": "Te da 'OwO, ¿qué es esto?' memes",
     "help.slap.short": "Da un gif de cachetada, menciona a un usuario para cachetearlo",
     "help.sleepy.short": "Da un GIF para dormir",
     "help.smile.short": "Da un carácter sonriente gif",
@@ -639,10 +639,12 @@
     "music3.repeat.specifyMode": "Por favor especifica la acción para repetir: <on|one|off>",
     "music3.skipEmpty": "La lista está vacía. No hay nada que saltar.",
     "music3.playEmpty": "¡La lista está vacía, agrega algunas canciones!",
-    "settings.guild.publicupgrades": "Permite que cualquiera en el servidor la actualice a Ayana PRO. Sólo los administradores o el usuario actualizado pueden",
+    "settings.guild.publicupgrades": "Permite que cualquiera en el servidor la actualice a Ayana PRO. Sólo los administradores o el usuario actualizado pueden.",
     "music3.autoLeave": ":no_entry_sign: Canal izquierdo debido a la inactividad. Servicio de asistencia de Ayana y obtener algunas ventajas impresionantes con Ayana PRO. {{uri}}",
-    "pro.noPublicUpgrades": "Este servidor no permite actualizaciones públicas de Ayana PRO. Ver `settings guild publicupgrades`",
-    "pro.cannotDowngrade": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo",
+    "pro.noPublicUpgrades": "Este servidor no permite actualizaciones públicas de Ayana PRO. Ver `settings guild publicupgrades`.",
+    "pro.cannotDowngrade": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo.",
     "pro.description": "Ayana PRO es una instancia alojada privada de Ayana Exclusiva a los partidarios de Patreon.\nReproducción de mayor calidad, menos tiempo de inactividad, más estabilidad y soporte de nivel profesional son sólo algunos de los beneficios que obtiene.\n\nPara obtener más información o para subir a bordo, vaya a {{uri}}",
-    "music3.autoLeaveNoPromo": ":no_entry_sign: Canal izquierdo debido a la inactividad. Gracias por usar Ayana!"
+    "music3.autoLeaveNoPromo": ":no_entry_sign: Canal izquierdo debido a la inactividad. Gracias por usar Ayana!",
+    "pro.noData": "No tienes subscripciones de Ayana PRO. Para más información inicia el comando `pro`.",
+    "sar.pickGroup": "Elige un grupo al que quieras asignar o  no asignar roles."
 }
