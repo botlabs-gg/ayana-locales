@@ -368,7 +368,7 @@
     "aliases.userargs": "ユーザーの引数",
     "aliases.newName": "新しい名前",
     "fortune.invalidCategory": "カテゴリが無効です！有効なカテゴリは `{{categories}}`です。",
-    "locale.current": "`` `css\n現在の設定\n  ギルド：{{user}}\n  ユーザー：{{user}} `` `\n{{help}}\nAyanaの翻訳をしてくれる方は{{url}}までお願いします",
+    "locale.current": "```css\n現在の設定\n  ギルド：{{user}}\n  ユーザー：{{user}}```\n{{help}}\nAyanaの翻訳をしてくれる方は{{url}}までお願いします",
     "perms.denyChannelUser": "`{{uname}}`のチャンネル `{{cname}}`の `{{node}}`を取り消しました",
     "perms.defaultChannelUser": "`{{uname}}`のチャンネル `{{cname}}`のデフォルトの `{{node}}`",
     "perms.allowChannelRole": "`{{node}}` が`{{cname}}` の `{{rname}}`に付与されました",
