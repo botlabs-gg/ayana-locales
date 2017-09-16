@@ -293,7 +293,7 @@
     "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite.",
     "pro.noPublicUpgrades": "This server does not allow public Ayana PRO upgrades. See `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Only an Administrator or the user that upgraded this server to Ayana PRO may downgrade it.",
-    "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality Playback, less downtime, more stability, and pro level support are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}",
+    "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality playback, less downtime, more stability, and pro level support are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}",
     "pro.noData": "You don't have any Ayana PRO subscriptions. For more information run the `pro` command.",
     "prune.missingPerms": "Sorry, I lack the `Manage Messages` Discord permission.",
     "prune.invalidAmount": "The amount you entered is invalid.",
