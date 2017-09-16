@@ -585,5 +585,6 @@
     "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue.",
     "help.fullHelp.header": "You noisy fuck, here is the shit I know how to do, and no I can't cook for you.\nIf you can't deal with that shit yourself you can annoy people on our [Support Pub]({{invite}}).",
     "help.fullHelp.usefulLinks": "**Shit links:**\n[Invite Me Cunt]({{invite}}), [Minimal Fucking Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [The Pay-Me Jar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
-    "words.developers": "The fuckers who made me"
+    "words.developers": "The fuckers who made me",
+    "help.music.desc.bindVoice": "Specify a table where i should go into"
 }
