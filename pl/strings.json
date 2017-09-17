@@ -444,7 +444,7 @@
     "help.aliases.group.createAlias": "Tworzy alias",
     "help.aliases.desc.createAlias": "    Wpisz komendę tak jak zwykle to robisz i dopisz '--addalias <alias>' na jej końcu.\n    Ustalmy, że chcesz to zrobić z '{{prefix}}hello' jako alias komendy '{{prefix}}say hello'.\n    Aby dodać ten alias należy wpisać '{{prefix}}say hello --addalias hello'.\n    Opcje i flagi również zostają zapisane wraz z utworzeniem aliasu (wykluczając --addalias).",
     "help.prune.header": "[Pomoc - Usuwanie wiadomości]",
-    "help.prune.desc.prune": "Usuwa wiadomości",
+    "help.prune.desc.prune": "Usuwa daną ilość wiadomości",
     "help.prune.desc.bots": "Usuwa wszystkie wiadomości napisane przez boty",
     "help.prune.desc.user": "Usuwa wiadomości określonego użytkownika",
     "help.prune.desc.filter": "Usuwa wiadomości z określoną zawartością",
@@ -649,5 +649,8 @@
     "pro.cannotDowngrade": "Tylko administrator lub użytkownik, który ulepszył ten serwer do Ayany PRO może ją zredukować.",
     "pro.description": "Ayana PRO jest prywatnie hostowaną wersją, wyłączną dla darczyńców.\nLepsza jakość odtwarzania, większa stabilność oraz profesjonalne wsparcie to tylko kilka z korzyści jakie zyskujesz.\n\nAby dowiedzieć się więcej odwiedź {{uri}}",
     "pro.noData": "Nie posiadasz subskrypcji Ayana PRO. Aby uzyskać więcej informacji wpisz `pro`.",
-    "sar.pickGroup": "Wybierz grupę, z której role chcesz sobie nadać lub odebrać."
+    "sar.pickGroup": "Wybierz grupę, z której role chcesz sobie nadać lub odebrać.",
+    "help.prune.desc.pruneUntil": "Usuwa wiadomości do momentu dotarcia do określonej wiadomości",
+    "words.messageID": "ID wiadomości",
+    "music3.invalidIndex": "Podano nieprawidłowy indeks. Spróbuj ponownie."
 }
