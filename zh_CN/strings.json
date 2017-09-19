@@ -218,5 +218,21 @@
     "help.music.desc.enqueue": "入队歌/播放列表",
     "help.music.desc.purge": "删除音乐单内容",
     "help.music.desc.delete": "删除项目从音乐单",
-    "help.music.desc.play": "播放或者排歌/播放列表"
+    "help.music.desc.play": "播放或者排歌/播放列表",
+    "help.botlist.short": "从Carbon拿到Bot名单",
+    "help.lennyd.short": "像Lenny, 我也会取消您的命令",
+    "help.modlog.short": "ModLog设备接口",
+    "help.music.desc.enqueueNext": "排队下个歌曲/播放列表",
+    "help.music.desc.skip": "跳过/删除名单上的第一项目",
+    "help.music.desc.shuffle": "随机排队",
+    "help.music.desc.repeat": "管理队列重复",
+    "help.music.desc.providers": "显示可得到提供名单",
+    "help.music.desc.join": "进入您现在的语音通道",
+    "help.music.desc.leave": "离开语音通道",
+    "help.music.desc.bindVoice": "指定我需要加入的语音通道",
+    "help.music.desc.bindText": "指定我绑定的文字频道",
+    "help.perms.short": "允许控制接口",
+    "help.perms.header": "[允许帮助]",
+    "help.music.desc.selectRegion": "强力链接到规定的地区",
+    "help.music.desc.enqueuePosition": "排队歌曲/播放列表到需要地区"
 }
