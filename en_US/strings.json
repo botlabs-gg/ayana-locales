@@ -11,6 +11,7 @@
     "general.userRoleTooLow": "The role `{{role}}` cannot be used or modified because your highest role is not above it.",
     "general.pagination": "Page {{page}}/{{pages}}",
     "general.targetHigherRole": "{{target}} possesses a higher role than you. You may not modify them.",
+    "general.targetHigherThanAyana": "{{target}} possesses a higher role than I do. I can't modify them.",
     "general.pagination.invalidPage": "Invalid Page.",
     "general.notFound": "Not found",
     "general.noDiscordPermission": "Sorry, I lack the `{{perm}}` Discord permission.",
