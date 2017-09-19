@@ -653,5 +653,6 @@
     "music3.invalidIndex": "Ha especificado un índice no válido. Por favor vuelve a intentarlo.",
     "music3.voiceOptError": "Por favor incluya un canal de voz con `--voice` opt",
     "music3.textOptError": "Por favor incluya un canal de texto con `--text` opt",
-    "music3.regionOptError": "Por favor incluya una región válida con `--region` opt"
+    "music3.regionOptError": "Por favor incluya una región válida con `--region` opt",
+    "general.discordError": "Discord tiene un problema al procesar la última solicitud. Por favor vuelve a intentarlo. ({{error}})"
 }
