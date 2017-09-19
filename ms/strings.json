@@ -81,5 +81,18 @@
     "help.donators.short": "Senarai orang yang telah membolehkan Ayana berfungsi",
     "help.f.short": "F untuk beri hormat",
     "help.flipcoin.short": "Jentik duit syiling",
-    "help.fortune.short": "Menghantar anda sebuah mesej biskut nasib baik"
+    "help.fortune.short": "Menghantar anda sebuah mesej biskut nasib baik",
+    "help.help.short": "Paparkan mesej ini",
+    "help.info.short": "Paparkan informasi bot",
+    "help.invite.short": "Ajak saya ke server anda",
+    "help.kick.short": "Buang ahli-ahli",
+    "help.lennyd.short": "Sama seperti lenny, saya juga buang arahan anda",
+    "help.linkcheck.short": "Menggunakan www.getlinkinfo.com untuk melihat dimana sebuah pautan melencongkan anda",
+    "help.locale.short": "Antara muka tetapan pilihan bahasa",
+    "help.modlog.short": "Antara muka tetapan ModLog",
+    "help.music.desc.queue": "Tayangkan aturan atau menambahkan lagu/senarai main",
+    "help.music.desc.enqueueNext": "Tambah lagu/senarai main selepasnya",
+    "help.music.desc.skip": "Tinggalkan/Buang item di posisi 1 daripada giliran",
+    "help.music.desc.selectRegion": "Paksa hubungan ke kawasan ditetapkan",
+    "help.perms.desc.channelRole": "Tetapkan atau tunjukkan kebenaran channel sebuah pangkat"
 }
