@@ -235,7 +235,7 @@
     "music.providers.listenmoe": "Escucha la emisora de radio de https://listen.moe.",
     "music.providers.clyp": "Escucha desde http://clyp.it canciones.",
     "music.providers.twitch": "Escucha transmisiones en vivo desde https://twitch.tv.",
-    "f.paid": "**{{username}}** ha pagado sus respectos.",
+    "f.paid": "**{{username}}** ha pagado sus respetos.",
     "f.paidfor": "**{{username}}** ha pagado sus respetos por **{{type}}**.",
     "f.paidfooter": "{{today}} hoy, {{all}} todo",
     "f.paidstats": "**{{today}}** respetos han sido pagados hoy. **{{all}}** todo el tiempo.",
