@@ -648,5 +648,10 @@
     "music3.playEmpty": "La file est vide, ajoutez des musiques!",
     "music3.autoLeave": ":no_entry_sign: Salon quitté dû à un manque d'activité. Supportez Ayana et accédez à des avantages géniaux avec Ayana PRO. {{uri}}",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Salon quitté dû à un manque d'activité. Merci d'avoir utilisé Ayana!",
-    "music3.invalidIndex": "Vous avez spécifié un index non valide. Veuillez ressayer."
+    "music3.invalidIndex": "Vous avez spécifié un index non valide. Veuillez ressayer.",
+    "general.targetHigherThanAyana": "{{target}} possède un rôle plus élevé que moi. Je ne peux pas les modifier.",
+    "general.discordError": "Discord a eu un problème lors du procès de la dernière requête. Veuillez réessayer. ({{error}})",
+    "music3.voiceOptError": "Veuillez inclure un salon vocal avec l'option `--voice`",
+    "music3.textOptError": "Veuillez inclure un salon de texte avec l'option `--text`",
+    "music3.regionOptError": "Veuillez inclure une région valide avec l'option `--region`"
 }
