@@ -630,5 +630,10 @@
     "pro.noData": "Je hebt geen Ayana PRO abonnementen. Voor meer informatie voer de `pro` commando uit.",
     "sar.pickGroup": "Kies een groep waarvan je rollen wilt toevoegen of verwijderen.",
     "words.messageID": "Bericht ID",
-    "music3.invalidIndex": "Je hebt een ongeldige index gespecificeerd. Probeer het opnieuw a.u.b."
+    "music3.invalidIndex": "Je hebt een ongeldige index gespecificeerd. Probeer het opnieuw a.u.b.",
+    "general.targetHigherThanAyana": "{{target}} heeft een hogere rol dan ik. Ik kan ze niet modificeren.",
+    "general.discordError": "Discord heeft een probleem ondernomen terwijl de laatste aanvraag aan het verwerken was. Probeer het opnieuw. ({{error}})",
+    "music3.voiceOptError": "Includeer a.u.b. een voice kanaal toe met `--voice` optie",
+    "music3.textOptError": "Includeer a.u.b. een tekst kanaal met `--text` optie",
+    "music3.regionOptError": "Includeer a.u.b. een beschikbare regio met `--region` optie"
 }
