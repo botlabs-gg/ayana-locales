@@ -313,6 +313,7 @@
     "prune.alreadyPruning": "Someone already ran the prune command in this channel! Please wait until it's done.",
     "prune.autodelInfo": "Autodelete is enabled. This message will be deleted after 10 seconds. Type 'c' to cancel the deletion.",
     "prune.autodelCancelled": "The automatic deletion has been aborted.",
+    "prune.untilMessageNotFound": "The message that was used in the `--until` option could not be found in this channel.",
     "random.upperBound": "Upper bound",
     "random.lowerBound": "Lower bound",
     "random.noNumber": "At least one of the given arguments is not a number.",
