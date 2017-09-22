@@ -594,7 +594,7 @@
     "music.providers.clyp": "Listen to http://clyp.it songs.",
     "music.providers.twitch": "Listen to livestreams from https://twitch.tv.",
     "music.songNameYt": "Song name (YT)",
-    "providers.twitch.channelNotStreaming": "Channel `{{chnl}}` is not currently streaming",
+    "providers.twitch.channelNotStreaming": "Channel `{{chnl}}` is currently not streaming.",
     "f.paid": "**{{username}}** has paid their respects.",
     "f.paidfor": "**{{username}}** has paid their respects for **{{type}}**.",
     "f.paidfooter": "{{today}} Today, {{all}} All",
