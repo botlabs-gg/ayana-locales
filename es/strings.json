@@ -655,5 +655,7 @@
     "music3.textOptError": "Por favor incluya un canal de texto con `--text` opción.",
     "music3.regionOptError": "Por favor incluya una región válida con `--region` opción.",
     "general.discordError": "Discord tiene un problema al procesar la última solicitud. Por favor vuelve a intentarlo. ({{error}})",
-    "prune.untilMessageNotFound": "El mensaje que se usó en la opción `--until` no se pudo encontrar en este canal."
+    "prune.untilMessageNotFound": "El mensaje que se usó en la opción `--until` no se pudo encontrar en este canal.",
+    "role.moveAfterOptError": "Por favor, especifica un rol para mover después.",
+    "providers.twitch.channelNotStreaming": "El canal `{{chnl}}` no se está transmitiendo."
 }
