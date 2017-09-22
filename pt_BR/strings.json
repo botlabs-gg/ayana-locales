@@ -644,5 +644,7 @@
     "music3.skipEmpty": "A lista está vazia. Não há nada para pular.",
     "music3.playEmpty": "A lista está vazia, adicione algumas músicas!",
     "help.prune.desc.pruneUntil": "Apaga mensagens até que chegue na mensagem mencionada",
-    "pro.noPublicUpgrades": "Este servidor não permite melhorias da Ayana PRO pública. Veja `settings guild publicupgrades`."
+    "pro.noPublicUpgrades": "Este servidor não permite melhorias da Ayana PRO pública. Veja `settings guild publicupgrades`.",
+    "general.targetHigherThanAyana": "{{target}} Possui um cargo maior do que eu. Eu não consigo modifica-lo.",
+    "general.discordError": "Discorde teve um problema enquanto processava a última solicitação. Por favor tente novamente. ({{error}})"
 }
