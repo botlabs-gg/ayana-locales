@@ -338,6 +338,7 @@
     "role.modified": "The role `{{role}}` has been modified.",
     "role.notProcessing": "No role request is processing right now.",
     "role.cancelled": "The role request has been cancelled.",
+    "role.moveAfterOptError": "Please specify a role to move after.",
     "sar.groupNotFound": "The group `{{group}}` could not be found.",
     "sar.groupInactive": "The group `{{group}}` is inactive.",
     "sar.reqRoleNotOwned": "You need to own the role `{{role}}` to use this group.",
