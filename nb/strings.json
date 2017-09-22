@@ -650,5 +650,10 @@
     "help.prune.desc.pruneUntil": "Sletter meldinger inntil gitt mengde meldinger er nådd",
     "pro.noData": "Du har ikke noen Ayana PRO-abonnement For mer informasjon bruk `pro`-kommandoen.",
     "sar.pickGroup": "Velg en gruppe du ønsker å legge til eller fjerne roller fra.",
-    "words.messageID": "Meldings-ID"
+    "words.messageID": "Meldings-ID",
+    "general.targetHigherThanAyana": "{{target}} har en høyere rolle enn meg. Jeg kan ikke gjøre endringer på dem.",
+    "prune.untilMessageNotFound": "Meldingen som var brukt i `--until`-muligheten kunne ikke bli funnet i denne kanalen.",
+    "role.moveAfterOptError": "Vennligst spesifiser en rolle å flytte etter.",
+    "music3.invalidIndex": "Du spesifiserte en ugyldig inxed. Vennligst prøv igjen.",
+    "music3.voiceOptError": "Vennligst innkluder en stemmekanal med `--voice`-muligheten."
 }
