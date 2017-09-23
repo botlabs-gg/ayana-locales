@@ -660,5 +660,7 @@
     "music3.voiceOptError": "Proszę uwzględnij kanał głosowy w opcji `--voice`.",
     "music3.textOptError": "Proszę uwzględnij kanał głosowy w opcji `--text`.",
     "music3.regionOptError": "Proszę uwzględnij prawidłowy region w opcji `--region`.",
-    "providers.twitch.channelNotStreaming": "Kanał `{{chnl}}` aktualnie nie jest obsługiwany."
+    "providers.twitch.channelNotStreaming": "Kanał `{{chnl}}` aktualnie nie jest obsługiwany.",
+    "general.mustBeNumber": "`{{obj}}` musi być liczbą.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` musi być liczbą <= {{bound}}."
 }
