@@ -638,5 +638,7 @@
     "music3.regionOptError": "Includeer a.u.b. een beschikbare regio met `--region` optie.",
     "prune.untilMessageNotFound": "Het bericht dat is gebruikt in de '--until' optie was niet gevonden in dit kanaal.",
     "role.moveAfterOptError": "Specificeer een rol om te volgen a.u.b.",
-    "providers.twitch.channelNotStreaming": "Kanaal `{{chnl}}` is op dit moment niet aan het streamen."
+    "providers.twitch.channelNotStreaming": "Kanaal `{{chnl}}` is op dit moment niet aan het streamen.",
+    "general.mustBeNumber": "`{{obj}}`moet een number zijn.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}."
 }
