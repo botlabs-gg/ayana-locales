@@ -23,6 +23,8 @@
     "general.invalidOpt": "You entered the invalid option `{{opt}}`. Please fix your command input and try again.",
     "general.invalidFlag": "You entered the invalid flag `{{flag}}`. Please fix your command input and try again.",
     "general.discordError": "Discord had a problem while processing the last request. Please try again. ({{error}})",
+    "general.mustBeNumber": "`{{obj}}` must be a number.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` must be a number <= {{bound}}.",
     "help.footer": "<> = required information, [] = optional information, | = or, do not include <> [] or | in your command input\nPlease join the support server for any questions. ({{prefix}}support for link)",
     "help.cmdForMoreInfo": "Run `{{cmd}}` for more information about this command.",
     "help.fullHelp.header": "{{emoji}} **Hello! I'm Ayana!**\n\nBelow you can see all the commands I know.\nIf you need further help with something join our [Support Server]({{invite}}).\n\n**Have a nice day!**",
