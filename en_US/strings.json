@@ -616,5 +616,5 @@
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
     "question.cancelled": "Question cancelled.",
-    "weebsh.noType": "That type could not be found on weeb.sh"
+    "weebsh.noType": "That type could not be found on weeb.sh."
 }
