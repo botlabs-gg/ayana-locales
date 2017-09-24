@@ -640,5 +640,6 @@
     "role.moveAfterOptError": "Specificeer een rol om te volgen a.u.b.",
     "providers.twitch.channelNotStreaming": "Kanaal `{{chnl}}` is op dit moment niet aan het streamen.",
     "general.mustBeNumber": "`{{obj}}`moet een number zijn.",
-    "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}."
+    "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}.",
+    "pro.disabled": "AyanaPRO is uitgeschakeld in deze instantie van Ayana."
 }
