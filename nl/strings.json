@@ -641,5 +641,7 @@
     "providers.twitch.channelNotStreaming": "Kanaal `{{chnl}}` is op dit moment niet aan het streamen.",
     "general.mustBeNumber": "`{{obj}}`moet een number zijn.",
     "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}.",
-    "pro.disabled": "AyanaPRO is uitgeschakeld in deze instantie van Ayana."
+    "pro.disabled": "AyanaPRO is uitgeschakeld in deze instantie van Ayana.",
+    "settings.guild.dmhelp": "Aan/Uitschakel hulp verstuurd via DM.",
+    "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh"
 }
