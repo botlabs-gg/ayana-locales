@@ -645,5 +645,6 @@
     "music3.voiceOptError": "Lütfen `--voice` opsiyonu ile bir ses kanalı belirtin.",
     "music3.textOptError": "Lütfen `--text` opsiyonu ile bir yazı kanalı belirtin.",
     "music3.regionOptError": "Lütfen `--region` opsiyonu ile geçerli bir bölge belirtin.",
-    "providers.twitch.channelNotStreaming": "`{{chnl}}` kanalı şu anda yayın yapmıyor."
+    "providers.twitch.channelNotStreaming": "`{{chnl}}` kanalı şu anda yayın yapmıyor.",
+    "weebsh.noType": "O tip weeb.sh'de bulunamadı."
 }
