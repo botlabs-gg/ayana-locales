@@ -643,5 +643,5 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}.",
     "pro.disabled": "AyanaPRO is uitgeschakeld in deze instantie van Ayana.",
     "settings.guild.dmhelp": "Aan/Uitschakel hulp verstuurd via DM.",
-    "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh"
+    "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh."
 }
