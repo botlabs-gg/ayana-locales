@@ -659,5 +659,9 @@
     "help.triggered.short": "\"Triggered\" memes, erwähne einen Nutzer um ihm zu zeigen, dass du \"triggered\" bist",
     "help.wag.short": "Bilder von Charakteren, die mit ihrem Schweif wedeln",
     "help.waifuinsult.short": "'your waifu is shit' memes",
-    "help.wasted.short": "\"Wasted\" memes"
+    "help.wasted.short": "\"Wasted\" memes",
+    "general.mustBeNumber": "`{{obj}}` muss eine Zahl sein.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` muss eine Zahl <= {{bound}} sein.",
+    "pro.disabled": "AyanaPRO ist in dieser Instanz von Ayana deaktiviert.",
+    "settings.guild.dmhelp": "Aktiviere/Deaktiviere Hilfe via DM."
 }
