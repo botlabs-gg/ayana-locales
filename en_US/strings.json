@@ -615,5 +615,6 @@
     "events.processingError": "Something went wrong while trying to contact the event service.",
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
-    "question.cancelled": "Question cancelled."
+    "question.cancelled": "Question cancelled.",
+    "weebsh.noType": "That type could not be found on weeb.sh"
 }
