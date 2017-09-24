@@ -657,5 +657,10 @@
     "general.discordError": "Discord tiene un problema al procesar la última solicitud. Por favor vuelve a intentarlo. ({{error}})",
     "prune.untilMessageNotFound": "El mensaje que se usó en la opción `--until` no se pudo encontrar en este canal.",
     "role.moveAfterOptError": "Por favor, especifica un rol para mover después.",
-    "providers.twitch.channelNotStreaming": "El canal `{{chnl}}` no se está transmitiendo."
+    "providers.twitch.channelNotStreaming": "El canal `{{chnl}}` no se está transmitiendo.",
+    "general.mustBeNumber": "`{{obj}}` debe ser un número.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` debe ser un número <= {{bound}}.",
+    "pro.disabled": "AyanaPRO está inhabilitado en este momento de Ayana.",
+    "settings.guild.dmhelp": "Activar/Desactivar la ayuda enviada a través de dm.",
+    "weebsh.noType": "Ese tipo no se pudo encontrar en weeb.sh."
 }
