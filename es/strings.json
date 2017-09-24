@@ -662,5 +662,5 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` debe ser un número <= {{bound}}.",
     "pro.disabled": "AyanaPRO está inhabilitado en este momento de Ayana.",
     "settings.guild.dmhelp": "Activar/Desactivar la ayuda enviada a través de dm.",
-    "weebsh.noType": "Ese tipo no se pudo encontrar en weeb.sh."
+    "weebsh.noType": "Desafortunadamente, eso no se pudo encontrar weeb.sh."
 }
