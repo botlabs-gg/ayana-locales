@@ -178,7 +178,7 @@
     "general.noDiscordPermission": "对不起，我没有`{{perm}}`的Discord角色。",
     "general.pagination.altClose": "用`x`来关闭分页。",
     "general.banInfo": "您被从一个服务器取缔。",
-    "general.invalidEmbed": "我想要发的嵌入无效。验证器说。\n```{{error}}```",
+    "general.invalidEmbed": "我想要发的嵌入无效。验证器说. 请举报问题在我们的辅助服务器 (`support` command to get the invite)。\n```{{error}}```",
     "general.pagination.altNavi": "用 `<` 和 `>` 来换网页。用`p<num>`来跳到您要的页(ex. `p10`)。",
     "general.pagination.perms": "看想我没有`manageMessages`的Discord角色。要是您给我这个角色的话，我会自动删除换页信息。",
     "general.commandNotFound": "我找不到这个命令。",
