@@ -656,5 +656,10 @@
     "music3.regionOptError": "Veuillez inclure une région valide avec l'option `--region`.",
     "prune.untilMessageNotFound": "Le message spécifié avec l'option `--until` n'a pas pu être trouvé dans ce salon.",
     "role.moveAfterOptError": "Veuillez préciser un rôle a bouger après.",
-    "providers.twitch.channelNotStreaming": "Le salon `{{chnl}}` n'est actuellement pas en train de streamer."
+    "providers.twitch.channelNotStreaming": "Le salon `{{chnl}}` n'est actuellement pas en train de streamer.",
+    "general.mustBeNumber": "`{{obj}}` doit être un nombre.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` doit être un nombre <= {{bound}}.",
+    "pro.disabled": "AyanaPRO est désactivée dans cette instance d'Ayana.",
+    "settings.guild.dmhelp": "Activer/Désactiver les messages d'aide en MP.",
+    "weebsh.noType": "Ce type n'a pas pu être trouvé sur weeb.sh."
 }
