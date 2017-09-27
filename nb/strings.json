@@ -659,5 +659,10 @@
     "music3.regionOptError": "Vennligst inkluder en gyldig region med `--region`-innstilligen.",
     "music3.textOptError": "Vennligst inkluder en gyldig tekst kanal med `--text`-innstilligen.",
     "providers.twitch.channelNotStreaming": "Kanalen `{{chnl}}` streamer ikke akkurat nå.",
-    "general.discordError": "Discord møtte på et problem under den siste forespørselen. Vennligst prøv igjen. ({{error}})"
+    "general.discordError": "Discord møtte på et problem under den siste forespørselen. Vennligst prøv igjen. ({{error}})",
+    "general.mustBeNumber": "`{{obj}}` må være et tall.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` må være et tall <= {{bound}}.",
+    "settings.guild.dmhelp": "Aktiver/Deaktiver hjelp sent via direktemeldiger.",
+    "weebsh.noType": "Denne typen kunne ikke bli funnet på weeb.sh.",
+    "pro.disabled": "Ayana PRO er deaktivert for denne versjonen av Ayana."
 }
