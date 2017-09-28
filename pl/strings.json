@@ -665,5 +665,7 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` musi być liczbą <= {{bound}}.",
     "pro.disabled": "AyanaPRO jest wyłączona w tej wersji Ayany.",
     "settings.guild.dmhelp": "Włącz/Wyłącz pomoc wysyłaną przez pw.",
-    "weebsh.noType": "Ten typ nie został odnaleziony na weeb.sh."
+    "weebsh.noType": "Ten typ nie został odnaleziony na weeb.sh.",
+    "help.sentToDM": "Okej, sprawdź prywatne wiadomości. Wysłałam Tobie tam pomoc.",
+    "help.dmError": "Przepraszam, nie byłam w stanie wysłać Tobie pomocy przez PW. Proszę, upewnij się, że mogę Tobie wysłać prywatną wiadomość."
 }
