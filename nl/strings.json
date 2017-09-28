@@ -643,5 +643,7 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` moet een nummer zijn <= {{bound}}.",
     "pro.disabled": "AyanaPRO is uitgeschakeld in deze instantie van Ayana.",
     "settings.guild.dmhelp": "Aan/Uitschakel hulp verstuurd via DM.",
-    "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh."
+    "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh.",
+    "help.sentToDM": "Oké, check je privebericten.\nIk heb de hulp daarheen gestuurd.",
+    "help.dmError": "Sorry, ik kun de hulp niet via DM versturen. Check of ik je DM's kan sturen."
 }
