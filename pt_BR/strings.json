@@ -646,5 +646,8 @@
     "help.prune.desc.pruneUntil": "Apaga mensagens até que chegue na mensagem mencionada",
     "pro.noPublicUpgrades": "Este servidor não permite melhorias da Ayana PRO pública. Veja `settings guild publicupgrades`.",
     "general.targetHigherThanAyana": "{{target}} Possui um cargo maior do que eu. Eu não consigo modifica-lo.",
-    "general.discordError": "Discorde teve um problema enquanto processava a última solicitação. Por favor tente novamente. ({{error}})"
+    "general.discordError": "Discorde teve um problema enquanto processava a última solicitação. Por favor tente novamente. ({{error}})",
+    "pro.cannotDowngrade": "Apenas um Administrador ou o usuário que deu upgrade na Ayana para PRO pode remover o upgrade.",
+    "general.mustBeNumber": "`{{obj}}` Deve ser um número.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` Deve ser um número <= {{bound}}."
 }
