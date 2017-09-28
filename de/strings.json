@@ -664,5 +664,7 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` muss eine Zahl <= {{bound}} sein.",
     "pro.disabled": "AyanaPRO ist in dieser Instanz von Ayana deaktiviert.",
     "settings.guild.dmhelp": "Aktiviere/Deaktiviere Hilfe via DM.",
-    "weebsh.noType": "Dieser Typ konnte auf weeb.sh nicht gefunden werden."
+    "weebsh.noType": "Dieser Typ konnte auf weeb.sh nicht gefunden werden.",
+    "help.sentToDM": "Okay, überprüfe deine privaten Nachrichten. Ich habe dir dort die Hilfe gesendet.",
+    "help.dmError": "Sorry, ich konnte dir die Hilfe nicht per DM senden. Bitte stelle sicher, dass ich dir private Nachrichten schicken kann."
 }
