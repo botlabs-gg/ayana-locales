@@ -661,5 +661,7 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` doit être un nombre <= {{bound}}.",
     "pro.disabled": "AyanaPRO est désactivée dans cette instance d'Ayana.",
     "settings.guild.dmhelp": "Activer/Désactiver les messages d'aide en MP.",
-    "weebsh.noType": "Ce type n'a pas pu être trouvé sur weeb.sh."
+    "weebsh.noType": "Ce type n'a pas pu être trouvé sur weeb.sh.",
+    "help.sentToDM": "Ok, regardez vos messages privés. J'ai envoyé de l'aide la-bas.",
+    "help.dmError": "Désolée, je n'ai pas pu vous envoyer un message privé. Vérifiez que je peux vous envoyer un message privé."
 }
