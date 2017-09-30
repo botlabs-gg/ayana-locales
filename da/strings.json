@@ -667,5 +667,14 @@
     "role.moveAfterOptError": "Specificer venligst en rolle at flytte efter.",
     "settings.guild.dmhelp": "Aktiver/Deaktiver hjælp sendt via direktebeskeder.",
     "providers.twitch.channelNotStreaming": "Kanalen `{{chnl}}` streamer ikke på nuværende tidspunkt.",
-    "weebsh.noType": "Denne type kunne ikke findes på weeb.sh."
+    "weebsh.noType": "Denne type kunne ikke findes på weeb.sh.",
+    "help.sentToDM": "Okay, tjek dine private beskeder. Jeg har sendt hjælpen der.",
+    "help.dmError": "Beklager, jeg kunne ikke sende hjælpen til din DM. Vær venligst sikker på at jeg kan sende direkte beskeder til dig.",
+    "prune.statusFetching": "Henter {{amount}} besked(er)... Dette kan tage et stykke tid.",
+    "prune.statusDeleting": "Sletter {{amount}} besked(er)... Dette kan tage et stykke tid.",
+    "prune.statusRemovingReactions": "Fjerner reaktioner fra {{amount}} besked(er)... Dette kan tage et stykke tid.",
+    "prune.doneProcessing": "Færdig! Viser resultaterne nedenunder.",
+    "music3.deleteEmpty": "Køen er tom, intet til at slette!",
+    "music3.alreadySkipping": "En spring over kommando er allerede i gang. Noter venligst at du kan rydde køen med `music purge`",
+    "reminder.dm": "Du bad mig om at påminde dig om dette.\n{{reminder}}"
 }
