@@ -616,6 +616,7 @@
     "reminder.created": "Okay I will be sure to remind you!",
     "reminder.delete.nomatches": "No items in your reminders matched your query.",
     "reminder.delete.done": "Reminder(s) deleted.",
+    "reminder.dm": "You asked me to remind you about this.\n{{reminder}}",
     "events.processingError": "Something went wrong while trying to contact the event service.",
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
