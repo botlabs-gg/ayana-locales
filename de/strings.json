@@ -666,5 +666,12 @@
     "settings.guild.dmhelp": "Aktiviere/Deaktiviere Hilfe via DM.",
     "weebsh.noType": "Dieser Typ konnte auf weeb.sh nicht gefunden werden.",
     "help.sentToDM": "Okay, überprüfe deine privaten Nachrichten. Ich habe dir dort die Hilfe gesendet.",
-    "help.dmError": "Sorry, ich konnte dir die Hilfe nicht per DM senden. Bitte stelle sicher, dass ich dir private Nachrichten schicken kann."
+    "help.dmError": "Sorry, ich konnte dir die Hilfe nicht per DM senden. Bitte stelle sicher, dass ich dir private Nachrichten schicken kann.",
+    "music3.deleteEmpty": "Die Warteschlange ist leer. Es gibt nichts zu entfernen!",
+    "music3.alreadySkipping": "Eine Anfrage zum überspringen wird bereits verarbeitet. Bitte merke dir, dass du die Warteschlange mit `music purge` leeren kannst.",
+    "prune.statusFetching": "Hole {{amount}} Nachricht(en)... Dies kann ein wenig dauern.",
+    "prune.statusDeleting": "Lösche {{amount}} Nachricht(en)... Dies kann ein wenig dauern.",
+    "prune.statusRemovingReactions": "Entferne Reaktionen von {{amount}} Nachricht(en)... Dies kann ein wenig dauern.",
+    "prune.doneProcessing": "Fertig! Die Ergebnisse werden unten angezeigt.",
+    "reminder.dm": "Du wolltest, dass ich dich an dies hier erinnere.\n{{reminder}}"
 }
