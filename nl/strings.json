@@ -645,5 +645,12 @@
     "settings.guild.dmhelp": "Aan/Uitschakel hulp verstuurd via DM.",
     "weebsh.noType": "Dat kon helaas niet worden gevonden op weeb.sh.",
     "help.sentToDM": "Oké, check je privebericten.\nIk heb de hulp daarheen gestuurd.",
-    "help.dmError": "Sorry, ik kun de hulp niet via DM versturen. Check of ik je DM's kan sturen."
+    "help.dmError": "Sorry, ik kun de hulp niet via DM versturen. Check of ik je DM's kan sturen.",
+    "prune.statusFetching": "{{amount}} message(s) aan het ophalen... Dit kan een tijdje duren.",
+    "prune.statusDeleting": "{{amount}} message(s) aan het verwijderen... Dit kan een tijdje duren.",
+    "prune.statusRemovingReactions": "Reacties verwijderen van {{amount}} message(s) ... Dit kan een tijdje duren.",
+    "prune.doneProcessing": "Klaar! De prune resultaten worden hieronder getoond.",
+    "music3.deleteEmpty": "Wachtrij is leeg, niks om te verwijderen!",
+    "music3.alreadySkipping": "Een skip aanvraag is al aan het verwerken. Noteer a.u.b. dat je de wachtrij kan verwijderen met `music purge`",
+    "reminder.dm": "Je hebt mij gevraagd om je hieraan te herinneren.\n{{reminder}}"
 }
