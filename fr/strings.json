@@ -663,5 +663,12 @@
     "settings.guild.dmhelp": "Activer/Désactiver les messages d'aide en MP.",
     "weebsh.noType": "Ce type n'a pas pu être trouvé sur weeb.sh.",
     "help.sentToDM": "Ok, regardez vos messages privés. J'ai envoyé de l'aide la-bas.",
-    "help.dmError": "Désolée, je n'ai pas pu vous envoyer un message privé. Vérifiez que je peux vous envoyer un message privé."
+    "help.dmError": "Désolée, je n'ai pas pu vous envoyer un message privé. Vérifiez que je peux vous envoyer un message privé.",
+    "prune.statusFetching": "Recherche de {{amount}} message(s)... Cela peut prendre un peu de temps.",
+    "prune.statusDeleting": "Suppression de {{amount}} message(s)... Cela peut prendre un peu de temps.",
+    "prune.statusRemovingReactions": "Suppression des réactions de {{amount}} message(s)... Cela peut prendre un peu de temps.",
+    "reminder.dm": "Vous m'avez demandé de vous rappeler ceci.\n{{reminder}}",
+    "music3.alreadySkipping": "Une requête de passage est déjà en traitement. Sachez que vous pouvez vider la queue avec `music purge`.",
+    "music3.deleteEmpty": "Le file est vide, rien à supprimer!",
+    "prune.doneProcessing": "Fini! Affichage du résultat de la délétion ci-dessous."
 }
