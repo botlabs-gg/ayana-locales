@@ -588,7 +588,7 @@
     "music3.skipEmpty": "Queue is empty. There is nothing to skip.",
     "music3.playEmpty": "Queue is empty, add some songs!",
     "music3.deleteEmpty": "Queue is empty, nothing to delete!",
-    "music3.alreadySkipping": "A skip request is already being processed. Please note you can clear the queue with `music purge`",
+    "music3.alreadySkipping": "A skip request is already being processed. Please note you can clear the queue with `music purge`.",
     "music3.autoLeave": ":no_entry_sign: Left channel due to inactivity. Help support Ayana and get some awesome perks with Ayana PRO. {{uri}}",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Left channel due to inactivity. Thanks for using Ayana!",
     "music3.invalidIndex": "You specified an invalid index. Please try again.",
