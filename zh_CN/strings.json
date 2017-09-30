@@ -285,5 +285,6 @@
     "help.role.desc.name": "重新改角色名",
     "help.role.desc.color": "改变角色颜色",
     "help.roleinfo.short": "角色信息",
-    "help.rolemembers.short": "显示用户角色"
+    "help.rolemembers.short": "显示用户角色",
+    "help.sentToDM": "好,查看您的信息。我给您发了帮助信息。"
 }
