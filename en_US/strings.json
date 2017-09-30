@@ -27,6 +27,8 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` must be a number <= {{bound}}.",
     "help.footer": "<> = required information, [] = optional information, | = or, do not include <> [] or | in your command input\nPlease join the support server for any questions. ({{prefix}}support for link)",
     "help.cmdForMoreInfo": "Run `{{cmd}}` for more information about this command.",
+    "help.sentToDM": "Okay, check your private messages. I've sent the help there.",
+    "help.dmError": "Sorry, I couldn't send the help to your DM. Please make sure that I'm able to send you a direct message.",
     "help.fullHelp.header": "{{emoji}} **Hello! I'm Ayana!**\n\nBelow you can see all the commands I know.\nIf you need further help with something join our [Support Server]({{invite}}).\n\n**Have a nice day!**",
     "help.fullHelp.info": "**Use `{{catHelp}}` for more information about a category.\nUse `{{cmdHelp}}` for more information about a command.**\n\n**Examples:**\n`{{prefix}}help ayana` for an overview of the AYANA category.\n`{{prefix}}help music` for detailed help for the music command.",
     "help.fullHelp.usefulLinks": "**Useful links:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",

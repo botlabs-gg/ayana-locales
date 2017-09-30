@@ -646,5 +646,7 @@
     "music3.textOptError": "Lütfen `--text` opsiyonu ile bir yazı kanalı belirtin.",
     "music3.regionOptError": "Lütfen `--region` opsiyonu ile geçerli bir bölge belirtin.",
     "providers.twitch.channelNotStreaming": "`{{chnl}}` kanalı şu anda yayın yapmıyor.",
-    "weebsh.noType": "O tip weeb.sh'de bulunamadı."
+    "weebsh.noType": "O tip weeb.sh'de bulunamadı.",
+    "help.sentToDM": "Tamam, özel mesajlarına bak. Yardımı oraya gönderdim.",
+    "help.dmError": "Kusura bakma, ama yardımı özel mesaja atamadım. Lütfen sana özel mesaj gönderebilmeme izin ver."
 }
