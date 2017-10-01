@@ -673,5 +673,9 @@
     "prune.statusDeleting": "Lösche {{amount}} Nachricht(en)... Dies kann ein wenig dauern.",
     "prune.statusRemovingReactions": "Entferne Reaktionen von {{amount}} Nachricht(en)... Dies kann ein wenig dauern.",
     "prune.doneProcessing": "Fertig! Die Ergebnisse werden unten angezeigt.",
-    "reminder.dm": "Du wolltest, dass ich dich an dies hier erinnere.\n{{reminder}}"
+    "reminder.dm": "Du wolltest, dass ich dich an dies hier erinnere.\n{{reminder}}",
+    "general.andMore": "... und {{amnt}} mehr",
+    "prune.totalMsgsScanned": "Insgesamt überprüfte Nachrichten",
+    "prune.totalMsgsReactionsRemoved": "Insgesamte Nachrichten, von denen Reaktionen entfernt wurden",
+    "prune.removedByUser": "Insgesamte Nachrichten mit entfernten Reaktionen nach Nutzer"
 }
