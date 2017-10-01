@@ -674,5 +674,6 @@
     "reminder.dm": "Tú me pediste que te lo recordara.\n{{reminder}}",
     "general.andMore": "... y {{amnt}} más",
     "prune.totalMsgsScanned": "Total de mensajes escaneados",
-    "prune.removedByUser": "Mensajes con reacciones removidas por el usuario"
+    "prune.removedByUser": "Mensajes con reacciones removidas por el usuario",
+    "prune.totalMsgsReactionsRemoved": "Total de mensajes donde las reacciones fueron removidas"
 }
