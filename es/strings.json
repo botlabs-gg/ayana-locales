@@ -664,5 +664,12 @@
     "settings.guild.dmhelp": "Activar/Desactivar la ayuda enviada a través de dm.",
     "weebsh.noType": "Desafortunadamente, eso no se pudo encontrar weeb.sh.",
     "help.sentToDM": "Vale, revisa tus mensajes privados. Te he enviado instrucciones de ayuda.",
-    "help.dmError": "Lo siento, no pude enviar las instrucciones de ayuda desde MD. Asegúrate de que puedo enviarte un mensaje directo."
+    "help.dmError": "Lo siento, no pude enviar las instrucciones de ayuda desde MD. Asegúrate de que puedo enviarte un mensaje directo.",
+    "prune.statusFetching": "Recuperar {{amount}} mensaje(s) ... Esto puede tardar un rato.",
+    "prune.statusDeleting": "Eliminar {{amount}} mensajes(s)... Esto puede tardar un rato.",
+    "prune.statusRemovingReactions": "Removiendo reacciones de {{amount}} mensajes(s)... Esto puede tardar un rato.",
+    "prune.doneProcessing": "¡Hecho! Mostrando los resultados de limpieza a continuación.",
+    "music3.deleteEmpty": "¡La cola está vacía, no hay nada que borrar!",
+    "music3.alreadySkipping": "Ya se está procesando una solicitud para omitir. Tenga en cuenta que puede borrar la cola con `music purge`.",
+    "reminder.dm": "Tú me pediste que te lo recordara.\n{{reminder}}"
 }
