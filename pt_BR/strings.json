@@ -651,5 +651,11 @@
     "general.mustBeNumber": "`{{obj}}` Deve ser um número.",
     "general.mustBeNumberSmallerEq": "`{{obj}}` Deve ser um número <= {{bound}}.",
     "help.sentToDM": "Okay, cheque suas mensagens prvadas, Eu te enviei instruções de ajuda lá.",
-    "help.dmError": "Desculpe, eu não pude enviar as instruções para o seu DM. Por favor tenha certeza que eu posso te enviar mensagens diretas."
+    "help.dmError": "Desculpe, eu não pude enviar as instruções para o seu DM. Por favor tenha certeza que eu posso te enviar mensagens diretas.",
+    "general.andMore": "... e {{amnt}} mais",
+    "pro.noData": "Tu não tens nenhuma inscrição para Ayana PRO. Para mais informacões use o comando `pro`.",
+    "pro.disabled": "AyanaPRO está desabilitada nesta instância de Ayana.",
+    "prune.untilMessageNotFound": "A mensagem que foi usada na opção `--until` não pode ser encontrada neste canal.",
+    "prune.statusFetching": "Recuperar {{amount}}  mensagem(s)... Isso pode levar um tempo.",
+    "prune.statusDeleting": "Eliminar {{amount}}  mensagem(s)... Isso pode levar um tempo."
 }
