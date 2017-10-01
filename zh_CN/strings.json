@@ -286,5 +286,6 @@
     "help.role.desc.color": "改变角色颜色",
     "help.roleinfo.short": "角色信息",
     "help.rolemembers.short": "显示用户角色",
-    "help.sentToDM": "好,查看您的信息。我给您发了帮助信息。"
+    "help.sentToDM": "好,查看您的信息。我给您发了帮助信息。",
+    "help.dmError": "对不起,我不能给您发信息。请查您的设置再让我给您发信息。"
 }
