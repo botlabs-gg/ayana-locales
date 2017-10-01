@@ -671,12 +671,12 @@
     "general.andMore": "... i {{amnt}} więcej",
     "prune.statusFetching": "Przygotowywanie {{amount}} wiadomość/ci...\nTo może zająć chwilę.",
     "prune.statusDeleting": "Usuwanie {{amount}} wiadomości... Może to zająć chwilę.",
-    "prune.statusRemovingReactions": "Usuwanie reakcji z {{amount}} wiadomości",
+    "prune.statusRemovingReactions": "Usuwanie reakcji z {{amount}} wiadomości... Może to zająć chwilę.",
     "prune.doneProcessing": "Zrobione! Wyniki czyszczenia znajdziesz poniżej.",
     "prune.totalMsgsScanned": "Przeskanowanych wiadomości",
     "prune.totalMsgsReactionsRemoved": "Wiadomości, z których reakcje zostały usunięte,",
     "prune.removedByUser": "Wiadomości, z reakcjami usuniętymi przez użytkownika",
     "music3.deleteEmpty": "Kolejka jest pusta, nie ma niczego do usunięcia!",
     "music3.alreadySkipping": "Pominięcie utworu zostało już zażądane. Zauważ, że możesz wyczyścić kolejkę wpisując `music purge`.",
-    "reminder.dm": "Zostałam poproszona,  aby przypomnieć Tobie o tym: {{reminder}}"
+    "reminder.dm": "Zostałam poproszona,  aby przypomnieć Tobie o tym. {{reminder}}"
 }
