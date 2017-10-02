@@ -394,7 +394,7 @@
     "general.pagination.perms": "Det ser ut som om jeg ikke har Discord-tillatelsen `manageMessages`. Dette vil automatisk slette sideskift-beskjedene, om denne tillatelsen er blitt gitt.",
     "general.banInfo": "Du har blitt bannlyst fra en server du var medlem i.",
     "help.modlog.short": "Innstillinger for moderasjonslogg",
-    "help.pat.short": "Gir deg en klappende bilde/gif, hvor du kan nevne en person for å klappe dem",
+    "help.pat.short": "Stryke-bilde, nevn en bruker for å stryke dem",
     "help.reminder.short": "La meg påminne deg",
     "aliases.noAliasDefined": "Du må definere et alias: `-addalias <alias>`.",
     "aliases.alreadyAyanaCmd": "Aliaset du forsøkte å sette er allerede brukt av Ayana.",
@@ -664,5 +664,17 @@
     "general.mustBeNumberSmallerEq": "`{{obj}}` må være et tall <= {{bound}}.",
     "settings.guild.dmhelp": "Aktiver/Deaktiver hjelp sent via direktemeldiger.",
     "weebsh.noType": "Denne typen kunne ikke bli funnet på weeb.sh.",
-    "pro.disabled": "Ayana PRO er deaktivert for denne versjonen av Ayana."
+    "pro.disabled": "Ayana PRO er deaktivert for denne versjonen av Ayana.",
+    "help.sentToDM": "Okey, sjekk dine privat-meldinger. Jeg har sendt deg hjelp der.",
+    "help.dmError": "Beklager men jeg kunne ikke sende hjelpen din over DM. Vennligst sjekk at jeg kan sende meldinger direkte til deg.",
+    "prune.statusFetching": "Henter {{amount}} melding(er)... Dette kan ta litt tid.",
+    "prune.statusDeleting": "Sletter {{amount}} melding(er)... Dette kan ta litt tid.",
+    "prune.statusRemovingReactions": "Fjerner reaksjoner fra {{amount}} melding(er)... Dette kan ta litt tid.",
+    "prune.doneProcessing": "Ferdig! Viser resultatene under.",
+    "prune.totalMsgsScanned": "Totalt antall meldinger gjennomgått",
+    "prune.totalMsgsReactionsRemoved": "Totalt antall meldinger hvor reaksjoner ble fjernet",
+    "music3.deleteEmpty": "Køen er tom, ingenting å slette!",
+    "reminder.dm": "Du bad meg om å minne deg på dette.\n{{reminder}}",
+    "general.andMore": "... og {{amnt}} flere",
+    "prune.removedByUser": "Meldinger med fjernede reaksjoner fra bruker"
 }
