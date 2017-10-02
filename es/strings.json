@@ -671,5 +671,9 @@
     "prune.doneProcessing": "¡Hecho! Mostrando los resultados de limpieza a continuación.",
     "music3.deleteEmpty": "¡La cola está vacía, no hay nada que borrar!",
     "music3.alreadySkipping": "Ya se está procesando una solicitud para omitir. Tenga en cuenta que puede borrar la cola con `music purge`.",
-    "reminder.dm": "Tú me pediste que te lo recordara.\n{{reminder}}"
+    "reminder.dm": "Tú me pediste que te lo recordara.\n{{reminder}}",
+    "general.andMore": "... y {{amnt}} más",
+    "prune.totalMsgsScanned": "Total de mensajes escaneados",
+    "prune.removedByUser": "Mensajes con reacciones removidas por el usuario",
+    "prune.totalMsgsReactionsRemoved": "Total de mensajes donde las reacciones fueron removidas"
 }

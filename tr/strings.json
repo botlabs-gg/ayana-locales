@@ -648,5 +648,16 @@
     "providers.twitch.channelNotStreaming": "`{{chnl}}` kanalı şu anda yayın yapmıyor.",
     "weebsh.noType": "O tip weeb.sh'de bulunamadı.",
     "help.sentToDM": "Tamam, özel mesajlarına bak. Yardımı oraya gönderdim.",
-    "help.dmError": "Kusura bakma, ama yardımı özel mesaja atamadım. Lütfen sana özel mesaj gönderebilmeme izin ver."
+    "help.dmError": "Kusura bakma, ama yardımı özel mesaja atamadım. Lütfen sana özel mesaj gönderebilmeme izin ver.",
+    "general.andMore": "... ve {{amnt}} kadar daha",
+    "prune.statusFetching": "{{amount}} kadar mesaj okunuyor... Biraz uzun sürebilir.",
+    "prune.statusDeleting": "{{amount}} kadar mesaj siliniyor... Biraz uzun sürebilir.",
+    "prune.statusRemovingReactions": "{{amount}} kadar mesajdan reaksiyonlar kaldırılıyor... Biraz uzun sürebilir.",
+    "prune.doneProcessing": "Bitti! Silme sonuçları aşağıda gösteriliyor.",
+    "prune.totalMsgsScanned": "Toplam taranılan mesajlar",
+    "prune.totalMsgsReactionsRemoved": "Reaksiyonların kaldırıldığı toplam mesaj sayısı",
+    "prune.removedByUser": "Reaksiyonların kaldırıldığı kullanıcı mesaj sayısı",
+    "music3.deleteEmpty": "Sıra boş, silinecek bir şey yok!",
+    "music3.alreadySkipping": "Bir geçme isteği halen işleniyor. Lütfen biliniz ki; tüm listeyi silmek için `music purge` kullanabilirsiniz.",
+    "reminder.dm": "Bana sana bunu hatırlatmamı söylemiştin.\n{{reminder}}"
 }
