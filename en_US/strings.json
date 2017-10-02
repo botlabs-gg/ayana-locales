@@ -629,5 +629,7 @@
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
     "question.cancelled": "Question cancelled.",
-    "weebsh.noType": "That type could not be found on weeb.sh."
+    "weebsh.noType": "That type could not be found on weeb.sh.",
+    "weebsh.fail": "Failed to get the `{{type}}` image from weeb.sh :< You should try again.",
+    "weebsh.noTypes": "The weeb.sh types are not loaded by this point. Please wait a little bit."
 }
