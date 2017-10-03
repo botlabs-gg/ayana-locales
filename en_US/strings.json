@@ -310,7 +310,7 @@
     "prune.userHelp": "User option requires an input to search for.",
     "prune.tooManyOptions": "You used more than one of the following options, which is invalid `--all, --user, --bots`",
     "prune.deleteQuestion": "All messages matching your request will get deleted FOREVER. Do you want to continue? (y/n)",
-    "prune.fetchFail": "Failed to fetch messages.",
+    "prune.fetchFail": "Failed to fetch messages. Please try again.",
     "prune.filterHelp": "Filter requires an input to search for.",
     "prune.results": "Prune results",
     "prune.totalMsgsDeleted": "Total messages deleted",
