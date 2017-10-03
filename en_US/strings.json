@@ -19,6 +19,7 @@
     "general.pagination.altClose": "Type `x` to close the pagination.",
     "general.pagination.perms": "It doesn't look like I have the `manageMessages` discord permission. I will auto delete page switching messages if this perm is given.",
     "general.banInfo": "You have been banned from a server you were on.",
+    "general.kickInfo": "You have been kicked from a server you were on.",
     "general.commandNotFound": "This command could not be found.",
     "general.invalidOpt": "You entered the invalid option `{{opt}}`. Please fix your command input and try again.",
     "general.invalidFlag": "You entered the invalid flag `{{flag}}`. Please fix your command input and try again.",
