@@ -692,5 +692,9 @@
     "pro.keyAlreadyUsed": "La clave que intentase activar ya fue utilizada por alguien más.",
     "pro.noTries": "No tienes más intentos de activación por hoy. Por favor espera hasta mañana.",
     "pro.keyReloadError": "Tu clave fue activada pero algo salió mal durante la recarga. Puede demorar un poco más en activarse tu suscripción.",
-    "pro.redeemError": "Algo salió mal mientras se intentaba activar tu clave."
+    "pro.redeemError": "Algo salió mal mientras se intentaba activar tu clave.",
+    "pro.redeemSuccess": "¡Éxito! Tu código ha sido reclamado. Puedes comprobar tus suscripciones con el comando `pro status` y mejorar tu servidor con el comando `pro upgrade`.",
+    "pro.guildCheck": "Este servidor ha sido mejorado por `{{by}}` en la siguiente fecha: `{{on}}` ({{ago}} ago).",
+    "words.key": "Código",
+    "words.guildID": "ID del servidor"
 }
