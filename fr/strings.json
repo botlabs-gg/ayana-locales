@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Seuls `--channel [salon]`, `--user [utilisateur]`, `--role [rôle]` sont des commandes valides. Aucun salon, utilisateur ou rôle ne correspondent aux valeurs données.",
     "prefix.text": "Le préfixe sur ce serveur est `{{prefix}}`.",
     "prune.missingPerms": "Désolée, je n'ai pas la permission `Gérer les messages`.",
-    "prune.fetchFail": "Erreur lors de la recherche des messages.",
+    "prune.fetchFail": "Erreur lors de la recherche des messages. Veuillez ressayer.",
     "prune.filterHelp": "Vous devez ajouter un mot-clé pour filtrer.",
     "prune.userIDConf": "Il semblerait que `{{input}}` est l'ID d'un utilisateur. Continuer? [y/n]?\n(y = oui / n = non)",
     "remind.error": "Il faut que je vous rappelle quelque chose.",
@@ -674,5 +674,8 @@
     "general.andMore": "... et {{amnt}} de plus",
     "prune.totalMsgsScanned": "Messages totaux scannés",
     "prune.totalMsgsReactionsRemoved": "Nombre de messages dont les réactions ont été supprimées",
-    "prune.removedByUser": "Messages avec réactions supprimées par utilisateur"
+    "prune.removedByUser": "Messages avec réactions supprimées par utilisateur",
+    "general.kickInfo": "Vous avez été éjecté du serveur sur lequel vous étiez.",
+    "weebsh.fail": "Erreur de récupération de l'image `{{type}}` sur weeb.sh :< Vous devriez ressayer.",
+    "weebsh.noTypes": "Les types weeb.sh ne sont pas chargés actuellement. Merci de patienter."
 }
