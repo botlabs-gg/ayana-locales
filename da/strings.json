@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Kun `--channel [kanal], --user [bruger], --role [rolle]` er gyldige valg, ingen argumenter på kanal og bruger antager nuværende værdier.",
     "prefix.text": "Prefix på denne server er `{{prefix}}`.",
     "prune.missingPerms": "Beklager, jeg mangler tilladelsen `Manage Messages` fra Discord.",
-    "prune.fetchFail": "Mislykkedes i at hente beskeder.",
+    "prune.fetchFail": "Mislykkedes i at hente beskeder. Prøv venligst igen.",
     "prune.filterHelp": "Filter kræver noget at søge efter.",
     "prune.userIDConf": "Ser ud til, at `{{input}}` er et bruger-id. Fortsæt [y/n]?",
     "remind.error": "Jeg skal bruge noget at minde dig om.",
@@ -675,6 +675,13 @@
     "prune.statusRemovingReactions": "Fjerner reaktioner fra {{amount}} besked(er)... Dette kan tage et stykke tid.",
     "prune.doneProcessing": "Færdig! Viser resultaterne nedenunder.",
     "music3.deleteEmpty": "Køen er tom, intet til at slette!",
-    "music3.alreadySkipping": "En spring over kommando er allerede i gang. Noter venligst at du kan rydde køen med `music purge`",
-    "reminder.dm": "Du bad mig om at påminde dig om dette.\n{{reminder}}"
+    "music3.alreadySkipping": "En spring over kommando er allerede i gang. Noter venligst at du kan rydde køen med `music purge`.",
+    "reminder.dm": "Du bad mig om at påminde dig om dette.\n{{reminder}}",
+    "general.kickInfo": "Du er blevet smidt ud af en server som du var på.",
+    "general.andMore": "... og {{amnt}} flere",
+    "prune.totalMsgsScanned": "Total antal af beskeder gennemgået",
+    "prune.totalMsgsReactionsRemoved": "Total antal beskeder hvor reaktioner blev fjernet fra",
+    "prune.removedByUser": "Beskeder med fjernede reaktioner af bruger",
+    "weebsh.fail": "Mislykkedes i at hente `{{type}}` billede fra weeb.sh :< Du burde prøve igen.",
+    "weebsh.noTypes": "Kategorierne fra weeb.sh er ikke indlæst endnu. Vent venligst en lille smule."
 }
