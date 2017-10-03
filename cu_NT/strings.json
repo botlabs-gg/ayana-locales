@@ -676,5 +676,8 @@
     "music3.invalidIndex": "Invalid index. Read the docs and try again.",
     "music3.voiceOptError": "Include voice table with `--voice` you dumbass.",
     "music3.textOptError": "Include text table with `--text` you dumbass.",
-    "music3.regionOptError": "Include region with `--region` you dumbass."
+    "music3.regionOptError": "Include region with `--region` you dumbass.",
+    "general.kickInfo": "I wonder why they didn't simply ban you, dumbshit. Well... better be less of a cunt next time so they don't ban you.",
+    "weebsh.fail": "Weeb.sh is shit and not responding with images properly. Your shitty `{{type}}` image got lost somewhere.",
+    "weebsh.noTypes": "GIMME SOME MORE TIME!!! I still need to get stuff ready before you can use this shitty command."
 }
