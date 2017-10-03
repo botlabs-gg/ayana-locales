@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Nur`--channel [Channel], --user [Nutzer], --role [Rolle]` sind gültige Argumente, keine Angaben bei Channel und User benutzen den verwendeten Channel/User.",
     "prefix.text": "Das Präfix auf diesem Server ist `{{prefix}}`.",
     "prune.missingPerms": "Entschuldige, mir fehlt die `Manage Messages` Discord Berechtigung.",
-    "prune.fetchFail": "Ich konnte die Nachrichten nicht abrufen.",
+    "prune.fetchFail": "Ich konnte die Nachrichten nicht abrufen. BItte versuche es erneut.",
     "prune.filterHelp": "Der Filter benötigt eine Eingabe nach der gesucht werden soll.",
     "prune.userIDConf": "Es sieht so aus als sei {{input}} eine Userid. Fortfahren [y/n]?",
     "remind.error": "Du musst mir schon sagen an was ich dich erinnern soll.",
@@ -677,5 +677,8 @@
     "general.andMore": "... und {{amnt}} mehr",
     "prune.totalMsgsScanned": "Insgesamt überprüfte Nachrichten",
     "prune.totalMsgsReactionsRemoved": "Insgesamte Nachrichten, von denen Reaktionen entfernt wurden",
-    "prune.removedByUser": "Insgesamte Nachrichten mit entfernten Reaktionen nach Nutzer"
+    "prune.removedByUser": "Insgesamte Nachrichten mit entfernten Reaktionen nach Nutzer",
+    "general.kickInfo": "Du wurdest von einem Server gekickt auf dem du warst.",
+    "weebsh.fail": "Ich konnte das `{{type}}` Bild nicht von weeb.sh bekommen :< Du solltest es erneut versuchen.",
+    "weebsh.noTypes": "Die Typen von weeb.sh sind zu diesem Zeitpunkt noch nicht geladen. Bitte warte ein bisschen."
 }
