@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Tylko `--channel [kanał], --user [użytkownik], --role [rola]` są właściwymi opcjami, brak argumentów wybierze obecne wartości.",
     "prefix.text": "Prefiks na tym serwerze to `{{prefix}}`.",
     "prune.missingPerms": "Przepraszam, nie posiadam uprawnień Discord `Zarządzanie wiadomościami`.",
-    "prune.fetchFail": "Nie udało się znaleźć pasujących wiadomości.",
+    "prune.fetchFail": "Nie udało się znaleźć pasujących wiadomości. Proszę spróbuj ponownie.",
     "prune.filterHelp": "Filtr wymaga danych wejściowych do wyszukania.",
     "prune.userIDConf": "Wygląda na to, że `{{input}}` jest identyfikatorem użytkownika. Kontynuować [y/n]?",
     "remind.error": "Potrzebuję czegoś co mogłabym Tobie przypomnieć.",
@@ -678,5 +678,8 @@
     "prune.removedByUser": "Wiadomości, z reakcjami usuniętymi przez użytkownika",
     "music3.deleteEmpty": "Kolejka jest pusta, nie ma niczego do usunięcia!",
     "music3.alreadySkipping": "Pominięcie utworu zostało już zażądane. Zauważ, że możesz wyczyścić kolejkę wpisując `music purge`.",
-    "reminder.dm": "Zostałam poproszona,  aby przypomnieć Tobie o tym. {{reminder}}"
+    "reminder.dm": "Zostałam poproszona,  aby przypomnieć Tobie o tym. {{reminder}}",
+    "general.kickInfo": "Zostałeś wyrzucony z serwera.",
+    "weebsh.fail": "Nie znaleziono obrazków `{{type}}` z weeb.sh :< Powinieneś spróbować ponownie.",
+    "weebsh.noTypes": "Kategorie weeb.sh nie zostały wczytane. Proszę czekać."
 }
