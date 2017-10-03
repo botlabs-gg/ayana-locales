@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Alleen  `--channel [Kanaal], --user [Gebruiker], --role [Rol]` zijn mogelijke opties, geen argumenten op kanaal en de gebruiker ervan uitgaan huidige waarden.",
     "prefix.text": "Voorvoegsel voor deze server is `{{prefix}}`.",
     "prune.missingPerms": "Sorry, ik heb geen `Manage Messages` Discord rechten.",
-    "prune.fetchFail": "Ophalen van berichten mislukt.",
+    "prune.fetchFail": "Ophalen van berichten mislukt. Probeer het later opnieuw.",
     "prune.filterHelp": "Filter heeft een invoer nodig om naar te zoeken.",
     "prune.userIDConf": "Het ziet eruit dat `{{input}}`een gebruikers id is. Verdergaan [y/n]?",
     "remind.error": "Ik heb iets nodig om je daar aan te herinneren.",
@@ -651,6 +651,13 @@
     "prune.statusRemovingReactions": "Reacties verwijderen van {{amount}} message(s) ... Dit kan een tijdje duren.",
     "prune.doneProcessing": "Klaar! De prune resultaten worden hieronder getoond.",
     "music3.deleteEmpty": "Wachtrij is leeg, niks om te verwijderen!",
-    "music3.alreadySkipping": "Een skip aanvraag is al aan het verwerken. Noteer a.u.b. dat je de wachtrij kan verwijderen met `music purge`",
-    "reminder.dm": "Je hebt mij gevraagd om je hieraan te herinneren.\n{{reminder}}"
+    "music3.alreadySkipping": "Een skip aanvraag is al aan het verwerken. Noteer a.u.b. dat je de wachtrij kan verwijderen met `music purge`.",
+    "reminder.dm": "Je hebt mij gevraagd om je hieraan te herinneren.\n{{reminder}}",
+    "general.kickInfo": "Je bent gekickt van een server waar je lid van was.",
+    "general.andMore": "... en nog {{amnt}} meer",
+    "prune.totalMsgsScanned": "Aantal berichten gescant",
+    "prune.totalMsgsReactionsRemoved": "Aantal berichten waas reacties vanaf gehaalt zijn",
+    "prune.removedByUser": "Berichten met verwijderde reacties per gebruiker",
+    "weebsh.fail": "Gefaalt of een `{{type}}` afbeelding te vinden op weeb,sh :< Probeer het later opnieuw.",
+    "weebsh.noTypes": "De weeb.sh types zijn niet geladen op dit moment. Probeer het later opnieuw."
 }
