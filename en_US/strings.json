@@ -19,6 +19,7 @@
     "general.pagination.altClose": "Type `x` to close the pagination.",
     "general.pagination.perms": "It doesn't look like I have the `manageMessages` discord permission. I will auto delete page switching messages if this perm is given.",
     "general.banInfo": "You have been banned from a server you were on.",
+    "general.kickInfo": "You have been kicked from a server you were on.",
     "general.commandNotFound": "This command could not be found.",
     "general.invalidOpt": "You entered the invalid option `{{opt}}`. Please fix your command input and try again.",
     "general.invalidFlag": "You entered the invalid flag `{{flag}}`. Please fix your command input and try again.",
@@ -309,7 +310,7 @@
     "prune.userHelp": "User option requires an input to search for.",
     "prune.tooManyOptions": "You used more than one of the following options, which is invalid `--all, --user, --bots`",
     "prune.deleteQuestion": "All messages matching your request will get deleted FOREVER. Do you want to continue? (y/n)",
-    "prune.fetchFail": "Failed to fetch messages.",
+    "prune.fetchFail": "Failed to fetch messages. Please try again.",
     "prune.filterHelp": "Filter requires an input to search for.",
     "prune.results": "Prune results",
     "prune.totalMsgsDeleted": "Total messages deleted",
@@ -629,5 +630,7 @@
     "donators.none": "Unable to find any donators.",
     "question.timeout": "Question timed out.",
     "question.cancelled": "Question cancelled.",
-    "weebsh.noType": "That type could not be found on weeb.sh."
+    "weebsh.noType": "That type could not be found on weeb.sh.",
+    "weebsh.fail": "Failed to get the `{{type}}` image from weeb.sh :< You should try again.",
+    "weebsh.noTypes": "The weeb.sh types are not loaded by this point. Please wait a little bit."
 }
