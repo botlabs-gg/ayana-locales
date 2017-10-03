@@ -137,7 +137,7 @@
     "prune.tooManyOptions": "Seçeneklerden en az ikisini kullandınız `--all, --user, --bots`",
     "prune.userHelp": "Geçerli bir kullanıcı girin.",
     "prune.deleteQuestion": "Eşleşen tüm mesajlar SONSUZA KADAR silinecek. Devam etmek istiyor musunuz? (y/n)",
-    "prune.fetchFail": "Mesajlar alınamadı.",
+    "prune.fetchFail": "Mesajlar alınamadı. Lütfen tekrar deneyiniz.",
     "prune.filterHelp": "Geçerli bir filtre girin.",
     "prune.results": "Temizleme sonuçları",
     "prune.oldMsgsDelted": "Eski mesajlar silindi",
@@ -659,5 +659,8 @@
     "prune.removedByUser": "Reaksiyonların kaldırıldığı kullanıcı mesaj sayısı",
     "music3.deleteEmpty": "Sıra boş, silinecek bir şey yok!",
     "music3.alreadySkipping": "Bir geçme isteği halen işleniyor. Lütfen biliniz ki; tüm listeyi silmek için `music purge` kullanabilirsiniz.",
-    "reminder.dm": "Bana sana bunu hatırlatmamı söylemiştin.\n{{reminder}}"
+    "reminder.dm": "Bana sana bunu hatırlatmamı söylemiştin.\n{{reminder}}",
+    "general.kickInfo": "Bulunduğun serverdan atıldın.",
+    "weebsh.fail": "weeb.sh'den `{{type}}` tipi görsel çekmede başarısızlık :< Tekrar denemelisin.",
+    "weebsh.noTypes": "weeb.sh tipleri halen yüklenmedi. Lütfen biraz daha bekleyiniz."
 }
