@@ -33,7 +33,7 @@
     "perms.invalidOpt": "Nada más `--channel [channel], --user [user], --role [role]` son válidos. No hay argumentos en el canal y el usuario asume los valores actuales.",
     "prefix.text": "El prefijo para este servidor es `{{prefix}}`.",
     "prune.missingPerms": "Lo siento, me falta el permiso de Discord `Manage Message`.",
-    "prune.fetchFail": "No pude recuperar los mensajes.",
+    "prune.fetchFail": "Hubo un error al recuperar los mensajes. Por favor inténtalo de nuevo.",
     "prune.filterHelp": "El filtro requiere una entrada de datos para poder buscar.",
     "prune.userIDConf": "Al parecer, {{input}} es un identificador de usuario. ¿Continuar [y/n]?",
     "remind.error": "Necesito que ingreses algo acerca de qué recordarte.",
