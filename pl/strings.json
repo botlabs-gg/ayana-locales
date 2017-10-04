@@ -699,5 +699,6 @@
     "pro.redeemSuccess": "Sukces! Twój klucz został wymieniony. Możesz sprawdzić status subskrypcji używając `pro status` oraz ulepszyć swój serwer poprzez `pro upgrade`.",
     "pro.guildCheck": "Ten serwer został ulepszony przez `{{by}}` następującego dnia: `{{on}}` ({{ago}} ago).",
     "words.key": "Klucz",
-    "words.guildID": "ID serwera"
+    "words.guildID": "ID serwera",
+    "music3.searchNoResults": "Nic nie znaleziono. Spróbuj wpisać coś innego."
 }
