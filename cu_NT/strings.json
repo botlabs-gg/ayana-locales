@@ -697,5 +697,6 @@
     "pro.redeemSuccess": "AYYYYYY! You got it! Check your Ayana Non-Shit status with `pro status` and if you want to upgrade your pub do `pro upgrade` there. Now leave me alone.",
     "pro.guildCheck": "This pub has been upgraded by a dickhead called `{{by}}` on the following date: `{{on}}` ({{ago}} ago).",
     "words.key": "Key",
-    "words.guildID": "Pub ID"
+    "words.guildID": "Pub ID",
+    "music3.searchNoResults": "Seems like somebody was too stupid to enter something that is findable. How stupid."
 }
