@@ -680,5 +680,6 @@
     "pro.redeemSuccess": "Başarılı! Anahtarınız etkinleştirildi. `pro status` komutu ile aboneliklerinize bakabilir ve serverinizi `pro upgrade` komutu ile yükseltebilirsiniz.",
     "pro.guildCheck": "Bu server `{{by}}` tarafından şu tarihte yükseltildi: `{{on}}` ({{ago}} ago).",
     "words.key": "Anahtar",
-    "words.guildID": "Sunucu ID'si"
+    "words.guildID": "Sunucu ID'si",
+    "music3.searchNoResults": "Aramanıza uygun sonuçlar bulunamadı.\nLütfen başka bir kelime ile deneyiniz."
 }
