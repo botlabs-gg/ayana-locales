@@ -698,5 +698,6 @@
     "pro.redeemSuccess": "Erfolg! Dein Schlüssel wurde eingelöst. Du kannst deine Abonnements mit dem `pro status` Befehl einsehen und deinen Server mit dem `pro upgrade` Befehl aufstufen.",
     "pro.guildCheck": "Dieser Server wurde von `{{by}}` am folgenden Datum aufgestuft: `{{on}}` ({{ago}} ago).",
     "words.key": "Schlüssel",
-    "words.guildID": "Server ID"
+    "words.guildID": "Server ID",
+    "music3.searchNoResults": "Es konnten keine Ergebnisse für deine Suchanfrage gefunden werden. Bitte versuche etwas anderes."
 }
