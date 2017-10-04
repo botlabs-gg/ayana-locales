@@ -1,7 +1,7 @@
 {
     "general.guildOnly": "Sólo disponible en servidores.",
     "general.error": "Un error ocurrió. Si necesitas más ayuda, por favor reporta eso a nuestro servidor de soporte (comando `support` para conseguir la invitación).\n```{{error}}```",
-    "general.cooldown": "¡Woah! Demasiado rápido, este comando está en tiempo de reutilización.",
+    "general.cooldown": "¡Woah! Demasiado rápido - este comando está en tiempo de reutilización.",
     "finder.failUser": "No encontré coincidencias para dicho usuario.",
     "finder.failRole": "No encontré coincidencias para dicho rol.",
     "finder.failChannel": "No encontré coincidencias para dicho canal.",
@@ -430,7 +430,7 @@
     "general.banInfo": "Tu has sido baneado del servidor en que estabas.",
     "words.reason": "Razón",
     "settings.guild.dmbans": "Habilitar/Deshabilitar dmbans y dmkicks del servidor.",
-    "general.pagination.cooldown": "Wow! Muy picante, las entradas de paginación están actualmente en tiempo de reutilización.",
+    "general.pagination.cooldown": "Wow! Muy picante - las entradas de paginación están actualmente en tiempo de reutilización.",
     "general.commandNotFound": "No se ha podido encontrar este comando.",
     "help.aliases.header": "[Alias Ayuda]",
     "help.aliases.desc.list": "Enumera todo los alias creados en este servidor",
