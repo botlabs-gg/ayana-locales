@@ -701,5 +701,6 @@
     "pro.redeemSuccess": "Succes! Din nøgle er blevet indløst. Du kan se dine abonnementer med `pro status` kommandoen, og opgradere din server med `pro upgrade` kommandoen.",
     "pro.guildCheck": "Denne server blev opgraderet af `{{by}}` på den følgende dato: `{{on}}` ({{ago}} ago).",
     "words.key": "Nøgle",
-    "words.guildID": "Server ID"
+    "words.guildID": "Server ID",
+    "music3.searchNoResults": "Ingen resultater matchede med din forespørgsel. Prøv venligst noget andet."
 }
