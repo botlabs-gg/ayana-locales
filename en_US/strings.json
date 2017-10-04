@@ -1,7 +1,7 @@
 {
-    "general.guildOnly": "Only available in Servers.",
+    "general.guildOnly": "Only available in servers.",
     "general.unableToDM": "I was unable to send you a direct message. This may be caused by you having the option `Allow direct messages from server members` in your Discord privacy settings set to false. Please enable this option to receive this direct message.",
-    "general.invalidEmbed": "The embed that I tried to send was invalid. The validator printed out the following error. Please report this in our support server (`support` command to get the invite).\n```{{error}}```",
+    "general.invalidEmbed": "The embed that I tried to send was invalid. The validator printed out the following error. If you need more help, please report this to our support guild (`support` command to get the invite).\n```{{error}}```",
     "general.error": "An error occurred. Please report this in our support server (`support` command to get the invite).\n```{{error}}```",
     "general.forbidden": "I tried to send a reply to your command, however, I lack the permission to. Please have someone from the staff give me the `Send Messages` Discord permission.\n\nServer: `{{guild}}`\nChannel: `{{channel}}`\nCommand: `{{cmd}}`\n\nIf you no longer wish to see these messages please run `settings user dmerrors false` in the server.",
     "general.gatewayFailure": "Failed to contact Gateway. Please try again later.",
