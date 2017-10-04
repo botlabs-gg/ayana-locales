@@ -696,5 +696,6 @@
     "pro.redeemSuccess": "¡Éxito! Tu código ha sido reclamado. Puedes comprobar tus suscripciones con el comando `pro status` y mejorar tu servidor con el comando `pro upgrade`.",
     "pro.guildCheck": "Este servidor ha sido mejorado por `{{by}}` en la siguiente fecha: `{{on}}` ({{ago}} ago).",
     "words.key": "Código",
-    "words.guildID": "ID del servidor"
+    "words.guildID": "ID del servidor",
+    "music3.searchNoResults": "No hubo resultados que coincidan con tu consulta. Por favor intenta con otra."
 }
