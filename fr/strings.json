@@ -695,5 +695,6 @@
     "pro.redeemSuccess": "Bravo! Votre clé a été utilisée. Vous pouvez vérifier vos souscriptions avec la commande `pro status` et surclasser votre serveur avec la commande `pro upgrade`.",
     "pro.guildCheck": "Ce serveur a été surclassé par `{{by}}` à la date suivante: `{{on}}` (il y a {{ago}}).",
     "words.key": "Clé",
-    "words.guildID": "ID du Serveur"
+    "words.guildID": "ID du Serveur",
+    "music3.searchNoResults": "Aucun résultat pour votre requête. Veuillez essayer autre chose."
 }
