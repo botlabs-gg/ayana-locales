@@ -31,6 +31,11 @@ of the stuff you may see
 7. `<String to translate>`
 8. `[String to translate](http://dont.translate/me)`
 
+Some exceptions are:
+
+1. Command names (stuff like "`support` command for invite" or "`settings guild dmerrors false`"). Don't translate the actual command into your language
+2. Command arguments (stuff like "<on|one|off>" or "`--addalias <alias>`"). Don't translate those into your language
+
 Remember to **not** translate any of the following
 1. `{{variable}}`
 2. `:emojiname:`
