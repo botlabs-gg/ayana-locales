@@ -12,7 +12,7 @@
     "finder.headerChannel": "Pak het kanaal die je wil gebruiken a.u.b",
     "finder.headerUserGuild": "[Server Gebruiker Zoeker]",
     "invite.text": "Maar natuurlijk :ok_hand:\n\nAls je mij in je eigen server wilt kies een van de volgende links:\n\nModeratie (aanbevolen): {{invite}}\nMinimaal (niet aanbevolen): {{invitemin}}",
-    "locale.userUpdate": "Je taal is verandert naar `{{locale}}`.",
+    "locale.userUpdate": "Je taal is veranderd naar `{{locale}}`.",
     "locale.guildUpdate": "Server taal is bijgewerkt naar `{{locale}}`.",
     "locale.headerAvail": "[Gebruikbare talen]",
     "locale.fail": "Het is mislukt om de taal te updaten.",
