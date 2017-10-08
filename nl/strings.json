@@ -677,5 +677,6 @@
     "pro.redeemSuccess": "Gelukt! Jouw sleutel is nu ingelost. Je kan nu jouw abonnement checken met de `pro status` commando en upgrade jouw server met de `pro upgrade` commando.",
     "pro.guildCheck": "Deze server is geüpgraded bij `{{by}}`op de volgende datum: `{{on}}` ({{ago}} ago).",
     "words.key": "Sleutel",
-    "words.guildID": "Server ID"
+    "words.guildID": "Server ID",
+    "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders."
 }
