@@ -618,6 +618,7 @@
     "music3.voiceOptError": "Please include a voice channel with `--voice` option.",
     "music3.textOptError": "Please include a text channel with `--text` option.",
     "music3.regionOptError": "Please include a valid region with `--region` option.",
+    "music3.searchNoResults": "No results matching your query. Please try something else.",
     "shardinfo.fail": "Failed to fetch shard info from Gateway.",
     "shardinfo.currentShard": "This Shard",
     "setgame.fail": "Failed to set game. {{error}}",
