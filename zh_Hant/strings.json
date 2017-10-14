@@ -651,5 +651,7 @@
     "help.dance.short": "角色跳舞的圖片",
     "help.waifuinsult.short": "「你的動漫老婆是個垃圾」哽圖",
     "help.wasted.short": "終結哽圖",
-    "music3.searchNoResults": "沒有找到你要求的結果。請嘗試其他關鍵字。"
+    "music3.searchNoResults": "沒有找到你要求的結果。請嘗試其他關鍵字。",
+    "pro.manualSubscriptionRunningOut": "你的 Ayana PRO 訂閱 (ID: {{id}}) 將於72小時內過期 ({{expires}})。\n在過期後，任何使用此 Ayana PRO 訂閱的伺服器將會被自動降級成Ayana。\n你可以透過 `pro status` 命令來確認你的訂閱狀況、升級次數以及已升級的伺服器列表。\n\n想要繼續訂閱Ayana PRO或是贊助Ayana，請考慮訂閱我們: {{url}}",
+    "pro.pledgeDeclinedNotify": "目前您這個月的Patreon訂閱請求遭到婉拒。\n請到Patreon確認並驗證你的付款方式是否仍然有效。\n如果在你更改付款承諾後仍然出現此訊息，請在Ayana Support Patreons頻道(英文)讓我們知道。\n\n如果你的付款承諾拒絕5次以上(含)，你對我們的訂閱就會失效，而且Ayana PRO將會自動離開。"
 }
