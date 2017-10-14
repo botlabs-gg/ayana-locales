@@ -211,7 +211,7 @@
     "pro.notUpgraded": "此伺服器尚未升級至Ayana PRO。",
     "pro.upgradePromo": "你必須要有Ayana PRO才能使用此功能。",
     "pro.noPatreon": "你必須在Patreon上支援Ayana才能更新你的捐款文本。",
-    "pro.pledgeTooLow": "你的Patreon pledge太低，我們無法更新你的捐贈文本。",
+    "pro.pledgeTooLow": "你的Patreon贊助承諾太低，我們無法更新你的捐贈文本。",
     "pro.donatorTextNotSet": "你沒有設定任何捐贈者文本，所以我們無法更新。",
     "pro.guildNotPro": "請將此伺服器升級至Ayana PRO來取得此功能。想要更多資訊請執行 `pro` 命令。",
     "pro.instanceNotPro": "此功能僅限於Ayana PRO才能使用。請執行 `pro invite` 來邀請她進入你的伺服器。",
