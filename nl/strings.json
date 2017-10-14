@@ -12,7 +12,7 @@
     "finder.headerChannel": "Pak het kanaal die je wil gebruiken a.u.b",
     "finder.headerUserGuild": "[Server Gebruiker Zoeker]",
     "invite.text": "Maar natuurlijk :ok_hand:\n\nAls je mij in je eigen server wilt kies een van de volgende links:\n\nModeratie (aanbevolen): {{invite}}\nMinimaal (niet aanbevolen): {{invitemin}}",
-    "locale.userUpdate": "Je taal is verandert naar `{{locale}}`.",
+    "locale.userUpdate": "Je taal is veranderd naar `{{locale}}`.",
     "locale.guildUpdate": "Server taal is bijgewerkt naar `{{locale}}`.",
     "locale.headerAvail": "[Gebruikbare talen]",
     "locale.fail": "Het is mislukt om de taal te updaten.",
@@ -677,5 +677,6 @@
     "pro.redeemSuccess": "Gelukt! Jouw sleutel is nu ingelost. Je kan nu jouw abonnement checken met de `pro status` commando en upgrade jouw server met de `pro upgrade` commando.",
     "pro.guildCheck": "Deze server is geüpgraded bij `{{by}}`op de volgende datum: `{{on}}` ({{ago}} ago).",
     "words.key": "Sleutel",
-    "words.guildID": "Server ID"
+    "words.guildID": "Server ID",
+    "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders."
 }

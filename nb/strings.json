@@ -685,5 +685,19 @@
     "help.pro.desc.redeem": "Løser inn en Ayana PRO-nøkkel",
     "pro.redeemingKey": "Løser inn din nøkkel... Vennligst vent.",
     "pro.enterKey": "Vennligst tast inn nøkkelen du ønsker å løse inn.",
-    "pro.invalidKey": "Nøkkelen du har tastet inn er ikke gyldig."
+    "pro.invalidKey": "Nøkkelen du har tastet inn er ikke gyldig.",
+    "words.key": "Nøkkel",
+    "words.guildID": "Server ID",
+    "weebsh.fail": "Mislyktes i å hente `{{type}}`-bilde fra weeb.sh :< Du burde forsøke igjen.",
+    "weebsh.noTypes": "Kategoriene fra weeb.sh er ikke lastet inn ennå. Vennligst vent litt.",
+    "general.kickInfo": "Du har blitt sparket ut av en server du var med i.",
+    "pro.keyAlreadyUsed": "Nøkkelen du prøvde å løse inn er allerede blitt brukt av noen andre.",
+    "pro.keyNotFound": "Nøkkelen du tastet inn kunne ikke bli funnet. Du har {{triesLeft}} forsøk igjen for i dag.",
+    "pro.noTries": "Du har ikke noen flere innløsningsforsøk igjen i dag. Vennligst vent til i morgen.",
+    "pro.keyReloadError": "Din nøkkel har blitt løst inn, men noe gikk galt. Det kan ta litt lengre tid før du mottar ditt abonnement.",
+    "pro.redeemError": "Noe gikk galt under ditt forsøk på å løse inn en nøkkel.",
+    "pro.redeemSuccess": "Suksess! Din nøkkel har blitt innløst. Du kan sjekke ut dine abonnementer med `pro status`-kommandoen, og oppgradere din server med `pro upgrade`-kommandoen.",
+    "pro.guildCheck": "Denne serveren har blitt oppgradert av `{{by}}` på den følgende dato: `{{on}}` ({{ago}} ago).",
+    "music3.searchNoResults": "Ingen resultater matcher med din forespørsel. Vennligst prøv noe annet.",
+    "music3.alreadySkipping": "En skip-kommando er allerede i gang. Vennligst husk at du kan renske køen med `music purge`."
 }
