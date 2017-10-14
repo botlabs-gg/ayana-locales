@@ -697,5 +697,7 @@
     "pro.guildCheck": "Este servidor ha sido mejorado por `{{by}}` en la siguiente fecha: `{{on}}` ({{ago}} ago).",
     "words.key": "Código",
     "words.guildID": "ID del servidor",
-    "music3.searchNoResults": "No hubo resultados que coincidan con tu consulta. Por favor intenta con otra."
+    "music3.searchNoResults": "No hubo resultados que coincidan con tu consulta. Por favor intenta con otra.",
+    "pro.manualSubscriptionRunningOut": "Su suscripción a Ayana PRO (ID: {{id}}) se agotara en menos de 72 horas ({{expires}}).\nUna vez que caduque, cualquier servidor que use esta suscripción será degradado automáticamente.\nPuedes verificar tus suscripciones,recuento de actualizaciones y servidores actualizados con el comando `pro status '.\n\nPara mantener Ayana PRO y ayudar a apoyar a Ayana, considere conseguir una suscripción: {{url}}",
+    "pro.pledgeDeclinedNotify": "Tú suscripción de Patreon para este mes está actualmente rechazada.\nCompruebe Patreon y verifique que su método de pago sigue siendo válido.\nSi le cobraron la garantía y recibió este mensaje, avísenos en el canal de Asistencia Patreons de Ayana.\n\nSi su garantía todavía sigue rechazada hasta el dia 5, la suscripción será invalidada y Ayana PRO se irá automáticamente."
 }
