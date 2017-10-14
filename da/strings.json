@@ -589,7 +589,7 @@
     "music3.deletedMultiple": "Fjernede `{{count}}` genstand(e) fra køen.",
     "help.fullHelp.header": "{{emoji}} **Hey! Jeg hedder Ayana!**\n\nNedenfor kan du se alle kommandoerne som jeg kender til.\nHvis du behøver yderligere hjælp med noget, så tilslut vores [Support Server]({{invite}}).\n\n**Hav en god dag!**",
     "help.fullHelp.info": "**Brug `{{catHelp}}` for mere information omkring en kategori.\nBrug `{{cmdHelp}}` for mere information omkring en kommando.**\n\n**Eksempler:**\n`{{prefix}}help ayana` for et overblik over Ayana-kategorien\n`{{prefix}}help music` for detaljeret hjælp til musik kommandoen.",
-    "help.fullHelp.usefulLinks": "**Brugbare links:**\n[Inviter mig]({{invite}}), [Minimale tilladelser]({{inviteMin}}), [Support Server]({{supportInvite}}), [Doner]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Brugbare links:**\n[Inviter mig]({{invite}}), [Minimale tilladelser]({{inviteMin}}), [Ayana Status]({{status}}), [Support Server]({{supportInvite}}), [Doner]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Kategori",
     "help.fortune.short": "Lykkekage besked",
     "help.pick.short": "Lad mig hjælpe dig når du ikke kan beslutte dig",
