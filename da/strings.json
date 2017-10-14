@@ -702,5 +702,7 @@
     "pro.guildCheck": "Denne server blev opgraderet af `{{by}}` på den følgende dato: `{{on}}` ({{ago}} ago).",
     "words.key": "Nøgle",
     "words.guildID": "Server ID",
-    "music3.searchNoResults": "Ingen resultater matchede med din forespørgsel. Prøv venligst noget andet."
+    "music3.searchNoResults": "Ingen resultater matchede med din forespørgsel. Prøv venligst noget andet.",
+    "pro.manualSubscriptionRunningOut": "Dit Ayana PRO abonnement (ID: {{id}}) udløber om mindre end 72 timer ({{expires}}).\nEfter abonnementet har udløbet vil alle servere der bruger dette abonnement automatisk nedgradere.\nDu kan tjekke dine abonnementer, antal opgraderinger og opgraderede servere med `pro status` kommandoen.\n\nFor at beholde Ayana PRO og hjælpe med at støtte Ayana, overvej venligst at få et abonnement: {{url}}",
+    "pro.pledgeDeclinedNotify": "Dit Patreon abonnement for denne måned er afslået lige nu.\nTjek venligst Patreon og verificer at din betallingsmetode er gyldig.\nHvis der blev hævet penge og du stadig modtager denne besked, venligst giv os besked i Patreon kanalen i Ayana Support serveren.\n\nHvis dit abonnement stadig er afslået d. 5., abonnementet vil blive invalideret og Ayana PRO vil automatisk forlade serveren."
 }
