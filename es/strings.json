@@ -584,7 +584,7 @@
     "music3.deletedMultiple": "Eliminado `{{count}}` elemento(s) de la cola.",
     "help.fullHelp.header": "{{emoji}} **¡Hola! ¡Soy Ayana!**\n\nAbajo puedes ver todos los comandos que sé.\nSi necesitas ayuda con algo, entra a nuestro [Servidor de soporte]({{invite}}).\n\n**¡Ten un día fantástico!**",
     "help.fullHelp.info": "**Usa `{{catHelp}}` para más información sobre una categoría.\nUsa `{{cmdHelp}}` para más información sobre un comando.**\n\n**Ejemplos:**\n`{{prefix}}help ayana` para una visión general de la categoría Ayana.\n`{{prefix}}help music` para ayuda detallada del comando de música.",
-    "help.fullHelp.usefulLinks": "**Links útiles:**\n[Invítame]({{invite}}), [Minimal Invite]({{inviteMin}}), [Servidor de soporte]({{supportInvite}}), [Donar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Links útiles:**\n[Invítame]({{invite}}), [Minimal Invite]({{inviteMin}}), [Estado de Ayana] ({{status}}), [Servidor de soporte]({{supportInvite}}), [Donar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Categoría",
     "words.developers": "Desarrolladores",
     "help.fortune.short": "Mensajes de la galleta de la fortuna",
