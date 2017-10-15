@@ -587,7 +587,7 @@
     "music3.deletedMultiple": "Usunięto `{{count}}` piosenek z kolejki.",
     "help.fullHelp.header": "{{emoji}} **Witaj! Jestem Ayana!**\n\nPod spodem możesz sprawdzić wszystkie komendy jakie znam.\nJeżeli potrzebujesz dokładniejszej pomocy dołącz do naszego [serwera wsparcia]({{invite}}).\n\n**Miłego dnia!**",
     "help.fullHelp.info": "**Użycie `{{catHelp}}` aby uzyskać więcej informacji o kategorii.\nUżyj `{{cmdHelp}}` aby uzyskać więcej informacji o komendzie.**\n\n**Przykłady:**\n`{{prefix}}help ayana` aby wyświetlić ogólną pomoc kategorii Ayana.\n`{{prefix}}help music` aby wyświetlić szczegółową pomoc komend muzyki.",
-    "help.fullHelp.usefulLinks": "**Użyteczne linki:**\n[Zaproś mnie]({{invite}}), [Minimalne zaproszenie]({{inviteMin}}), [Serwer wsparcia]({{supportInvite}}), [Dotacje]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}}",
+    "help.fullHelp.usefulLinks": "**Użyteczne linki:**\n[Zaproś mnie]({{invite}}), [Minimalne zaproszenie]({{inviteMin}}), [Status Ayany]({{status}}), [Serwer wsparcia]({{supportInvite}}), [Dotacje]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}}",
     "words.category": "Kategoria",
     "words.developers": "Deweloperzy",
     "help.fortune.short": "Wiadomość z ciasteczka fortuny",
