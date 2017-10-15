@@ -33,7 +33,7 @@
     "help.dmError": "Sorry, I couldn't send the help to your DM. Please make sure that I'm able to send you a direct message.",
     "help.fullHelp.header": "{{emoji}} **Hello! I'm Ayana!**\n\nBelow you can see all the commands I know.\nIf you need further help with something join our [Support Server]({{invite}}).\n\n**Have a nice day!**",
     "help.fullHelp.info": "**Use `{{catHelp}}` for more information about a category.\nUse `{{cmdHelp}}` for more information about a command.**\n\n**Examples:**\n`{{prefix}}help ayana` for an overview of the Ayana category.\n`{{prefix}}help music` for detailed help for the music command.",
-    "help.fullHelp.usefulLinks": "**Useful links:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Useful links:**\n[Invite Me]({{invite}}), [Minimal Invite]({{inviteMin}}), [Ayana Status]({{status}}), [Support Server]({{supportInvite}}), [Donate]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "help.aliases.short": "Manage command aliases",
     "help.aliases.header": "[Aliases Help]",
     "help.aliases.desc.list": "Lists all aliases created in this server",
