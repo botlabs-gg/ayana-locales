@@ -1,7 +1,7 @@
 {
     "general.guildOnly": "只限在服务器里使用。",
-    "general.error": "发生错误。请到我们的支持服务器举报此错误。（输入`support`以得到邀请）\n```{{error}}```",
-    "general.cooldown": "此命令正处于冷却状态。",
+    "general.error": "发生错误。要是您需要帮助,请到我们的支持服务器举报此错误。（输入`support`命令以得到邀请）\n```{{error}}```",
+    "general.cooldown": "哇！太辣了 - 此命令正处于冷却状态。",
     "finder.failUser": "找不到任何有关用户。",
     "finder.failRole": "找不到任何有关身份组。",
     "finder.failChannel": "找不到任何有关频道。",
@@ -164,7 +164,7 @@
     "general.unableToDM": "我没能办法给你发信息。这可以应为你有‘让服务器上的会员为你发信息’在您的设备里设到关闭状态。请您把这设备打开所以您可以收信息。",
     "general.forbidden": "我已试了为您的命令回答，可是，我没有允许。 请您让员工人给我'发信息'的Discord允许。\n\n服务器： '{{guild}}'\n频道： '{{channel}}'\n命令： '{{cmd}}'\n\n要是您以后不想看到这些信息的话，请运行 ’settings user dmerrors false‘ 在服务器里面。",
     "general.gatewayFailure": "失败跟网管沟通。请等等再试。",
-    "general.pagination.cooldown": "哇！太辣了， 分页输入现在冷却。",
+    "general.pagination.cooldown": "哇！太辣了 - 分页输入现在冷却。",
     "general.ayanaRoleTooLow": "我不能用或者改变 {{role}} 因为我最大的角色无能。请把我的角色改变高点。",
     "general.userRoleTooLow": "角色 {{role}} 不能被用或者改变因为您的最大的角色没有那么高。",
     "general.pagination": "页 {{page}}/{{pages}}",
@@ -184,7 +184,7 @@
     "general.commandNotFound": "我找不到这个命令。",
     "general.invalidOpt": "您发的选项`{{opt}}`不好用。请把您的命令修改完事重试。",
     "general.invalidFlag": "您用的旗`{{flag}}`不好用。请把您的命令改变完事重试。",
-    "help.footer": "<> = 需要信息， [] = 可要信息，| = 或者，不要包括 <> [] 或者 | 在你的命令输入\n请加入辅助服务器要是您有问题。({{prefix}}support for link)",
+    "help.footer": "<> = 需要信息， [] = 可要信息，| = 或者。不要包括 <> [] 或者 | 在你的命令输入。\n请加入辅助服务器要是您有问题。({{prefix}}support for link)",
     "help.cmdForMoreInfo": "运行`{{cmd}}`来发现更多信息。",
     "help.fullHelp.header": "{{emoji}}**海！我是阿亚娜！**\n\n在下方您能看到我会的命令。\n要是您需要帮助的话，您可以加入到我们的[帮助服务器]({{invite}})。\n\n**祝你今天愉快！**",
     "help.fullHelp.info": "**用`{{catHelp}}`来知道项目信息。\n用`{{cmdHelp}}`来发现命令信息。\n\n**比如**\n`{{prefix}}请助阿亚娜`来看到阿亚娜概观。\n`{{prefix}}请助音乐帮助`来看到可用的音乐命令。",
@@ -287,5 +287,10 @@
     "help.roleinfo.short": "角色信息",
     "help.rolemembers.short": "显示用户角色",
     "help.sentToDM": "好,查看您的信息。我给您发了帮助信息。",
-    "help.dmError": "对不起,我不能给您发信息。请查您的设置再让我给您发信息。"
+    "help.dmError": "对不起,我不能给您发信息。请查您的设置再让我给您发信息。",
+    "general.kickInfo": "您被从一个服务器踢出。",
+    "general.andMore": "。。。和 {{amnt}} 更多",
+    "help.perms.desc.deny": "否认允许节点（附加下面一个选项）",
+    "help.pro.header": "[阿亚娜PRO帮助]",
+    "help.pro.desc.upgrade": "升级服务器到阿亚娜PRO"
 }

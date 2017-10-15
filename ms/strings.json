@@ -363,5 +363,16 @@
     "random.numberTooLarge": "Sekurang-kurangnya satu daripada nombor diberi adalah terlalu besar. {{max}} adalah paling tinggi.",
     "random.lowerBoundTooLarge": "Sempadan bawah tidak boleh melebihi sempadan atas.",
     "random.result": "Nombor rawak anda ialah {{number}}.",
-    "role.noRoleSpecified": "Anda tidak tentukan pangkat yang perlu diberi atau diambil."
+    "role.noRoleSpecified": "Anda tidak tentukan pangkat yang perlu diberi atau diambil.",
+    "role.tooManyOptions": "Anda guna lebih daripada satu daripada pilihan berikut, iaitu tidak sah `--all, --user <ahli>, --users, --bots`.",
+    "role.specifyUser": "Anda perlu tentukan seorang ahli apabila menggunakan `--user <ahli>`.",
+    "role.cannotUseInroleNotinrole": "Anda tidak boleh sambungkan `--inrole`, `--notinrole` dan `--noroles`.",
+    "role.mainRoleHeader": "Sila pilih pangkat yang perlu diambil atau diberi (Carian anda: `{{search}}`)",
+    "role.secondaryRoleHeader": "Sila pilih pangkat ditentukan dalam `--inrole` atau `--notinrole` (Carian anda: `{{search}}`)",
+    "role.pleaseWait": "Sila tunggu ketika saya proses permintaan anda. Taip `{{prefix}}role cancel` untuk batalkan proses. (Ahli diproses: {{usersProcessed}})",
+    "role.maximumReached": "Permintaan anda melebihi tahap maksima 100 perubahan pangkat ahli.",
+    "role.alreadyProcessing": "Saya sedang memproses permintaan pangkat dalam server ini.",
+    "role.doneProcessing": "Siap! {{amount}} ahli pangkatnya diubah suai.",
+    "role.userHeader": "Sila pilih ahli yang anda maksudkan dengan `{{search}}`",
+    "role.specifyAdditionalRole": "Anda perlu tentukan pangkat tambahan ketika menggunakan `--inrole` atau `--notinrole`."
 }
