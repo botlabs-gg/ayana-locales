@@ -702,5 +702,6 @@
     "words.guildID": "ID serwera",
     "music3.searchNoResults": "Nic nie znaleziono. Spróbuj wpisać coś innego.",
     "pro.manualSubscriptionRunningOut": "Twoja subskrypcja Ayany PRO (ID: {{id}}) straci ważność w czasie krótszym niż 72 godziny ({{expires}}).\nPo wygaśnięciu, każdemu serwerowi,  korzystającemu z tej subskrypcji, zostanie przywrócona normalna wersja Ayany.\nMożesz sprawdzić, swoje subskrypcje, ich liczbę i ulepszone serwery, komendą `pro status`.\n\nDla utrzymania Ayany PRO i serwera pomocy Ayany, rozważ kupno subskrypcji: {{url}}",
-    "pro.pledgeDeclinedNotify": "Nie otrzymano zapłaty subskrypcji z Patreona w tym miesiącu.\nProszę sprawdź Patreona I upewnij się, że twoja metoda płatności jest poprawna.\nJeśli zapłaciłeś miesięczną kwotę i otrzymujesz tą wiadomość, powiadom nas na kanale Wsparcia Patreona Ayany.\n\nJesli twoja wpłata piątego dnia nie zostanie uiszczona, subskrypcja zostanie automatycznie cofnięta, a Ayana PRO opuści serwer."
+    "pro.pledgeDeclinedNotify": "Nie otrzymano zapłaty subskrypcji z Patreona w tym miesiącu.\nProszę sprawdź Patreona I upewnij się, że twoja metoda płatności jest poprawna.\nJeśli zapłaciłeś miesięczną kwotę i otrzymujesz tą wiadomość, powiadom nas na kanale Wsparcia Patreona Ayany.\n\nJesli twoja wpłata piątego dnia nie zostanie uiszczona, subskrypcja zostanie automatycznie cofnięta, a Ayana PRO opuści serwer.",
+    "music3.nothingPlaying": "Nic nie jest odtwarzane"
 }
