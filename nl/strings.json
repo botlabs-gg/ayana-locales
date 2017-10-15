@@ -680,5 +680,6 @@
     "words.guildID": "Server ID",
     "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders.",
     "pro.manualSubscriptionRunningOut": "Jouw Ayana PRO-abonnement (ID: {{{id}}) loopt in minder dan 72 uur uit ({{verloopt}}).\nNa afloop van het abonnement worden servers die dit abonnement gebruiken automatisch gedowngraded.\nJe kunt jouw abonnementen, upgrade aantal en geüpgrade servers checken met de `pro status` commando.\n\nOm Ayana PRO te houden en Ayana te helpen ondersteunen, kunt u overwegen een abonnement te krijgen: {{url}}",
-    "pro.pledgeDeclinedNotify": "Jouw Patreon-abonnement voor deze maand wordt momenteel geweigerd.\nControleer Patreon en controleer of uw betaalmethode nog steeds geldig is.\nAls u voor de belofte in rekening bent gebracht en dit bericht hebt ontvangen, laat het ons dan weten in de Ayana Support Patreons kanaal\n\nAls jouw belofte op de 5e nog steeds geweigerd wordt, wordt het abonnement ongeldig gemaakt en zal Ayana PRO automatisch vertrekken."
+    "pro.pledgeDeclinedNotify": "Jouw Patreon-abonnement voor deze maand wordt momenteel geweigerd.\nControleer Patreon en controleer of uw betaalmethode nog steeds geldig is.\nAls u voor de belofte in rekening bent gebracht en dit bericht hebt ontvangen, laat het ons dan weten in de Ayana Support Patreons kanaal\n\nAls jouw belofte op de 5e nog steeds geweigerd wordt, wordt het abonnement ongeldig gemaakt en zal Ayana PRO automatisch vertrekken.",
+    "music3.nothingPlaying": "Er is momenteel niks aan het afspelen"
 }
