@@ -585,7 +585,7 @@
     "music3.skip": ":fast_forward: Hoppet over [{{title}}]({{uri}}).",
     "help.fullHelp.header": "{{emoji}} **Hallo! Jeg heter Ayana!**\n\nNedenfor kan du se alle kommandoene jeg kjenner til.\nOm du skulle trenge mer hjelp med noe, bli med i vår [Support-server]({{invite}}).\n\n**Ha en fin dag!**",
     "help.fullHelp.info": "**Utfør `{{catHelp}}` for mer informasjon om en kategori.\nBruk `{{cmdHelp}}` for mer informasjon om en kommando.**\n\n**Eksempler:**\n`{{prefix}}help ayana`for et overblikk over Ayana-kategorien.\n`{{prefix}}help music`for detaljert hjelp for musikk-kommandoen.",
-    "help.fullHelp.usefulLinks": "**Nyttige linker:**\n[Inviter meg!]({{invite}}), [Minimale tillatelser]({{inviteMin}}), [Support-server]({{supportInvite}}), [Donere]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Nyttige linker:**\n[Inviter meg!]({{invite}}), [Minimale tillatelser]({{inviteMin}}), [Ayana Status]({{status}}), [Support-server]({{supportInvite}}), [Donere]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.category": "Kategori",
     "music3.deletedMultiple": "Fjernet `{{count}}`sang(er) fra køen.",
     "help.pick.short": "La meg hjelpe deg når du ikke kan bestemme deg",
@@ -699,5 +699,7 @@
     "pro.redeemSuccess": "Suksess! Din nøkkel har blitt innløst. Du kan sjekke ut dine abonnementer med `pro status`-kommandoen, og oppgradere din server med `pro upgrade`-kommandoen.",
     "pro.guildCheck": "Denne serveren har blitt oppgradert av `{{by}}` på den følgende dato: `{{on}}` ({{ago}} ago).",
     "music3.searchNoResults": "Ingen resultater matcher med din forespørsel. Vennligst prøv noe annet.",
-    "music3.alreadySkipping": "En skip-kommando er allerede i gang. Vennligst husk at du kan renske køen med `music purge`."
+    "music3.alreadySkipping": "En skip-kommando er allerede i gang. Vennligst husk at du kan renske køen med `music purge`.",
+    "pro.manualSubscriptionRunningOut": "Ditt Ayana PRO abonnement (ID: {{id}} løper ut om mindre enn 72 timer ({{expires}}).\nEtter at abonnementet har løpt ut vil alle servere som bruker dette abonnementet automatisk nedgraderes.\nDu kan sjekke dine abonnementer, antallet oppgraderingers og oppgradere servere med `pro status-kommandoen.\n\nFor å beholde Ayana PRO og hjelpe til med å støtte Ayana, vennligst vurder å få et abonnement: {{url}}",
+    "pro.pledgeDeclinedNotify": "Ditt Patreon abonnement for denne måneden er for tiden avslått.\nVennligst sjekk Patreon og verifiser at din betalingsmetode er gyldig.\nOm det er blitt trukket penger og du likevel får denne meldingen, vennligst gi oss beskjed i Patreon-kanalen i Ayana Support-serveren.\n\nOm ditt abonnement fortsatt er avslått den 5., abonnementet vil bli invalidert og Ayana PRO vil automatisk forlate serveren."
 }
