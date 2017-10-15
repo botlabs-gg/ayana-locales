@@ -443,7 +443,7 @@
     "prune.autodelCancelled": "Het verwijderen van berichten automatisch is afgebroken.",
     "help.fullHelp.header": "{{emoji}} **Hallo! Ik ben Ayana!**\n\nHieronder kan je zien welke commandos ik weet.\nAls je nog meer hulp nodig heb met iets join onze [Support Server]({{invite}}).\n\n**Heb een leuke dag!**",
     "help.fullHelp.info": "**Gebruik `{{catHelp}}` voor meer informatie over een categorie.\nGebruik `{{cmdHelp}}` voor meer informatie over een commando.**\n\n**Voorbeelden.**\n`{{prefix}}`help Ayana` voor een overzicht van de Ayana categorie.\n`{{prefix}}help music` voor gedetailleerde hulp voor de muziek commando.",
-    "help.fullHelp.usefulLinks": "**Handige links:**\n[Nodig mij uit]({{invite}}), [Minimale uitnodiging]({{inviteMin}}), [Support Server]({{supportInvite}}), [Doneer]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Handige links:**\n[Nodig mij uit]({{invite}}), [Minimale uitnodiging]({{inviteMin}}), [Ayana Status]({{status}}), [Support Server]({{supportInvite}}), [Doneer]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "random.upperBound": "Bovengrens",
     "random.lowerBound": "Ondergrens",
     "random.noNumber": "Minstens één van de gegeven argumenten is niet een nummer.",
@@ -678,5 +678,7 @@
     "pro.guildCheck": "Deze server is geüpgraded bij `{{by}}`op de volgende datum: `{{on}}` ({{ago}} ago).",
     "words.key": "Sleutel",
     "words.guildID": "Server ID",
-    "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders."
+    "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders.",
+    "pro.manualSubscriptionRunningOut": "Jouw Ayana PRO-abonnement (ID: {{{id}}) loopt in minder dan 72 uur uit ({{verloopt}}).\nNa afloop van het abonnement worden servers die dit abonnement gebruiken automatisch gedowngraded.\nJe kunt jouw abonnementen, upgrade aantal en geüpgrade servers checken met de `pro status` commando.\n\nOm Ayana PRO te houden en Ayana te helpen ondersteunen, kunt u overwegen een abonnement te krijgen: {{url}}",
+    "pro.pledgeDeclinedNotify": "Jouw Patreon-abonnement voor deze maand wordt momenteel geweigerd.\nControleer Patreon en controleer of uw betaalmethode nog steeds geldig is.\nAls u voor de belofte in rekening bent gebracht en dit bericht hebt ontvangen, laat het ons dan weten in de Ayana Support Patreons kanaal\n\nAls jouw belofte op de 5e nog steeds geweigerd wordt, wordt het abonnement ongeldig gemaakt en zal Ayana PRO automatisch vertrekken."
 }
