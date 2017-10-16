@@ -700,5 +700,6 @@
     "prune.statusDeleting": "Poistetaan määrä: {{amount}} viestejä... Tämä voi kestää jonkin aikaa.",
     "prune.statusFetching": "Haetaan määrä: {{amount}} viestejä... Tämä voi kestää jonkin aikaa.",
     "prune.untilMessageNotFound": "Viestiä, joka oli käytetty lisävalinnassa `--until`, ei löydetty tältä kanavalta.",
-    "pro.pledgeDeclinedNotify": "Patreon tilauksesi on tältä kuulta hylätty.\nTarkistathan Patreonista, että maksutapasi on yhä kelvollinen.\nJos maksu on suoritettu, olethan yhteydessä meihin Ayana tuki palvelimen Patreon-kanavalla.\n\nJos lahjoituksesi on vielä hylätty 5., tilaus muuttuu epäkelvoksi ja Ayana PRO poistuu automaattisesti."
+    "pro.pledgeDeclinedNotify": "Patreon tilauksesi on tältä kuulta hylätty.\nTarkistathan Patreonista, että maksutapasi on yhä kelvollinen.\nJos maksu on suoritettu, olethan yhteydessä meihin Ayana tuki palvelimen Patreon-kanavalla.\n\nJos lahjoituksesi on vielä hylätty 5., tilaus muuttuu epäkelvoksi ja Ayana PRO poistuu automaattisesti.",
+    "music3.nothingPlaying": "Mitään ei ole toistossa juuri nyt"
 }
