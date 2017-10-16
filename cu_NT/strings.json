@@ -700,5 +700,6 @@
     "words.guildID": "Pub ID",
     "music3.searchNoResults": "Seems like somebody was too stupid to enter something that is findable. How stupid.",
     "pro.manualSubscriptionRunningOut": "Looks like you need to shell out more money to me because your PRO subscription (ID: {{id}}) is gonna run out in less than 72 hours ({{expires}}).\nAfter expiring, your servers are gonna be downgraded to the shit ones that everyone uses.\nYou can see what money you wasted, upgrade count and upgraded servers with the `pro status` command.\n\nTo keep the only good things about this bot, shell out more money to me by getting another subscription: {{url}}",
-    "pro.pledgeDeclinedNotify": "So apparently we can't get your Patreon subscription for this month.\nCheck your shit payments to see if it still works.\nIf you gave out your money and got this, tell us in the Ayana Support Patreons channel\n\nIf you don't pay up on the 5th, Ayana PRO is gonna leave your shit server."
+    "pro.pledgeDeclinedNotify": "So apparently we can't get your Patreon subscription for this month.\nCheck your shit payments to see if it still works.\nIf you gave out your money and got this, tell us in the Ayana Support Patreons channel\n\nIf you don't pay up on the 5th, Ayana PRO is gonna leave your shit server.",
+    "music3.nothingPlaying": "Nuffin playin bitch"
 }
