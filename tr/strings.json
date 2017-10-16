@@ -683,5 +683,6 @@
     "words.guildID": "Sunucu ID'si",
     "music3.searchNoResults": "Aramanıza uygun sonuçlar bulunamadı.\nLütfen başka bir kelime ile deneyiniz.",
     "pro.manualSubscriptionRunningOut": "Ayana PRO aboneliğin (ID: {{id}}) 72 saat içinde bitecek ({{expires}}).\nAbonelik bittikten sonra, bu servisi kullanan herhangi bir sunucu otomatik olarak düşürülecek.\nAboneliğini, kullanılabilir yükseltme sayısını ve yükselttiğin sunucuları görmek için `pro status` komutunu kullan.\n\nAyana PRO'ya sahip olmak ve Ayana'yı desteklemeye yardımcı olmak için, lütfen abonelik almayı düşünün: {{url}}",
-    "pro.pledgeDeclinedNotify": "Bu ay için Patreon aboneliğin reddedildi.\nLütfen Patreon'a bakıp ödeme yönteminizin halen geçerli olduğunundan emin olun.\nPara çekilmesinin karşın bu measjı aldıysanız, lütfen bunu Ayana Yardım Patreon'lar kanalında bildirin\n\nEğer ödemeniz halen ayın beşine kadar reddedilirse, abonelik sonlandırılacak ve Ayana PRO otomatikmen sunucudan ayrılacak."
+    "pro.pledgeDeclinedNotify": "Bu ay için Patreon aboneliğin reddedildi.\nLütfen Patreon'a bakıp ödeme yönteminizin halen geçerli olduğunundan emin olun.\nPara çekilmesinin karşın bu measjı aldıysanız, lütfen bunu Ayana Yardım Patreon'lar kanalında bildirin\n\nEğer ödemeniz halen ayın beşine kadar reddedilirse, abonelik sonlandırılacak ve Ayana PRO otomatikmen sunucudan ayrılacak.",
+    "music3.nothingPlaying": "Şu anda oynayan bir şey yok"
 }
