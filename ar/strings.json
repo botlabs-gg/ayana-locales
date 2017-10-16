@@ -600,5 +600,20 @@
     "help.triggered.short": "يعطيك صورة متحركة لشخص ثائر, إذكر مستخدم لتخبره انك ثائر نحوه",
     "help.wag.short": "يعطيك صورة متحركة لذيل متحرك",
     "help.waifuinsult.short": "إيانا الشتائم الشتائم الخاص بك أو يمكنك إهانة أصدقائك ويفو",
-    "help.wasted.short": "يعطيك صورة متحركة لميم wasted"
+    "help.wasted.short": "يعطيك صورة متحركة لميم wasted",
+    "general.targetHigherThanAyana": "{{target}}تمتلك دورا أعلى مما أفعله. لا أستطيع تعديلها.",
+    "general.kickInfo": "لقد تم ركلك من خادم كنت على.",
+    "general.discordError": "كان الخلاف مشكلة أثناء معالجة الطلب الأخير. حاول مرة اخرى.({{error}})",
+    "general.mustBeNumber": "`{{obj}}`يجب أن يكون رقما.",
+    "general.mustBeNumberSmallerEq": "`{{obj}}` يجب أن يكون رقما.<= {{bound}}.",
+    "general.andMore": "... و {{amnt}} أكثر من",
+    "help.sentToDM": "حسنا، تحقق من رسائلك الخاصة. لقد أرسلت المساعدة هناك.",
+    "help.dmError": "عذرا، لم أستطع إرسال المساعدة إلى دم. الرجاء التأكد من أنني قادر على إرسال رسالة مباشرة إليك.",
+    "help.music.desc.bindVoice": "سبيسيفيس القناة الصوتية للاتصال",
+    "help.music.desc.bindText": "لتحديد قناة النص المطلوب ربطها",
+    "help.music.desc.selectRegion": "فرض اتصال بالمنطقة المحددة",
+    "help.music.desc.enqueuePosition": "إنكيويس أغنية / قائمة التشغيل إلى الموضع المحدد",
+    "help.pro.header": "[إيانا برو مساعدة]",
+    "help.pro.desc.upgrade": "Upgrades this server to Ayana PRO",
+    "help.pro.desc.downgrade": "تقليل هذا الخادم أو واحد المحدد مع معرف من إيانا للمحترفين"
 }
