@@ -584,7 +584,7 @@
     "music3.noNodes": "No Music nodes available in `{{region}}` right now. I guess some dickhead needs to wait or use another region.",
     "music3.deletedMultiple": "Removed `{{count}}` shitty item(s) from the queue.",
     "help.fullHelp.header": "{{emoji}} **Hello you cunt**\n\nHere is the shit I know how to do, and no I can't cook for you.\nIf you can't deal with that shit yourself you can annoy people on our [Support Pub]({{invite}}).\n\n**Fuck off!**",
-    "help.fullHelp.usefulLinks": "**Shit links:**\n[Invite Me Cunt]({{invite}}), [Minimal Fucking Invite]({{inviteMin}}), [Support Server]({{supportInvite}}), [The Pay-Me Jar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Shit links:**\n[Invite Me Cunt]({{invite}}), [Minimal Fucking Invite]({{inviteMin}}), [Whether or not this shit is dead]({{status}}), [Support Server]({{supportInvite}}), [The Pay-Me Jar]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.developers": "The fuckers who made me",
     "help.music.desc.bindVoice": "Specify a table where i should go into",
     "general.targetHigherThanAyana": "{{target}} is way better than I am so I can't fuck with them.",
@@ -698,5 +698,7 @@
     "pro.guildCheck": "This pub has been upgraded by a dickhead called `{{by}}` on the following date: `{{on}}` ({{ago}} ago).",
     "words.key": "Key",
     "words.guildID": "Pub ID",
-    "music3.searchNoResults": "Seems like somebody was too stupid to enter something that is findable. How stupid."
+    "music3.searchNoResults": "Seems like somebody was too stupid to enter something that is findable. How stupid.",
+    "pro.manualSubscriptionRunningOut": "Looks like you need to shell out more money to me because your PRO subscription (ID: {{id}}) is gonna run out in less than 72 hours ({{expires}}).\nAfter expiring, your servers are gonna be downgraded to the shit ones that everyone uses.\nYou can see what money you wasted, upgrade count and upgraded servers with the `pro status` command.\n\nTo keep the only good things about this bot, shell out more money to me by getting another subscription: {{url}}",
+    "pro.pledgeDeclinedNotify": "So apparently we can't get your Patreon subscription for this month.\nCheck your shit payments to see if it still works.\nIf you gave out your money and got this, tell us in the Ayana Support Patreons channel\n\nIf you don't pay up on the 5th, Ayana PRO is gonna leave your shit server."
 }
