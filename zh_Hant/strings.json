@@ -29,7 +29,7 @@
     "help.dmError": "對不起，我無法對你發送能幫助你的私人訊息。請確認你已設定成我可以對你發送私人訊息。",
     "help.fullHelp.header": "{{emoji}}**嗨！我是Ayana！**\n\n你可以在下方看看我可以使用的命令。\n如果你需要幫助的話，您可以加入到我們的[支援服务器]({{invite}})。\n\n**祝你今天愉快！**",
     "help.fullHelp.info": "**使用 `{{catHelp}}` 來取得更多有關一個分類的資訊。\n使用 `{{cmdHelp}}` 來取得更多有關一個命令的資訊。**\n\n**範例：**\n`{{prefix}}help ayana` 可以看到Ayana分類的概觀。\n`{{prefix}}help music` 可以得到跟音樂命令有關的協助訊息。",
-    "help.fullHelp.usefulLinks": "**有用連結：**\n[邀請我]({{invite}}), [最小邀請]({{inviteMin}}), [支援伺服器]({{supportInvite}}), [贊助]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**有用連結：**\n[邀請我]({{invite}}), [最小邀請]({{inviteMin}}), [Ayana目前狀態]({{status}}), [支援伺服器]({{supportInvite}}), [贊助]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "help.aliases.short": "管理命令別名",
     "help.aliases.header": "[別名幫助]",
     "help.aliases.desc.list": "列出在這伺服器上建立的所有別名",
@@ -653,5 +653,6 @@
     "help.wasted.short": "終結哽圖",
     "music3.searchNoResults": "沒有找到你要求的結果。請嘗試其他關鍵字。",
     "pro.manualSubscriptionRunningOut": "你的 Ayana PRO 訂閱 (ID: {{id}}) 將於72小時內過期 ({{expires}})。\n在過期後，任何使用此 Ayana PRO 訂閱的伺服器將會被自動降級成Ayana。\n你可以透過 `pro status` 命令來確認你的訂閱狀況、升級次數以及已升級的伺服器列表。\n\n想要繼續訂閱Ayana PRO或是贊助Ayana，請考慮訂閱我們: {{url}}",
-    "pro.pledgeDeclinedNotify": "目前您這個月的Patreon訂閱請求遭到婉拒。\n請到Patreon確認並驗證你的付款方式是否仍然有效。\n如果在你更改付款承諾後仍然出現此訊息，請在Ayana Support Patreons頻道(英文)讓我們知道。\n\n如果你的付款承諾拒絕5次以上(含)，你對我們的訂閱就會失效，而且Ayana PRO將會自動離開。"
+    "pro.pledgeDeclinedNotify": "目前您這個月的Patreon訂閱請求遭到婉拒。\n請到Patreon確認並驗證你的付款方式是否仍然有效。\n如果在你更改付款承諾後仍然出現此訊息，請在Ayana Support Patreons頻道(英文)讓我們知道。\n\n如果你的付款承諾拒絕5次以上(含)，你對我們的訂閱就會失效，而且Ayana PRO將會自動離開。",
+    "music3.nothingPlaying": "目前沒有正在播放的音樂"
 }
