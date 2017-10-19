@@ -381,7 +381,7 @@
     "help.footer": "<> = 필요한 정보, [] = 부가적인 정보, | = 또는 이란 의미에요, <> [] 또는 | 는 당신의 커맨드 입력에 포함하지 말아주세요.\n어떠한 질문이건 궁금하신 게 있다면 아야나 서버에 와 주세요. ({{prefix}} 아야나 서버 링크)",
     "help.cmdForMoreInfo": "`{{cmd}}`을 입력하여 실행해 이 명령어에 대해 더 많은 정보를 알아보세요.",
     "help.fullHelp.info": "** `{{catHelp}}`를 사용해서 카테고리에 대한 더 많은 정보를 알아보세요.\n`{{cmdHelp}}`를 사용해서 커맨드에 대한 더 많은 정보를 알아보세요.**\n\n**예시:**\n`{{prefix}}help ayana`는 아야나 카테고리에 대한 개요를 볼 수 있어요.\n`{{prefix}}help music`은 음악 명령어에 대한 자세한 도움말을 볼 수 있어요.",
-    "help.fullHelp.usefulLinks": "**유용한 주소:**\n[제 초대 주소]({{invite}}), [최소 기능으로 저를 초대]({{inviteMin}}), [아야나 지원 서버]({{supportInvite}}), [기부하기]({{donate}}), [트위터]({{twitter}}), [페이스북]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**유용한 주소:**\n[제 초대 주소]({{invite}}), [최소 기능으로 저를 초대]({{inviteMin}}), [아야나 서버 상태]({{status}}), [아야나 지원 서버]({{supportInvite}}), [기부하기]({{donate}}), [트위터]({{twitter}}), [페이스북]({{facebook}})",
     "help.music.header": "[음악 도움말]",
     "help.music.desc.queue": "대기열을 보여주거나 음악/재생목록을 대기열에 추가",
     "help.music.desc.enqueue": "음악/재생목록을 대기열에 추가",
@@ -691,5 +691,8 @@
     "music3.searchNoResults": "요청하신 내용에 맞는 결과를 찾지 못했어요. 다른 걸로 시도해주세요.",
     "reminder.dm": "알리미로 해두셨었죠?\n{{reminder}}",
     "weebsh.fail": "`{{type}}` 이미지를 불러오는데 실패했어요..ㅠㅅㅠ 다시 시도해주세요.",
-    "weebsh.noTypes": "아직 불러오는 중인 것 같아요. 조금만 기다려주세요."
+    "weebsh.noTypes": "아직 불러오는 중인 것 같아요. 조금만 기다려주세요.",
+    "pro.manualSubscriptionRunningOut": "아야나 프로 구독(ID: {{id}})이 72시간 이하 남아있어요 ({{expires}}).\n구독이 종료되면, 구독권을 사용하고 있는 모든 서버가 자동으로 다운그레이드 될거에요.\n`pro status` 명령어를 통해, 업그레이드 가능 횟수와 업그레이드된 서버들을 확인하실 수 있어요.\n\n아야나 프로를 유지시키고 아야나를 도와주시고 싶으시다면, 구독하는걸 고려해보세요: {{url}}",
+    "pro.pledgeDeclinedNotify": "이번 달의 Patreon 구독이 취소되었어요.\nPatreon을 확인하셔서 결제 수단과 방법이 올바른지 확인해주세요.\n제대로 후원 금액을 지불 했는데도 이 메세지를 보고 계시다면, 아야나 지원 서버 Patreon 채널에 알려주세요.\n\n만약 후원이 5번 거절되면, 구독은 자동으로 무효로 처리되면서 아야나 프로가 자동으로 서버를 떠날거에요.",
+    "music3.nothingPlaying": "현재 아무것도 재생중이지 않아요."
 }
