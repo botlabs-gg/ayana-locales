@@ -587,7 +587,7 @@
     "words.category": "Kategorie",
     "help.fullHelp.header": "{{emoji}} **Hallo! Ich bin Ayana!**\n\nUnten findest du eine Liste mit Befehlen, die ich kenne.\nWenn du weitere Hilfe benötigst, betrete unseren [Support Server]({{invite}}).\n\n**EInen schönen Tag noch!**",
     "help.fullHelp.info": "**Benutze `{{catHelp}}`für mehr Informationen über eine Kategorie.\nBenutze `{{cmdHelp}}` für mehr Informationen über einen Befehl.**\n\n**Beispiele:**\n`{{prefix}}help ayana` für eine Übersicht der Ayana Kategorie.\n`{{prefix}}help music` für detaillierte Hilfe des Musik-Befehls.",
-    "help.fullHelp.usefulLinks": "**Nützliche Links:**\n[Lade mich ein]({{invite}}), [Minimal Einladung]({{inviteMin}}), [Support Server]({{supportInvite}}), [Spenden]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
+    "help.fullHelp.usefulLinks": "**Nützliche Links:**\n[Lade mich ein]({{invite}}), [Minimal Einladung]({{inviteMin}}), [Ayana Status]({{status}}), [Support Server]({{supportInvite}}), [Spenden]({{donate}}), [Twitter]({{twitter}}), [Facebook]({{facebook}})",
     "words.developers": "Entwickler",
     "help.fortune.short": "Glückskeks Nachrichten",
     "help.pick.short": "Lass mich dir helfen, wenn du dich nicht entscheiden kannst",
@@ -699,5 +699,8 @@
     "pro.guildCheck": "Dieser Server wurde von `{{by}}` am folgenden Datum aufgestuft: `{{on}}` ({{ago}} ago).",
     "words.key": "Schlüssel",
     "words.guildID": "Server ID",
-    "music3.searchNoResults": "Es konnten keine Ergebnisse für deine Suchanfrage gefunden werden. Bitte versuche etwas anderes."
+    "music3.searchNoResults": "Es konnten keine Ergebnisse für deine Suchanfrage gefunden werden. Bitte versuche etwas anderes.",
+    "pro.manualSubscriptionRunningOut": "Dein Ayana PRO Abonnement (ID: {{id}}) läuft in weniger als 72 Stunden aus ({{expires}}).\nNachdem es abgelaufen ist, werden alle Server, die es benutzen automatisch abgestuft.\nDu kannst deine Abonnements, Aufstufungsanzahl und aufgestufte Server mit dem `pro status` Befehl einsehen.\n\nUm Ayana PRO zu behalten und Ayana zu untestützen, denke bitte über ein Abonnement nach: {{uri}}",
+    "pro.pledgeDeclinedNotify": "Dein Patreon Abonnement für diesen Monat ist zurzeit abgelehnt.\nBitte überprüfe Patreon und deine Zahlungsmethode auf Korrektheit.\nWenn eine Zahlung gebucht wurde, du aber dennoch diese Nachricht erhälst, sag uns im Patreons Kanal auf Ayana Support bescheid.\n\nWenn deine Zahlung am fünften dieses Monats immer noch abgelehnt ist, wird dein Abonnement entfernt und Ayana PRO wird daraufhin automatisch deinen Server verlassen.",
+    "music3.nothingPlaying": "Zurzeit wird nichts gespielt"
 }
