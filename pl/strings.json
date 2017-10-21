@@ -106,7 +106,7 @@
     "settings.notset": "nie ustawione",
     "settings.groupsHelp": "Oto lista dostępnych grup ustawień.\nW celu uzyskania informacji o ustawieniach użytkownika wpisz `settings user`.\nW celu uzyskania więcej informacji wpisz `settings [nazwaGrupy]`.",
     "settings.unknownGroup": "Nieznana nazwa grupy ustawień [**{{input}}**]().",
-    "settings.groupHelp": "Ustawienia w grupie [**{group}}**]().\nW celu uzyskania więcej informacji wpisz `settings {{group}} [nazwaUstawień]`.",
+    "settings.groupHelp": "Ustawienia w grupie [**{{group}}**]().\nW celu uzyskania więcej informacji wpisz `settings {{group}} [nazwaUstawień]`.",
     "settings.unknownSetting": "Nieznane ustawienia [**{{setting}}**]() w grupie [**{{group}}**]().",
     "settings.active": "Włącz/Wyłącz",
     "settings.prefix.guild": "Prefiks tego serwera.",
