@@ -576,7 +576,7 @@
     "words.textChannel": "Salon Textuel",
     "music3.join": ":white_check_mark: Rejoint et lié à :speaker: `{{voice}}` et :newspaper: `{{text}}`.",
     "music3.leave": ":no_entry: Sortie et déliée des salons.",
-    "music3.alreadyConnecting": "J'ai déjà une connexion en attente pour ce serveur. Merci de d'attendre sa fin avant de ressayer.",
+    "music3.alreadyConnecting": "J'ai déjà une connexion en attente pour ce serveur. Merci d'attendre sa fin avant de ressayer.",
     "music3.noNodes": "Il n'y a actuellement aucun nœud de musique disponible en `{{region}}`. Merci d'essayer une autre région.",
     "music3.nowplaying": "Lecture en cours: {{title}}",
     "music3.skip": ":fast_forward: Passage de [{{title}}]({{uri}}).",
