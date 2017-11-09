@@ -69,6 +69,7 @@
     "help.music.desc.queue": "Shows Queue or Enqueues a song/playlist",
     "help.music.desc.enqueue": "Enqueues a song/playlist",
     "help.music.desc.enqueueNext": "Enqueues a song/playlist as next item",
+    "help.music.desc.nowplaying": "Shows the song that is being played",
     "help.music.desc.purge": "Removes all items from the queue",
     "help.music.desc.delete": "Deletes one or more items from the queue",
     "help.music.desc.play": "Plays and or enqueues a song/playlist",
