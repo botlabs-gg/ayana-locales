@@ -643,7 +643,7 @@
     "music3.autoLeave": ":no_entry_sign: Has abandonado el canal debido a la inactividad. Servicio de asistencia de Ayana y obtener algunas ventajas impresionantes con Ayana PRO. {{uri}}",
     "pro.noPublicUpgrades": "Este servidor no permite actualizaciones públicas de Ayana PRO. Ver `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo.",
-    "pro.description": "Ayana PRO es una instancia de Ayana albergada de forma privada exclusiva para donadores de Patreon.\nReproducción de mayor calidad, menos tiempo fuera de linea, mas estabilidad, soporte de nivel profesional son solo algunos de los beneficios que consigues.\n\nPara aprender mas o apuntarte, ve a {{uri}}",
+    "pro.description": "Ayana PRO es una instancia de Ayana albergada de forma privada exclusiva para donadores de Patreon.\nReproducción de mayor calidad, menos tiempo fuera de linea, mas estabilidad son solo algunos de los beneficios que consigues.\n\nPara aprender mas o apuntarte, ve a {{uri}}.\nAlternativamente, puedes agregar a ayana públicamente desde aquí {{invite}}.",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Has abandonado el canal debido a la inactividad. Gracias por usar Ayana!",
     "pro.noData": "No tienes subscripciones de Ayana PRO. Para más información inicia el comando `pro`.",
     "sar.pickGroup": "Elige un grupo al que quieras asignar o  no asignar roles.",
@@ -700,5 +700,6 @@
     "music3.searchNoResults": "No hubo resultados que coincidan con tu consulta. Por favor intenta con otra.",
     "pro.manualSubscriptionRunningOut": "Su suscripción a Ayana PRO (ID: {{id}}) se agotara en menos de 72 horas ({{expires}}).\nUna vez que caduque, cualquier servidor que use esta suscripción será degradado automáticamente.\nPuedes verificar tus suscripciones,recuento de actualizaciones y servidores actualizados con el comando `pro status '.\n\nPara mantener Ayana PRO y ayudar a apoyar a Ayana, considere conseguir una suscripción: {{url}}",
     "pro.pledgeDeclinedNotify": "Tú suscripción de Patreon para este mes está actualmente rechazada.\nCompruebe Patreon y verifique que su método de pago sigue siendo válido.\nSi le cobraron la garantía y recibió este mensaje, avísenos en el canal de Asistencia Patreons de Ayana.\n\nSi su garantía todavía sigue rechazada hasta el dia 5, la suscripción será invalidada y Ayana PRO se irá automáticamente.",
-    "music3.nothingPlaying": "Nada se está reproduciendo actualmente"
+    "music3.nothingPlaying": "Nada se está reproduciendo actualmente",
+    "help.music.desc.nowplaying": "Muestra la canción que se está reproduciendo"
 }
