@@ -639,7 +639,7 @@
     "help.prune.desc.pruneUntil": "Supprime des message jusqu'a un certain message",
     "pro.noPublicUpgrades": "Ce serveur ne permet pas les surclassements vers Ayana PRO publiques. Voyez `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Seuls un Administrateur ou l'utilisateur ayant surclassé le serveur vers Ayana PRO peuvent le rétrograder.",
-    "pro.description": "Ayana PRO est une instance privée d'Ayana exclusive aux supporteurs Patreon.\nUne musique de meilleure qualité, moins de temps d’arrêt, plus de stabilité et un niveau de support premium sont quelques-uns des avantages que vous obtenez.\n\nPour en savoir plus ou nous rejoindre, allez sur {{uri}}",
+    "pro.description": "Ayana PRO est une instance privée d'Ayana exclusive aux supporteurs Patreon.\nUne musique de meilleure qualité, moins de temps d’arrêt et plus de stabilité sont quelques-uns des avantages que vous obtenez.\n\nPour en savoir plus ou nous rejoindre, allez sur {{uri}}.\nAlternativement, vous pouvez inviter Ayana publique ici {{invite}}.",
     "pro.noData": "Vous n'avez pas d'abonnements Ayana PRO. Pour plus d'informations exécutez la commande `pro`.",
     "sar.pickGroup": "Choisissez le groupe dont vous voulez assigner ou retirer un ou plusieurs rôle.",
     "words.messageID": "ID du message",
@@ -699,5 +699,6 @@
     "music3.searchNoResults": "Aucun résultat pour votre requête. Veuillez essayer autre chose.",
     "pro.manualSubscriptionRunningOut": "Votre souscription Ayana PRO (ID: {{id}}) expire dans moins de 72 heures ({{expires}}).\nAprès son expiration, tout les serveurs profitant de cette souscription seront automatiquement rétrogradés.\nVous pouvez voir l’état de votre souscription, le nombre de surclassement et les serveurs surclassés avec la commande `pro status`.\n\nAfin de garder Ayana PRO et de supporter Ayana, envisagez de prendre une souscription: {{url}}",
     "pro.pledgeDeclinedNotify": "Votre souscription Patreon pour ce mois-ci est actuellement déclinée.\nVeuillez vérifier que votre méthode de paiement sur Patreon est toujours valide.\nSi vous avez été débité mais que vous recevez quand même ce message, merci de nous le faire savoir sur le salon Patreon d'Ayana Support.\n\nSi votre engagement est toujours décliné le 5 du mois, la souscription sera invalidée et Ayana PRO partira automatiquement.",
-    "music3.nothingPlaying": "Il n'y a rien en cours de lecture"
+    "music3.nothingPlaying": "Il n'y a rien en cours de lecture",
+    "help.music.desc.nowplaying": "Affiche la musique en cours"
 }
