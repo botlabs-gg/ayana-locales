@@ -636,7 +636,7 @@
     "pro.instanceNotPro": "You need an Ayana Non-Shit instance for this you idiot. Read the docs you idiot. Invite my bitch sister with the `pro invite` command.",
     "pro.noPublicUpgrades": "You no upgrade this because the owner is a dickhead. See `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "You shall not downgrade this. Only Admin dickheads and the big cash man who upgraded this pub can downgrade it.",
-    "pro.description": "Well, why don't u ask my bitch sister what Ayana Non-Shit is? Well anyways here we go.\n\nAyana Non-Shit (or also known as AyanaPRO for plebs) is an extra instance of Ayana for Big Cash dickheads\nNon-Shit music, Non-Shit Downtime, Non-Shit Stability and Non-Shit support are some of the features.\n\nYou totally need this right now so go to {{uri}} and pay me money",
+    "pro.description": "Well, why don't u ask my bitch sister what Ayana Non-Shit is? Well anyways here we go.\n\nAyana Non-Shit (or also known as AyanaPRO for plebs) is an extra instance of Ayana for Big Cash dickheads\nNon-Shit music, Non-Shit Downtime and Non-Shit Stability are some of the features.\n\nYou totally need this right now so go to {{uri}} and pay me money\n\nIf you have no money, invite the shitty version of Ayana at {{invite}}.",
     "pro.noData": "LOLNOPE, pay me money to see this. Run the `pro` command for info.",
     "pro.disabled": "This bot is not providing Ayana Non-Shit.",
     "prune.statusFetching": "BEEP BOOP Fetching {{amount}} message(s) full of shit BOOP BEEP.",
@@ -701,5 +701,6 @@
     "music3.searchNoResults": "Seems like somebody was too stupid to enter something that is findable. How stupid.",
     "pro.manualSubscriptionRunningOut": "Looks like you need to shell out more money to me because your PRO subscription (ID: {{id}}) is gonna run out in less than 72 hours ({{expires}}).\nAfter expiring, your servers are gonna be downgraded to the shit ones that everyone uses.\nYou can see what money you wasted, upgrade count and upgraded servers with the `pro status` command.\n\nTo keep the only good things about this bot, shell out more money to me by getting another subscription: {{url}}",
     "pro.pledgeDeclinedNotify": "So apparently we can't get your Patreon subscription for this month.\nCheck your shit payments to see if it still works.\nIf you gave out your money and got this, tell us in the Ayana Support Patreons channel\n\nIf you don't pay up on the 5th, Ayana PRO is gonna leave your shit server.",
-    "music3.nothingPlaying": "Nuffin playin bitch"
+    "music3.nothingPlaying": "Nuffin playin bitch",
+    "help.music.desc.nowplaying": "Shows the shitty song that the bot is playing"
 }
