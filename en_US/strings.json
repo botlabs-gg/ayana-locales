@@ -309,7 +309,7 @@
     "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, run `pro invite` for the invite.",
     "pro.noPublicUpgrades": "This server does not allow public Ayana PRO upgrades. See `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Only an Administrator or the user that upgraded this server to Ayana PRO may downgrade it.",
-    "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality playback, less downtime, more stability are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}.\nAlternatively you can add public ayana here {{invite}}.",
+    "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality playback, less downtime and more stability are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}.\nAlternatively you can add public Ayana here {{invite}}.",
     "pro.noData": "You don't have any Ayana PRO subscriptions. For more information run the `pro` command.",
     "pro.disabled": "Ayana PRO is disabled in this Ayana instance.",
     "pro.redeemingKey": "Redeeming your key... Please wait.",
