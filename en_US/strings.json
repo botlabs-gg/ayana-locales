@@ -217,6 +217,7 @@
     "aliases.alreadyExists": "The alias `{{alias}}` does already exist.",
     "aliases.aliasAdded": "The alias `{{alias}}` has been added for `{{cmd}}`.",
     "aliases.notAlphanumeric": "The alias must be alphanumeric. You entered `{{input}}`.",
+    "aliases.notValid": "The alias you entered must not contain the following characters: `\", -, \\`.",
     "aliases.addHelp": "To add aliases use the command you want to add like you would normally and add `--addalias <alias>` to it.",
     "aliases.notExistent": "The alias `{{alias}}` does not exist.",
     "aliases.removed": "The alias `{{alias}}` has been removed.",
