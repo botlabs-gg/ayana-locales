@@ -636,7 +636,7 @@
     "help.spongebob.short": "Spongebob \"mocking meme\", zudem wird der angegebene Text gememet",
     "pro.noPublicUpgrades": "Dieser Server erlaubt keine öffentlichen Ayana PRO upgrades. Siehe `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Nur Administratoren oder der Nutzer, der diesen Server auf Ayana PRO aufgewertet hat, können ihn abwerten.",
-    "pro.description": "Ayana PRO ist eine privat gehostete Instanz von Ayana exklusiv für Patreon Unterstützer\nHöhere Musikqualitat, weniger Ausfallszeit und mehr Stabilität sind nur einige der Vorteile, die du bekommst.\n\nUm mehr zu erfahren gehe auf {{uri}}\nAlternativ kannst du die öffentliche Ayana hier einladen {{invite}}.",
+    "pro.description": "Ayana PRO ist eine privat gehostete Instanz von Ayana exklusiv für Patreon Unterstützer\nHöhere Musikqualitat, weniger Ausfallszeit und mehr Stabilität sind nur einige der Vorteile, die du bekommst.\n\nUm mehr zu erfahren gehe auf {{uri}}.\nAlternativ kannst du die öffentliche Ayana hier einladen {{invite}}.",
     "pro.noData": "Du hast keine Ayana PRO Abonnements. Für mehr Informationen führe den `pro` Befehl aus.",
     "sar.pickGroup": "Wähle eine Gruppe von der du Rollen zuweisen oder entfernen willst.",
     "settings.guild.publicupgrades": "Erlaubt jedem in diesem Server ihn auf Ayana PRO hochzustufen. Nur Administatoren und der Nutzer, der die Hochstufung ausgeführt hat, kann den Server abstufen.",
