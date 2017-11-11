@@ -636,7 +636,7 @@
     "help.spongebob.short": "Spongebob \"mocking meme\", zudem wird der angegebene Text gememet",
     "pro.noPublicUpgrades": "Dieser Server erlaubt keine öffentlichen Ayana PRO upgrades. Siehe `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Nur Administratoren oder der Nutzer, der diesen Server auf Ayana PRO aufgewertet hat, können ihn abwerten.",
-    "pro.description": "Ayana PRO ist eine privat gehostete Instanz von Ayana exklusiv für Patreon Unterstützer\nHöhere Musikqualitat, weniger Ausfallszeit, mehr Stabilität und erweiterter Support sind nur einige der Vorteile, die du bekommst.\n\nUm mehr zu erfahren gehe auf {{uri}}",
+    "pro.description": "Ayana PRO ist eine privat gehostete Instanz von Ayana exklusiv für Patreon Unterstützer\nHöhere Musikqualitat, weniger Ausfallszeit und mehr Stabilität sind nur einige der Vorteile, die du bekommst.\n\nUm mehr zu erfahren gehe auf {{uri}}\nAlternativ kannst du die öffentliche Ayana hier einladen {{invite}}.",
     "pro.noData": "Du hast keine Ayana PRO Abonnements. Für mehr Informationen führe den `pro` Befehl aus.",
     "sar.pickGroup": "Wähle eine Gruppe von der du Rollen zuweisen oder entfernen willst.",
     "settings.guild.publicupgrades": "Erlaubt jedem in diesem Server ihn auf Ayana PRO hochzustufen. Nur Administatoren und der Nutzer, der die Hochstufung ausgeführt hat, kann den Server abstufen.",
@@ -702,5 +702,6 @@
     "music3.searchNoResults": "Es konnten keine Ergebnisse für deine Suchanfrage gefunden werden. Bitte versuche etwas anderes.",
     "pro.manualSubscriptionRunningOut": "Dein Ayana PRO Abonnement (ID: {{id}}) läuft in weniger als 72 Stunden aus ({{expires}}).\nNachdem es abgelaufen ist, werden alle Server, die es benutzen automatisch abgestuft.\nDu kannst deine Abonnements, Aufstufungsanzahl und aufgestufte Server mit dem `pro status` Befehl einsehen.\n\nUm Ayana PRO zu behalten und Ayana zu untestützen, denke bitte über ein Abonnement nach: {{uri}}",
     "pro.pledgeDeclinedNotify": "Dein Patreon Abonnement für diesen Monat ist zurzeit abgelehnt.\nBitte überprüfe Patreon und deine Zahlungsmethode auf Korrektheit.\nWenn eine Zahlung gebucht wurde, du aber dennoch diese Nachricht erhälst, sag uns im Patreons Kanal auf Ayana Support bescheid.\n\nWenn deine Zahlung am fünften dieses Monats immer noch abgelehnt ist, wird dein Abonnement entfernt und Ayana PRO wird daraufhin automatisch deinen Server verlassen.",
-    "music3.nothingPlaying": "Zurzeit wird nichts gespielt"
+    "music3.nothingPlaying": "Zurzeit wird nichts gespielt",
+    "help.music.desc.nowplaying": "Zeigt den Song an, der zurzeit gespielt wird"
 }
