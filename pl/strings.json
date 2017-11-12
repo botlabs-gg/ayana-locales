@@ -647,7 +647,7 @@
     "music3.autoLeaveNoPromo": ":no_entry_sign: Opuszczono kanał z powodu braku aktywności. Dziękuję za używanie Ayany!",
     "pro.noPublicUpgrades": "Ten serwer nie pozwala na publiczne ulepszanie Ayana PRO. Sprawdź `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Tylko administrator lub użytkownik, który ulepszył ten serwer do Ayany PRO może ją zredukować.",
-    "pro.description": "Ayana PRO jest prywatnie hostowaną wersją, wyłączną dla darczyńców.\nLepsza jakość odtwarzania, większa stabilność oraz profesjonalne wsparcie to tylko kilka z korzyści jakie zyskujesz.\n\nAby dowiedzieć się więcej odwiedź {{uri}}",
+    "pro.description": "Ayana PRO jest prywatnie hostowaną wersją, wyłączną dla darczyńców.\nLepsza jakość odtwarzania, większa stabilność oraz profesjonalne wsparcie to tylko kilka z korzyści jakie zyskujesz.\n\nAby dowiedzieć się więcej odwiedź {{uri}}\nbądź dodaj Ayanę {{invite}}.",
     "pro.noData": "Nie posiadasz subskrypcji Ayana PRO. Aby uzyskać więcej informacji wpisz `pro`.",
     "sar.pickGroup": "Wybierz grupę, z której role chcesz sobie nadać lub odebrać.",
     "help.prune.desc.pruneUntil": "Usuwa wiadomości do momentu dotarcia do określonej wiadomości",
@@ -703,5 +703,7 @@
     "music3.searchNoResults": "Nic nie znaleziono. Spróbuj wpisać coś innego.",
     "pro.manualSubscriptionRunningOut": "Twoja subskrypcja Ayany PRO (ID: {{id}}) straci ważność w czasie krótszym niż 72 godziny ({{expires}}).\nPo wygaśnięciu, każdemu serwerowi,  korzystającemu z tej subskrypcji, zostanie przywrócona normalna wersja Ayany.\nMożesz sprawdzić, swoje subskrypcje, ich liczbę i ulepszone serwery, komendą `pro status`.\n\nDla utrzymania Ayany PRO i serwera pomocy Ayany, rozważ kupno subskrypcji: {{url}}",
     "pro.pledgeDeclinedNotify": "Nie otrzymano zapłaty subskrypcji z Patreona w tym miesiącu.\nProszę sprawdź Patreona I upewnij się, że twoja metoda płatności jest poprawna.\nJeśli zapłaciłeś miesięczną kwotę i otrzymujesz tą wiadomość, powiadom nas na kanale Wsparcia Patreona Ayany.\n\nJesli twoja wpłata piątego dnia nie zostanie uiszczona, subskrypcja zostanie automatycznie cofnięta, a Ayana PRO opuści serwer.",
-    "music3.nothingPlaying": "Nic nie jest odtwarzane"
+    "music3.nothingPlaying": "Nic nie jest odtwarzane",
+    "help.music.desc.nowplaying": "Pokazuje aktualnie odtwarzaną piosenkę",
+    "aliases.notValid": "Alias nie może zawierać znaków: `\", -, \\`."
 }
