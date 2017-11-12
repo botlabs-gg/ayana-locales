@@ -674,7 +674,7 @@
     "pro.keyReloadError": "Tua chave foi ativada porém alguma coisa deu errado. Pode demorar um pouco até você receber a sua inscrição.",
     "pro.redeemError": "Alguma coisa deu errado durante sua tentativa de ativar a chave.",
     "pro.guildCheck": "Esse servidor foi atualizado por `{{by}}` na data: `{{on}}` ({{ago}} ago).",
-    "pro.description": "Ayana PRO é uma instância com host privada de Ayana feito exclusivamente para doadores do Patreon\nReprodução de maior qualidade, menos tempo de inatividade, mais estabilidade e suporte de nivel profissional são apenas alguns dos benefícios que você consegue\n\nPara saber mais ou inscrever-se acesse {{uri}}",
+    "pro.description": "Ayana PRO é uma instância com host privada de Ayana feito exclusivamente para doadores do Patreon\nReprodução de maior qualidade, menos tempo de inatividade, mais estabilidade e suporte de nivel profissional são apenas alguns dos benefícios que você consegue\n\nPara saber mais ou inscrever-se acesse {{uri}}\nAlternativamente você pode adicionar a Ayana pública zqui {{invite}}.",
     "pro.redeemSuccess": "Sucesso! Sua chave foi resgatada. Você pode checar sua inscrição com o comando `pro status` e dar upgrade em seu servidor com o comando `pro upgrade`.",
     "pro.manualSubscriptionRunningOut": "Sua inscrição de Ayana PRO (ID: {{id}}) se esgotará em menos de 72 horas ({{expires}}).\nDepois de expirar, qualquer servidor usando essa inscrição terá seu upgrade removido automaticamente.\nVocê pode olhar suas inscrições, contagem de upgrades e servers com upgrade com o comando `pro status`.\n\nPara manter Ayana PRO e apoiar Ayana, por favor considere aderir uma inscrição {{url}}",
     "pro.pledgeDeclinedNotify": "Sua inscrição de Patreon para esse mês está atrasada.\nPor favor olhe seu Patreon e verifique se seu método de pagamento continua válido.\nSe você foi cobrado e recebeu essa mensagem, avise-nos no canal de assistência aos apoiadores de Ayana PRO no Patreon\n\nSe seu penhor continuar atrasado até o dia 5, a inscrição será invalidada e Ayana PRO vai automaticamente deixar-te.",
@@ -704,5 +704,7 @@
     "reminder.dm": "Você me pediu para lembrar-te disso.\n{{reminder}}",
     "weebsh.fail": "Você falhou em conseguir a imagem `{{type}}` do weeb.sh :< Você deveria tentar novamente.",
     "weebsh.noTypes": "Os tipos de weeb.sh não se carregam à este ponto. Por favor aguarde um pouco.",
-    "weebsh.noType": "Infelizmente, isso não pode ser encontrado em weeb.sh."
+    "weebsh.noType": "Infelizmente, isso não pode ser encontrado em weeb.sh.",
+    "help.music.desc.nowplaying": "Mostra a música que está sendo tocada",
+    "aliases.notValid": "O alias que você ingressou não deve conter os seguintes caractéres `\", -, \\`."
 }
