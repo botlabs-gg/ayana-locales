@@ -645,7 +645,7 @@
     "music3.autoLeave": ":no_entry_sign: Forlot kanalen på grunn av inaktivitet. Støtt opp om Ayana og få noen utrolige fordeler med Ayana PRO. {{uri}}",
     "pro.noPublicUpgrades": "Denne serveren tillater ikke offentlige Ayana PRO oppgraderinger. Sjekk ut `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Kun en administrator eller brukeren som oppgraderte denne serveren til Ayana PRO kan nedgradere den.",
-    "pro.description": "Ayana PRO er en privat-hostet versjon av Ayana som er eksklusiv for Patreon-supportere.\nHøykvalitets avspilling, mindre nedetid, mer stabilitiet og pro-level support er noen få av fordelene du får.\n\nFor å lære mer, eller bli en Patreon-supporter, gå til {{uri}}",
+    "pro.description": "Ayana PRO er en privat-hostet versjon av Ayana som er eksklusiv for Patreon-supportere.\nHøykvalitets avspilling, mindre nedetid og mer stabilitiet er noen få av fordelene du får.\n\nFor å lære mer, eller bli en Patreon-supporter, gå til {{uri}}.\nEt annet alternativ er å legge til den offentlige Ayana her {{invite}}.",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Forlot kanal på grunn av inaktivitet. Takk for at du brukte Ayana!",
     "help.prune.desc.pruneUntil": "Sletter meldinger inntil gitt mengde meldinger er nådd",
     "pro.noData": "Du har ikke noen Ayana PRO-abonnement For mer informasjon bruk `pro`-kommandoen.",
@@ -702,5 +702,7 @@
     "music3.alreadySkipping": "En skip-kommando er allerede i gang. Vennligst husk at du kan renske køen med `music purge`.",
     "pro.manualSubscriptionRunningOut": "Ditt Ayana PRO abonnement (ID: {{id}} løper ut om mindre enn 72 timer ({{expires}}).\nEtter at abonnementet har løpt ut vil alle servere som bruker dette abonnementet automatisk nedgraderes.\nDu kan sjekke dine abonnementer, antallet oppgraderingers og oppgradere servere med `pro status-kommandoen.\n\nFor å beholde Ayana PRO og hjelpe til med å støtte Ayana, vennligst vurder å få et abonnement: {{url}}",
     "pro.pledgeDeclinedNotify": "Ditt Patreon abonnement for denne måneden er for tiden avslått.\nVennligst sjekk Patreon og verifiser at din betalingsmetode er gyldig.\nOm det er blitt trukket penger og du likevel får denne meldingen, vennligst gi oss beskjed i Patreon-kanalen i Ayana Support-serveren.\n\nOm ditt abonnement fortsatt er avslått den 5., abonnementet vil bli invalidert og Ayana PRO vil automatisk forlate serveren.",
-    "music3.nothingPlaying": "Ingenting blir for tiden spilt"
+    "music3.nothingPlaying": "Ingenting blir for tiden spilt",
+    "help.music.desc.nowplaying": "Viser sanger som blir spilt",
+    "aliases.notValid": "Aliaset du la til kan ikke inneholde symbolene: `\", -, \\`."
 }
