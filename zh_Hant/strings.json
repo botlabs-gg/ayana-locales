@@ -217,7 +217,7 @@
     "pro.instanceNotPro": "此功能僅限於Ayana PRO才能使用。請執行 `pro invite` 來邀請她進入你的伺服器。",
     "pro.noPublicUpgrades": "此伺服器不允許公開的Ayana PRO升級。請執行 `settings guild publicupgrades` 。",
     "pro.cannotDowngrade": "只有此伺服器管理員或是對此伺服器升級Ayana PRO的使用者可以降級。",
-    "pro.description": "Ayana PRO是一個私人架設的bot，專屬於在Patreon上支援Ayana的贊助者。\n你可以獲得更多好處，例如更高質量的音樂品質，更少的停機時間，更穩定以及專業級的服務。\n\n想了解更多或是取得Ayana PRO的話請點此連結 {{uri}}",
+    "pro.description": "Ayana PRO是一個私人架設的bot，專屬於在Patreon上支援Ayana的贊助者。\n你可以獲得更多好處，例如更高質量的音樂品質，更少的停機時間，更穩定以及專業級的服務。\n\n想了解更多或是取得Ayana PRO的話請點此連結 {{uri}}。",
     "pro.noData": "你沒有任何Ayana PRO贊助。請執行 `pro` 命令以了解更多資訊。",
     "pro.disabled": "Ayana PRO目前在此Ayana被禁用。",
     "pro.redeemingKey": "兌換你的金鑰中... 請稍候。",
@@ -654,5 +654,7 @@
     "music3.searchNoResults": "沒有找到你要求的結果。請嘗試其他關鍵字。",
     "pro.manualSubscriptionRunningOut": "你的 Ayana PRO 訂閱 (ID: {{id}}) 將於72小時內過期 ({{expires}})。\n在過期後，任何使用此 Ayana PRO 訂閱的伺服器將會被自動降級成Ayana。\n你可以透過 `pro status` 命令來確認你的訂閱狀況、升級次數以及已升級的伺服器列表。\n\n想要繼續訂閱Ayana PRO或是贊助Ayana，請考慮訂閱我們: {{url}}",
     "pro.pledgeDeclinedNotify": "目前您這個月的Patreon訂閱請求遭到婉拒。\n請到Patreon確認並驗證你的付款方式是否仍然有效。\n如果在你更改付款承諾後仍然出現此訊息，請在Ayana Support Patreons頻道(英文)讓我們知道。\n\n如果你的付款承諾拒絕5次以上(含)，你對我們的訂閱就會失效，而且Ayana PRO將會自動離開。",
-    "music3.nothingPlaying": "目前沒有正在播放的音樂"
+    "music3.nothingPlaying": "目前沒有正在播放的音樂",
+    "help.music.desc.nowplaying": "顯示正在播放的歌曲",
+    "aliases.notValid": "你的縮寫不應該包含以下字元：`\", -, \\`."
 }
