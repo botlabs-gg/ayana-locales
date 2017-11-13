@@ -648,7 +648,7 @@
     "music3.autoLeave": ":no_entry_sign: Forlod kanalen på grund af inaktivitet. Hjælp med at støtte Ayana og få nogle fede fordele med Ayana PRO. {{uri}}",
     "pro.noPublicUpgrades": "Denne server tillader ikke offentlige opgraderinger til Ayana Pro. Se `setting guild publicupgrades`.",
     "pro.cannotDowngrade": "Kun en administrator eller brugeren der opgraderede denne server til Ayana PRO kan nedgradere den.",
-    "pro.description": "Ayana PRO er en privat hosted instans af Ayana, der er eksklusiv til folk som støtter på Patreon.\nHøjere kvalitets afspilning, mindre nede tid og mere stabilitet er kun få af de fordele som du vil modtage.\n\nFor at lære mere, eller hoppe ombord, gå til {{uri}}\nSom alternativ kan du invitere den offentlige ayana her {{invite}}.",
+    "pro.description": "Ayana PRO er en privat hosted instans af Ayana, der er eksklusiv til folk som støtter på Patreon.\nHøjere kvalitets afspilning, mindre nede tid og mere stabilitet er kun nogle af fordelene du vil få.\n\nFor at lære mere, eller blive en Patreon-supporter, gå til {{uri}}\nAlternativt kan du tilføje den offentlige Ayana her {{invite}}.",
     "music3.autoLeaveNoPromo": ":no_entry_sign: Forlod kanalen på grund af inaktivitet. Tak for at bruge Ayana!",
     "general.targetHigherThanAyana": "{{target}} har en højere rolle end jeg har. Jeg kan ikke modificere dem.",
     "general.discordError": "Discord stødte på et problem under den sidste forespørgsel. Prøv venligst igen. ({{error}})",
@@ -706,5 +706,6 @@
     "pro.manualSubscriptionRunningOut": "Dit Ayana PRO abonnement (ID: {{id}}) udløber om mindre end 72 timer ({{expires}}).\nEfter abonnementet har udløbet vil alle servere der bruger dette abonnement automatisk nedgradere.\nDu kan tjekke dine abonnementer, antal opgraderinger og opgraderede servere med `pro status` kommandoen.\n\nFor at beholde Ayana PRO og hjælpe med at støtte Ayana, overvej venligst at få et abonnement: {{url}}",
     "pro.pledgeDeclinedNotify": "Dit Patreon abonnement for denne måned er afslået lige nu.\nTjek venligst Patreon og verificer at din betallingsmetode er gyldig.\nHvis der blev hævet penge og du stadig modtager denne besked, venligst giv os besked i Patreon kanalen i Ayana Support serveren.\n\nHvis dit abonnement stadig er afslået d. 5., abonnementet vil blive invalideret og Ayana PRO vil automatisk forlade serveren.",
     "music3.nothingPlaying": "Intet bliver afspillet lige nu",
-    "help.music.desc.nowplaying": "Viser sangen som bliver afspillet"
+    "help.music.desc.nowplaying": "Viser sangen som bliver afspillet",
+    "aliases.notValid": "Aliaset du brugte kan ikke indeholde følgende symboler: `\", -, \\`."
 }
