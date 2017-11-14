@@ -330,5 +330,17 @@
     "help.dance.short": "跳舞的动漫片照片",
     "help.idk.short": "发耸照片要是你没有理念",
     "help.hug.short": "拥抱照片, 也让您拥抱您的朋友",
-    "help.insult.short": "任意发出骂人照片, 您也能提到别人要是您想要骂别人"
+    "help.insult.short": "任意发出骂人照片, 您也能提到别人要是您想要骂别人",
+    "help.inu.short": "任意的发狗狗照片从random.dog",
+    "help.kiss.short": "接吻照片, 您也可能提到别人要是您想要亲亲它们",
+    "help.neko.short": "任意的猫猫照片从random.cat",
+    "help.nom.short": "任意发出吃饭的照片",
+    "help.music.desc.nowplaying": "显示现在播放的歌曲",
+    "help.owo.short": "'OwO, 这是什么?' 火星语",
+    "help.poke.short": "戳人照片, 您也可能提到别人要是您想要戳它们",
+    "help.slap.short": "拍人照片, 您也可能提到别人去拍它们",
+    "help.sleepy.short": "正在睡觉的卡通照片",
+    "help.smile.short": "微笑的卡通照片",
+    "help.teehee.short": "傻笑的反应照片",
+    "help.thumbsup.short": "竖起大拇指照片"
 }
