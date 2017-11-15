@@ -613,7 +613,7 @@
     "music3.enqueuedPlaylist": "Aangevraagd: `{{count}}` liedjes van `{{title}}`",
     "music3.queueUri": "[Zie het op ayana.io]({{url}})",
     "pro.guildNotPro": "A.u.b. upgrade deze server naar Ayana PRO om toegang te krijgen tot dit kenmerk. Voor meer informatie voer de `pro` commando uit.",
-    "pro.instanceNotPro": "Dit kenmerk is alleen beschikbaar voor Ayana PRO. Voeg haar a.u.b. toe aan jouw server, nadat voer `pro invite` uit voor een uitnodiging.",
+    "pro.instanceNotPro": "Dit kenmerk is alleen beschikbaar voor Ayana PRO. Voeg haar a.u.b. toe aan jouw server door `pro upgrade` te sturen in chat en volg de instructies.",
     "music3.repeat.one": ":repeat_one: Herhaal een enkel item",
     "music3.repeat.on": ":repeat: Herhaal de gehele wachtrij",
     "music3.repeat.off": ":no_entry: Herhalen uitgeschakeld",
