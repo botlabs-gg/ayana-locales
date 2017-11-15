@@ -625,7 +625,7 @@
     "music3.autoLeaveNoPromo": ":no_entry_sign: Kanaal verlaten vanwege inactiviteit. Bedankt voor het gebruiken van Ayana!",
     "pro.noPublicUpgrades": "Deze server staat niet publieke Ayana PRO upgrades toe. Zie `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Alleen een administrator of de gebruiker dat deze server geüpgraded heeft naar Ayana PRO kan het degraderen.",
-    "pro.description": "Ayana PRO is een privé gehoste voorbeeld van Ayana's exclusieve naar Patreon supporters. \nHogere kwaliteit afspeler, lagere downtime, meer stabiliteit, en pro level support zijn gewoon een paar voordelen die jij krijgt.\n\nOm meer erover te leren of een bord te verkrijgen ga naar {{uri}}",
+    "pro.description": "Ayana PRO is een privé gehoste exclusieve Ayana voor Patreon supporters. \nHogere kwaliteit afspeler, lagere downtime en meer stabiliteit zijn gewoon een paar voordelen die jij krijgt.\n\nOm meer erover te leren of een bord te verkrijgen ga naar {{uri}}.\nEen alternatief is dat je de publieke Ayana kan toevoegen via {{invite}}.",
     "help.prune.desc.pruneUntil": "Filtert / verwijdert berichten totdat de gegeven bericht is bereikt",
     "pro.noData": "Je hebt geen Ayana PRO abonnementen. Voor meer informatie voer de `pro` commando uit.",
     "sar.pickGroup": "Kies een groep waarvan je rollen wilt toevoegen of verwijderen.",
@@ -681,5 +681,7 @@
     "music3.searchNoResults": "Geen resultaten koppelen jouw vraagstelling. Probeer iets anders.",
     "pro.manualSubscriptionRunningOut": "Jouw Ayana PRO-abonnement (ID: {{{id}}) loopt in minder dan 72 uur uit ({{verloopt}}).\nNa afloop van het abonnement worden servers die dit abonnement gebruiken automatisch gedowngraded.\nJe kunt jouw abonnementen, upgrade aantal en geüpgrade servers checken met de `pro status` commando.\n\nOm Ayana PRO te houden en Ayana te helpen ondersteunen, kunt u overwegen een abonnement te krijgen: {{url}}",
     "pro.pledgeDeclinedNotify": "Jouw Patreon-abonnement voor deze maand wordt momenteel geweigerd.\nControleer Patreon en controleer of uw betaalmethode nog steeds geldig is.\nAls u voor de belofte in rekening bent gebracht en dit bericht hebt ontvangen, laat het ons dan weten in de Ayana Support Patreons kanaal\n\nAls jouw belofte op de 5e nog steeds geweigerd wordt, wordt het abonnement ongeldig gemaakt en zal Ayana PRO automatisch vertrekken.",
-    "music3.nothingPlaying": "Er is momenteel niks aan het afspelen"
+    "music3.nothingPlaying": "Er is momenteel niks aan het afspelen",
+    "help.music.desc.nowplaying": "Toon het lied dat wordt afgespeeld",
+    "aliases.notValid": "De alias die je hebt ingevoerd mag de volgende karakters niet bevatten: `''',-,|`."
 }
