@@ -623,7 +623,7 @@
     "music3.skipEmpty": "Die Warteschlange ist leer. Es gibt nichts zu überspringen.",
     "music3.playEmpty": "Die Warteschlange ist leer, füge ein paar Songs hinzu!",
     "pro.guildNotPro": "Bitte upgrade diesen Server auf Ayana PRO um dieses Feature zu benutzen. Für mehr informationen führe den `pro` Befehl aus.",
-    "pro.instanceNotPro": "Dieses Feature ist nur in der Ayana PRO Instanz verfügbar. Bitte lade sie in deinen Server ein und führe `pro invite` aus um den Einladungslink zu erhalten.",
+    "pro.instanceNotPro": "Dieses Feature ist nur in der Ayana PRO Instanz verfügbar. Bitte lade sie in deinen Server ein indem du `pro upgrade` ausführst und den Anweisungen folgst.",
     "help.lick.short": "\"leck\" Bilder; Zudem kannst du jemanden erwähnen, den du \"lecken\" möchtest",
     "help.megumin.short": "Megumin GIFs von dem Anime Konosuba",
     "help.nom.short": "Zufällige \"nomming/eating\" Bilder",
