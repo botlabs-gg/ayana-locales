@@ -627,7 +627,7 @@
     "pro.guildNotPro": "Actualiza este servidor a Ayana PRO para acceder a esta función. Para obtener más información, ejecute el comando `pro`.",
     "music3.enqueued": "En cola: `{{title}}` en posición **{{position}}**",
     "music3.enqueuedPlaylist": "En cola: `{{count}}` canciones de `{{title}}`",
-    "pro.instanceNotPro": "Esta característica está solo disponible en la instancia de Ayana PRO. Por favor añádela a tu servidor, entonces ejecuta `pro invite` para la invitación.",
+    "pro.instanceNotPro": "Esta prestación solo está disponible en Ayana PRO. Por favor agréguela a su servidor ejecutando `pro upgrade` y siguiendo las instrucciones.",
     "help.music.desc.bindVoice": "Especifica el canal de voz para conectarse a",
     "help.music.desc.bindText": "Especifica el canal de texto al que quiere unirse",
     "help.music.desc.selectRegion": "Fuerza la conexión a la región especificada",
