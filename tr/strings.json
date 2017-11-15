@@ -616,7 +616,7 @@
     "music3.enqueuedPlaylist": "Sıraya `{{title}}` listesinden `{{count}}` kadar şarkı eklendi",
     "music3.queueUri": "[ayana.io'da görüntüle]({{uri}})",
     "pro.guildNotPro": "Lütfen bu özelliğe erişmek içiç serverinizi Ayana PRO'ya yükseltin. Daha fazla bilgi için `pro` komutunu çalıştırın.",
-    "pro.instanceNotPro": "Bu özellik sadece Ayana PRO'da vardır. Onu lütfen serverinize ekleyin, sonra da çağırmak için `pro invite` komutunu çalıştırın.",
+    "pro.instanceNotPro": "Bu özellik sadece Ayana PRO'da vardır. Onu lütfen serverinize ekleyin, sonra da `pro upgrade` komutunu çalıştırıp talimatları takip edin.",
     "music3.repeat.one": ":repeat_one: Tek şarkıyı tekrarlıyorum",
     "music3.repeat.on": ":repeat: Tüm listeyi tekrarlıyorum",
     "music3.repeat.off": ":no_entry: Tekrarlama kapatıldı",
