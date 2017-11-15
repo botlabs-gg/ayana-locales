@@ -628,7 +628,7 @@
     "music3.autoLeaveNoPromo": ":no_entry_sign: Aktifsizlikten dolayı kanaldan çıktım. Ayana'yı kullandığınız için teşekkürler!",
     "pro.noPublicUpgrades": "Bu sunucu, herkese açık Ayana PRO yükseltmelerine izin vermiyor. Bkz: `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Sadece bir administratör veya Ayana PRO'ya yükselten kişi geriletebilir.",
-    "pro.description": "Ayana PRO, Patreon destekçilerine özel olarak sunulan bir Ayana versiyonudur.\nYüksek kalite geri oynatma, daha az çevrimdışılık, daha istikrarlı ve prof. seviyede yardım sadece birkaç özellikleri.\n\nDaha fazla öğrenmek için veya PRO'ya sahip olmak için: {{uri}}",
+    "pro.description": "Ayana PRO, Patreon destekçilerine özel olarak sunulan bir Ayana versiyonudur.\nYüksek kalite geri oynatma, daha az çevrimdışılık ve istikrarlılık sadece birkaç özellikleri.\n\nDaha fazla öğrenmek için veya PRO'ya sahip olmak için: {{uri}}\nAlternatif olarak herkese açık olan Ayana'yı buradan ekleyebilirsiniz {{invite}}.",
     "pro.noData": "Hiç bir Ayana PRO aboneliğiniz yok. Daha fazla bilgi için `pro` komutunu çalıştırın.",
     "sar.pickGroup": "Rolleri ekleyip/çıkarmak istediğiniz grubu seçin.",
     "general.targetHigherThanAyana": "{{target}} benden daha yüksek bir role sahip. Modifikasyon yapamıyorum.",
@@ -684,5 +684,7 @@
     "music3.searchNoResults": "Aramanıza uygun sonuçlar bulunamadı.\nLütfen başka bir kelime ile deneyiniz.",
     "pro.manualSubscriptionRunningOut": "Ayana PRO aboneliğin (ID: {{id}}) 72 saat içinde bitecek ({{expires}}).\nAbonelik bittikten sonra, bu servisi kullanan herhangi bir sunucu otomatik olarak düşürülecek.\nAboneliğini, kullanılabilir yükseltme sayısını ve yükselttiğin sunucuları görmek için `pro status` komutunu kullan.\n\nAyana PRO'ya sahip olmak ve Ayana'yı desteklemeye yardımcı olmak için, lütfen abonelik almayı düşünün: {{url}}",
     "pro.pledgeDeclinedNotify": "Bu ay için Patreon aboneliğin reddedildi.\nLütfen Patreon'a bakıp ödeme yönteminizin halen geçerli olduğunundan emin olun.\nPara çekilmesinin karşın bu measjı aldıysanız, lütfen bunu Ayana Yardım Patreon'lar kanalında bildirin\n\nEğer ödemeniz halen ayın beşine kadar reddedilirse, abonelik sonlandırılacak ve Ayana PRO otomatikmen sunucudan ayrılacak.",
-    "music3.nothingPlaying": "Şu anda oynayan bir şey yok"
+    "music3.nothingPlaying": "Şu anda oynayan bir şey yok",
+    "help.music.desc.nowplaying": "Oynatılan şarkıyı gösterir",
+    "aliases.notValid": "Girdiğiniz takma komutlar bu karakterleri içermemeli: `\", -, \\`."
 }
