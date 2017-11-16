@@ -307,7 +307,7 @@
     "pro.pledgeTooLow": "Your Patreon pledge is too low to update your donation text.",
     "pro.donatorTextNotSet": "You don't have a donator text set that can be updated.",
     "pro.guildNotPro": "Please upgrade this server to Ayana PRO to access this feature. For more information run the `pro` command.",
-    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server, then run `pro invite` for the invite.",
+    "pro.instanceNotPro": "This feature is only available on the Ayana PRO instance. Please add her to your server by running `pro upgrade` and following the instructions.",
     "pro.noPublicUpgrades": "This server does not allow public Ayana PRO upgrades. See `settings guild publicupgrades`.",
     "pro.cannotDowngrade": "Only an administrator or the user that upgraded this server to Ayana PRO may downgrade it.",
     "pro.description": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality playback, less downtime and more stability are just a few of the benefits you get.\n\nTo learn more or to get on board go to {{uri}}.\nAlternatively you can add public Ayana here {{invite}}.",
