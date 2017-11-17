@@ -633,7 +633,7 @@
     "pro.guildNotPro": "Por favor atualize este servidor para Ayana PRO para acessar essa função. Para mais informações execute o comando `pro`.",
     "pro.instanceNotPro": "Esta característica é apenas disponivel para instâncias de Ayana PRO. Por favor adicione a em seu servidor, digite `pro invite` para o convite.",
     "help.music.desc.bindText": "Especifica o canal de texto para vincular",
-    "help.cuddle.short": "Imagem em posição fetal e permite que você se agarre nas pessoas",
+    "help.cuddle.short": "Imagens em posição fetal; você também pode mencionar alguém para agarrar-se",
     "help.thumbsup.short": "Imagens de thumbsUP",
     "music3.repeat.one": ":repeat_one: Repetir um único item",
     "music3.repeat.on": ":repeat: Repetir fila inteira",
