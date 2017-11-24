@@ -468,7 +468,7 @@
     "help.role.options.giveTake": "Opções para dar cargo e tomar cargo",
     "help.role.desc.bots": "Apenas muda cargos para bots",
     "help.role.desc.users": "Apenas muda cargos para usuários",
-    "help.role.desc.user": "Apenas muda cargos para usuários especificos",
+    "help.role.desc.user": "Apenas mudará cargos para usuários específicos",
     "help.role.desc.inrole": "Apenas muda cargos se o alvo tem o cargo especifico",
     "help.role.desc.notinrole": "Apenas muda cargos se o alvo não tem o cargo especifico",
     "help.role.desc.noroles": "Apenas muda cargos se o alvo não tem nenhum cargo",
