@@ -1,7 +1,7 @@
 {
     "general.guildOnly": "Hanya tersedia di Server.",
     "general.error": "Sebuah masalah terjadi. Mohon laporkan ini di guild bantuan kami (perintah `support` untuk mendapatkan invite).\n```{{error}}```",
-    "finder.failUser": "Tidak dapat menemukan pengguna yang cocok.",
+    "finder.failUser": "Tidak dapat menemukan pengguna yang cocok",
     "finder.failRole": "Tidak dapat menemukan role yang cocok.",
     "finder.failChannel": "Tidak dapat menemukan channel yang cocok.",
     "finder.failGuild": "Tidak dapat menemukan server yang cocok.",
