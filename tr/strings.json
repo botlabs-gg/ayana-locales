@@ -210,7 +210,7 @@
     "general.pagination.blocked": "Sayfalamanız bloke edildi. Lütfen şu an kullandığınız sayfalamayı kapatınız.",
     "general.pagination.altClose": "Sayfalamayı kapatmak için `x` yazın.",
     "general.pagination.altNavi": "Sayfayı değiştirmek için alternatif olarak `<` ve `>`yazabilirsiniz. Başka bir sayfaya atlamak için `p<num>` yazabilirsiniz (örnek `p10`).",
-    "general.ayanaRoleTooLow": "`{{role}}` rolünü kullanamam ve düzenleyemem çünkü en üst rolüm onun üstünde değil. Lütfen beni daha yüksek bir role taşıyın.",
+    "general.ayanaRoleTooLow": "`{{role}}` rolünü kullanıp düzenleyemem çünkü en üst rolüm onun üstünde değil. Lütfen beni daha yüksek bir role yerleştirin.",
     "general.pagination.perms": "`Mesajları Yönet` iznine sahipmişim gibi gözükmüyor. Mesajları silebilmem için bu izni vermelisin.",
     "finder.skippingUser": "Kullanıcı `{{search}}` geçiliyor",
     "finder.skippingRole": "Rol `{{search}}` geçiliyor",
