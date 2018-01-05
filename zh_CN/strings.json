@@ -345,5 +345,16 @@
     "help.thumbsup.short": "竖起大拇指照片",
     "help.nyan.short": "猫女孩照片",
     "help.wag.short": "晃着尾巴的卡通照片",
-    "help.wasted.short": "浪费火星语"
+    "help.wasted.short": "浪费火星语",
+    "help.perms.desc.note": "    允许在选项排位, 这个意思是渠道用户    是最高的等级, 服务器是在最低的等级.",
+    "help.prune.desc.silent": "无声. 删除修剪结果",
+    "help.role.desc.note": "    这个命令不会让您给, 拿或者改变角色\n    在比您或者阿亚娜的高或者相等角色.",
+    "help.sar.desc.reqrole": "设置需要的角色来用这个组",
+    "help.sar.desc.max": "设置最多的角色一个用户能拥有从这个组",
+    "help.sar.desc.default": "设或者取消这个组成为默认的组",
+    "help.sayd.short": "像说是, 可是我也会删除您的命令",
+    "help.shrugd.short": "像耸是, 可是我也会删除您的命令",
+    "help.awoo.short": "树叶娃娃/旺 照片来 'awoo'",
+    "help.jojo.short": "乔乔的奇怪的冒险火星语",
+    "help.lick.short": "舔舔照片; 您也可以提到别人来舔它们"
 }
