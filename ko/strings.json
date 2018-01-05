@@ -281,7 +281,7 @@
     "prune.oldMsgsNotDeleted": "오래된 메세지들이 삭제되지 않았어요",
     "prune.deletedByUser": "유저에 의해 메시지가 삭제되었어요",
     "prune.alreadyPruning": "누군가 이 채널에서 정리 명령어를 실행했어요! 완료될 때까지 기다려 주세요.",
-    "role.missingPerms": "죄송해요, 제게 `역할 관리` 권한이 없어요...",
+    "role.missingPerms": "죄송해요, 저는 `역할 관리` 권한이 없어요...",
     "role.noRoleSpecified": "주었거나 받은 역할을 지정하지 않았어요.",
     "role.specifyUser": "`--user <user>`를 사용하실 때는 유저를 지정해주셔야 해요.",
     "role.cannotUseInroleNotinrole": "`--inrole`과 `--notinrole`을 같이 사용하실 수 없어요.",
@@ -539,7 +539,7 @@
     "random.upperBound": "상한",
     "random.lowerBound": "하한",
     "random.noNumber": "주어진 정수 중 최소 하나가 숫자가 아니에요.",
-    "random.numberTooLarge": "주어진 숫자 중 하나가 너무 커요. 아무리 커도 {{max}}보다 크면 안되요.",
+    "random.numberTooLarge": "주어진 숫자 중 하나가 너무 커요. 아무리 커도 {{max}}보다 크면 안돼요.",
     "random.lowerBoundTooLarge": "하한이 상한보다 클 수 없어요.",
     "random.result": "당신의 무작위 숫자는 {{number}}에요!",
     "role.notProcessing": "현재 아무런 역할 요청도 처리되고 있지 않아요.",
@@ -696,5 +696,5 @@
     "pro.pledgeDeclinedNotify": "이번 달의 Patreon 구독이 취소되었어요.\nPatreon을 확인하셔서 결제 수단과 방법이 올바른지 확인해주세요.\n제대로 후원 금액을 지불 했는데도 이 메세지를 보고 계시다면, 아야나 지원 서버 Patreon 채널에 알려주세요.\n\n만약 후원이 5번 거절되면, 구독은 자동으로 무효로 처리되면서 아야나 프로가 자동으로 서버를 떠날거에요.",
     "music3.nothingPlaying": "현재 아무것도 재생중이지 않아요.",
     "help.music.desc.nowplaying": "재생중인 곡을 표시하기",
-    "aliases.notValid": "입력하신 비슷한 명령어는 반드시 다음과 같은 문자들을 포함해선 안되요: `\", -, \\`."
+    "aliases.notValid": "입력하신 비슷한 명령어는 반드시 다음과 같은 문자들을 포함해선 안돼요: `\", -, \\`."
 }
