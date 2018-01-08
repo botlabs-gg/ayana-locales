@@ -122,7 +122,7 @@
     "music2.headerSearch": "[Shit I found]",
     "music2.pickOption": "Pick something to fucking enqueue it.",
     "music2.emptyQueue": "Nothing here, fuck off.",
-    "music2.headerQueue": "[(Shitty) Music Queue]",
+    "music2.headerQueue": "[Music Queue(Mongolian Throat Singing)]",
     "music2.queueShuffled": ":twisted_rightwards_arrows: Shuffled queue, now it's probably worse.",
     "music2.skipped": ":fast_forward: Fuck this song `{{item}}`.",
     "music2.loopOne": ":repeat_one: Repeating your shitty music.",
