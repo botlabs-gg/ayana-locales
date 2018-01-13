@@ -1,6 +1,6 @@
 {
-    "general.guildOnly": "只限在伺服器裡使用。",
-    "general.unableToDM": "我沒辦法對你發送私人訊息。這可能是因為在你的隱私&安全中關閉了「允許來自伺服器成員的私人訊息」。請把這個選項打開以便接收我給你的私人訊息。",
+    "general.guildOnly": "只限在伺服器內使用。",
+    "general.unableToDM": "我沒辦法對你發送私人訊息。這可能是因為在你的「隱私&安全」設定中關閉了「允許來自伺服器成員的私人訊息」。請把這個選項打開以便接收我給你的私人訊息。",
     "general.forbidden": "我已經嘗試要回覆你的命令，可是我沒有權限。請你讓伺服器管理員給我「發送訊息」的權限。\n\n伺服器︰ `{{guild}}`\n頻道： `{{channel}}`\n命令： `{{cmd}}`\n\n如果你不想要再次看到這些訊息，請在伺服器上執行`settings user dmerrors false`。",
     "general.gatewayFailure": "與閘道聯繫失敗。請稍後再嘗試。",
     "general.cooldown": "哇！太熱門了 - 這命令正在冷卻中。",
@@ -643,7 +643,7 @@
     "info.moreInfo": "*Ayana建立者，你可以使用 {{prefix}}shardinfo 來查看每個小型Ayana的詳細狀態資訊",
     "shardinfo.fail": "嘗試從閘道獲取分片伺服器的資訊時發生錯誤。",
     "shardinfo.currentShard": "這個碎片",
-    "general.invalidEmbed": "我無法發送我想要的嵌入式訊息。驗證器印出了以下的錯誤。如果你需要更多幫助，請回報到我們的支援伺服器（使用 `support` 命令來獲得邀請）。\n```{{error}}```",
+    "general.invalidEmbed": "我無法發送我想要的嵌入式訊息。驗證器顯示出了以下的錯誤訊息。如果你需要更多幫助，請回報到我們的支援伺服器（使用 `support` 命令來獲得邀請）。\n```{{error}}```",
     "general.pagination.cooldown": "哇！你輸入速度太快了 - 目前的分頁正在冷卻中。",
     "help.pro.desc.status": "顯示你運行的Ayana PRO訂閱以及升級次數",
     "help.sar.desc.note": "    要使用分配界面的話，你必須輸入 {{prefix}}rank [group]",
