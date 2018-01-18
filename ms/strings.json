@@ -44,7 +44,7 @@
     "general.forbidden": "Saya cuba menjawab arahan anda, tetapi saya kekurangan kebenaran. Sila minta seorang staf untuk beri saya kebenaran `Send Messages` Discord.\n\nServer: ‘{{guild}}‘\nChannel: ‘{{channel}}‘\nArahan: ‘{{cmd}}‘\n\nJika anda tidak mahu lagi untuk lihat mesej ini, sila jalankan `settings user dmerrors false` dalam server ini.",
     "general.gatewayFailure": "Gagal untuk menghubungi Gateway. Sila cuba lain kali.",
     "general.pagination.cooldown": "Woah! Terlalu hangat - input penomboran muka surat akan nyahaktif buat sementara.",
-    "general.ayanaRoleTooLow": "Saya tidak boleh guna atau ubah suai pangkat `{{role}}` kerana pangkat tertinggi saya tidak mengatasi pangkat tersebut. Sila naikkan pangkat saya melebihi pangkat tersebut.",
+    "general.ayanaRoleTooLow": "Saya tidak boleh guna atau ubah suai pangkat `{{role}}` kerana pangkat tertinggi saya tidak mengatasi pangkat tersebut. Sila naikkan pangkat saya ke pangkat lagi tinggi.",
     "general.userRoleTooLow": "Pangkat `{{role}}` tidak boleh diguna atau diubah suai kerana pangkat tertinggi anda tidak mengatasi pangkat tersebut.",
     "general.pagination": "Halaman {{page}}/{{pages}}",
     "general.targetHigherRole": "{{target}} memiliki pangkat lebih tinggi daripada anda. Anda tidak boleh ubah suai mereka.",
