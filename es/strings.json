@@ -252,7 +252,7 @@
     "donators.none": "Imposible de encontrar algún donador.",
     "question.timeout": "El tiempo de respuesta se terminó.",
     "question.cancelled": "Pregunta cancelada.",
-    "general.unableToDM": "No he podido enviarle un mensaje directo. Esto puede ser causado por tener la opción de 'Permitir que los mensajes directos de los miembros de servidor' en la configuración de privacidad de Discord establecida en false. Por favor, habilite esta opción para recibir este mensaje directo.",
+    "general.unableToDM": "No he podido enviarle un mensaje directo. Esto puede ser causado por tener la opción de 'Permitir mensajes directos de miembros del servidor' en la configuración de privacidad de Discord establecida como apagada. Por favor, habilite esta opción para recibir este mensaje directo.",
     "help.avatar.short": "Obtener el avatar de un usuario",
     "help.bigtext.short": "Genera texto con indicadores regionales",
     "help.botlist.short": "Obtener lista de bot de carbon",
