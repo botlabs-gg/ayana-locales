@@ -703,5 +703,6 @@
     "pro.pledgeDeclinedNotify": "So apparently we can't get your Patreon subscription for this month.\nCheck your shit payments to see if it still works.\nIf you gave us your money and got this, tell us in the Ayana Support Patreons channel\n\nIf you don't pay up on the 5th, Ayana PRO is gonna leave your shit server.",
     "music3.nothingPlaying": "Nuffin playin bitch",
     "help.music.desc.nowplaying": "Shows the shitty song that the bot is playing",
-    "aliases.notValid": "Your shitty Alias can't contain: `\", -, \\`. cunt."
+    "aliases.notValid": "Your shitty Alias can't contain: `\", -, \\`. cunt.",
+    "help.music.desc.volume": "Adjusts earrape level"
 }
