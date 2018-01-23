@@ -705,5 +705,6 @@
     "pro.pledgeDeclinedNotify": "Nie otrzymano zapłaty subskrypcji z Patreona w tym miesiącu.\nProszę sprawdź Patreona I upewnij się, że twoja metoda płatności jest poprawna.\nJeśli zapłaciłeś miesięczną kwotę i otrzymujesz tą wiadomość, powiadom nas na kanale Wsparcia Patreona Ayany.\n\nJesli twoja wpłata piątego dnia nie zostanie uiszczona, subskrypcja zostanie automatycznie cofnięta, a Ayana PRO opuści serwer.",
     "music3.nothingPlaying": "Nic nie jest odtwarzane",
     "help.music.desc.nowplaying": "Pokazuje aktualnie odtwarzaną piosenkę",
-    "aliases.notValid": "Alias nie może zawierać znaków: `\", -, \\`."
+    "aliases.notValid": "Alias nie może zawierać znaków: `\", -, \\`.",
+    "help.music.desc.volume": "Ustaw głośność"
 }
