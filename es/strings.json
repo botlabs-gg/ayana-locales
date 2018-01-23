@@ -702,5 +702,6 @@
     "pro.pledgeDeclinedNotify": "Tú suscripción de Patreon para este mes está actualmente rechazada.\nCompruebe Patreon y verifique que su método de pago sigue siendo válido.\nSi le cobraron la garantía y esta recibiendo este mensaje, avísenos en el canal de Asistencia Patreons de Ayana.\n\nSi su garantía todavía sigue rechazada hasta el dia 5, la suscripción será invalidada y Ayana PRO se irá automáticamente.",
     "music3.nothingPlaying": "Nada se está reproduciendo actualmente",
     "help.music.desc.nowplaying": "Muestra la canción que se está reproduciendo",
-    "aliases.notValid": "El alias que ingresó no debe contener los siguientes caracteres: `\", -, \\ `."
+    "aliases.notValid": "El alias que ingresó no debe contener los siguientes caracteres: `\", -, \\ `.",
+    "help.music.desc.volume": "Ajuste el volumen de reproducción"
 }
