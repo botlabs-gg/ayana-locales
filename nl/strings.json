@@ -683,5 +683,6 @@
     "pro.pledgeDeclinedNotify": "Jouw Patreon-abonnement voor deze maand wordt momenteel geweigerd.\nControleer Patreon en controleer of uw betaalmethode nog steeds geldig is.\nAls u voor de belofte in rekening bent gebracht en dit bericht hebt ontvangen, laat het ons dan weten in de Ayana Support Patreons kanaal\n\nAls jouw belofte op de 5e nog steeds geweigerd wordt, wordt het abonnement ongeldig gemaakt en zal Ayana PRO automatisch vertrekken.",
     "music3.nothingPlaying": "Er is momenteel niks aan het afspelen",
     "help.music.desc.nowplaying": "Toon het lied dat wordt afgespeeld",
-    "aliases.notValid": "De alias die je hebt ingevoerd mag de volgende karakters niet bevatten: `'',-,\\`."
+    "aliases.notValid": "De alias die je hebt ingevoerd mag de volgende karakters niet bevatten: `'',-,\\`.",
+    "help.music.desc.volume": "Pas het volume aan van playback"
 }
