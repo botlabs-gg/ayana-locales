@@ -686,5 +686,6 @@
     "pro.pledgeDeclinedNotify": "Bu ay için Patreon aboneliğin reddedildi.\nLütfen Patreon'a bakıp ödeme yönteminizin halen geçerli olduğunundan emin olun.\nPara çekilmesine karşın bu mesajı aldıysanız, lütfen bunu Ayana Yardım Patreon'lar kanalında bildirin\n\nEğer ödemeniz halen ayın beşine kadar reddedilirse, abonelik sonlandırılacak ve Ayana PRO otomatikmen sunucudan ayrılacak.",
     "music3.nothingPlaying": "Şu anda oynayan bir şey yok",
     "help.music.desc.nowplaying": "Oynatılan şarkıyı gösterir",
-    "aliases.notValid": "Girdiğiniz takma komutlar bu karakterleri içermemeli: `\", -, \\`."
+    "aliases.notValid": "Girdiğiniz takma komutlar bu karakterleri içermemeli: `\", -, \\`.",
+    "help.music.desc.volume": "Oynatma sesini ayarlar"
 }
