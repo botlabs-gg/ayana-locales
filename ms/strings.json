@@ -669,5 +669,6 @@
     "weebsh.fail": "Gagal mendapatkan imej `{{type}}` daripada weeb.sh :< Anda patut cuba lagi.",
     "weebsh.noTypes": "Jenis weeb.sh masih tidak memuat. Sila tunggu lama sikit.",
     "help.music.desc.nowplaying": "Paparkan lagu yang sedang dimainkan",
-    "aliases.notValid": "Alias yang anda beri mesti tidak mempunyai huruf berikut: `\", -, \\`."
+    "aliases.notValid": "Alias yang anda beri mesti tidak mempunyai huruf berikut: `\", -, \\`.",
+    "help.music.desc.volume": "Laraskan volum pemain balik"
 }
