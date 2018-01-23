@@ -7,7 +7,7 @@
     "general.gatewayFailure": "Failed to contact Gateway. Please try again later.",
     "general.cooldown": "Woah! Way too spicy - this command is currently on cooldown.",
     "general.pagination.cooldown": "Woah! Way too spicy - the pagination inputs are currently on cooldown.",
-    "general.ayanaRoleTooLow": "I cannot use or modify the role `{{role}}` because my highest role is not above it. Please move me into a higher role.",
+    "general.ayanaRoleTooLow": "I cannot use or modify the role `{{role}}` because my highest role is not above it. Please move me to a higher role.",
     "general.userRoleTooLow": "The role `{{role}}` cannot be used or modified because your highest role is not above it.",
     "general.pagination": "Page {{page}}/{{pages}}",
     "general.targetHigherRole": "{{target}} possesses a higher role than you. You may not modify them.",
