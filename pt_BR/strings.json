@@ -706,5 +706,6 @@
     "weebsh.noTypes": "Os tipos de weeb.sh não se carregaram ainda. Por favor aguarde um pouco.",
     "weebsh.noType": "Infelizmente, isso não pode ser encontrado em weeb.sh.",
     "help.music.desc.nowplaying": "Mostra a música que está sendo tocada",
-    "aliases.notValid": "O alias que você ingressou não deve conter os seguintes caractéres `\", -, \\`."
+    "aliases.notValid": "O alias que você ingressou não deve conter os seguintes caractéres `\", -, \\`.",
+    "help.music.desc.volume": "Regula o volume de reprodução"
 }
