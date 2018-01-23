@@ -704,5 +704,6 @@
     "pro.pledgeDeclinedNotify": "Ditt Patreon abonnement for denne måneden er for tiden avslått.\nVennligst sjekk Patreon og verifiser at din betalingsmetode er gyldig.\nOm det er blitt trukket penger og du likevel får denne meldingen, vennligst gi oss beskjed i Patreon-kanalen i Ayana Support-serveren.\n\nOm ditt abonnement fortsatt er avslått den 5., abonnementet vil bli invalidert og Ayana PRO vil automatisk forlate serveren.",
     "music3.nothingPlaying": "Ingenting blir for tiden spilt",
     "help.music.desc.nowplaying": "Viser sanger som blir spilt",
-    "aliases.notValid": "Aliaset du la til kan ikke inneholde symbolene: `\", -, \\`."
+    "aliases.notValid": "Aliaset du la til kan ikke inneholde symbolene: `\", -, \\`.",
+    "help.music.desc.volume": "Juster volumet på avspillingen"
 }
