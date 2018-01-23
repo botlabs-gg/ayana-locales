@@ -563,7 +563,7 @@
     "pro.upgraded": "Dieser Server wurde zu Ayana PRO hochgestuft.\nBItte lade sie hiermit ein: {{invite}}",
     "pro.downgraded": "Dieser Server hat kein Ayana PRO mehr.",
     "pro.processingError": "Etwas ging schief, während wir versuchten den Abonnement-Service zu kontaktierten.",
-    "pro.noSubscriptions": "Du hast kein Ayana PRO Abonnement. Du bekommst Ayana PRO indem du Ayana auf Patreon unterstützt.",
+    "pro.noSubscriptions": "Du hast kein Ayana PRO Abonnement. Du bekommst Ayana PRO, indem du Ayana auf Patreon unterstützt.",
     "pro.alreadyUpgraded": "Dieser Server hat schon Ayana PRO.\nUm die Einrichtung abzuschließen, lade Ayana PRO hiermit ein: {{invite}}",
     "pro.cannotUpgradeMore": "Du kannst diesen Server nicht zu Ayana PRO hochstufen, da du all deine Upgrades schon aufgebraucht hast.",
     "pro.notUpgraded": "Dieser Server wurde nicht zu Ayana PRO hochgestuft.",
