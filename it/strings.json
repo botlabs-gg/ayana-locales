@@ -596,9 +596,9 @@
     "settings.list.delconfirm": "I seguenti elementi verranno rimossi. Confermi? [y/n]:\n```{{items}}```",
     "settings.list.delnomatch": "Nessun elemento da rimuovere trovato.",
     "settings.variable.mention": "Menziona utente.",
-    "settings.variable.username": "Username",
-    "settings.variable.discriminator": "",
-    "settings.variable.userid": "",
+    "settings.variable.username": "Username membro.",
+    "settings.variable.discriminator": "Discriminatorio membro.",
+    "settings.variable.userid": "ID Membro.",
     "settings.autodel.prune": "Vuoi che tutti gli output generati vengano eliminati dopo 10 secondi?",
     "settings.autorole.role": "Il ruolo che deve essere assegnato tramite autorole",
     "settings.actionlog.channel": "Canale in cui registrare i comandi.",
@@ -680,5 +680,7 @@
     "question.cancelled": "Domanda cancellata.",
     "weebsh.noType": "Categoria non trovata su weeb.sh.",
     "weebsh.fail": "C'è stato un problema mentre cercavo di trovare l'immagine `{{type}}` su weeb.sh, riprova.",
-    "weebsh.noTypes": "Le categorie di weeb.sh non sono ancora state caricate. Attendi un attimo."
+    "weebsh.noTypes": "Le categorie di weeb.sh non sono ancora state caricate. Attendi un attimo.",
+    "help.lenny.short": "( ͡° ͜ʖ ͡°)",
+    "help.shrug.short": "¯\\_(ツ)_/¯"
 }
