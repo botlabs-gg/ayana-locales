@@ -656,5 +656,6 @@
     "pro.pledgeDeclinedNotify": "目前您這個月的Patreon訂閱請求遭到婉拒。\n請到Patreon確認並驗證你的付款方式是否仍然有效。\n如果在你更改付款承諾後仍然出現此訊息，請在Ayana Support Patreons頻道(英文)讓我們知道。\n\n如果你的付款承諾拒絕5次以上(含)，你對我們的訂閱就會失效，而且Ayana PRO將會自動離開。",
     "music3.nothingPlaying": "目前沒有正在播放的音樂",
     "help.music.desc.nowplaying": "顯示正在播放的歌曲",
-    "aliases.notValid": "你的縮寫不應該包含以下字元：`\", -, \\`."
+    "aliases.notValid": "你的縮寫不應該包含以下字元：`\", -, \\`.",
+    "help.music.desc.volume": "調整播放音量"
 }
