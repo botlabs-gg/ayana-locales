@@ -703,5 +703,6 @@
     "pro.pledgeDeclinedNotify": "Patreon tilauksesi on tältä kuulta hylätty.\nTarkistathan Patreonista, että maksutapasi on yhä kelvollinen.\nJos maksu on suoritettu ja saat tämän viestin, olethan yhteydessä meihin Ayana tuki palvelimen Patreon-kanavalla.\n\nJos lahjoituksesi on vielä hylätty 5., tilaus muuttuu epäkelvoksi ja Ayana PRO poistuu automaattisesti.",
     "music3.nothingPlaying": "Mitään ei toistetan juuri nyt",
     "help.music.desc.nowplaying": "Näyttää kappaleen, jota soitetaan parhaillaan",
-    "aliases.notValid": "Alias, jonka haluat syöttää, ei voi sisältää seuraavia merkkejä: `\", -, \\`."
+    "aliases.notValid": "Alias, jonka haluat syöttää, ei voi sisältää seuraavia merkkejä: `\", -, \\`.",
+    "help.music.desc.volume": "Säädä äänenvoimakkuutta"
 }
