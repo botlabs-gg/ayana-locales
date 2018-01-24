@@ -707,5 +707,6 @@
     "pro.pledgeDeclinedNotify": "Dit Patreon abonnement for denne måned er afslået lige nu.\nTjek venligst Patreon og verificer at din betallingsmetode er gyldig.\nHvis der blev hævet penge og du stadig modtager denne besked, venligst giv os besked i Patreon kanalen i Ayana Support serveren.\n\nHvis dit abonnement stadig er afslået d. 5., abonnementet vil blive invalideret og Ayana PRO vil automatisk forlade serveren.",
     "music3.nothingPlaying": "Intet bliver afspillet lige nu",
     "help.music.desc.nowplaying": "Viser sangen som bliver afspillet",
-    "aliases.notValid": "Aliaset du brugte kan ikke indeholde følgende symboler: `\", -, \\`."
+    "aliases.notValid": "Aliaset du brugte kan ikke indeholde følgende symboler: `\", -, \\`.",
+    "help.music.desc.volume": "Juster lydstyrken på afspilningen"
 }
