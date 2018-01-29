@@ -682,5 +682,6 @@
     "weebsh.fail": "C'è stato un problema mentre cercavo di trovare l'immagine `{{type}}` su weeb.sh, riprova.",
     "weebsh.noTypes": "Le categorie di weeb.sh non sono ancora state caricate. Attendi un attimo.",
     "help.lenny.short": "( ͡° ͜ʖ ͡°)",
-    "help.shrug.short": "¯\\_(ツ)_/¯"
+    "help.shrug.short": "¯\\_(ツ)_/¯",
+    "help.music.desc.volume": "Regola il volume"
 }
