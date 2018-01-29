@@ -701,5 +701,6 @@
     "pro.pledgeDeclinedNotify": "Votre souscription Patreon pour ce mois-ci est actuellement déclinée.\nVeuillez vérifier que votre méthode de paiement sur Patreon est toujours valide.\nSi vous avez été débité mais que vous recevez quand même ce message, merci de nous le faire savoir sur le salon Patreon d'Ayana Support.\n\nSi votre engagement est toujours décliné le 5 du mois, la souscription sera invalidée et Ayana PRO partira automatiquement.",
     "music3.nothingPlaying": "Il n'y a rien en cours de lecture",
     "help.music.desc.nowplaying": "Affiche la musique en cours",
-    "aliases.notValid": "L'alias que vous avez entré ne doit pas contenir les caractères suivant: `\", -, \\`."
+    "aliases.notValid": "L'alias que vous avez entré ne doit pas contenir les caractères suivant: `\", -, \\`.",
+    "help.music.desc.volume": "Ajuster le volume de lecture"
 }
