@@ -704,5 +704,6 @@
     "pro.pledgeDeclinedNotify": "Dein Patreon Abonnement für diesen Monat ist zurzeit abgelehnt.\nBitte überprüfe Patreon und deine Zahlungsmethode auf Korrektheit.\nWenn eine Zahlung gebucht wurde, du aber dennoch diese Nachricht erhälst, sag uns im Patreons Kanal auf Ayana Support bescheid.\n\nWenn deine Zahlung am fünften dieses Monats immer noch abgelehnt ist, wird dein Abonnement entfernt und Ayana PRO wird daraufhin automatisch deinen Server verlassen.",
     "music3.nothingPlaying": "Zurzeit wird nichts gespielt",
     "help.music.desc.nowplaying": "Zeigt den Song an, der zurzeit gespielt wird",
-    "aliases.notValid": "Den Alias, den du eingegeben hast darf folgende Charaktere nicht enthalten: `\", -, \\`."
+    "aliases.notValid": "Den Alias, den du eingegeben hast darf folgende Charaktere nicht enthalten: `\", -, \\`.",
+    "help.music.desc.volume": "Ändert die Lautstärke der Wiedergabe"
 }
