@@ -381,7 +381,7 @@
     "perms.denyUser": "`{{name}}` の `{{node}}` を取り消しました",
     "perms.defaultUser": "`{{name}}` の `{{node}}` はデフォルトです",
     "perms.legend": ":heavy_check_mark: => デフォルトは許可 / :heavy_multiplication_x: => デフォルトは拒否 / :white_check_mark: => 許可 / :no_entry: => 拒否",
-    "perms.permNode": "権限ノード",
+    "perms.permNode": "パーミッションノード",
     "perms.addon": "より詳細なヘルプは {{url}} を参照",
     "pick.inputTooLarge": "選択したいオプションの入力が多すぎます。",
     "pick.picked": "私が選んだのは :{{option}}",
