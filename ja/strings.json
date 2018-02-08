@@ -690,5 +690,6 @@
     "weebsh.noTypes": "この時点ではweeb.shタイプはロードされません。少しお待ちください。",
     "help.triggered.short": "ミームを発動。ユーザーにメンションして発動させる事も出来ます",
     "help.waifuinsult.short": "'your waifu is shit' ミーム",
-    "help.wasted.short": "Wasted ミーム"
+    "help.wasted.short": "Wasted ミーム",
+    "help.music.desc.volume": "プレイバックの調整"
 }
