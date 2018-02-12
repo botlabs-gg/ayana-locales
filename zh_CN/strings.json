@@ -578,5 +578,10 @@
     "words.gatewayVersion": "阿亚娜网关",
     "words.shard": "碎片",
     "words.donators": "捐赠者",
-    "ban.days": "天"
+    "ban.days": "天",
+    "role.secondaryRoleHeader": "请选择您规定的角色在 `--inrole`或者 `--notinrole`  (您搜索了: `{{search}}`)",
+    "role.pleaseWait": "请稍等, 我现正在处理您的请求. 请输入 `{{prefix}}role cancel` 要是您需要取消这个请求. (正在处理用户: {{usersProcessed}})",
+    "role.userHeader": "请用 `{{search}}` 来选择您意味的用户",
+    "role.moveAfterOptError": "请指定要改变的角色.",
+    "sar.action.active": "用户能分配角色从这个群组吗？"
 }
