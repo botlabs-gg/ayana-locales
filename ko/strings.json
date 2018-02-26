@@ -334,7 +334,7 @@
     "help.modlog.short": "모드 사용 기록 설정 인터페이스",
     "help.pat.short": "쓰다듬는 이미지를 불러오기, 또한 다른 사람을 언급하여 쓰다듬기",
     "help.pout.short": "삐진 캐릭터 이미지를 불러오기",
-    "general.ayanaRoleTooLow": "저의 최고 권한이 해당 역할보다 낮아요. 제 권한을 높여주세요.",
+    "general.ayanaRoleTooLow": "제 역할이 역할 `{{role}}`보다 높지 않아서 사용하거나 수정할 수 없어요. 저를 더 높은 역할로 바꾸어주세요.",
     "general.userRoleTooLow": "해당 권한이 높거나 당신의 가장 높은 권한이므로 사용할 수 없어요.",
     "general.pagination.blocked": "당신의 페이지 기록은 현재 차단되고 있어요. 현재 실행중인 페이지 기록을 종료시켜주세요.",
     "general.pagination.altNavi": "`<`와 `>`를 입력해서 페이지를 이동할 수 있어요. `p<숫자>`를 입력해서 해당 페이지로 이동할 수 있어요(예. `p10`).",
@@ -696,5 +696,6 @@
     "pro.pledgeDeclinedNotify": "이번 달의 Patreon 구독이 취소되었어요.\nPatreon을 확인하셔서 결제 수단과 방법이 올바른지 확인해주세요.\n제대로 후원 금액을 지불 했는데도 이 메세지를 보고 계시다면, 아야나 지원 서버 Patreon 채널에 알려주세요.\n\n만약 후원이 5번 거절되면, 구독은 자동으로 무효로 처리되면서 아야나 프로가 자동으로 서버를 떠날거에요.",
     "music3.nothingPlaying": "현재 아무것도 재생중이지 않아요.",
     "help.music.desc.nowplaying": "재생중인 곡을 표시하기",
-    "aliases.notValid": "입력하신 비슷한 명령어는 반드시 다음과 같은 문자들을 포함해선 안돼요: `\", -, \\`."
+    "aliases.notValid": "입력하신 비슷한 명령어는 반드시 다음과 같은 문자들을 포함해선 안돼요: `\", -, \\`.",
+    "help.music.desc.volume": "플레이백 볼륨 조정"
 }
