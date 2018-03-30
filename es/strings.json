@@ -3,7 +3,8 @@
         "name": {
             "english": "Spanish",
             "native": "Español"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
