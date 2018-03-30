@@ -1,3 +1,22 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "US English",
+            "native": "Amerikaans"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Oopsie! De uitvoer was langer dan 2000 karakters. Hier is een tekstbestand met de uitvoer erin:",
+            "emptyMessage": "Ik probeerde een leeg bericht te sturen."
+        },
+        "pagination": {
+            "page": "Pagina {{page}}/{{maxPages}}"
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Berichten Beheren"
+            }
+        }
+    }
 }
