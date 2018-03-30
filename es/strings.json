@@ -4,7 +4,8 @@
             "english": "Spanish",
             "native": "Español"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "Error al resolver la traducción `{{key}}`."
     },
     "fuse": {
         "messageable": {
