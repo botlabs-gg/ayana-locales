@@ -3,7 +3,8 @@
         "name": {
             "english": "Turkish",
             "native": "Türkçe"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
