@@ -3,7 +3,9 @@
 		"name": {
 			"english": "US English",
 			"native": "US English"
-		}
+		},
+		"fun": "false",
+		"resolveFailed": "Failed to resolve translation `{{key}}`."
 	},
 	"fuse": {
 		"messageable": {
