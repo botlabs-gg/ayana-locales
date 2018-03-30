@@ -3,7 +3,8 @@
         "name": {
             "english": "Finnish",
             "native": "Englanti (USA)"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
