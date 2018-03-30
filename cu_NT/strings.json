@@ -1,3 +1,27 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "Cunt",
+            "native": "Ayana is a bitch"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Oi! Your shitty paragraph is bigger than 2000 characters. I was so nice and made a text file with your poop:",
+            "updateFail": "Oi! Your shitty paragraph is bigger than 2000 characters. Tone that shit down or else I will literally take a shit on your head!",
+            "emptyMessage": "Stuff was empty, I'll speak anyways HAH."
+        },
+        "pagination": {
+            "page": "Pagé {{page}}/{{maxPages}}",
+            "alternativeNavigation": "If you're too lazy to move your mouse you can use `<` and `>` and `p<Numba>` to switch the page, dickhead.",
+            "alternativeClose": "Type `x` to stop dealing with this shit.",
+            "noManageMessages": "I cant FUCKING `{{permission}}` CUNT. I'll delete page switching shit if you give it to me, cunt.",
+            "noItems": "Nothing here, fuck off."
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Manage Messages"
+            }
+        }
+    }
 }
