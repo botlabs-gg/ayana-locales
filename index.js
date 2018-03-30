@@ -7,12 +7,10 @@ const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 
 let locales = {};
-let initialized = false;
 
 class Locales {
 
 	static async load() {
-		if (initialized) return locales;
 		locales = {};
 
 		const dirList = await readdir(__dirname);
@@ -25,8 +23,15 @@ class Locales {
 			}
 		}
 
-		initialized = true;
 		return locales;
+	}
+
+	static get() {
+		return locales;
+	}
+
+	static list() {
+		return Object.keys(locales);
 	}
 
 	static translate(locale, key, replacements) {
