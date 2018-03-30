@@ -1,3 +1,27 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "Bahasa Inggeris US",
+            "native": "Bahasa Inggeris US"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Alamak! Mesej output melangkaui 2000 huruf. Berikut merupakan fail teks berisi kandungan:",
+            "updateFail": "Alamak! Mesej output melangkaui 2000 huruf.",
+            "emptyMessage": "Saya cuba menghantar mesej kosong."
+        },
+        "pagination": {
+            "page": "Halaman {{page}}/{{maxPages}}",
+            "alternativeNavigation": "Taip `<` dan `>` untuk tukar halaman. Taip `p<nombor>` untuk lompat ke halaman (contoh: `p10`).",
+            "alternativeClose": "Taip `x` untuk tutup penghalaman.",
+            "noManageMessages": "Nampaknya saya tak ada kebenaran Discord `{{permission}}`. Saya akan padam mesej tukar halaman dengan sendiri jika kebenaran ini diberi.",
+            "noItems": "Tiada sesiapa kecuali kita je..."
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Urus mesej"
+            }
+        }
+    }
 }
