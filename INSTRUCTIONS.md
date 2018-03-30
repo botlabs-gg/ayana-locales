@@ -49,12 +49,12 @@ Always pay attention to the context of the term you are translating. Anything in
 the `translation` or `metadata` contexts is a special term. Here is how to handle
 them.
 
-### `translation.nativeName`
+### `locale.name.native`
 This term should not be directly translated from the source translation. This translation
 needs to reflect the Locale you are translating to in its native form. For example
-if I was translating Japanese I would set `translation.nativeName` to `日本語`
+if I was translating Japanese I would set `locale.name.native` to `日本語`
 
-### `translation.englishName`
+### `locale.name.english`
 This term should not be directly translated from the source translation. This translation
 needs to reflect the Locale you are translating to in its english form. For example
-if I was translating Japanese I would set `translation.englishName` to `Japanese`
+if I was translating Japanese I would set `locale.name.english` to `Japanese`
