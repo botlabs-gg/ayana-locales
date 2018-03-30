@@ -3,7 +3,8 @@
         "name": {
             "english": "Malay",
             "native": "Bahasa Melayu"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
