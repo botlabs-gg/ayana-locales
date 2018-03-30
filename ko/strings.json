@@ -3,7 +3,8 @@
         "name": {
             "english": "Korean",
             "native": "한국어"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
