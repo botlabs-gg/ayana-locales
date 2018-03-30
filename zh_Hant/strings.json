@@ -3,7 +3,8 @@
         "name": {
             "english": "Chinese (Traditional)",
             "native": "繁體中文"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
