@@ -1,3 +1,13 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "Anglais",
+            "native": "Français"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Oups! Le message"
+        }
+    }
 }
