@@ -3,7 +3,8 @@
         "name": {
             "english": "Estonian",
             "native": "Eesti keel"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
