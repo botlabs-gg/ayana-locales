@@ -4,7 +4,8 @@
             "english": "Tsundere",
             "native": "I-I'm not a tsun! b-baka"
         },
-        "fun": "true"
+        "fun": "true",
+        "resolveFailed": "I couldn't resolve translation `{{key}}`, hmph."
     },
     "fuse": {
         "messageable": {
