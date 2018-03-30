@@ -4,7 +4,8 @@
             "english": "Turkish",
             "native": "Türkçe"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "`{{key}}` çevirisini çözme başarısız."
     },
     "fuse": {
         "messageable": {
