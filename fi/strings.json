@@ -1,3 +1,18 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "US English",
+            "native": "Englanti (USA)"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä. Tässä on teksti tiedosto sisällöstä:",
+            "updateFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä.",
+            "emptyMessage": "Yritin lähettää tyhjän viestin."
+        },
+        "pagination": {
+            "page": "Sivu {{page}}/{{maxPages}}"
+        }
+    }
 }
