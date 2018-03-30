@@ -1,3 +1,27 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "Italian",
+            "native": "Italiano"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri. Eccoti un file di testo con quello che ti serve:",
+            "updateFail": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri.",
+            "emptyMessage": "Ho provato ad inviare un messaggio vuoto."
+        },
+        "pagination": {
+            "page": "Pagina {{page}}/{{maxPages}}",
+            "alternativeNavigation": "Scrivi `<` o `>` per cambiare pagina. Scrivi `p<num>` per scegliere una pagina (es. `p10`).",
+            "alternativeClose": "Scrivi `x` per chiudere la paginazione.",
+            "noManageMessages": "A quanto pare non ho il permesso di Discord `{{permission}}`. Potrò cancellare automaticamente i messaggi di cambio pagina una volta che avrò questo permesso.",
+            "noItems": "Non c'è nulla qui..."
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Gestisci Messaggi"
+            }
+        }
+    }
 }
