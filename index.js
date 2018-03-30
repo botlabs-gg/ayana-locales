@@ -6,25 +6,26 @@ const util = require('util');
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 
-let locales = null;
+let locales = {};
+let initialized = false;
 
 class Locales {
 
 	static async load() {
-		if (locales) return locales;
+		if (initialized) return locales;
 		locales = {};
 
-		const dirList = await readdir('./');
+		const dirList = await readdir(__dirname);
 
 		for (const file of dirList) {
-			const localeFile = `./${file}/strings.json`;
+			const localeFile = `${__dirname}/${file}/strings.json`;
 			if (fs.existsSync(localeFile)) {
 				const data = await readFile(localeFile, { encoding: 'utf8' });
 				locales[file] = JSON.parse(data);
-				console.log(locales[file]);
 			}
 		}
 
+		initialized = true;
 		return locales;
 	}
 
