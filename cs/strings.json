@@ -3,7 +3,8 @@
         "name": {
             "english": "Czech",
             "native": "Čestina"
-        }
+        },
+        "fun": "false"
     },
     "fuse": {
         "messageable": {
