@@ -7,7 +7,21 @@
     },
     "fuse": {
         "messageable": {
-            "sendFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:"
+            "sendFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:",
+            "updateFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków.",
+            "emptyMessage": "Próbowałam wysłać pustą wiadomość."
+        },
+        "pagination": {
+            "page": "Strona {{page}}/{{maxPagex}}",
+            "alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<num>`, aby przejść do strony (np. `p10`).",
+            "alternativeClose": "Wyślij `x`, aby zamknąć stronicowanie.",
+            "noManageMessages": "Wygląda na to, że nie mam permisji `{{permission}}`. Po nadaniu mi tej permisji, automatycznie usunę poprzednie strony.",
+            "noItems": "Pustka, tylko"
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Zarządzaj wiadomościami"
+            }
         }
     }
 }
