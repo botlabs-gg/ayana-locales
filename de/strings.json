@@ -3,7 +3,9 @@
         "name": {
             "english": "German",
             "native": "Deutsch"
-        }
+        },
+        "fun": "false",
+        "resolveFailed": "Die Übersetzung `{{key}}` konnte nicht aufgelöst werden."
     },
     "fuse": {
         "messageable": {
