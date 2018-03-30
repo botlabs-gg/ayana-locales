@@ -1,3 +1,15 @@
 {
-
+    "locale": {
+        "name": {
+            "english": "美式英语",
+            "native": "美式英语"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "啊呀！出产的文件比2000个字多。这是出产的文件:",
+            "updateFail": "啊呀！出产的文件比2000个字多。",
+            "emptyMessage": "测试试发出一个空白的信息。"
+        }
+    }
 }
