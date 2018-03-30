@@ -3,7 +3,9 @@
         "name": {
             "english": "Cunt",
             "native": "Ayana is a bitch"
-        }
+        },
+        "fun": "true",
+        "resolveFailed": "Could not find fucking `{{key}}`, bitch."
     },
     "fuse": {
         "messageable": {
