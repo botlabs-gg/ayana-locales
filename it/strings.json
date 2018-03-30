@@ -4,7 +4,8 @@
             "english": "Italian",
             "native": "Italiano"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "Problema nella risoluzione della traduzione `{{key}}`."
     },
     "fuse": {
         "messageable": {
