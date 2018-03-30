@@ -1,0 +1,18 @@
+{
+    "locale": {
+        "name": {
+            "english": "Tsundere",
+            "native": "I-I'm not a tsun! b-baka"
+        }
+    },
+    "fuse": {
+        "messageable": {
+            "sendFail": "I-I can't send a message longer than 2000 characters baka... You can have this instead:",
+            "updateFail": "I-I can't send a message larger than 2000 characters... Baka...",
+            "emptyMessage": "I-I tried sending an empty message..."
+        },
+        "pagination": {
+            "page": "Y-you're on page {{page}} out of {{maxPages}}..."
+        }
+    }
+}
