@@ -11,7 +11,8 @@
             "emptyMessage": "Ik probeerde een leeg bericht te sturen."
         },
         "pagination": {
-            "page": "Pagina {{page}}/{{maxPages}}"
+            "page": "Pagina {{page}}/{{maxPages}}",
+            "alternativeClose": "Typ `x` om het menu te sluiten."
         },
         "discord": {
             "permissions": {
