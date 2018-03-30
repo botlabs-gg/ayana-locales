@@ -16,7 +16,7 @@
             "alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<num>`, aby przejść do strony (np. `p10`).",
             "alternativeClose": "Wyślij `x`, aby zamknąć stronicowanie.",
             "noManageMessages": "Wygląda na to, że nie mam permisji `{{permission}}`. Po nadaniu mi tej permisji, automatycznie usunę poprzednie strony.",
-            "noItems": "Pustka, tylko"
+            "noItems": "Pustka, tylko my się tutaj kręcimy..."
         },
         "discord": {
             "permissions": {
