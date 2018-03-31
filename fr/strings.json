@@ -5,7 +5,7 @@
             "native": "Français"
         },
         "fun": "false",
-        "resolveFailed": "Échec de résolution de la traduction `{{key}}`"
+        "resolveFailed": "Échec de résolution de la traduction `{{key}}`."
     },
     "fuse": {
         "messageable": {
