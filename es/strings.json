@@ -10,7 +10,7 @@
         },
         "pagination": {
             "page": "Página {{page}}/{{maxPages}}",
-            "alternativeNavigation": "Escriba `<` y `>`para cambiar la página. Escriba `p<num>` para saltar de página (ej. `P10`).",
+            "alternativeNavigation": "Escriba `<` or `>`para cambiar la página. Escriba `p<Number>` para saltar de página (ej. `P10`).",
             "alternativeClose": "Escriba `x` para cerrar la paginación.",
             "noManageMessages": "No parece que tengas el `{{permission}}` permiso Discord. Voy a borrar automáticamente los mensajes de cambio de página si se proporciona de manera permanente.",
             "noItems": "Quién más estaría aquí..."
