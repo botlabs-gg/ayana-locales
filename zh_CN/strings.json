@@ -4,7 +4,8 @@
             "english": "Chinese (Simplified)",
             "native": "简体中文"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "解决翻译失败 `{{key}}`。"
     },
     "fuse": {
         "messageable": {
