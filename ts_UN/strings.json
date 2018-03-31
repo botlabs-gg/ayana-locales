@@ -10,7 +10,7 @@
         },
         "pagination": {
             "page": "Y-you're on page {{page}} out of {{maxPages}}...",
-            "alternativeNavigation": "Just t-type `<` and `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`), geez...!",
+            "alternativeNavigation": "Just t-type `<` or `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`), geez...!",
             "alternativeClose": "Type `x` to close the pagination, not that hard, baka.",
             "noManageMessages": "Baka! I don't have the `{{permission}}`Discord permission! I g-guess I will auto-delete page switching messages if you give me this perm.",
             "noItems": "Can't you see that there's nothing in here?!"
