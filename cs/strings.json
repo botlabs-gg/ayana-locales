@@ -4,7 +4,8 @@
             "english": "Czech",
             "native": "Čestina"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "Nemůžu najít překlad `{{key}}`."
     },
     "fuse": {
         "messageable": {
