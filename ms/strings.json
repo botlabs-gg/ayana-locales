@@ -22,7 +22,7 @@
         },
         "discord": {
             "permissions": {
-                "manageMessages": "Urus mesej"
+                "manageMessages": "Urus Mesej"
             }
         }
     }
