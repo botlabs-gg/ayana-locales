@@ -4,7 +4,8 @@
             "english": "Russian",
             "native": "Русский"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "Произошла ошибка при обнаружении строки перевода `{{key}}`"
     },
     "fuse": {
         "messageable": {
