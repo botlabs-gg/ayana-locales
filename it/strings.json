@@ -1,6 +1,6 @@
 {
     "locale": {
-        "resolveFailed": "Problema nella risoluzione della traduzione `{{key}}`."
+        "resolveFailed": "Problema nella selezione della traduzione `{{key}}`."
     },
     "fuse": {
         "messageable": {
