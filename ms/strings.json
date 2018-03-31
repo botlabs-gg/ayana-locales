@@ -4,7 +4,8 @@
             "english": "Malay",
             "native": "Bahasa Melayu"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "Gagal untuk cari terjemahan `{{key}}`."
     },
     "fuse": {
         "messageable": {
