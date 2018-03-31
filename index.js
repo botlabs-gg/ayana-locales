@@ -6,7 +6,19 @@ const util = require('util');
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
 
+const countRecursive = (current) => {
+	const keys = Object.keys(current);
+	let count = 0;
+	for (const key of keys) {
+		const obj = current[key];
+		if (typeof obj === 'string') count++;
+		else count += countRecursive(obj);
+	}
+	return count;
+}
+
 let locales = {};
+let stats = { count: {}, percentages: {} };
 
 class Locales {
 
@@ -31,6 +43,21 @@ class Locales {
 			}
 		}
 
+		stats = { count: {}, percentages: {} };
+
+		const baseCount = countRecursive(locales['en_US'].locale);
+		stats.count['en_US'] = baseCount;
+		stats.percentages['en_US'] = '100.00';
+
+		for (const locale of Object.keys(locales))  {
+			if (locale === 'en_US') continue;
+			const count = countRecursive(locales[locale].locale);
+			const percentage = (count / baseCount) * 100;
+
+			stats.count[locale] = count;
+			stats.percentages[locale] = percentage.toFixed(2);
+		}
+
 		return locales;
 	}
 
@@ -40,6 +67,10 @@ class Locales {
 
 	static list() {
 		return Object.keys(locales);
+	}
+
+	static stats() {
+		return stats;
 	}
 
 	static translate(locale, key, replacements) {
