@@ -4,16 +4,16 @@
     },
     "fuse": {
         "messageable": {
-            "sendFail": "I-I can't send a message longer than 2000 characters baka... You can have this instead:",
             "updateFail": "I-I can't send a message larger than 2000 characters... Baka...",
+            "sendFail": "I-I can't send a message longer than 2000 characters baka... You can have this instead:",
             "emptyMessage": "I-I tried sending an empty message..."
         },
         "pagination": {
-            "page": "Y-you're on page {{page}} out of {{maxPages}}...",
-            "alternativeNavigation": "Just t-type `<` or `>` to switch the page. Type `p<num>` to jump to a page (ex. `p10`), geez...!",
+            "noItems": "Can't you see that there's nothing in here?!",
+            "alternativeNavigation": "Just t-type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`), geez...!",
             "alternativeClose": "Type `x` to close the pagination, not that hard, baka.",
             "noManageMessages": "Baka! I don't have the `{{permission}}`Discord permission! I g-guess I will auto-delete page switching messages if you give me this perm.",
-            "noItems": "Can't you see that there's nothing in here?!"
+            "page": "Y-you're on page {{page}} out of {{maxPages}}..."
         },
         "discord": {
             "permissions": {
