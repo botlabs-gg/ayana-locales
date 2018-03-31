@@ -1,7 +1,8 @@
 {
+	"enabled": "true",
+	"imaginary": "false",
 	"name": {
 		"english": "Chinese (Simplified)",
 		"native": "简体中文"
-	},
-	"imaginary": "false"
+	}
 }

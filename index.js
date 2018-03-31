@@ -20,10 +20,13 @@ class Locales {
 			const localeFile = `${__dirname}/${file}/strings.json`;
 			if (fs.existsSync(localeFile) && fs.existsSync(settingsFile)) {
 				const settings = await readFile(settingsFile, { encoding: 'utf8' });
+				const parsedSettings = JSON.parse(settings);
+				if (parsedSettings.enabled !== 'true') continue;
+
 				const locale = await readFile(localeFile, { encoding: 'utf8' });
 
 				locales[file] = {};
-				locales[file].settings = JSON.parse(settings);
+				locales[file].settings = parsedSettings;
 				locales[file].locale = JSON.parse(locale);
 			}
 		}
