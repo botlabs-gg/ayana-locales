@@ -4,7 +4,8 @@
             "english": "Chinese (Traditional)",
             "native": "繁體中文"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "解決有關 `{{key}}` 翻譯的時候失敗了。"
     },
     "fuse": {
         "messageable": {
@@ -16,7 +17,8 @@
             "page": "頁 {{page}}/{{maxPages}}",
             "alternativeNavigation": "輸入 `<` 或是 `>` 來進行翻頁。輸入 `p<num>` 來跳至指定的頁面 (例如 `p10`)。",
             "alternativeClose": "輸入 `x` 來關閉分頁功能。",
-            "noManageMessages": "看起來我似乎沒有 `{{permission}}` 的Discord權限。如果我有該權限的話，我會自動刪除翻頁訊息。"
+            "noManageMessages": "看起來我似乎沒有 `{{permission}}` 的Discord權限。如果我有該權限的話，我會自動刪除翻頁訊息。",
+            "noItems": "這裡什麼都沒有。。。"
         },
         "discord": {
             "permissions": {
