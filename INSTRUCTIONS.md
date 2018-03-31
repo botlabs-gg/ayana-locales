@@ -6,11 +6,9 @@ Ayana uses crowd source user translations. To help manage that we use Weblate. A
 piece of software that takes the headache out of translations for both sides.
 It has a small learning curve. But once you learn it we think you will enjoy it.
 
-Your first step to using weblate is to create an account. [Click here](https://weblate.ayana.io/accounts/register/)
-to go to the form. After creating an account please make sure to join [Ayana support server](https://ayana.io/support)
-and tell someone from support you have joined the team.
-
-**WARNING YOU MUST TELL SUPPORT. NEW ACCOUNTS ONLY HAVE SUGGESTION RIGHTS. TELLING SUPPORT WILL GET YOUR ACCOUNT APPROVED TO SAVE TRANSLATIONS**
+First you should join the [Ayana support server](https://ayana.io/support)
+and tell someone from the staff (Support and upwards) you want to translate.
+Further instruction will be given afterwards.
 
 ## Variables
 Any string surrounded by `{{}}` is a variable. You **should not** translate anything
@@ -33,8 +31,8 @@ of the stuff you may see
 
 Some exceptions are:
 
-1. Command names (stuff like "`support` command for invite" or "`settings guild dmerrors false`"). Don't translate the actual command into your language
-2. Command arguments (stuff like "`<on|one|off>`" or "`--addalias <alias>`"). Don't translate those into your language
+1. Command names (stuff like "`support` command for invite" or "`settings guild dmerrors false`"). Don't translate the actual command into your language.
+2. Command arguments that are exactly written for the command to work (stuff like "`=m r <on|one|off>`"). Don't translate those into your language.
 
 Remember to **not** translate any of the following
 1. `{{variable}}`
@@ -43,18 +41,3 @@ Remember to **not** translate any of the following
 
 Please work hard to make your output feel and function very similar to how the source
 translation is setup.
-
-## Special Contexts
-Always pay attention to the context of the term you are translating. Anything in
-the `translation` or `metadata` contexts is a special term. Here is how to handle
-them.
-
-### `locale.name.native`
-This term should not be directly translated from the source translation. This translation
-needs to reflect the Locale you are translating to in its native form. For example
-if I was translating Japanese I would set `locale.name.native` to `日本語`
-
-### `locale.name.english`
-This term should not be directly translated from the source translation. This translation
-needs to reflect the Locale you are translating to in its english form. For example
-if I was translating Japanese I would set `locale.name.english` to `Japanese`
