@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Malay",
-            "native": "Bahasa Melayu"
-        },
-        "fun": "false",
         "resolveFailed": "Gagal untuk cari terjemahan `{{key}}`."
     },
     "fuse": {

@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "French",
-            "native": "Français"
-        },
-        "fun": "false",
         "resolveFailed": "Échec de résolution de la traduction `{{key}}`."
     },
     "fuse": {

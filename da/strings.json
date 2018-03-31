@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Danish",
-            "native": "Dansk"
-        },
-        "fun": "false",
         "resolveFailed": "Mislykkedes i at bestemme oversættelsen `{{key}}`."
     },
     "fuse": {

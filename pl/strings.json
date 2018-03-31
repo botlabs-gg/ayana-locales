@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Polish",
-            "native": "Polski"
-        },
-        "fun": "false",
         "resolveFailed": "Nie udało się odnaleźć tłumaczenia `{{key}}`."
     },
     "fuse": {

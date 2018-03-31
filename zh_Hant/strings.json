@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Chinese (Traditional)",
-            "native": "繁體中文"
-        },
-        "fun": "false",
         "resolveFailed": "解決有關 `{{key}}` 翻譯的時候失敗了。"
     },
     "fuse": {

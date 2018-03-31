@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Dutch",
-            "native": "Nederlands"
-        },
-        "fun": "false",
         "resolveFailed": "Gefaald om een vertaling op te lossen `{{key}}`."
     },
     "fuse": {

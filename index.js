@@ -16,10 +16,15 @@ class Locales {
 		const dirList = await readdir(__dirname);
 
 		for (const file of dirList) {
+			const settingsFile = `${__dirname}/${file}/settings.json`;
 			const localeFile = `${__dirname}/${file}/strings.json`;
-			if (fs.existsSync(localeFile)) {
-				const data = await readFile(localeFile, { encoding: 'utf8' });
-				locales[file] = JSON.parse(data);
+			if (fs.existsSync(localeFile) && fs.existsSync(settingsFile)) {
+				const settings = await readFile(settingsFile, { encoding: 'utf8' });
+				const locale = await readFile(localeFile, { encoding: 'utf8' });
+
+				locales[file] = {};
+				locales[file].settings = JSON.parse(settings);
+				locales[file].locale = JSON.parse(locale);
 			}
 		}
 
@@ -35,7 +40,7 @@ class Locales {
 	}
 
 	static translate(locale, key, replacements) {
-		let current = locales[locale];
+		let current = locales[locale] ? locales[locale].locale : null;
 		if (!current) return null;
 
 		const tokenized = key.split('.');

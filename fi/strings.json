@@ -1,10 +1,5 @@
 {
     "locale": {
-        "name": {
-            "english": "Finnish",
-            "native": "Suomi"
-        },
-        "fun": "false",
         "resolveFailed": "En pystynyt selvittämään käännöstä: `{{key}}`."
     },
     "fuse": {
