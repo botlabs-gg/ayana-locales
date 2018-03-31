@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "description": "Locales for Ayana",
   "main": "index.js",
-  "repository": "git@gitlab.com:ayana/locales.git",
+  "repository": "https://gitlab.com/ayana/locales.git",
   "author": "Ayana Developers <devs@ayana.io>",
   "license": "Apache-2.0",
   "private": false
