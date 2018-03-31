@@ -4,7 +4,8 @@
             "english": "Korean",
             "native": "한국어"
         },
-        "fun": "false"
+        "fun": "false",
+        "resolveFailed": "`{{key}}`를 불러오는데 실패했어요."
     },
     "fuse": {
         "messageable": {
