@@ -1,3 +1,24 @@
 {
-
+    "locale": {
+        "resolveFailed": "Gagal menyelesaikan terjemahan `{{key}}`."
+    },
+    "fuse": {
+        "messageable": {
+            "updateFail": "Ups! Outputnya menjadi lebih besar dari 2000 karakter.",
+            "sendFail": "Ups! Outputnya menjadi lebih besar dari 2000 karakter. Ini file teks dengan konten:",
+            "emptyMessage": "Saya mencoba mengirim pesan kosong."
+        },
+        "pagination": {
+            "noItems": "Tidak ada selain kami, ayam di sini ...",
+            "alternativeNavigation": "Ketik `<` atau `>` untuk mengganti halaman. Ketik `p<angka>` untuk melompat ke halaman (ex.` P10`).",
+            "alternativeClose": "Ketik `x` untuk menutup pagination.",
+            "noManageMessages": "Sepertinya saya tidak memiliki izin `{{permission}}` Discord. Saya akan otomatis menghapus halaman beralih pesan jika perm ini diberikan.",
+            "page": "Halaman {{page}}/{{maxPages}}"
+        },
+        "discord": {
+            "permissions": {
+                "manageMessages": "Kelola Pesan"
+            }
+        }
+    }
 }
