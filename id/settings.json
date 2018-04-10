@@ -3,7 +3,7 @@
 	"imaginary": "false",
 	"name": {
 		"english": "Indonesian",
-		"native": "Dunno tbh"
+		"native": "FIXME"
 	},
 	"resolveFailed": "Gagal menyelesaikan terjemahan `{{key}}`."
 }
