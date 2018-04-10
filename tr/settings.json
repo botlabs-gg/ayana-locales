@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Turkish",
 		"native": "Türkçe"
-	}
+	},
+	"resolveFailed": "`{{key}}` çevirisini çözme başarısız."
 }

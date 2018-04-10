@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Malay",
 		"native": "Bahasa Melayu"
-	}
+	},
+	"resolveFailed": "Gagal untuk cari terjemahan `{{key}}`."
 }

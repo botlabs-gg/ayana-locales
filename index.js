@@ -29,7 +29,7 @@ class Locales {
 
 		for (const file of dirList) {
 			const settingsFile = `${__dirname}/${file}/settings.json`;
-			const localeFile = `${__dirname}/${file}/strings.json`;
+			const localeFile = `${__dirname}/${file}/fuse.json`;
 			if (fs.existsSync(localeFile) && fs.existsSync(settingsFile)) {
 				const settings = await readFile(settingsFile, { encoding: 'utf8' });
 				const parsedSettings = JSON.parse(settings);
@@ -98,3 +98,7 @@ class Locales {
 }
 
 module.exports = Locales;
+
+Locales.load().then(() => {
+	console.log(stats);
+});

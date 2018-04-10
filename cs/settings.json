@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Czech",
 		"native": "Čestina"
-	}
+	},
+	"resolveFailed": "Nemůžu najít překlad `{{key}}`."
 }

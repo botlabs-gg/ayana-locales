@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Cunt",
 		"native": "Ayana is a bitch"
-	}
+	},
+	"resolveFailed": "Could not find fucking `{{key}}`, bitch."
 }

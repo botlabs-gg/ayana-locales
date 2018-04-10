@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Japanese",
 		"native": "日本語"
-	}
+	},
+	"resolveFailed": "翻訳の解析に失敗しました `{{key}}`."
 }

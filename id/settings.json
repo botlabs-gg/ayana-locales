@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Indonesian",
 		"native": "Dunno tbh"
-	}
+	},
+	"resolveFailed": "Gagal menyelesaikan terjemahan `{{key}}`."
 }

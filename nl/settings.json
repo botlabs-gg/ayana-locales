@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Dutch",
 		"native": "Nederlands"
-	}
+	},
+	"resolveFailed": "Gefaald om een vertaling op te lossen `{{key}}`."
 }

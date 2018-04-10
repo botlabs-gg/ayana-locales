@@ -4,5 +4,6 @@
 	"name": {
 		"english": "German",
 		"native": "Deutsch"
-	}
+	},
+	"resolveFailed": "Die Übersetzung `{{key}}` konnte nicht aufgelöst werden."
 }

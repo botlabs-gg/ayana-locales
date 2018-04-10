@@ -1,0 +1,19 @@
+{
+	"messageable": {
+		"updateFail": "Alamak! Mesej output melangkaui 2000 huruf.",
+		"sendFail": "Alamak! Mesej output melangkaui 2000 huruf. Berikut merupakan fail teks berisi kandungan:",
+		"emptyMessage": "Saya cuba menghantar mesej kosong."
+	},
+	"pagination": {
+		"noItems": "Tiada sesiapa kecuali kita je...",
+		"alternativeNavigation": "Taip `<` atau `>` untuk tukar halaman. Taip `p<nombor>` untuk lompat ke halaman (contoh: `p10`).",
+		"alternativeClose": "Taip `x` untuk tutup penghalaman.",
+		"noManageMessages": "Nampaknya saya tak ada kebenaran Discord `{{permission}}`. Saya akan padam mesej tukar halaman dengan sendiri jika kebenaran ini diberi.",
+		"page": "Halaman {{page}}/{{maxPages}}"
+	},
+	"discord": {
+		"permissions": {
+			"manageMessages": "Urus Mesej"
+		}
+	}
+}

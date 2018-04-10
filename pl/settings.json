@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Polish",
 		"native": "Polski"
-	}
+	},
+	"resolveFailed": "Nie udało się odnaleźć tłumaczenia `{{key}}`."
 }

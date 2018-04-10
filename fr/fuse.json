@@ -1,0 +1,19 @@
+{
+	"messageable": {
+		"sendFail": "Oups! Le message de sortie fait plus de 2000 caractères. Voici un fichier avec son contenu:",
+		"updateFail": "Oups! Le message de sortie fait plus de 2000 caractères.",
+		"emptyMessage": "J'ai essayé d'envoyer un message vide."
+	},
+	"pagination": {
+		"page": "Page {{page}}/{{maxPages}}",
+		"alternativeNavigation": "Tapez `<` et `>` pour changer de page. Tapez `p<numero>` pour voir une page (ex. `p10`).",
+		"alternativeClose": "Tapez `x` pour arrêter la pagination.",
+		"noManageMessages": "Il semblerait que je ne possède pas la permission Discord `{{permission}}`. Je supprimerai les messages de changement de page automatiquement si cette permission m'est donnée.",
+		"noItems": "Il n'y a rien d'autre ici que nous, les poules..."
+	},
+	"discord": {
+		"permissions": {
+			"manageMessages": "Gérer les Messages"
+		}
+	}
+}

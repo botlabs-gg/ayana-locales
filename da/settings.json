@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Danish",
 		"native": "Dansk"
-	}
+	},
+	"resolveFailed": "Mislykkedes i at bestemme oversættelsen `{{key}}`."
 }

@@ -1,0 +1,19 @@
+{
+	"messageable": {
+		"sendFail": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen. Hier ist eine Textdatei mit dem Inhalt:",
+		"updateFail": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen.",
+		"emptyMessage": "Ich habe versucht eine leere Nachricht zu senden."
+	},
+	"pagination": {
+		"page": "Seite {{page}}/{{maxPages}}",
+		"alternativeNavigation": "Schreibe `<` oder `>` um die Seite zu wechseln. Schreibe `p<Zahl>` um zu einer Seite zu springen (z.B. `p10`).",
+		"alternativeClose": "Schreibe `x` um die Seitenverwaltung zu schließen.",
+		"noManageMessages": "Es sieht nicht so aus als hätte ich die Discord Berechtigung `{{permission}}`. Ich werde Nachrichten für den Seitenwechsel automatisch löschen, wenn ich diese Berechtigung habe.",
+		"noItems": "Nichts außer uns beiden hier..."
+	},
+	"discord": {
+		"permissions": {
+			"manageMessages": "Nachrichten verwalten"
+		}
+	}
+}

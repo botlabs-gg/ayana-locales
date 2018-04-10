@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Spanish",
 		"native": "Español"
-	}
+	},
+	"resolveFailed": "Error al resolver la traducción `{{key}}`."
 }

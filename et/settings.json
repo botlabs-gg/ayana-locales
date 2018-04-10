@@ -4,5 +4,6 @@
 	"name": {
 		"english": "Estonian",
 		"native": "Eesti keel"
-	}
+	},
+	"resolveFailed": "FIXME"
 }
