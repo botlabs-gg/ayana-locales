@@ -1,10 +1,16 @@
 'use strict';
 
+const pkg = require('./package.json');
+
 const fs = require('fs');
 const util = require('util');
 
 const readdir = util.promisify(fs.readdir);
 const readFile = util.promisify(fs.readFile);
+
+let locales = {};
+let settings = {};
+let stats = { count: {}, percentages: {} };
 
 const countRecursive = (current) => {
 	const keys = Object.keys(current);
@@ -17,46 +23,69 @@ const countRecursive = (current) => {
 	return count;
 }
 
-let locales = {};
-let stats = { count: {}, percentages: {} };
+const loadSettings = async () => {
+	const dirList = await readdir(__dirname);
+	const loadingSettings = {};
+
+	for (const folder of dirList) {
+		const settingsFile = `${__dirname}/${folder}/settings.json`;
+		if (fs.existsSync(settingsFile)) {
+			const loaded = await readFile(settingsFile, { encoding: 'utf8' });
+			loadingSettings[folder] = JSON.parse(loaded);
+		}
+	}
+
+	settings = loadingSettings;
+}
+
+const loadComponent = async (component, loadOn) => {
+	if (!component) return;
+	if (!pkg || !pkg.config || !pkg.config.components || !pkg.config.components.includes(component)) return;
+
+	if (Object.keys(settings).length === 0) await loadSettings();
+	
+	const dirList = await readdir(__dirname);
+
+	for (const folder of dirList) {
+		const componentFile = `${__dirname}/${folder}/${component}.json`;
+		if (fs.existsSync(componentFile) && settings[folder]) {
+			if (settings[folder].enabled !== 'true') continue;
+
+			const componentData = await readFile(componentFile, { encoding: 'utf8' });
+
+			if (!loadOn[folder]) loadOn[folder] = {};
+			loadOn[folder][component] = JSON.parse(componentData);
+		}
+	}
+}
 
 class Locales {
 
-	static async load() {
-		locales = {};
+	static async load(components = []) {
+		if (components.length === 0) return;
 
-		const dirList = await readdir(__dirname);
+		const loadingLocales = {};
+		const loadingStats = { count: {}, percentages: {} };
 
-		for (const file of dirList) {
-			const settingsFile = `${__dirname}/${file}/settings.json`;
-			const localeFile = `${__dirname}/${file}/fuse.json`;
-			if (fs.existsSync(localeFile) && fs.existsSync(settingsFile)) {
-				const settings = await readFile(settingsFile, { encoding: 'utf8' });
-				const parsedSettings = JSON.parse(settings);
-				if (parsedSettings.enabled !== 'true') continue;
-
-				const locale = await readFile(localeFile, { encoding: 'utf8' });
-
-				locales[file] = {};
-				locales[file].settings = parsedSettings;
-				locales[file].locale = JSON.parse(locale);
-			}
+		for (const component of components) {
+			await loadComponent(component, loadingLocales);
 		}
 
-		stats = { count: {}, percentages: {} };
+		const baseCount = countRecursive(loadingLocales['en_US']);
+		loadingStats.count['en_US'] = baseCount;
+		loadingStats.percentages['en_US'] = '100.00';
 
-		const baseCount = countRecursive(locales['en_US'].locale);
-		stats.count['en_US'] = baseCount;
-		stats.percentages['en_US'] = '100.00';
-
-		for (const locale of Object.keys(locales))  {
+		for (const locale of Object.keys(loadingLocales))  {
 			if (locale === 'en_US') continue;
-			const count = countRecursive(locales[locale].locale);
+			const count = countRecursive(loadingLocales[locale]);
 			const percentage = (count / baseCount) * 100;
 
-			stats.count[locale] = count;
-			stats.percentages[locale] = percentage.toFixed(2);
+			loadingStats.count[locale] = count;
+			loadingStats.percentages[locale] = percentage.toFixed(2);
 		}
+
+		locales = loadingLocales;
+		stats = loadingStats;
 
 		return locales;
 	}
@@ -69,12 +98,16 @@ class Locales {
 		return Object.keys(locales);
 	}
 
+	static settings() {
+		return settings;
+	}
+
 	static stats() {
 		return stats;
 	}
 
 	static translate(locale, key, replacements) {
-		let current = locales[locale] ? locales[locale].locale : null;
+		let current = locales[locale];
 		if (!current) return null;
 
 		const tokenized = key.split('.');
