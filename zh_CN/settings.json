@@ -4,6 +4,5 @@
 	"name": {
 		"english": "Chinese (Simplified)",
 		"native": "简体中文"
-	},
-	"resolveFailed": "解决翻译失败 `{{key}}`。"
+	}
 }

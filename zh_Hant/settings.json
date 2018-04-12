@@ -4,6 +4,5 @@
 	"name": {
 		"english": "Chinese (Traditional)",
 		"native": "繁體中文"
-	},
-	"resolveFailed": "解決有關 `{{key}}` 翻譯的時候失敗了。"
+	}
 }

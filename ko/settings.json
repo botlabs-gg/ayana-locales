@@ -4,6 +4,5 @@
 	"name": {
 		"english": "Korean",
 		"native": "한국어"
-	},
-	"resolveFailed": "`{{key}}`를 불러오는데 실패했어요."
+	}
 }

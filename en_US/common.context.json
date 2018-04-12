@@ -1,0 +1,3 @@
+{
+	"resolveFailed": "Appears when a translation resolve is attemped but neither the current language nor the base language (en_US) has the requested string."
+}

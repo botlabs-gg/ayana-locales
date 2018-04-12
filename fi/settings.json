@@ -4,6 +4,5 @@
 	"name": {
 		"english": "Finnish",
 		"native": "Suomi"
-	},
-	"resolveFailed": "En pystynyt selvittämään käännöstä: `{{key}}`."
+	}
 }

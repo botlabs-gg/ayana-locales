@@ -1,19 +1,19 @@
 {
 	"messageable": {
-		"updateFail": "Appears when a message is updated but the text that was entered is larger than 2000 characters (Discords Message limit)",
+		"updateFail": "Appears when a message is updated but the text that was entered is larger than 2000 characters (Discords Message limit).",
 		"sendFail": "Appears when a message is sent but the text that was entered is larger than 2000 characters (Discords Message limit). In addition a text file will be attached containing the original message.",
-		"emptyMessage": "Appears when the send or update function was called with an empty text and no embed or attachment to avoid a Message Empty Error from Discord"
+		"emptyMessage": "Appears when the send or update function was called with an empty text and no embed or attachment to avoid a Message Empty Error from Discord."
 	},
 	"pagination": {
 		"noItems": "Appears in a code-block when a pagination was initialized with 0 items.",
 		"alternativeNavigation": "Always appears in the footer of a pagination to notify the user about alternative ways to control the pagination.",
-		"alternativeClose": "Appears in a closable pagination to indicate that the user can close it in an alternative way. Will always appear next to 'alternativeNavigation'",
+		"alternativeClose": "Appears in a closable pagination to indicate that the user can close it in an alternative way. Will always appear next to 'alternativeNavigation'.",
 		"noManageMessages": "Appears as a second line in the pagination footer when Ayana doesn't have the 'Manage Messages' Discord Permission to indicate that functionality is limited.",
-		"page": "Appears at the top of the pagination code-block to show the current page and max pages available"
+		"page": "Appears at the top of the pagination code-block to show the current page and max pages available."
 	},
 	"discord": {
 		"permissions": {
-			"manageMessages": "Permission translation. Use the official Discord translation for 'Manage Messages'"
+			"manageMessages": "Permission translation. Use the official Discord translation for 'Manage Messages'."
 		}
 	}
 }

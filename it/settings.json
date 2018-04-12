@@ -4,6 +4,5 @@
 	"name": {
 		"english": "Italian",
 		"native": "Italiano"
-	},
-	"resolveFailed": "Problema nella selezione della traduzione `{{key}}`."
+	}
 }

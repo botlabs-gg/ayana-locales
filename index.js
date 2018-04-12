@@ -98,7 +98,3 @@ class Locales {
 }
 
 module.exports = Locales;
-
-Locales.load().then(() => {
-	console.log(stats);
-});
