@@ -1,19 +1,19 @@
 {
-	"messageable": {
-		"sendFail": "Ups. Výstup je delší než 2000 znaků. Tady je textový soubor s obsahem:",
-		"updateFail": "Ups. Výstup je delší než 2000 znaků.",
-		"emptyMessage": "Zkusila jsem poslat prázdnou zprávu."
-	},
-	"pagination": {
-		"page": "Strana {{page}} z {{maxPages}}",
-		"alternativeNavigation": "Napiš `<` (pravý Alt a `,`) a `>` (pravý Alt a `.`) pro přepnutí stránky.\nNapiš `p<číslo>` pro skok na stránku (např. `p10`).",
-		"alternativeClose": "Napiš `x` pro skončení stránkování.",
-		"noManageMessages": "Vypadá, že nemám oprávnění Discordu `{{permission}}`. Automaticky smažu zprávy které budou přepínat stránky pokud mi toto bude povoleno.",
-		"noItems": "Nikde nic, jen kuřata..."
-	},
-	"discord": {
-		"permissions": {
-			"manageMessages": "Spravovat zprávy"
-		}
-	}
+    "messageable": {
+        "updateFail": "Ups. Výstup je delší než 2000 znaků.",
+        "sendFail": "Ups. Výstup je delší než 2000 znaků. Tady je textový soubor s obsahem:",
+        "emptyMessage": "Zkusila jsem poslat prázdnou zprávu."
+    },
+    "pagination": {
+        "noItems": "Nikde nic, jen kuřata...",
+        "alternativeNavigation": "Piš `<` (pravý Alt a `,`) nebo `>` (pravý Alt a `.`) pro přepnutí stránky.\nNapiš `p<číslo>` pro skok na stránku (např. `p10`).",
+        "alternativeClose": "Napiš `x` pro skončení stránkování.",
+        "noManageMessages": "Vypadá, že nemám oprávnění Discordu `{{permission}}`. Automaticky smažu zprávy které budou přepínat stránky pokud mi toto bude povoleno.",
+        "page": "Strana {{page}} z {{maxPages}}"
+    },
+    "discord": {
+        "permissions": {
+            "manageMessages": "Spravovat zprávy"
+        }
+    }
 }
