@@ -2,6 +2,10 @@
     "messageable": {
         "updateFail": "Ups! Výstup bol väčší ako 2000 znakov.",
         "sendFail": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom:",
-        "emptyMessage": "Zkusila som poslať prázdnu správu"
+        "emptyMessage": "Zkusila som poslať prázdnu správu."
+    },
+    "pagination": {
+        "alternativeNavigation": "Píš `<` alebo `>` pre prepnutie strany.\nPíš `p<číslo>` pre preskočenie na stranu (napr. `p10`)",
+        "noItems": "Nikde nič, len kurčatá..."
     }
 }
