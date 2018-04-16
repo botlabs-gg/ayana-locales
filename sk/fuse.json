@@ -5,10 +5,10 @@
         "emptyMessage": "Zkusila som poslať prázdnu správu."
     },
     "pagination": {
-        "noManageMessages": "Vyzerá, že nemám oprávnenie Discordu `{{permission}}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
-        "alternativeNavigation": "Píš `<` alebo `>` pre prepnutie strany.\nPíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
-        "alternativeClose": "Napíš `x` pre zavretie stránkovania.",
         "noItems": "Nikde nič, len kurčatá...",
+        "alternativeNavigation": "Píš `<` alebo `>` pre prepnutie strany.\nNapíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
+        "alternativeClose": "Napíš `x` pre zavretie stránkovania.",
+        "noManageMessages": "Vyzerá, že nemám oprávnenie Discordu `{{permission}}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
         "page": "Strana {{page}} z {{maxPages}}"
     },
     "discord": {
