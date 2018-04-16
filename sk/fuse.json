@@ -1,5 +1,6 @@
 {
     "messageable": {
-        "updateFail": "Ups! Výstup bol väčší ako 2000 znakov"
+        "updateFail": "Ups! Výstup bol väčší ako 2000 znakov.",
+        "sendFail": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom"
     }
 }
