@@ -1,3 +1,5 @@
 {
-
+    "messageable": {
+        "updateFail": "Ups! Výstup bol väčší ako 2000 znakov"
+    }
 }
