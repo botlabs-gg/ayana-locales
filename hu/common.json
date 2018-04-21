@@ -1,1 +1,3 @@
-{}
+{
+    "resolveFailed": "Nem sikerült megoldani a `{{key}}' fordítását."
+}
