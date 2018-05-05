@@ -1,14 +1,14 @@
 {
     "messageable": {
-        "updateFail": "啊呀！输出超过了2000个字。",
-        "sendFail": "啊呀！输出超过了2000个字。这是输出内容的文字档:",
+        "updateFail": "啊呀！输出内容超过了2000个字。",
+        "sendFail": "啊呀！输出内容超过了2000个字。这是输出内容的文字档:",
         "emptyMessage": "我尝试发出了一则空白讯息。"
     },
     "pagination": {
+        "noItems": "这里除了鸡之外一无所有…",
+        "alternativeNavigation": "输入 `<` 或 `>` 以切换页面。输入 `p<页数>` 以跳至指定的页面 (例如：`p10`)。",
+        "alternativeClose": "输入`'x` 以关闭页面控制功能。",
         "noManageMessages": "看像我没有 `{{permission}}` 的Discord允许。我会自动删除改变网页信息要是我有这个允许。",
-        "alternativeNavigation": "请输入 `<` 或者 `>` 要是您想要该换您的网页。请输入 `p<页数>` 要是您想要跳到您需要的网页 (比方，`p10`)。",
-        "alternativeClose": "请输入`'x` 要是您想要关掉网页。",
-        "noItems": "除了鸡之外一无所有…",
         "page": "页 {{page}}/{{maxPages}}"
     },
     "discord": {
