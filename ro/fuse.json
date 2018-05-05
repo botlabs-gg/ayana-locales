@@ -1,1 +1,6 @@
-{}
+{
+    "messageable": {
+        "updateFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere.",
+        "sendFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere. Aici este un fisier text in care se afla continutul:"
+    }
+}
