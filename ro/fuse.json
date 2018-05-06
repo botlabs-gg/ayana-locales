@@ -5,15 +5,15 @@
         "emptyMessage": "Am încercat să trimit un mesaj gol."
     },
     "pagination": {
-        "noManageMessages": "Se pare că nu am permisiunea `{{permission}}`. O să șterg automat paginile schimbând mesaje dacă această permisiune este dată.",
+        "noItems": "Nimic înafară de noi găinile aici...",
         "alternativeNavigation": "Scrie `<` sau `>` pentru a schimba pagina. Scrie `p<Număr>` pentru a sări la o pagină (ex. `p10`).",
         "alternativeClose": "Scrie `x` pentru a închide paginarea.",
-        "noItems": "Nimic înafară de noi găinile aici...",
+        "noManageMessages": "Se pare că nu am permisiunea `{{permission}}`. O să șterg automat paginile schimbând mesaje dacă această permisiune este dată.",
         "page": "Pagina {{page}}/{{maxPages}}"
     },
     "discord": {
         "permissions": {
-            "manageMessages": "Administreaza Mesaje"
+            "manageMessages": "Administrează Mesaje"
         }
     }
 }
