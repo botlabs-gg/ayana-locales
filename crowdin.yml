@@ -1,0 +1,6 @@
+files:
+  - source: /en_US/*.json
+    ignore:
+      - /en_US/*.context.json
+      - /en_US/settings.json
+    translation: /%locale%/%original_file_name%
