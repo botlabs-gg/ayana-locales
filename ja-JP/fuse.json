@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "メッセージの編集",
+	"messageable.emptyMessage": "空のメッセージを送信しようとしています。",
+	"messageable.sendFail": "おっと！出力する文字数が2000字を超えました。内容は次の通りです。",
+	"messageable.updateFail": "おっと！出力する文字数が2000字を超えました。",
+	"pagination.alternativeClose": "`x` で閉じる。",
+	"pagination.alternativeNavigation": "`<` または `>` を入力する事でページを切り替えられます。 `p<数字>` で入力したページへ飛ぶ事が出来ます。 (例 `p10`).",
+	"pagination.noItems": "いるのは俺たちチキンだけ...",
+	"pagination.noManageMessages": "私に`{permission}`の権限が与えられていないようです。その権限が私に付与された場合、 自動的にページを削除し、メッセージを編集する事が出来ます。",
+	"pagination.page": "ページ {page}/{maxPages}"
 }

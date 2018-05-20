@@ -1,11 +1,1 @@
-{
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
-}
+{}
