@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "Spravovať správy",
-	"messageable.emptyMessage": "Zkusila som poslať prázdnu správu.",
-	"messageable.sendFail": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom:",
-	"messageable.updateFail": "Ups! Výstup bol väčší ako 2000 znakov.",
-	"pagination.alternativeClose": "Napíš `x` pre zavretie stránkovania.",
-	"pagination.alternativeNavigation": "Píš `<` alebo `>` pre prepnutie strany.\nNapíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
-	"pagination.noItems": "Nikde nič, len kurčatá...",
-	"pagination.noManageMessages": "Vyzerá, že nemám oprávnenie Discordu `{permission}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
-	"pagination.page": "Strana {page} z {maxPages}"
+	"discord.permissions.manageMessages": "",
+	"messageable.emptyMessage": "",
+	"messageable.sendFail": "",
+	"messageable.updateFail": "",
+	"pagination.alternativeClose": "",
+	"pagination.alternativeNavigation": "",
+	"pagination.noItems": "",
+	"pagination.noManageMessages": "",
+	"pagination.page": ""
 }
