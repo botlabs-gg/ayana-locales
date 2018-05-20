@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "Manage Messages",
+	"messageable.emptyMessage": "I tried to send an empty message.",
+	"messageable.sendFail": "Whoops! The output became larger than 2000 characters. Here's a text file with the content:",
+	"messageable.updateFail": "Whoops! The output became larger than 2000 characters.",
+	"pagination.alternativeClose": "Type `x` to close the pagination.",
+	"pagination.alternativeNavigation": "Type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`).",
+	"pagination.noItems": "Nothing but us chickens here...",
+	"pagination.noManageMessages": "It doesn't look like I have the `{permission}` Discord permission. I will auto-delete page switching messages if this perm is given.",
+	"pagination.page": "Page {page}/{maxPages}"
 }
