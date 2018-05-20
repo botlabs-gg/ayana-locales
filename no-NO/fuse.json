@@ -1,8 +1,8 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
+	"discord.permissions.manageMessages": "Administrer meldinger",
+	"messageable.emptyMessage": "Jeg prøvde å sende en tom melding.",
+	"messageable.sendFail": "Whoops! Melding overskred 2000 symboler. Her er en tekst-fil med hele innholdet:",
+	"messageable.updateFail": "Whoops! Melding overskred 2000 symboler.",
 	"pagination.alternativeClose": "",
 	"pagination.alternativeNavigation": "",
 	"pagination.noItems": "",
