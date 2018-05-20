@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "Zarządzaj wiadomościami",
-	"messageable.emptyMessage": "Próbowałam wysłać pustą wiadomość.",
-	"messageable.sendFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:",
-	"messageable.updateFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków.",
-	"pagination.alternativeClose": "Wyślij `x`, aby zamknąć stronnicowanie.",
-	"pagination.alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<num>`, aby przejść do strony (np. `p10`).",
-	"pagination.noItems": "Pustka, tylko my się tutaj kręcimy...",
-	"pagination.noManageMessages": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
-	"pagination.page": "Strona {page}/{maxPages}"
+	"discord.permissions.manageMessages": "",
+	"messageable.emptyMessage": "",
+	"messageable.sendFail": "",
+	"messageable.updateFail": "",
+	"pagination.alternativeClose": "",
+	"pagination.alternativeNavigation": "",
+	"pagination.noItems": "",
+	"pagination.noManageMessages": "",
+	"pagination.page": ""
 }
