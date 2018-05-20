@@ -1,19 +1,11 @@
 {
-	"messageable": {
-		"sendFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä. Tässä on teksti tiedosto sisällöstä:",
-		"updateFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä.",
-		"emptyMessage": "Yritin lähettää tyhjän viestin."
-	},
-	"pagination": {
-		"page": "Sivu {page}/{maxPages}",
-		"alternativeNavigation": "Syötä `<` tai `>` vaihtaaksesi sivua. Syötä `p<num>` hypätäksesi sivulle (esim. `p10`).",
-		"alternativeClose": "Syötä `x` sulkeaksesi sivunumerointi.",
-		"noManageMessages": "Näyttää siltä, että minulta puuttuu `{permission}` Discord-oikeus. Sittne voin poistaa sivunumeroinnin viestit automaattisesti.",
-		"noItems": "Hellunkanat täällä vaan..."
-	},
-	"discord": {
-		"permissions": {
-			"manageMessages": "Hallinnoi viestejä"
-		}
-	}
+	"discord.permissions.manageMessages": "Hallinnoi viestejä",
+	"messageable.emptyMessage": "Yritin lähettää tyhjän viestin.",
+	"messageable.sendFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä. Tässä on teksti tiedosto sisällöstä:",
+	"messageable.updateFail": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä.",
+	"pagination.alternativeClose": "Syötä `x` sulkeaksesi sivunumerointi.",
+	"pagination.alternativeNavigation": "Syötä `<` tai `>` vaihtaaksesi sivua. Syötä `p<num>` hypätäksesi sivulle (esim. `p10`).",
+	"pagination.noItems": "Hellunkanat täällä vaan...",
+	"pagination.noManageMessages": "Näyttää siltä, että minulta puuttuu `{permission}` Discord-oikeus. Sittne voin poistaa sivunumeroinnin viestit automaattisesti.",
+	"pagination.page": "Sivu {page}/{maxPages}"
 }

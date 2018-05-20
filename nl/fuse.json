@@ -1,19 +1,11 @@
 {
-    "messageable": {
-        "updateFail": "Oeps! De uitvoer is langer geworden dan 2000 karakters.",
-        "sendFail": "Oopsie! De uitvoer was langer dan 2000 karakters. Hier is een tekstbestand met de uitvoer erin:",
-        "emptyMessage": "Ik probeerde een leeg bericht te sturen."
-    },
-    "pagination": {
-        "noManageMessages": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal de berichten van pagina switchen automatisch vewijderen als de permissie is gegeven.",
-        "alternativeNavigation": "Type `<` of `>` om van pagina te switchen. Type `p<nummer>` om naar een pagina te gaan (bijvoorbeeld. `p10`).",
-        "alternativeClose": "Typ `x` om het menu te sluiten.",
-        "noItems": "Niks is hier te zoeken alleen deze zin...",
-        "page": "Pagina {page}/{maxPages}"
-    },
-    "discord": {
-        "permissions": {
-            "manageMessages": "Berichten Beheren"
-        }
-    }
+	"discord.permissions.manageMessages": "Berichten Beheren",
+	"messageable.emptyMessage": "Ik probeerde een leeg bericht te sturen.",
+	"messageable.sendFail": "Oopsie! De uitvoer was langer dan 2000 karakters. Hier is een tekstbestand met de uitvoer erin:",
+	"messageable.updateFail": "Oeps! De uitvoer is langer geworden dan 2000 karakters.",
+	"pagination.alternativeClose": "Typ `x` om het menu te sluiten.",
+	"pagination.alternativeNavigation": "Type `<` of `>` om van pagina te switchen. Type `p<nummer>` om naar een pagina te gaan (bijvoorbeeld. `p10`).",
+	"pagination.noItems": "Niks is hier te zoeken alleen deze zin...",
+	"pagination.noManageMessages": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal de berichten van pagina switchen automatisch vewijderen als de permissie is gegeven.",
+	"pagination.page": "Pagina {page}/{maxPages}"
 }

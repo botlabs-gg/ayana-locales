@@ -1,19 +1,11 @@
 {
-	"messageable": {
-		"sendFail": "Whoops! Beskeden overskred 2000 karakterer. Her er en tekst fil med hele indholdet:",
-		"updateFail": "Whoops! Beskeden overskred 2000 karakterer.",
-		"emptyMessage": "Jeg forsøgte at sende en tom besked."
-	},
-	"pagination": {
-		"page": "Side {page}/{maxPages}",
-		"alternativeNavigation": "Skriv  `<` eller `>` for at skifte side. Skriv `p<Nummer>` for at hoppe til en side (eks. `p10`).",
-		"alternativeClose": "Skriv `x` for at lukke sideskiftningen.",
-		"noManageMessages": "Det ser ud til at jeg ikke har Discord tilladelsen `{permission}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
-		"noItems": "Der er frygteligt tomt her..."
-	},
-	"discord": {
-		"permissions": {
-			"manageMessages": "Adminstrer Beskeder"
-		}
-	}
+	"discord.permissions.manageMessages": "Adminstrer Beskeder",
+	"messageable.emptyMessage": "Jeg forsøgte at sende en tom besked.",
+	"messageable.sendFail": "Whoops! Beskeden overskred 2000 karakterer. Her er en tekst fil med hele indholdet:",
+	"messageable.updateFail": "Whoops! Beskeden overskred 2000 karakterer.",
+	"pagination.alternativeClose": "Skriv `x` for at lukke sideskiftningen.",
+	"pagination.alternativeNavigation": "Skriv  `<` eller `>` for at skifte side. Skriv `p<Nummer>` for at hoppe til en side (eks. `p10`).",
+	"pagination.noItems": "Der er frygteligt tomt her...",
+	"pagination.noManageMessages": "Det ser ud til at jeg ikke har Discord tilladelsen `{permission}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
+	"pagination.page": "Side {page}/{maxPages}"
 }

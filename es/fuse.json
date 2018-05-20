@@ -1,19 +1,11 @@
 {
-	"messageable": {
-		"updateFail": "¡Ups! La salida se hizo más grande que 2000 caracteres.",
-		"sendFail": "¡Ups! La salida se hizo en más grande que 2000 caracteres. Aquí hay un archivo de texto con el contenido:",
-		"emptyMessage": "Tratas de enviar un mensaje vacío."
-	},
-	"pagination": {
-		"noItems": "Quién más estaría aquí...",
-		"alternativeNavigation": "Escriba `<` o `>`para cambiar la página. Escriba `p<Number>` para saltar de página (ej. `P10`).",
-		"alternativeClose": "Escriba `x` para cerrar la paginación.",
-		"noManageMessages": "No parece que tengas el `{permission}` permiso Discord. Voy a borrar automáticamente los mensajes de cambio de página si se proporciona de manera permanente.",
-		"page": "Página {page}/{maxPages}"
-	},
-	"discord": {
-		"permissions": {
-			"manageMessages": "Gestionar Mensajes"
-		}
-	}
+	"discord.permissions.manageMessages": "Gestionar Mensajes",
+	"messageable.emptyMessage": "Tratas de enviar un mensaje vacío.",
+	"messageable.sendFail": "¡Ups! La salida se hizo en más grande que 2000 caracteres. Aquí hay un archivo de texto con el contenido:",
+	"messageable.updateFail": "¡Ups! La salida se hizo más grande que 2000 caracteres.",
+	"pagination.alternativeClose": "Escriba `x` para cerrar la paginación.",
+	"pagination.alternativeNavigation": "Escriba `<` o `>`para cambiar la página. Escriba `p<Number>` para saltar de página (ej. `P10`).",
+	"pagination.noItems": "Quién más estaría aquí...",
+	"pagination.noManageMessages": "No parece que tengas el `{permission}` permiso Discord. Voy a borrar automáticamente los mensajes de cambio de página si se proporciona de manera permanente.",
+	"pagination.page": "Página {page}/{maxPages}"
 }

@@ -1,19 +1,11 @@
 {
-	"messageable": {
-		"sendFail": "Oih! väljund sai suuremaks kui 2000 tähte. Siin on tekstifail sisuga:",
-		"updateFail": "Oih! Väljund sai suuremaks kui 2000 tähte.",
-		"emptyMessage": "Ma üritasin saata tühja sõnumi."
-	},
-	"pagination": {
-		"page": "Lehekülg {page}/{maxPages}",
-		"alternativeNavigation": "Trüki `<` ja `>`, et vahetada lehekülge. Trüki `p<num>`, et hüpata leheküljele (nt. `p10`).",
-		"alternativeClose": "Trüki `x`, et lõpetada lehekülgede nummerdamist.",
-		"noManageMessages": "Tundub nagu mul ei ole `{permission}` Discordi õigus. Ma kustutan automaatselt leheküljevahetussõnumid, kui see õigus on antud.",
-		"noItems": "Ei keegi peale meie kanade siin..."
-	},
-	"discord": {
-		"permissions": {
-			"manageMessages": "Halda Sõnumeid"
-		}
-	}
+	"discord.permissions.manageMessages": "Halda Sõnumeid",
+	"messageable.emptyMessage": "Ma üritasin saata tühja sõnumi.",
+	"messageable.sendFail": "Oih! väljund sai suuremaks kui 2000 tähte. Siin on tekstifail sisuga:",
+	"messageable.updateFail": "Oih! Väljund sai suuremaks kui 2000 tähte.",
+	"pagination.alternativeClose": "Trüki `x`, et lõpetada lehekülgede nummerdamist.",
+	"pagination.alternativeNavigation": "Trüki `<` ja `>`, et vahetada lehekülge. Trüki `p<num>`, et hüpata leheküljele (nt. `p10`).",
+	"pagination.noItems": "Ei keegi peale meie kanade siin...",
+	"pagination.noManageMessages": "Tundub nagu mul ei ole `{permission}` Discordi õigus. Ma kustutan automaatselt leheküljevahetussõnumid, kui see õigus on antud.",
+	"pagination.page": "Lehekülg {page}/{maxPages}"
 }

@@ -1,19 +1,11 @@
 {
-    "messageable": {
-        "updateFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere.",
-        "sendFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere. Aici este un fișier text în care se află conținutul:",
-        "emptyMessage": "Am încercat să trimit un mesaj gol."
-    },
-    "pagination": {
-        "noItems": "Nimic înafară de noi găinile aici...",
-        "alternativeNavigation": "Scrie `<` sau `>` pentru a schimba pagina. Scrie `p<Număr>` pentru a sări la o pagină (ex. `p10`).",
-        "alternativeClose": "Scrie `x` pentru a închide paginarea.",
-        "noManageMessages": "Se pare că nu am permisiunea `{permission}`. O să șterg automat paginile schimbând mesaje dacă această permisiune este dată.",
-        "page": "Pagina {page}/{maxPages}"
-    },
-    "discord": {
-        "permissions": {
-            "manageMessages": "Administrează Mesaje"
-        }
-    }
+	"discord.permissions.manageMessages": "Administrează Mesaje",
+	"messageable.emptyMessage": "Am încercat să trimit un mesaj gol.",
+	"messageable.sendFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere. Aici este un fișier text în care se află conținutul:",
+	"messageable.updateFail": "Hopa! Rezultatul a devenit mai mare de 2000 de caractere.",
+	"pagination.alternativeClose": "Scrie `x` pentru a închide paginarea.",
+	"pagination.alternativeNavigation": "Scrie `<` sau `>` pentru a schimba pagina. Scrie `p<Număr>` pentru a sări la o pagină (ex. `p10`).",
+	"pagination.noItems": "Nimic înafară de noi găinile aici...",
+	"pagination.noManageMessages": "Se pare că nu am permisiunea `{permission}`. O să șterg automat paginile schimbând mesaje dacă această permisiune este dată.",
+	"pagination.page": "Pagina {page}/{maxPages}"
 }
