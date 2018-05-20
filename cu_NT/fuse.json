@@ -5,10 +5,10 @@
 		"emptyMessage": "Stuff was empty, I'll speak anyways HAH."
 	},
 	"pagination": {
-		"page": "Pagé {{page}}/{{maxPages}}",
+		"page": "Pagé {page}/{maxPages}",
 		"alternativeNavigation": "If you're too lazy to move your mouse you can use `<`, `>` or `p<Numba>` to switch the page, dickhead.",
 		"alternativeClose": "Type `x` to stop dealing with this shit.",
-		"noManageMessages": "I cant FUCKING `{{permission}}` CUNT. I'll delete page switching shit if you give it to me, cunt.",
+		"noManageMessages": "I cant FUCKING `{permission}` CUNT. I'll delete page switching shit if you give it to me, cunt.",
 		"noItems": "Nothing here, fuck off."
 	},
 	"discord": {

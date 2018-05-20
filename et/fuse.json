@@ -5,10 +5,10 @@
 		"emptyMessage": "Ma üritasin saata tühja sõnumi."
 	},
 	"pagination": {
-		"page": "Lehekülg {{page}}/{{maxPages}}",
+		"page": "Lehekülg {page}/{maxPages}",
 		"alternativeNavigation": "Trüki `<` ja `>`, et vahetada lehekülge. Trüki `p<num>`, et hüpata leheküljele (nt. `p10`).",
 		"alternativeClose": "Trüki `x`, et lõpetada lehekülgede nummerdamist.",
-		"noManageMessages": "Tundub nagu mul ei ole `{{permission}}` Discordi õigus. Ma kustutan automaatselt leheküljevahetussõnumid, kui see õigus on antud.",
+		"noManageMessages": "Tundub nagu mul ei ole `{permission}` Discordi õigus. Ma kustutan automaatselt leheküljevahetussõnumid, kui see õigus on antud.",
 		"noItems": "Ei keegi peale meie kanade siin..."
 	},
 	"discord": {

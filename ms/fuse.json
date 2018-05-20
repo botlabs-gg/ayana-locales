@@ -8,8 +8,8 @@
 		"noItems": "Tiada sesiapa kecuali kita je...",
 		"alternativeNavigation": "Taip `<` atau `>` untuk tukar halaman. Taip `p<nombor>` untuk lompat ke halaman (contoh: `p10`).",
 		"alternativeClose": "Taip `x` untuk tutup penghalaman.",
-		"noManageMessages": "Nampaknya saya tak ada kebenaran Discord `{{permission}}`. Saya akan padam mesej tukar halaman dengan sendiri jika kebenaran ini diberi.",
-		"page": "Halaman {{page}}/{{maxPages}}"
+		"noManageMessages": "Nampaknya saya tak ada kebenaran Discord `{permission}`. Saya akan padam mesej tukar halaman dengan sendiri jika kebenaran ini diberi.",
+		"page": "Halaman {page}/{maxPages}"
 	},
 	"discord": {
 		"permissions": {

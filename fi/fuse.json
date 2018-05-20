@@ -5,10 +5,10 @@
 		"emptyMessage": "Yritin lähettää tyhjän viestin."
 	},
 	"pagination": {
-		"page": "Sivu {{page}}/{{maxPages}}",
+		"page": "Sivu {page}/{maxPages}",
 		"alternativeNavigation": "Syötä `<` tai `>` vaihtaaksesi sivua. Syötä `p<num>` hypätäksesi sivulle (esim. `p10`).",
 		"alternativeClose": "Syötä `x` sulkeaksesi sivunumerointi.",
-		"noManageMessages": "Näyttää siltä, että minulta puuttuu `{{permission}}` Discord-oikeus. Sittne voin poistaa sivunumeroinnin viestit automaattisesti.",
+		"noManageMessages": "Näyttää siltä, että minulta puuttuu `{permission}` Discord-oikeus. Sittne voin poistaa sivunumeroinnin viestit automaattisesti.",
 		"noItems": "Hellunkanat täällä vaan..."
 	},
 	"discord": {

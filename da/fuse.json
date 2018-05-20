@@ -5,10 +5,10 @@
 		"emptyMessage": "Jeg forsøgte at sende en tom besked."
 	},
 	"pagination": {
-		"page": "Side {{page}}/{{maxPages}}",
+		"page": "Side {page}/{maxPages}",
 		"alternativeNavigation": "Skriv  `<` eller `>` for at skifte side. Skriv `p<Nummer>` for at hoppe til en side (eks. `p10`).",
 		"alternativeClose": "Skriv `x` for at lukke sideskiftningen.",
-		"noManageMessages": "Det ser ud til at jeg ikke har Discord tilladelsen `{{permission}}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
+		"noManageMessages": "Det ser ud til at jeg ikke har Discord tilladelsen `{permission}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
 		"noItems": "Der er frygteligt tomt her..."
 	},
 	"discord": {

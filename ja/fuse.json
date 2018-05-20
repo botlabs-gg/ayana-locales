@@ -8,8 +8,8 @@
 		"noItems": "いるのは俺たちチキンだけ...",
 		"alternativeNavigation": "`<` または `>` を入力する事でページを切り替えられます。 `p<数字>` で入力したページへ飛ぶ事が出来ます。 (例 `p10`).",
 		"alternativeClose": "`x` で閉じる。",
-		"noManageMessages": "私に`{{permission}}`の権限が与えられていないようです。その権限が私に付与された場合、 自動的にページを削除し、メッセージを編集する事が出来ます。",
-		"page": "ページ {{page}}/{{maxPages}}"
+		"noManageMessages": "私に`{permission}`の権限が与えられていないようです。その権限が私に付与された場合、 自動的にページを削除し、メッセージを編集する事が出来ます。",
+		"page": "ページ {page}/{maxPages}"
 	},
 	"discord": {
 		"permissions": {

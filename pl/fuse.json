@@ -5,10 +5,10 @@
 		"emptyMessage": "Próbowałam wysłać pustą wiadomość."
 	},
 	"pagination": {
-		"page": "Strona {{page}}/{{maxPages}}",
+		"page": "Strona {page}/{maxPages}",
 		"alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<num>`, aby przejść do strony (np. `p10`).",
 		"alternativeClose": "Wyślij `x`, aby zamknąć stronnicowanie.",
-		"noManageMessages": "Wygląda na to, że nie mam uprawnień Discord `{{permission}}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
+		"noManageMessages": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
 		"noItems": "Pustka, tylko my się tutaj kręcimy..."
 	},
 	"discord": {

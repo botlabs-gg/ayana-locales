@@ -5,11 +5,11 @@
         "emptyMessage": "Egy üres üzenetet próbáltam meg elküldeni."
     },
     "pagination": {
-        "noManageMessages": "Úgy tűnik, hogy nincs meg a `{{permission}}` Discord engedélyem. Automatikusan törölni fogom az oldalváltási üzeneteket amint megvan ez az engedély.",
+        "noManageMessages": "Úgy tűnik, hogy nincs meg a `{permission}` Discord engedélyem. Automatikusan törölni fogom az oldalváltási üzeneteket amint megvan ez az engedély.",
         "alternativeNavigation": "Használd a '<' vagy a '>' gombot, hogy válts oldalt. Használd a 'p<Szám>' parancsot, hogy egy meghatározott oldalra látogass (pl. 'p10').",
         "alternativeClose": "Az 'x' gombbal ki lehet kapcsolni a lapszámozást.",
         "noItems": "Senki sincs itt...",
-        "page": "Oldal {{page}}/{{maxPages}}"
+        "page": "Oldal {page}/{maxPages}"
     },
     "discord": {
         "permissions": {

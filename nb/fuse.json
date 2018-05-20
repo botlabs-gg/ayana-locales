@@ -5,7 +5,7 @@
 		"emptyMessage": "Jeg forsøkte å sende en tom melding."
 	},
 	"pagination": {
-		"page": "Side {{page}}/{{maxPages}}",
+		"page": "Side {page}/{maxPages}",
 		"alternativeNavigation": "Skriv `<`eller `>` for å skifte side. Skriv `p<tall>` for å hoppe til en side (for eksemplel `p10`).",
 		"alternativeClose": "Skriv `x` for a lukke sideskiftingen.",
 		"noManageMessages": "Det virker som om jeg ikke har Discord-tillatelsen `permission`. Jeg vli automatisk slette sideskift-meldinger hvis denne tillatelsen er gitt.",

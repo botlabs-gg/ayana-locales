@@ -5,11 +5,11 @@
         "emptyMessage": "Ik probeerde een leeg bericht te sturen."
     },
     "pagination": {
-        "noManageMessages": "Het lijkt erop dat ik de `{{permission}}` Discord permissie niet heb. Ik zal de berichten van pagina switchen automatisch vewijderen als de permissie is gegeven.",
+        "noManageMessages": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal de berichten van pagina switchen automatisch vewijderen als de permissie is gegeven.",
         "alternativeNavigation": "Type `<` of `>` om van pagina te switchen. Type `p<nummer>` om naar een pagina te gaan (bijvoorbeeld. `p10`).",
         "alternativeClose": "Typ `x` om het menu te sluiten.",
         "noItems": "Niks is hier te zoeken alleen deze zin...",
-        "page": "Pagina {{page}}/{{maxPages}}"
+        "page": "Pagina {page}/{maxPages}"
     },
     "discord": {
         "permissions": {

@@ -8,8 +8,8 @@
 		"noItems": "Nothing but us chickens here...",
 		"alternativeNavigation": "Type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`).",
 		"alternativeClose": "Type `x` to close the pagination.",
-		"noManageMessages": "It doesn't look like I have the `{{permission}}` Discord permission. I will auto-delete page switching messages if this perm is given.",
-		"page": "Page {{page}}/{{maxPages}}"
+		"noManageMessages": "It doesn't look like I have the `{permission}` Discord permission. I will auto-delete page switching messages if this perm is given.",
+		"page": "Page {page}/{maxPages}"
 	},
 	"discord": {
 		"permissions": {

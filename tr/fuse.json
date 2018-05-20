@@ -5,10 +5,10 @@
 		"emptyMessage": "Boş bir mesaj göndermeye çalıştım."
 	},
 	"pagination": {
-		"page": "Sayfa {{page}}/{{maxPages}}",
+		"page": "Sayfa {page}/{maxPages}",
 		"alternativeNavigation": "`<` ve `>` yazarak sayfaları değiştirin. `p<numara>` yazarak da bir sayfaya atlayın (örn. `p10`).",
 		"alternativeClose": "Sayfaları kapamak için `x` yazın.",
-		"noManageMessages": "Görünüşe göre `{{permission}}` isimli Discord yetkim yok. Bu yetki verildiğinde sayfa değiştirme mesajlarını otomatik olarak sileceğim.",
+		"noManageMessages": "Görünüşe göre `{permission}` isimli Discord yetkim yok. Bu yetki verildiğinde sayfa değiştirme mesajlarını otomatik olarak sileceğim.",
 		"noItems": "Burada ben hariç kimse yok :(..."
 	},
 	"discord": {

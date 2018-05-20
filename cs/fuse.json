@@ -8,8 +8,8 @@
         "noItems": "Nikde nic, jen kuřata...",
         "alternativeNavigation": "Piš `<` (pravý Alt a `,`) nebo `>` (pravý Alt a `.`) pro přepnutí stránky.\nNapiš `p<číslo>` pro skok na stránku (např. `p10`).",
         "alternativeClose": "Napiš `x` pro skončení stránkování.",
-        "noManageMessages": "Vypadá, že nemám oprávnění Discordu `{{permission}}`. Automaticky smažu zprávy které budou přepínat stránky pokud mi toto bude povoleno.",
-        "page": "Strana {{page}} z {{maxPages}}"
+        "noManageMessages": "Vypadá, že nemám oprávnění Discordu `{permission}`. Automaticky smažu zprávy které budou přepínat stránky pokud mi toto bude povoleno.",
+        "page": "Strana {page} z {maxPages}"
     },
     "discord": {
         "permissions": {
