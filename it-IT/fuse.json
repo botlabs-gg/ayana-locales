@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "Gestisci Messaggi",
-	"messageable.emptyMessage": "Ho provato ad inviare un messaggio vuoto.",
-	"messageable.sendFail": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri. Eccoti un file di testo con quello che ti serve:",
-	"messageable.updateFail": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri.",
-	"pagination.alternativeClose": "Scrivi `x` per chiudere la paginazione.",
-	"pagination.alternativeNavigation": "Scrivi `<` o `>` per cambiare pagina. Scrivi `p<num>` per scegliere una pagina (es. `p10`).",
-	"pagination.noItems": "Non c'è nulla qui...",
-	"pagination.noManageMessages": "A quanto pare non ho il permesso di Discord `{permission}`. Potrò cancellare automaticamente i messaggi di cambio pagina una volta che avrò questo permesso.",
-	"pagination.page": "Pagina {page}/{maxPages}"
+	"discord.permissions.manageMessages": "",
+	"messageable.emptyMessage": "",
+	"messageable.sendFail": "",
+	"messageable.updateFail": "",
+	"pagination.alternativeClose": "",
+	"pagination.alternativeNavigation": "",
+	"pagination.noItems": "",
+	"pagination.noManageMessages": "",
+	"pagination.page": ""
 }
