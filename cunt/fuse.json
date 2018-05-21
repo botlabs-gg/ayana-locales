@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "If you're too lazy to move your mouse you can use `<`, `>` or `p<Numba>` to switch the page, dickhead.",
 	"pagination.noItems": "Nothing here, fuck off.",
 	"pagination.noManageMessages": "I cant FUCKING `{permission}` CUNT. I'll delete page switching shit if you give it to me, cunt.",
-	"pagination.page": "Pagé {page}/{maxPages}"
+	"pagination.page": "Pagé {numPage, number}/{numMax, number}"
 }
