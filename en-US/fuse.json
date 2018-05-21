@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`).",
 	"pagination.noItems": "Nothing but us chickens here...",
 	"pagination.noManageMessages": "It doesn't look like I have the `{permission}` Discord permission. I will auto-delete page switching messages if this perm is given.",
-	"pagination.page": "Page {page}/{maxPages}"
+	"pagination.page": "Page {numPage, number}/{numMax, number}"
 }
