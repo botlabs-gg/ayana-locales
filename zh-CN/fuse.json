@@ -6,6 +6,6 @@
 	"pagination.alternativeClose": "输入`x` 以关闭页面控制功能。",
 	"pagination.alternativeNavigation": "输入 `<` 或 `>` 以切换页面。输入 `p<页数>` 以跳至指定的页面 (例如：`p10`)。",
 	"pagination.noItems": "这里除了我们的鸡之外一无所有…",
-	"pagination.noManageMessages": "看起来我并没有Discord的`{permission}`权限。一旦获得授权，我将会删除翻页信息。",
+	"pagination.noManageMessages": "看起来我并没有Discord的`{permission}`权限。一旦获得授权，我将会自动删除翻页信息。",
 	"pagination.page": "第 {numPage, number}/{numMax, number} 页"
 }
