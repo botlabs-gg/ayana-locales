@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Just t-type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`), geez...!",
 	"pagination.noItems": "Can't you see that there's nothing in here?!",
 	"pagination.noManageMessages": "Baka! I don't have the `{permission}` Discord permission! I g-guess I will auto-delete page switching messages if you give me this perm.",
-	"pagination.page": "Y-you're on page {page} out of {maxPages}..."
+	"pagination.page": ""
 }
