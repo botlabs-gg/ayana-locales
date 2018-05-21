@@ -1,6 +1,4 @@
 # Ayana Localization
->To be used with Ayana
-
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/ayana/localized.svg)](https://crowdin.com/project/ayana)
 [![Discord](https://discordapp.com/api/guilds/145166056812576768/embed.png)](https://discord.gg/WpfP3aW)
 
@@ -12,10 +10,10 @@ Please work hard to make your output feel and function very similar to how the s
 ## Message Formatting
 We use [Format.JS](https://formatjs.io/guides/message-syntax/) To format our messages. Please get to know the syntax before starting to translate. In addition to [Format.JS](https://formatjs.io/guides/message-syntax/) there are certain things that should never be translated:
 
-1. Command names (stuff like "`support` command for invite" or "`settings guild dmerrors false`"). Don't translate the actual command into your language.
-2. Command arguments that are exactly written for the command to work (stuff like "`=m r <on|one|off>`"). Don't translate those into your language.
+1. Command names (stuff like `` `support` command for invite`` or `settings guild dmerrors false`). Don't translate the actual command into your language.
+2. Command arguments that are exactly written for the command to work (stuff like `=m r <on|one|off>`). Don't translate those into your language.
 
-In addition there is a lot of Markdown formatting in these strings so things look pretty on Discord. Please make sure to maintain these in your final translation. Here is a small list of some of the stuff you may see
+There is also a lot of Markdown formatting involved in these strings so things look pretty on Discord. Please make sure to maintain these in your final translation. Here is a small list of some of the stuff you may see:
 1. `**String to translate**`
 2. `__String to translate__`
 3. `` `String to translate` ``
