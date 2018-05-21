@@ -4,8 +4,8 @@
 	"messageable.sendFail": "啊呀！输出的内容超过了2000个字。这是输出内容的文字档:",
 	"messageable.updateFail": "啊呀！输出的内容超过了2000个字。",
 	"pagination.alternativeClose": "输入`x` 以关闭页面控制功能。",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
+	"pagination.alternativeNavigation": "输入 `<` 或 `>` 以切换页面。输入 `p<页数>` 以跳至指定的页面 (例如：`p10`)。",
+	"pagination.noItems": "这里除了我们的鸡之外一无所有…",
 	"pagination.noManageMessages": "",
 	"pagination.page": ""
 }
