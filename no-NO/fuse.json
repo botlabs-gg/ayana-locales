@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Skriv `<` eller `>` for å skifte side. Skriv `p<Nummer>`for å hope til en side (for eksempel `p10`).",
 	"pagination.noItems": "Fryktelig tomt her...",
 	"pagination.noManageMessages": "Det ser ut som om jeg ikke har Discord-tillatelsen `{permission}`. Jeg vil automatisk slette sideskift-meldinger hvis denne tillatelsen er gitt.",
-	"pagination.page": ""
+	"pagination.page": "Side {numPage, number}/{numMax, number}"
 }
