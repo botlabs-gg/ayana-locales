@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "Berichten beheren",
+	"messageable.emptyMessage": "Ik probeerde een leeg bericht te sturen.",
+	"messageable.sendFail": "Oops! De uitvoer was langer dan 2000 karakters. Hier is een tekstbestand met de uitvoer erin:",
+	"messageable.updateFail": "Oeps! De uitvoer is langer dan 2000 karakters.",
+	"pagination.alternativeClose": "Typ `x` om het menu te sluiten.",
+	"pagination.alternativeNavigation": "Ty[ `<` of `>` om van pagina te veranderen. Typ `p<nummer>` om naar een pagina te gaan (bijvoorbeeld `p10`).",
+	"pagination.noItems": "Hier is niks te vinden...",
+	"pagination.noManageMessages": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal pagina-veranderende berichten automatisch verwijderen als de permissie is gegeven.",
+	"pagination.page": "Pagina {page}/{maxPages}"
 }
