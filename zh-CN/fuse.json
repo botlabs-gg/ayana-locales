@@ -3,7 +3,7 @@
 	"messageable.emptyMessage": "我尝试发出了一则空白讯息。",
 	"messageable.sendFail": "啊呀！输出的内容超过了2000个字。这是输出内容的文字档:",
 	"messageable.updateFail": "啊呀！输出的内容超过了2000个字。",
-	"pagination.alternativeClose": "",
+	"pagination.alternativeClose": "输入`x` 以关闭页面控制功能。",
 	"pagination.alternativeNavigation": "",
 	"pagination.noItems": "",
 	"pagination.noManageMessages": "",
