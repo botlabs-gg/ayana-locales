@@ -4,3 +4,4 @@ files:
       - /en-US/*.context.json
       - /en-US/settings.json
     translation: /%locale%/%original_file_name%
+    update_option: update_as_unapproved
