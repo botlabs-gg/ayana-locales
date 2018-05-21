@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "Üzenetek kezelése",
+	"messageable.emptyMessage": "Egy üres üzenetet próbáltam meg elküldeni.",
+	"messageable.sendFail": "Hoppá! A kimenet több mint 2000 karakter. Itt egy szöveges fájl a tartalommal:",
+	"messageable.updateFail": "Hoppá! A kimenet több lett mint 2000 karakter.",
+	"pagination.alternativeClose": "Az 'x' gombbal ki lehet kapcsolni a lapszámozást.",
+	"pagination.alternativeNavigation": "Használd a '<' vagy a '>' gombot, hogy válts oldalt. Használd a 'p<Szám>' parancsot, hogy egy meghatározott oldalra látogass (pl. 'p10').",
+	"pagination.noItems": "Senki sincs itt...",
+	"pagination.noManageMessages": "Úgy tűnik, hogy nincs meg a `{permission}` Discord engedélyem. Automatikusan törölni fogom az oldalváltási üzeneteket amint megvan ez az engedély.",
+	"pagination.page": "Oldal {numPage, number}/{numMax, number}"
 }

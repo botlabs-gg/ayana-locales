@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<Numer>`, aby przejść do strony (np. `p10`).",
 	"pagination.noItems": "Brak elementów do wyświetlenia...",
 	"pagination.noManageMessages": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
-	"pagination.page": "Strona {page}/{maxPages}"
+	"pagination.page": "Strona {numPage, number}/{numMax, number}"
 }
