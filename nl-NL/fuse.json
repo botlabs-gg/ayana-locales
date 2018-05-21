@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Ty[ `<` of `>` om van pagina te veranderen. Typ `p<nummer>` om naar een pagina te gaan (bijvoorbeeld `p10`).",
 	"pagination.noItems": "Hier is niks te vinden...",
 	"pagination.noManageMessages": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal pagina-veranderende berichten automatisch verwijderen als de permissie is gegeven.",
-	"pagination.page": "Pagina {page}/{maxPages}"
+	"pagination.page": ""
 }
