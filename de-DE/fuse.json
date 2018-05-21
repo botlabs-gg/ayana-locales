@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "Schreibe `<` oder `>` um die Seite zu wechseln. Schreibe `p<Zahl>` um zu einer Seite zu springen (z.B. `p10`).",
 	"pagination.noItems": "Nichts außer uns beiden hier...",
 	"pagination.noManageMessages": "Es sieht nicht so aus als hätte ich die Discord Berechtigung `{permission}`. Ich werde Nachrichten für den Seitenwechsel automatisch löschen, wenn ich diese Berechtigung habe.",
-	"pagination.page": "Seite {page}/{maxPages}"
+	"pagination.page": "Seite {numPage, number}/{numMax, number}"
 }
