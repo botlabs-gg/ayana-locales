@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "Управлять сообщениями",
+	"messageable.emptyMessage": "Я попыталась отправить пустое сообщение.",
+	"messageable.sendFail": "Упс! Результат оказался больше 2000 символов. Вот текстовый файл с содержимым сообщения:",
+	"messageable.updateFail": "Упс! Результат оказался больше 2000 символов.",
+	"pagination.alternativeClose": "Введите `x` для завершения постраничного вывода.",
+	"pagination.alternativeNavigation": "Введите `<` или `>` для переключения страницы. Введите `p<Number>` для перехода на страницу (например `p10`).",
+	"pagination.noItems": "Здесь ничего нет...",
+	"pagination.noManageMessages": "Похоже, у меня нет Discord-права `{permission}`. Я буду автоматически удалять переключающие сообщения после получения данного права.",
+	"pagination.page": "Страница {numPage, number}/{numMax, number}"
 }
