@@ -3,9 +3,9 @@
 	"messageable.emptyMessage": "",
 	"messageable.sendFail": "",
 	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
+	"pagination.alternativeClose": "Taip `x` untuk tutup penghalaman.",
 	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
+	"pagination.noItems": "Tiada sesiapa kecuali kita je...",
 	"pagination.noManageMessages": "",
 	"pagination.page": ""
 }
