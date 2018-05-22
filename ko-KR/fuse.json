@@ -7,5 +7,5 @@
 	"pagination.alternativeNavigation": "`<`또는 `>`를 입력해서 페이지를 이동할 수 있어요. `p<숫자>`를 입력해서 해당 페이지로 이동할 수 있어요(예. `p10`).",
 	"pagination.noItems": "텅텅 비어있어요...",
 	"pagination.noManageMessages": "제게 디스코드 권한 `{permission}`이 없는 것 같아요... 만약 이 권한이 제게 주어지면 자동으로 페이지 변경 메세지를 삭제할게요.",
-	"pagination.page": ""
+	"pagination.page": "페이지 {numPage, number}/{numMax, number}"
 }
