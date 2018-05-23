@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
+	"discord.permissions.manageMessages": "Urus Mesej",
+	"messageable.emptyMessage": "Saya cuba menghantar mesej kosong.",
+	"messageable.sendFail": "Alamak! Mesej output melangkaui 2000 huruf. Berikut merupakan fail teks berisi kandungan:",
+	"messageable.updateFail": "Alamak! Mesej output melangkaui 2000 huruf.",
 	"pagination.alternativeClose": "Taip `x` untuk tutup penghalaman.",
-	"pagination.alternativeNavigation": "",
+	"pagination.alternativeNavigation": "Taip `<` atau `>` untuk tukar halaman. Taip `p<nombor>` untuk lompat ke halaman (contoh: `p10`).",
 	"pagination.noItems": "Tiada sesiapa kecuali kita je...",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"pagination.noManageMessages": "Nampaknya saya tak ada kebenaran Discord `{permission}`. Saya akan padam mesej tukar halaman dengan sendiri jika kebenaran ini diberi.",
+	"pagination.page": "Halaman {numPage, number}/{numMax, number}"
 }
