@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "จัดการข้อความ",
+	"messageable.emptyMessage": "ฉันพยายามส่งข้อความว่างเปล่าแล้วนะ",
+	"messageable.sendFail": "อุปส์! ไฟล์มากกว่า 2000 ตัวอักษรแล้ว นี้ตัวอย่างไฟล์นะ:",
+	"messageable.updateFail": "อุปส์! ไฟล์ใหญ่กว่า 2000 ตัวอักษร.",
+	"pagination.alternativeClose": "เขียน `x` เพื่อออกจากหน้าเพจ",
+	"pagination.alternativeNavigation": "เขียน `<` หรือ `>` เพื่อสลับหน้า. เขียน `p<Number>` เพื่อไปยังหน้านั้นๆ (เช่น. `p10`)",
+	"pagination.noItems": "ไม่มีอะไรหรอกแต่... ทำไมไก่อยู่นี้ละ...",
+	"pagination.noManageMessages": "เหมือนว่าฉันจะไม่มีสิทธ์ในดิสคอร์ดที่ชื่อว่า `{permission}` นะ. ฉันจะลบข้อความให้เองเลยหลังจากที่ฉันได้สิทธ์ที่จะทำสิ่งนั้น.",
+	"pagination.page": "หน้าที่ {numPage, number}/{numMax, number}"
 }

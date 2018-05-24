@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "Gerir Mensagens",
+	"messageable.emptyMessage": "Tentei enviar uma mensagem vazia.",
+	"messageable.sendFail": "Ups! A produção ficou maior que 2000 caracteres. Aqui está um ficheiro de texto com o conteúdo:",
+	"messageable.updateFail": "Ups! A produção ficou maior que 2000 caracteres.",
+	"pagination.alternativeClose": "Digita `x` para fechar a paginação.",
+	"pagination.alternativeNavigation": "Digita `<` ou `>` para trocar de página. Digita `p<Número>` para saltar para uma página (ex. `p10`).",
+	"pagination.noItems": "Nada aqui porém só nós galinhas...",
+	"pagination.noManageMessages": "Não me parece que tenha a permissão `{permission}` do Discord. Irei apagar automaticamente mensagens de troca-páginas se esta permissão for dada.",
+	"pagination.page": "Página {numPage, number}/{numMax, number}"
 }

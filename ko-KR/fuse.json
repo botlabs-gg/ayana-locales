@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "",
-	"messageable.sendFail": "",
-	"messageable.updateFail": "",
-	"pagination.alternativeClose": "",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"discord.permissions.manageMessages": "메세지 관리",
+	"messageable.emptyMessage": "빈 메세지를 보내려고 해봤어요.",
+	"messageable.sendFail": "아앗! 출력이 2000자보다 많아졌어요. 여기 내용이 포함된 텍스트 파일이에요:",
+	"messageable.updateFail": "아앗! 출력이 2000자보다 많아졌어요.",
+	"pagination.alternativeClose": "페이지 기록을 종료시키려면 `x`를 입력해주세요.",
+	"pagination.alternativeNavigation": "`<`또는 `>`를 입력해서 페이지를 이동할 수 있어요. `p<숫자>`를 입력해서 해당 페이지로 이동할 수 있어요(예. `p10`).",
+	"pagination.noItems": "텅텅 비어있어요...",
+	"pagination.noManageMessages": "제게 디스코드 권한 `{permission}`이 없는 것 같아요... 만약 이 권한이 제게 주어지면 자동으로 페이지 변경 메세지를 삭제할게요.",
+	"pagination.page": "페이지 {numPage, number}/{numMax, number}"
 }
