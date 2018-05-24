@@ -1,3 +1,3 @@
 {
-	"resolveFailed": "Gagal menyelesaikan terjemahan `{key}`."
+	"I18N_RESOLVE_FAILED": "Gagal menyelesaikan terjemahan `{key}`."
 }

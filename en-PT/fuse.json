@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "",
-	"messageable.emptyMessage": "Yer errand boy presented me with a blank parchment, what sort of joke is this.",
-	"messageable.sendFail": "Yer errand boy's message was far too long to listen to, so I made him write down the entire thing. Look for yourself:",
-	"messageable.updateFail": "Egad! Don't trifle me with yer excessive drivel, it is over 2000 characters.",
-	"pagination.alternativeClose": "'X' marks the spot.",
-	"pagination.alternativeNavigation": "",
-	"pagination.noItems": "Even the rats knew to abandon the ship...",
-	"pagination.noManageMessages": "",
-	"pagination.page": ""
+	"DISCORD_PERMISSION_MANAGE_MESSAGES": "",
+	"MESSAGEABLE_EMPTY_MESSAGE": "Yer errand boy presented me with a blank parchment, what sort of joke is this.",
+	"MESSAGEABLE_SEND_FAIL": "Yer errand boy's message was far too long to listen to, so I made him write down the entire thing. Look for yourself:",
+	"MESSAGEABLE_UPDATE_FAIL": "Egad! Don't trifle me with yer excessive drivel, it is over 2000 characters.",
+	"PAGINATION_ALTERNATIVE_CLOSE": "'X' marks the spot.",
+	"PAGINATION_ALTERNATIVE_NAVIGATION": "",
+	"PAGINATION_NO_ITEMS": "Even the rats knew to abandon the ship...",
+	"PAGINATION_NO_MANAGE_MESSAGES": "",
+	"PAGINATION_PAGE": ""
 }

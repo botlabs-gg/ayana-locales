@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "Zarządzanie wiadomościami",
-	"messageable.emptyMessage": "Próbowałam wysłać pustą wiadomość.",
-	"messageable.sendFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:",
-	"messageable.updateFail": "Ojej! Wiadomość przekroczyła limit 2000 znaków.",
-	"pagination.alternativeClose": "Wyślij `x`, aby zamknąć stronicowanie.",
-	"pagination.alternativeNavigation": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<Numer>`, aby przejść do strony (np. `p10`).",
-	"pagination.noItems": "Brak elementów do wyświetlenia...",
-	"pagination.noManageMessages": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
-	"pagination.page": "Strona {numPage, number}/{numMax, number}"
+	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Zarządzanie wiadomościami",
+	"MESSAGEABLE_EMPTY_MESSAGE": "Próbowałam wysłać pustą wiadomość.",
+	"MESSAGEABLE_SEND_FAIL": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:",
+	"MESSAGEABLE_UPDATE_FAIL": "Ojej! Wiadomość przekroczyła limit 2000 znaków.",
+	"PAGINATION_ALTERNATIVE_CLOSE": "Wyślij `x`, aby zamknąć stronicowanie.",
+	"PAGINATION_ALTERNATIVE_NAVIGATION": "Wyślij `<` lub `>`, aby przełączyć między stronami. Wyślij `p<Numer>`, aby przejść do strony (np. `p10`).",
+	"PAGINATION_NO_ITEMS": "Brak elementów do wyświetlenia...",
+	"PAGINATION_NO_MANAGE_MESSAGES": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
+	"PAGINATION_PAGE": "Strona {numPage, number}/{numMax, number}"
 }

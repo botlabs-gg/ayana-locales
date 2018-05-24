@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "จัดการข้อความ",
-	"messageable.emptyMessage": "ฉันพยายามส่งข้อความว่างเปล่าแล้วนะ",
-	"messageable.sendFail": "อุปส์! ไฟล์มากกว่า 2000 ตัวอักษรแล้ว นี้ตัวอย่างไฟล์นะ:",
-	"messageable.updateFail": "อุปส์! ไฟล์ใหญ่กว่า 2000 ตัวอักษร.",
-	"pagination.alternativeClose": "เขียน `x` เพื่อออกจากหน้าเพจ",
-	"pagination.alternativeNavigation": "เขียน `<` หรือ `>` เพื่อสลับหน้า. เขียน `p<Number>` เพื่อไปยังหน้านั้นๆ (เช่น. `p10`)",
-	"pagination.noItems": "ไม่มีอะไรหรอกแต่... ทำไมไก่อยู่นี้ละ...",
-	"pagination.noManageMessages": "เหมือนว่าฉันจะไม่มีสิทธ์ในดิสคอร์ดที่ชื่อว่า `{permission}` นะ. ฉันจะลบข้อความให้เองเลยหลังจากที่ฉันได้สิทธ์ที่จะทำสิ่งนั้น.",
-	"pagination.page": "หน้าที่ {numPage, number}/{numMax, number}"
+	"DISCORD_PERMISSION_MANAGE_MESSAGES": "จัดการข้อความ",
+	"MESSAGEABLE_EMPTY_MESSAGE": "ฉันพยายามส่งข้อความว่างเปล่าแล้วนะ",
+	"MESSAGEABLE_SEND_FAIL": "อุปส์! ไฟล์มากกว่า 2000 ตัวอักษรแล้ว นี้ตัวอย่างไฟล์นะ:",
+	"MESSAGEABLE_UPDATE_FAIL": "อุปส์! ไฟล์ใหญ่กว่า 2000 ตัวอักษร.",
+	"PAGINATION_ALTERNATIVE_CLOSE": "เขียน `x` เพื่อออกจากหน้าเพจ",
+	"PAGINATION_ALTERNATIVE_NAVIGATION": "เขียน `<` หรือ `>` เพื่อสลับหน้า. เขียน `p<Number>` เพื่อไปยังหน้านั้นๆ (เช่น. `p10`)",
+	"PAGINATION_NO_ITEMS": "ไม่มีอะไรหรอกแต่... ทำไมไก่อยู่นี้ละ...",
+	"PAGINATION_NO_MANAGE_MESSAGES": "เหมือนว่าฉันจะไม่มีสิทธ์ในดิสคอร์ดที่ชื่อว่า `{permission}` นะ. ฉันจะลบข้อความให้เองเลยหลังจากที่ฉันได้สิทธ์ที่จะทำสิ่งนั้น.",
+	"PAGINATION_PAGE": "หน้าที่ {numPage, number}/{numMax, number}"
 }

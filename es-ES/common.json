@@ -1,3 +1,3 @@
 {
-	"resolveFailed": "Error al resolver la traducción `{key}`."
+	"I18N_RESOLVE_FAILED": "Error al resolver la traducción `{key}`."
 }

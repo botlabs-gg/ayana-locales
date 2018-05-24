@@ -1,11 +1,11 @@
 {
-	"discord.permissions.manageMessages": "Spravovať správy",
-	"messageable.emptyMessage": "Skúsila som poslať prázdnu správu.",
-	"messageable.sendFail": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom:",
-	"messageable.updateFail": "Ups! Výstup bol väčší ako 2000 znakov.",
-	"pagination.alternativeClose": "Napíš `x` pre zavretie stránkovania.",
-	"pagination.alternativeNavigation": "Píš `<` alebo `>` pre prepnutie strany.\nNapíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
-	"pagination.noItems": "Nikde nič, len kurčatá...",
-	"pagination.noManageMessages": "Vyzerá, že nemám oprávnenie Discordu `{permission}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
-	"pagination.page": "Strana {numPage, number}/{numMax, number}"
+	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Spravovať správy",
+	"MESSAGEABLE_EMPTY_MESSAGE": "Skúsila som poslať prázdnu správu.",
+	"MESSAGEABLE_SEND_FAIL": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom:",
+	"MESSAGEABLE_UPDATE_FAIL": "Ups! Výstup bol väčší ako 2000 znakov.",
+	"PAGINATION_ALTERNATIVE_CLOSE": "Napíš `x` pre zavretie stránkovania.",
+	"PAGINATION_ALTERNATIVE_NAVIGATION": "Píš `<` alebo `>` pre prepnutie strany.\nNapíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
+	"PAGINATION_NO_ITEMS": "Nikde nič, len kurčatá...",
+	"PAGINATION_NO_MANAGE_MESSAGES": "Vyzerá, že nemám oprávnenie Discordu `{permission}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
+	"PAGINATION_PAGE": "Strana {numPage, number}/{numMax, number}"
 }
