@@ -4,8 +4,8 @@
 	"MESSAGEABLE_SEND_FAIL": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri. Eccoti un file di testo con quello che ti serve:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ops! L'output del tuo comando è così lungo da superare i 2000 caratteri.",
 	"PAGINATION_ALTERNATIVE_CLOSE": "Scrivi `x` per chiudere la paginazione.",
-	"PAGINATION_ALTERNATIVE_NAVIGATION": "Scrivi `<` o `>` per cambiare pagina. Scrivi `p<num>` per scegliere una pagina (es. `p10`).",
-	"PAGINATION_NO_ITEMS": "Non c'è nulla qui...",
+	"PAGINATION_ALTERNATIVE_NAVIGATION": "Scrivi `<` o `>` per cambiare pagina. Scrivi `p<Number>` per scegliere una pagina (es. `p10`).",
+	"PAGINATION_NO_ITEMS": "Nient'altro che noi polli qui...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "A quanto pare non ho il permesso di Discord `{permission}`. Potrò cancellare automaticamente i messaggi di cambio pagina una volta che avrò questo permesso.",
 	"PAGINATION_PAGE": "Pagina {numPage, number}/{numMax, number}"
 }
