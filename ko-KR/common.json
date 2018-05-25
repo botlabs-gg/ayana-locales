@@ -1,3 +1,4 @@
 {
+	"I18N_FORMAT_FAILED": "`{key}` 를 구성하는데 실패했어요: {errorMessage}",
 	"I18N_RESOLVE_FAILED": "`{key}` 를 불러오는데 실패했어요."
 }

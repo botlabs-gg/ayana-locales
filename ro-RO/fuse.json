@@ -6,6 +6,6 @@
 	"PAGINATION_ALTERNATIVE_CLOSE": "Scrie `x` pentru a închide paginarea.",
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Scrie `<` sau `>` pentru a schimba pagina. Scrie `p<Număr>` pentru a sări la o pagină (ex. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nimic înafară de noi doi aici...",
-	"PAGINATION_NO_MANAGE_MESSAGES": "Se pare că nu am permisiunea `{permission}`. O să șterg automat paginile schimbând mesaje dacă această permisiune este dată.",
+	"PAGINATION_NO_MANAGE_MESSAGES": "Se pare că nu am permisiunea `{permission}`. O să șterg automat mesajele schimbărilor de pagină dacă această permisiune este dată.",
 	"PAGINATION_PAGE": "Pagina {numPage, number}/{numMax, number}"
 }

@@ -1,3 +1,4 @@
 {
+	"I18N_FORMAT_FAILED": "Impossible de formater la traduction {key}: {errorMessage}",
 	"I18N_RESOLVE_FAILED": "Échec de résolution de la traduction `{key}`."
 }
