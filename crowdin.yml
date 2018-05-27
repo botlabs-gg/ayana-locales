@@ -1,7 +1,8 @@
 files:
-  - source: /en-US/*.json
+  - source: /strings/*json
     ignore:
-      - /en-US/*.context.json
-      - /en-US/settings.json
-    translation: /%locale%/%original_file_name%
+      - /strings/settings.json
+    translation: /%locale%/%original_path%/%original_file_name%
     update_option: update_as_unapproved
+  - source: /strings/*/*.json
+    translation: /%locale%/%original_path%/%original_file_name%
