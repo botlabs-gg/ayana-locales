@@ -1,0 +1,6 @@
+{
+	"FUN_PAID_RESPECTS": "**{username}** présente ses hommages.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** présente ses hommages pour **{for}**.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} aujourd'hui, {numAll, number} au total.",
+	"FUN_RESPECTS_STATS": "`{numToday, number}` hommages rendu aujourd'hui, `{numAll, number}` au total."
+}

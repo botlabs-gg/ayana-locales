@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
+	"I18N_FORMAT_FAILED": "Nie udało się sformatować tłumaczenia {key}: {errorMessage}",
 	"I18N_RESOLVE_FAILED": "Nie udało się odnaleźć tłumaczenia `{key}`."
 }

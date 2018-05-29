@@ -1,0 +1,6 @@
+{
+	"FUN_PAID_RESPECTS": "**{username}** висловив свою повагу.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** висловив свою повагу до **{for}**.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} сьогодні, {numAll, number} за весь час.",
+	"FUN_RESPECTS_STATS": "`{numToday, number}` поваг було висловлено сьогодні, `{numAll, number}` за весь час."
+}

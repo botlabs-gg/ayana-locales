@@ -1,0 +1,4 @@
+{
+	"SYSTEM_PING": "Crikey!",
+	"SYSTEM_PING_COUNT": "Crikey! `{numSecs, number}s {numMilis, number}ms`"
+}

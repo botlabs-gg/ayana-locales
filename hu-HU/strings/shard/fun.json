@@ -1,0 +1,6 @@
+{
+	"FUN_PAID_RESPECTS": "{username} kifejezte tiszteletét.",
+	"FUN_PAID_RESPECTS_FOR": "{username} kifejezte tiszteletét {for} iránt.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} ma, {numAll, number} öszes.",
+	"FUN_RESPECTS_STATS": "{numToday, number} ember mutatta tiszteletét ma, és öszesen ennyien: {numAll, number}."
+}
