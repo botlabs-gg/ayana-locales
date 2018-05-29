@@ -1,0 +1,6 @@
+{
+	"FUN_PAID_RESPECTS": "**{username}** saygılarını sundu.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** saygılarını **{for}** için sundu.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} kadar bugün, {numAll, number} kadar tüm zaman.",
+	"FUN_RESPECTS_STATS": "Bugün `{numToday, number}` kadar saygı verildi, `{numAll, number}` kadar tüm zaman."
+}

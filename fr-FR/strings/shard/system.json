@@ -1,0 +1,4 @@
+{
+	"SYSTEM_PING": "Pong !",
+	"SYSTEM_PING_COUNT": "Pong ! `{numSecs, number}s {numMilis, number}ms`"
+}

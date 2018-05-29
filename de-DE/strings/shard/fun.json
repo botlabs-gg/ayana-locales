@@ -1,0 +1,6 @@
+{
+	"FUN_PAID_RESPECTS": "**{username}** hat seinen Respekt gezollt.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** hat seinen Respekt für **{for}** gezollt.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} Heute, {numAll, number} Gesamt.",
+	"FUN_RESPECTS_STATS": "**{numToday, number}** mal wurde heute Respekt gezollt. **{numAll, number}** mal insgesamt."
+}
