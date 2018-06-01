@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "Gefaald om een vertaling op te maken `{key}: `{errorMessage}`",
-	"I18N_RESOLVE_FAILED": "Gefaald om een vertaling op te lossen `{key}`."
+	"I18N_FORMAT_FAILED": "",
+	"I18N_RESOLVE_FAILED": ""
 }
