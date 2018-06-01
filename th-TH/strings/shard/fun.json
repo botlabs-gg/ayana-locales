@@ -1,6 +1,6 @@
 {
-	"FUN_PAID_RESPECTS": "",
-	"FUN_PAID_RESPECTS_FOR": "",
-	"FUN_RESPECTS_FOOTER": "",
-	"FUN_RESPECTS_STATS": ""
+	"FUN_PAID_RESPECTS": "**{username}** ได้แสดงความเคารพ",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** ได้แสดงความเคารพสำหรับ **{for}}**",
+	"FUN_RESPECTS_FOOTER": "มี {numToday, number} คนในวันนี้, มี {numAll, number} คนในเวลารวม.",
+	"FUN_RESPECTS_STATS": "มี `{numToday, number}` คนที่แสดงความเคารพแล้ว, มี `{numAll, number}` คนในรวมเวลาทั้งหมด."
 }

@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
-	"I18N_RESOLVE_FAILED": "ผิดพลาดที่จะตรวจสอบการแปล `{key}`."
+	"I18N_FORMAT_FAILED": "ผิดพลาดที่จะเขียนคำการแปล `{key}` เนื่องจาก: `{errorMessage}`",
+	"I18N_RESOLVE_FAILED": "ผิดพลาดที่จะตรวจสอบการแปล `{key}`"
 }
