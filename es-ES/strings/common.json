@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "Error en el formato de traducción {key}: {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Error al resolver la traducción `{key}`."
+	"I18N_FORMAT_FAILED": "",
+	"I18N_RESOLVE_FAILED": ""
 }

@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "{key}: {errorMessage} -käännöksen muotoilu epäonnistui",
-	"I18N_RESOLVE_FAILED": "En pystynyt selvittämään käännöstä: `{key}`."
+	"I18N_FORMAT_FAILED": "",
+	"I18N_RESOLVE_FAILED": ""
 }
