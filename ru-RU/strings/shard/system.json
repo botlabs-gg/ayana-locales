@@ -1,4 +1,4 @@
 {
-	"SYSTEM_PING": "",
-	"SYSTEM_PING_COUNT": ""
+	"SYSTEM_PING": "Понг!",
+	"SYSTEM_PING_COUNT": "Понг! `{numSecs, number} сек {numMilis, number} мс`"
 }

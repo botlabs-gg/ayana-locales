@@ -1,6 +1,6 @@
 {
-	"FUN_PAID_RESPECTS": "",
-	"FUN_PAID_RESPECTS_FOR": "",
+	"FUN_PAID_RESPECTS": "**{username}** 表达了他的敬意。",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** 表达了他对 **{for}** 的敬意。",
 	"FUN_RESPECTS_FOOTER": "",
 	"FUN_RESPECTS_STATS": ""
 }
