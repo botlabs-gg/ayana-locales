@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "解析 {key} 的翻译时失败了：{errorMessage}",
+	"I18N_FORMAT_FAILED": "",
 	"I18N_RESOLVE_FAILED": "找不到 {key} 的翻译。"
 }
