@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Versão da Ayana",
-	"AYANA_CORE_VERSION": "Versão Núcleo da Ayana"
+	"AYANA_CORE_VERSION": "Versão Núcleo da Ayana",
+	"INFO_CONTAINER": "",
+	"INFO_MEMORY": "",
+	"INFO_SERVER_REGION": "",
+	"INFO_SERVERS": "",
+	"INFO_SHARD": "",
+	"INFO_STREAMS": "",
+	"INFO_UPTIME": "",
+	"INFO_USERS": "",
+	"SEKITSUI_CLIENT_ID": "",
+	"SEKITSUI_PING": "",
+	"SEKITSUI_VERSION": ""
 }

@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Verzia Ayany",
-	"AYANA_CORE_VERSION": "Verzia Ayana Core"
+	"AYANA_CORE_VERSION": "Verzia Ayana Core",
+	"INFO_CONTAINER": "Kontajner",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Oblasť servera",
+	"INFO_SERVERS": "Servery",
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Prenosy",
+	"INFO_UPTIME": "Doba od restartu",
+	"INFO_USERS": "Používateľov",
+	"SEKITSUI_CLIENT_ID": "ID klienta Sekitsui",
+	"SEKITSUI_PING": "Ping Sekitsui",
+	"SEKITSUI_VERSION": "Verzia Sekitsui"
 }
