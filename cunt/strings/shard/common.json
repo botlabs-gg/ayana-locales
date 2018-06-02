@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Ayana Numba",
-	"AYANA_CORE_VERSION": "Ayana Core Numba"
+	"AYANA_CORE_VERSION": "Ayana Core Numba",
+	"INFO_CONTAINER": "Container",
+	"INFO_MEMORY": "Currently eating",
+	"INFO_SERVER_REGION": "Pub Location",
+	"INFO_SERVERS": "Pubs",
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Streams",
+	"INFO_UPTIME": "Annoying people since",
+	"INFO_USERS": "Dickheads",
+	"SEKITSUI_CLIENT_ID": "Sekitsui Client ID",
+	"SEKITSUI_PING": "Sekitsui Cirkey",
+	"SEKITSUI_VERSION": "Sekitsui Numba"
 }

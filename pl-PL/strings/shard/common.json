@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Wersja Ayany",
-	"AYANA_CORE_VERSION": "Wersja Ayana Core"
+	"AYANA_CORE_VERSION": "Wersja Ayana Core",
+	"INFO_CONTAINER": "Kontener",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Region serwera",
+	"INFO_SERVERS": "Serwery",
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Strumienie",
+	"INFO_UPTIME": "Czas pracy",
+	"INFO_USERS": "Użytkowników",
+	"SEKITSUI_CLIENT_ID": "ID klienta Sekitsui",
+	"SEKITSUI_PING": "Ping Sekitsui",
+	"SEKITSUI_VERSION": "Wersja Sekitsui"
 }

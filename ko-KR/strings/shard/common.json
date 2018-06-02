@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "아야나 버전",
-	"AYANA_CORE_VERSION": "아야나 코어 버전"
+	"AYANA_CORE_VERSION": "아야나 코어 버전",
+	"INFO_CONTAINER": "",
+	"INFO_MEMORY": "",
+	"INFO_SERVER_REGION": "",
+	"INFO_SERVERS": "",
+	"INFO_SHARD": "",
+	"INFO_STREAMS": "",
+	"INFO_UPTIME": "",
+	"INFO_USERS": "",
+	"SEKITSUI_CLIENT_ID": "",
+	"SEKITSUI_PING": "",
+	"SEKITSUI_VERSION": ""
 }
