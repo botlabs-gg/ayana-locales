@@ -1,4 +1,4 @@
 {
-	"SYSTEM_PING": "",
-	"SYSTEM_PING_COUNT": "碰！`{numSecs, number}秒 {numMilis, number}毫秒`"
+	"SYSTEM_PING": "乓！",
+	"SYSTEM_PING_COUNT": "乓！`{numSecs, number}秒 {numMilis, number}毫秒`"
 }

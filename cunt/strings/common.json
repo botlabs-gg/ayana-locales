@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
-	"I18N_RESOLVE_FAILED": ""
+	"I18N_FORMAT_FAILED": "Somebody fucked up \"{key}\" so I couldn't show it. Here's some junk that was created while I was working on it: {errorMessage}",
+	"I18N_RESOLVE_FAILED": "Could not find fucking \"{key}\", bitch."
 }

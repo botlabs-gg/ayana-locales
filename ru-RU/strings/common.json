@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
-	"I18N_RESOLVE_FAILED": ""
+	"I18N_FORMAT_FAILED": "Произошла ошибка при форматировании перевода {key}: {errorMessage}",
+	"I18N_RESOLVE_FAILED": "Произошла ошибка при разборе строки перевода `{key}`."
 }
