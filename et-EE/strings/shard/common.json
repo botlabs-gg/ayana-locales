@@ -1,4 +1,15 @@
 {
-	"AYANA_VERSION": "",
-	"AYANA_CORE_VERSION": ""
+	"AYANA_VERSION": "Ayana Versioon",
+	"AYANA_CORE_VERSION": "Ayana Tuuma versioon",
+	"INFO_CONTAINER": "Konteiner",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Serveri Regioon",
+	"INFO_SERVERS": "Serverid",
+	"INFO_SHARD": "Kild",
+	"INFO_STREAMS": "Vood",
+	"INFO_UPTIME": "Ülalhoitud aeg",
+	"INFO_USERS": "Kasutajad",
+	"SEKITSUI_CLIENT_ID": "Sekitsui Kliendi ID",
+	"SEKITSUI_PING": "Sekitsui Ping",
+	"SEKITSUI_VERSION": "Sekitsui Versioon"
 }

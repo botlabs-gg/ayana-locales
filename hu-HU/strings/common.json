@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
-	"I18N_RESOLVE_FAILED": ""
+	"I18N_FORMAT_FAILED": "A fordítás formázása sikertelen {key}:{errorMessage}",
+	"I18N_RESOLVE_FAILED": "A fordítás megoldása sikertelen`{key}'."
 }

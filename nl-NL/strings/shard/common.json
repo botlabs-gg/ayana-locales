@@ -1,4 +1,15 @@
 {
-	"AYANA_VERSION": "",
-	"AYANA_CORE_VERSION": ""
+	"AYANA_VERSION": "Ayana Versie",
+	"AYANA_CORE_VERSION": "Ayana Core Versie",
+	"INFO_CONTAINER": "Container",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Server Regio",
+	"INFO_SERVERS": "Servers",
+	"INFO_SHARD": "",
+	"INFO_STREAMS": "",
+	"INFO_UPTIME": "",
+	"INFO_USERS": "",
+	"SEKITSUI_CLIENT_ID": "",
+	"SEKITSUI_PING": "",
+	"SEKITSUI_VERSION": ""
 }
