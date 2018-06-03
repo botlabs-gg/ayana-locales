@@ -1,6 +1,6 @@
 {
-	"FUN_PAID_RESPECTS": "",
-	"FUN_PAID_RESPECTS_FOR": "",
-	"FUN_RESPECTS_FOOTER": "",
-	"FUN_RESPECTS_STATS": ""
+	"FUN_PAID_RESPECTS": "**{username}** mourned a great loss to Davy Jones's locker.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** mourned the soul of **{for}** in Davy Jones locker.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} today, {numAll, number} throughout time.",
+	"FUN_RESPECTS_STATS": "`{numToday, number}` souls have been mourned, `{numAll, number}` throughout history."
 }

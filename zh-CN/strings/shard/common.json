@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Ayana版本",
-	"AYANA_CORE_VERSION": "Ayana核心版本"
+	"AYANA_CORE_VERSION": "Ayana核心版本",
+	"INFO_CONTAINER": "容器",
+	"INFO_MEMORY": "内存",
+	"INFO_SERVER_REGION": "服务器地区",
+	"INFO_SERVERS": "服务器",
+	"INFO_SHARD": "碎片",
+	"INFO_STREAMS": "数据流",
+	"INFO_UPTIME": "运行时间",
+	"INFO_USERS": "用户",
+	"SEKITSUI_CLIENT_ID": "Sekitsui客户ID",
+	"SEKITSUI_PING": "",
+	"SEKITSUI_VERSION": "Sekitsui版本"
 }

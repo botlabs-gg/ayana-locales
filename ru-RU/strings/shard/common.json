@@ -1,4 +1,15 @@
 {
 	"AYANA_VERSION": "Версия Ayana",
-	"AYANA_CORE_VERSION": "Версия Ayana Core"
+	"AYANA_CORE_VERSION": "Версия Ayana Core",
+	"INFO_CONTAINER": "Контейнер",
+	"INFO_MEMORY": "ОЗУ",
+	"INFO_SERVER_REGION": "Регион сервера",
+	"INFO_SERVERS": "Серверы",
+	"INFO_SHARD": "Часть",
+	"INFO_STREAMS": "Голосовые подключения",
+	"INFO_UPTIME": "Время \"в сети\"",
+	"INFO_USERS": "Пользователи",
+	"SEKITSUI_CLIENT_ID": "ID клиента Sekitsui",
+	"SEKITSUI_PING": "Задержка Sekitsui",
+	"SEKITSUI_VERSION": "Версия Sekitsui"
 }

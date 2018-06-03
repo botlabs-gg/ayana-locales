@@ -1,6 +1,6 @@
 {
-	"FUN_PAID_RESPECTS": "",
-	"FUN_PAID_RESPECTS_FOR": "",
-	"FUN_RESPECTS_FOOTER": "",
-	"FUN_RESPECTS_STATS": ""
+	"FUN_PAID_RESPECTS": "**{username}** presentaron sus respetos.",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** presentaron sus respetos por **{for}**.",
+	"FUN_RESPECTS_FOOTER": "{numToday, number} hoy, {numAll, number} todo el tiempo.",
+	"FUN_RESPECTS_STATS": "`{numToday, number}` respetos se han pagado hoy, `{numAll, number}` todo el tiempo."
 }
