@@ -1,6 +1,6 @@
 {
-	"enabled": "false",
-	"imaginary": "false",
+	"enabled": false,
+	"imaginary": false,
 	"name": {
 		"english": "Ukrainian",
 		"native": "Українська"

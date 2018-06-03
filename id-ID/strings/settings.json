@@ -1,6 +1,6 @@
 {
-	"enabled": "true",
-	"imaginary": "false",
+	"enabled": true,
+	"imaginary": false,
 	"name": {
 		"english": "Indonesian",
 		"native": "Bahasa Indonesia"
