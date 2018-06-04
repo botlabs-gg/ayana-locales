@@ -1,5 +1,5 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select,\n arg {Argument}\n opt {Option}\n} `{name}` failed input validation.",
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` failed input validation.",
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` must equal `{value}`!",
 	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Option}} `{name}` must match one of the following: `{enum}`",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` must be a number!",
