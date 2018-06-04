@@ -1,15 +1,15 @@
 {
-	"AYANA_VERSION": "",
-	"AYANA_CORE_VERSION": "",
-	"INFO_CONTAINER": "",
-	"INFO_MEMORY": "",
-	"INFO_SERVER_REGION": "",
-	"INFO_SERVERS": "",
-	"INFO_SHARD": "",
-	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
-	"SEKITSUI_CLIENT_ID": "",
-	"SEKITSUI_PING": "",
-	"SEKITSUI_VERSION": ""
+	"AYANA_VERSION": "Ayana Sürümü",
+	"AYANA_CORE_VERSION": "Ayana Core (Çekirdek) Sürümü",
+	"INFO_CONTAINER": "Konteyner",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Sunucu Bölgesi",
+	"INFO_SERVERS": "Sunucular",
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Yayınlar",
+	"INFO_UPTIME": "Çalışma Zamanı",
+	"INFO_USERS": "Kullanıcılar",
+	"SEKITSUI_CLIENT_ID": "Sekitsui İstemci ID'si",
+	"SEKITSUI_PING": "Sekitsui Ping",
+	"SEKITSUI_VERSION": "Sekitsui Sürümü"
 }

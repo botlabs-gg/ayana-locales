@@ -1,15 +1,15 @@
 {
 	"AYANA_VERSION": "Versione di Ayana",
 	"AYANA_CORE_VERSION": "Versione Core di Ayana",
-	"INFO_CONTAINER": "",
-	"INFO_MEMORY": "",
-	"INFO_SERVER_REGION": "",
-	"INFO_SERVERS": "",
-	"INFO_SHARD": "",
-	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
-	"SEKITSUI_CLIENT_ID": "",
-	"SEKITSUI_PING": "",
-	"SEKITSUI_VERSION": ""
+	"INFO_CONTAINER": "Container",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "Regione del Server",
+	"INFO_SERVERS": "Server",
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Flussi",
+	"INFO_UPTIME": "Uptime",
+	"INFO_USERS": "Utenti",
+	"SEKITSUI_CLIENT_ID": "ID Sekitsui Client",
+	"SEKITSUI_PING": "Ping Sekitsui",
+	"SEKITSUI_VERSION": "Versione Sekitsui"
 }

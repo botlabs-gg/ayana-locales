@@ -1,15 +1,15 @@
 {
 	"AYANA_VERSION": "Ayana版本",
 	"AYANA_CORE_VERSION": "Ayana核心版本",
-	"INFO_CONTAINER": "",
-	"INFO_MEMORY": "",
-	"INFO_SERVER_REGION": "",
-	"INFO_SERVERS": "",
-	"INFO_SHARD": "",
-	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
-	"SEKITSUI_CLIENT_ID": "",
-	"SEKITSUI_PING": "",
-	"SEKITSUI_VERSION": ""
+	"INFO_CONTAINER": "容器",
+	"INFO_MEMORY": "內存",
+	"INFO_SERVER_REGION": "伺服器區域",
+	"INFO_SERVERS": "伺服器",
+	"INFO_SHARD": "碎片",
+	"INFO_STREAMS": "串流",
+	"INFO_UPTIME": "運行時間",
+	"INFO_USERS": "用戶",
+	"SEKITSUI_CLIENT_ID": "Sekitsui 用户ID",
+	"SEKITSUI_PING": "Sekitsui Ping 值",
+	"SEKITSUI_VERSION": "Sekitsui 版本"
 }
