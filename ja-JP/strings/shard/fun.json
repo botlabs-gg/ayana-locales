@@ -1,6 +1,6 @@
 {
-	"FUN_PAID_RESPECTS": "",
-	"FUN_PAID_RESPECTS_FOR": "",
-	"FUN_RESPECTS_FOOTER": "",
-	"FUN_RESPECTS_STATS": ""
+	"FUN_PAID_RESPECTS": "**{username}** は敬意を払った。",
+	"FUN_PAID_RESPECTS_FOR": "**{username}** は **{for}** に敬意を払った。",
+	"FUN_RESPECTS_FOOTER": " 今日{numToday, number}, 合計 {numAll, number}。",
+	"FUN_RESPECTS_STATS": "今日`{numToday, number}` 回、合計`{numAll, number}`回敬意が払われました。"
 }

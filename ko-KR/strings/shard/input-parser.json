@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "{타입, 선택, 인수 {인수} 옵션 {옵션}} '{name}'은/는 입력 유효성 검사에 실패했어요.",
+	"INPUT_PARSER_ERROR_EQUALS": "{타입, 선택, 인수 {인수} 옵션 {옵션}} '{name}'은/는 반드시 '{value}'와 동일해야 해요!",
+	"INPUT_PARSER_ERROR_ENUM": "{타입, 선택, 인수 {인수} 옵션 {옵션}} '{name}'은/는 다음과 일치해야 해요: '{enum}'",
+	"INPUT_PARSER_ERROR_NUMBER": "{타입, 선택, 인수 {인수} 옵션 {옵션}} '{name}'은/는 반드시 숫자여야 해요!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{타입, 선택, 인수 {인수} 옵션 {옵션}} '{name}'은/는 반드시 부울 (참/거짓)이여야 해요!"
+}

@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {论据} opt {选项}} `{name}` 失败了输入确认。",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {论据} opt {选项}} `{name}` 必须等于 `{value}`！",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {论据} opt {选项}} `{name}` 必须与以下选项匹配： `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {论据} opt {选项}} `{name}` 必须是一个数字！",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {论据} opt {选项}} `{name}` 必须是布尔值 (真/假)！"
+}

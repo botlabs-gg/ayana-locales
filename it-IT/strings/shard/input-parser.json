@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argomento} opt {Opzione}} `{name}`errore nella convalida dell'input.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argomento} opt {Opzione}} `{name}` dev'essere uguale a `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argomento} opt {Opzione}} `{name}` deve corrispondere a uno dei seguenti: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argomento} opt {Opzione}} `{name}` dev'essere un numero!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argomento} opt {Opzione}} `{name}` dev'essere un valore booleano (true/false)!"
+}

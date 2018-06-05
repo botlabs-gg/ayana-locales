@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Možnost}} `{name}` musí být rovna `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Možnost}} `{name}` musí být jedno z následujících: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Možnost}} `{name}` musí být číslo!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Možnost}} `{name}` musí být true/false (ano/ne)!"
+}

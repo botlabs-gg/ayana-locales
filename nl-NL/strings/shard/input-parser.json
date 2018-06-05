@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Optie}} `{name}` moet gelijk zijn aan `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Optie}} `{name}` moet overeen komen met: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Optie}} `{name}` moet een nummer zijn!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Optie}} `{name}` moet een true/false waarde zijn!"
+}

@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` validação de entrada falhada.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumento} opt {Opção}} `{name}` deve igualar `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumento} opt {Opção}} `{name}` tem que corresponder com um dos seguintes: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumento} opt {Opção}} `{name}` tem que ser um numero!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumento} opt {Opção}} `{name}` deve ser um booleano (verdadeiro/falso)!"
+}

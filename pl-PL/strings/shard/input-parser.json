@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "Błędne dane wejściowe dla {type, select, arg {argumentu} opt {opcji}} `{name}`. ",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Opcja} `{name}` musi odpowiadać `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być jednym z następujących: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być liczbą!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być typem logicznym (true/false)!"
+}

@@ -5,11 +5,11 @@
 	"INFO_MEMORY": "RAM",
 	"INFO_SERVER_REGION": "Server Regio",
 	"INFO_SERVERS": "Servers",
-	"INFO_SHARD": "",
-	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
-	"SEKITSUI_CLIENT_ID": "",
-	"SEKITSUI_PING": "",
-	"SEKITSUI_VERSION": ""
+	"INFO_SHARD": "Shard",
+	"INFO_STREAMS": "Streams",
+	"INFO_UPTIME": "Uptime",
+	"INFO_USERS": "Gebruikers",
+	"SEKITSUI_CLIENT_ID": "ID van Sekitsui Client",
+	"SEKITSUI_PING": "Sekitsui Ping",
+	"SEKITSUI_VERSION": "Sekitsui versie"
 }
