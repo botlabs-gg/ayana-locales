@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` failed input validation.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` must equal `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Option}} `{name}` must match one of the following: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` must be a number!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` must be a boolean (true/false)!",
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} other {Option}} `{name}` failed input validation.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} other {Option}} `{name}` must equal `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} other {Option}} `{name}` must match one of the following: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Option}} `{name}` must be a number!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Option}} `{name}` must be a boolean (true/false)!",
 	"INPUT_PARSER_ERROR_DM": "Please check your command syntax and try again. Due to limitations of DMs I am unable to make suggestions.",
 	"INPUT_PARSER_HEADER_DEFAULT": "Please select one of the following items"
 }
