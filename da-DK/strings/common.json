@@ -1,4 +1,4 @@
 {
-	"I18N_FORMAT_FAILED": "",
-	"I18N_RESOLVE_FAILED": ""
+	"I18N_FORMAT_FAILED": "Mislykkedes i at formatere oversættelsen {key}: {errorMessage}",
+	"I18N_RESOLVE_FAILED": "Mislykkedes i at bestemme oversættelsen `{key}`."
 }

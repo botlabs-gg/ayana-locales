@@ -1,15 +1,15 @@
 {
-	"AYANA_VERSION": "",
-	"AYANA_CORE_VERSION": "",
-	"INFO_CONTAINER": "",
-	"INFO_MEMORY": "",
-	"INFO_SERVER_REGION": "",
-	"INFO_SERVERS": "",
-	"INFO_SHARD": "",
-	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
-	"SEKITSUI_CLIENT_ID": "",
-	"SEKITSUI_PING": "",
-	"SEKITSUI_VERSION": ""
+	"AYANA_VERSION": "Ayanaバージョン",
+	"AYANA_CORE_VERSION": "Ayana Coreバージョン",
+	"INFO_CONTAINER": "コンテナ",
+	"INFO_MEMORY": "RAM",
+	"INFO_SERVER_REGION": "サーバーリージョン",
+	"INFO_SERVERS": "サーバー",
+	"INFO_SHARD": "シャード",
+	"INFO_STREAMS": "ストリーム",
+	"INFO_UPTIME": "稼働時間",
+	"INFO_USERS": "ユーザー",
+	"SEKITSUI_CLIENT_ID": "Sekitsui クライアントID",
+	"SEKITSUI_PING": "Sekitsui Ping",
+	"SEKITSUI_VERSION": "Sekitsui バージョン"
 }

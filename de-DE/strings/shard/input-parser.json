@@ -1,0 +1,7 @@
+{
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` scheiterte an der Eingabeüberprüfung.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` muss `{value}` entsprechen!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Option}} `{name}` muss einem der folgenden Einträge entsprechen: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` muss eine Zahl sein!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` muss ein Boolean sein (true/false)!"
+}

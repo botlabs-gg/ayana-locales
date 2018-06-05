@@ -10,6 +10,6 @@
 	"INFO_UPTIME": "가동 시간",
 	"INFO_USERS": "유저",
 	"SEKITSUI_CLIENT_ID": "중앙 클라이언트 ID",
-	"SEKITSUI_PING": "Sekitsui 응답 속도",
+	"SEKITSUI_PING": "중앙 서버 응답 속도",
 	"SEKITSUI_VERSION": "중앙 서버 버전"
 }
