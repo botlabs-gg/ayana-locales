@@ -1,7 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
+	"INPUT_PARSER_ERROR_CUSTOM": "Invoerverificatie mislukt voor {type, select, arg {Argument} opt {Optie}} `{name}`.",
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Optie}} `{name}` moet gelijk zijn aan `{value}`!",
 	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Optie}} `{name}` moet overeen komen met: `{enum}`",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Optie}} `{name}` moet een nummer zijn!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Optie}} `{name}` moet een true/false waarde zijn!"
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Optie}} `{name}` moet een Boolean-waarde zijn! (true/false)",
+	"INPUT_PARSER_ERROR_DM": "Check aub uw command syntaxis en probeer het opnieuw. Door limieten van privéberichten kan ik geen suggesties maken.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Select aub een van de volgende items"
 }

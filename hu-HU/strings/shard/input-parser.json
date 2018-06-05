@@ -1,7 +1,9 @@
 {
 	"INPUT_PARSER_ERROR_CUSTOM": "A bemenet érvényesítése sikertelen volt: {type, select, arg {téma} opt {opció}} '{name}'.",
 	"INPUT_PARSER_ERROR_EQUALS": "A {type, select, arg {téma} opt {opció}} '{name}' -nek muszály egyenlőnek lennie a '{value}' -val!",
-	"INPUT_PARSER_ERROR_ENUM": "A {type, select, arg {téma} opt {opció}} '{name}' -nek muszály megyegyeznie a(z) '{enum}' értékkel",
+	"INPUT_PARSER_ERROR_ENUM": "",
 	"INPUT_PARSER_ERROR_NUMBER": "A {type, select, arg {téma} opt {opció}} '{name}' -nek muszály egy számnak lennie!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "A {type, select, arg {téma} opt {opció}} '{name}' -nek muszály egy logikai változónak lennie (true/false)!"
+	"INPUT_PARSER_ERROR_BOOLEAN": "A {type, select, arg {téma} opt {opció}} '{name}' -nek muszály egy logikai változónak lennie (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "",
+	"INPUT_PARSER_HEADER_DEFAULT": ""
 }

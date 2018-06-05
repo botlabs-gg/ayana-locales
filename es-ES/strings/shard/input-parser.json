@@ -1,7 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argumento} opt {Opción}} `{name}` validación de entrada fallida.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumento} opt {Opción}} `{name}` debe igualar a `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumento} opt {Opción}} `{name}` debe coincidir con uno de los siguientes: `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumento} opt {Opción}} `{name}` debe ser un número!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumento} opt {Opción}} `{name}` debe ser un booleano (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Por favor comprueba tu comando sintaxis e intenta nuevamente. Debido a las limitaciones de los DM soy incapaz de realizar sugerencias.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Por favor selecciona uno de los siguientes elementos"
 }

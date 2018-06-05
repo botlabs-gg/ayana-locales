@@ -1,7 +1,9 @@
 {
 	"INPUT_PARSER_ERROR_CUSTOM": "You stupid idiot entered something invalid for the {type, select, arg {argument} opt {option}} `{name}`.",
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` is not `{value}` you idiot.",
-	"INPUT_PARSER_ERROR_ENUM": "Use something from the list for the {type, select, arg {argument} opt {option}} `{name}` you stupid idiot: `{enum}`",
+	"INPUT_PARSER_ERROR_ENUM": "Use something from the list for the {type, select, arg {argument} opt {option}} `{name}` you stupid idiot: `{enum}`.",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` has to be a numba you idiot.",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` has to be true or false... How can you fuck this one up."
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` has to be true or false... How can you fuck this one up.",
+	"INPUT_PARSER_ERROR_DM": "You fucked up! Enter your command properly you idiot. Because you're annoying me privately I won't make suggestions for you.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Select the shit yourselves"
 }

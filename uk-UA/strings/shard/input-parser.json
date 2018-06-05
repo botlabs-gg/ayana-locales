@@ -3,5 +3,7 @@
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Аргумент} opt {Опція}} `{name}`має дорівнювати `{value}`!",
 	"INPUT_PARSER_ERROR_ENUM": "Значення {type, select, arg {аргументу} opt {опції}} `{name}`має відповідати одному з наступних: `{enum}`",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Аргумент} opt {Опція}} `{name}` має бути числом!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Аргумент} opt {Опція}} `{name}` має бути булевого типу (true/false)!"
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Аргумент} opt {Опція}} `{name}` має бути булевого типу (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Будь ласка, перевірте написання вашої команди й спробуйте знову. У зв’язку з лімітом ОП я не можу робити припущення.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Будь ласка, оберіть один з наступних елементів"
 }

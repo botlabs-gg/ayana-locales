@@ -1,7 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "L'{type, select, arg {argument} opt {option}} `{name}` a échoué la validation d’entrée.",
+	"INPUT_PARSER_ERROR_EQUALS": "L'{type, select, arg {argument} opt {option}} `{name}` doit égaler `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "L'{type, select, arg {argument} opt {option}} `{name}` doit correspondre à l'un des éléments: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "L'{type, select, arg {argument} opt {option}} `{name}` doit doit être un nombre!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "L'{type, select, arg {argument} opt {option}} `{name}` doit être un booléen (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Veuillez vérifier la syntaxe de votre commande et ressayer. À cause des limitations des MP je suis incapable de faire des suggestions.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Veuillez choisir l'un des éléments suivants"
 }
