@@ -3,5 +3,7 @@
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumen} opt {Opsi}} `{name}` harus sama dengan `{value}`!",
 	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumen} opt {Opsi}} `{name}` harus cocok dengan salah satu dari daftar berikut: `{enum}`",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumen} opt {Opsi}} `{name}` harus berbentuk angka!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumen} opt {Opsi}} `{name}` harus berbentuk boolean (true/false)!"
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumen} opt {Opsi}} `{name}` harus berbentuk boolean (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Mohon periksa sintaksis perintah Anda dan coba lagi. Saya tidak bisa memberikan saran karena keterbatasan pada pesan pribadi.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Silahkan pilih salah satu item berikut"
 }

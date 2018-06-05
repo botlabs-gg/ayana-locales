@@ -1,7 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` inputvalidering mislykkedes.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` skal være lig med `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Option}} `{name}` skal være lig med en af de følgende: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` skal være et tal!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` skal være en boolean (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Tjek venligst din kommandosyntaks og prøv igen. På grund af begrænsninger i DMs er jeg ikke i stand til at komme med forslag.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Vælg venligst en af de følgende elementer"
 }

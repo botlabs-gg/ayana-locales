@@ -3,5 +3,7 @@
 	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Opcja} `{name}` musi odpowiadać `{value}`!",
 	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być jednym z następujących: `{enum}`",
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być liczbą!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być typem logicznym (true/false)!"
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Opcja}} `{name}` musi być typem logicznym (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Sprawdź poprawność komendy i spróbuj ponownie. Ze względu na limity wiadomości prywatnych, nie mogę dokonać sugestii.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Proszę wybrać jeden z następujących elementów"
 }

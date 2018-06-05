@@ -1,7 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {參數} opt {選項}} `{name}` 的輸入驗證失敗了。",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {參數} opt {選項}} `{name}` 必須為 `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {參數} opt {選項}} `{name}` 必須與下列內容之一匹配： `{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {參數} opt {選項}} `{name}` 必須為數字！",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {參數} opt {選項}} `{name}` 必須為布林值(true/false)！",
+	"INPUT_PARSER_ERROR_DM": "",
+	"INPUT_PARSER_HEADER_DEFAULT": ""
 }
