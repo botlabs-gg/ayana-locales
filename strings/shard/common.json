@@ -11,5 +11,6 @@
 	"INFO_USERS": "Users",
 	"SEKITSUI_CLIENT_ID": "Sekitsui Client ID",
 	"SEKITSUI_PING": "Sekitsui Ping",
-	"SEKITSUI_VERSION": "Sekitsui Version"
+	"SEKITSUI_VERSION": "Sekitsui Version",
+	"HEADER_SELECT_ACTION": "What would you like todo?"
 }

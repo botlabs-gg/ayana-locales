@@ -5,5 +5,5 @@
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Option}} `{name}` must be a number!",
 	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Option}} `{name}` must be a boolean (true/false)!",
 	"INPUT_PARSER_ERROR_DM": "Please check your command syntax and try again. Due to limitations of DMs I am unable to make suggestions.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Please select one of the following items"
+	"INPUT_PARSER_HEADER_DEFAULT": "Please select one of the following items for `{name}`."
 }
