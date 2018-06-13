@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}** ha reso omaggio a **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} oggi, {numAll, number} in totale.",
 	"FUN_RESPECTS_STATS": "È stato reso omaggio `{numToday, number}` volte oggi, `{numAll, number}` in totale.",
-	"FUN_EMOJIFY_RESULT": "`Emoji di {name}: {emojified}"
+	"FUN_EMOJIFY_RESULT": ""
 }
