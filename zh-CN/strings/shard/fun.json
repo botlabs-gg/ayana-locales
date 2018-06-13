@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** 表达了他的敬意。",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** 表达了他对 **{for}** 的敬意。",
 	"FUN_RESPECTS_FOOTER": "今天 {numToday, number} 次，所有时间 {numAll, number} 次。",
-	"FUN_RESPECTS_STATS": "今天内共已表达 `{numToday, number}` 次敬意，所有时间共 `{numAll, number}` 次。"
+	"FUN_RESPECTS_STATS": "今天内共已表达 `{numToday, number}` 次敬意，所有时间共 `{numAll, number}` 次。",
+	"FUN_EMOJIFY_RESULT": ""
 }
