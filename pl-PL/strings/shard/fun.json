@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** okazał szacunek.",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** okazał szacunek dla **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} dzisiaj, {numAll, number} łącznie.",
-	"FUN_RESPECTS_STATS": "Szacunek został dziś okazany `{numToday, number}` razy, łącznie `{numAll, number}`."
+	"FUN_RESPECTS_STATS": "Szacunek został dziś okazany `{numToday, number}` razy, łącznie `{numAll, number}`.",
+	"FUN_EMOJIFY_RESULT": ""
 }
