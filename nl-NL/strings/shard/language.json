@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Selecteer een taal alstublieft!",
+	"LANGUAGE_SET_USER": "Oke, ik heb je taal veranderd naar `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "Oke, ik heb de taal van het kanaal `{channel}` veranderd naar `{language}`.",
+	"LANGUAGE_SET_GUILD": "Oke, ik heb de server taal veranderd naar `{language}`."
+}

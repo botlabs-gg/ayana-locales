@@ -11,5 +11,6 @@
 	"INFO_USERS": "Пользователи",
 	"SEKITSUI_CLIENT_ID": "ID клиента Sekitsui",
 	"SEKITSUI_PING": "Задержка Sekitsui",
-	"SEKITSUI_VERSION": "Версия Sekitsui"
+	"SEKITSUI_VERSION": "Версия Sekitsui",
+	"HEADER_SELECT_ACTION": "Чтобы вы хотели сделать?"
 }

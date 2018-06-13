@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` validação de entrada falhada.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumento} opt {Opção}} `{name}` deve igualar a `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumento} opt {Opção}} `{name}` deve ser um número!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumento} opt {Opção}} `{name}` deve ser um booleano (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} other {Option}} `{name}` validação de entrada falhada.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumento} other {Opção}} `{name}` deve igualar a `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumento} other {Opção}} `{name}` deve corresponder com um dos seguintes: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumento} other {Opção}} `{name}` deve ser um número!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumento} other {Opção}} `{name}` deve ser um booleano (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Verifique a sua sintaxe do comando e tente novamente. Devido a limitações das mensagens diretas, estou incapaz de fazer sugestões.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Selecione um dos seguintes itens para `{name}`."
 }

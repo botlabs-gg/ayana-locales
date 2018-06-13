@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} opt {Option}} `{name}` a eşuat validarea input.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} opt {Option}} `{name}` trebuie să egaleze valoarea `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} opt {Option}} `{name}` trebuie să se potrivească cu una dintre următoarele: `{enum}`",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} opt {Option}} `{name}` trebuie sa fie un numār!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} opt {Option}} `{name}` trebuie să fie un boolean (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Te rog să verifici sintaxa şi să încerci din nou. Din cauza limitelor mesajelor private nu pot să fac sugestii.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Te rog să selectezi unul dintre următoarele elemente"
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argumentul} other {Opțiunea}} `{name}` a eşuat validarea input.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumentul} other {Opțiunea}} `{name}` trebuie să egaleze valoarea `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumentul} other {Opțiunea}} `{name}` trebuie să se potrivească cu una dintre următoarele: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumentul} other {Opțiunea}} `{name}` trebuie sa fie un numār!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumentul} other {Opțiunea}} `{name}` trebuie sa fie un boolean (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Te rog să verifici sintaxa şi să încerci din nou. Din cauza limitărilor mesajelor private nu pot să fac sugestii.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Te rog să selectezi unul dintre următoarele elemente pentru `{name}`."
 }

@@ -11,5 +11,6 @@
 	"INFO_USERS": "유저",
 	"SEKITSUI_CLIENT_ID": "중앙 클라이언트 ID",
 	"SEKITSUI_PING": "중앙 서버 응답 속도",
-	"SEKITSUI_VERSION": "중앙 서버 버전"
+	"SEKITSUI_VERSION": "중앙 서버 버전",
+	"HEADER_SELECT_ACTION": "무엇을 하고 싶으신가요?"
 }

@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Pick a fucking language (I heared `cunt` is pretty good)!",
+	"LANGUAGE_SET_USER": "From now on, I will insult you with `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "From now on, I will insult the table `{channel}` with `{language}`.",
+	"LANGUAGE_SET_GUILD": "From now on, I will insult this pub with `{language}`."
+}

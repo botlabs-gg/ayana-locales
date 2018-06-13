@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Ole hyvä, ja valitse kieli!",
+	"LANGUAGE_SET_USER": "Ok, olen asettanut kieleksesi: `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "Ok, olen asettanut kanavan `{channel}` kieleksi: `{language}`.",
+	"LANGUAGE_SET_GUILD": "Ok, olen asettanut palvelimen kieleksi: `{language}`."
+}

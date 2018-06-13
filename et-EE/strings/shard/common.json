@@ -11,5 +11,6 @@
 	"INFO_USERS": "Kasutajad",
 	"SEKITSUI_CLIENT_ID": "Sekitsui Kliendi ID",
 	"SEKITSUI_PING": "Sekitsui Ping",
-	"SEKITSUI_VERSION": "Sekitsui Versioon"
+	"SEKITSUI_VERSION": "Sekitsui Versioon",
+	"HEADER_SELECT_ACTION": ""
 }

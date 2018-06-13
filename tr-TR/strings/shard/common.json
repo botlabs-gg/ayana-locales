@@ -11,5 +11,6 @@
 	"INFO_USERS": "Kullanıcılar",
 	"SEKITSUI_CLIENT_ID": "Sekitsui İstemci ID'si",
 	"SEKITSUI_PING": "Sekitsui Ping",
-	"SEKITSUI_VERSION": "Sekitsui Sürümü"
+	"SEKITSUI_VERSION": "Sekitsui Sürümü",
+	"HEADER_SELECT_ACTION": ""
 }

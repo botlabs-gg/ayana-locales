@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": "",
-	"INPUT_PARSER_ERROR_DM": "",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} other {Option}} `{name}` failed input validation. You're always ruining something, huh?!",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} other {Option}} `{name}` must equal `{value}`! Geez, must I tell you everything?",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} other {Option}} `{name}` must match one of the following: `{enum}`. I am not telling you this next time!",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Option}} `{name}` must be a number! You're really bad at this!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Option}} `{name}` must be a boolean (true/false)! Hmph, maybe I shouldn't tell you this.",
+	"INPUT_PARSER_ERROR_DM": "Can't you just type the correct command syntax next time? I also can't DM you any suggestions. Must I tell you everything? Geez!",
+	"INPUT_PARSER_HEADER_DEFAULT": "Just select one of the following items for `{name}` already. I have more things to do other than helping you!"
 }

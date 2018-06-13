@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Prosím, vyber jazyk!",
+	"LANGUAGE_SET_USER": "Dobře, nastavila jsem tvůj jazyk na `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "Dobře, nastavila jsem jazyk pro kanál `{channel}` na `{language}`.",
+	"LANGUAGE_SET_GUILD": "Dobře, nastavila jsem jazyk serveru na `{language}`."
+}

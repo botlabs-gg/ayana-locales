@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Te rog să selectezi o limbă!",
+	"LANGUAGE_SET_USER": "Bun, am setat limba pe `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "Bun, am setat limba canalului `{channel}` pe `{language}`.",
+	"LANGUAGE_SET_GUILD": "Bun, am setat limba serverului pe `{language}`."
+}

@@ -11,5 +11,6 @@
 	"INFO_USERS": "Pengguna",
 	"SEKITSUI_CLIENT_ID": "ID Klien Sekitsui",
 	"SEKITSUI_PING": "Ping Sekitsui",
-	"SEKITSUI_VERSION": "Versi Sekitsui"
+	"SEKITSUI_VERSION": "Versi Sekitsui",
+	"HEADER_SELECT_ACTION": "Apa yang ingin Anda lakukan?"
 }

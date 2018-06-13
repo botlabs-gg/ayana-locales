@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Kérlek válassz nyelvet!",
+	"LANGUAGE_SET_USER": "Oké, a nyelv át lett állítva '{language}'-ra.",
+	"LANGUAGE_SET_CHANNEL": "Oké, a csatorna '{channel}' nyelve át lett állítva '{language}'-ra.",
+	"LANGUAGE_SET_GUILD": "Oké, a szerver nyelve át lett állítva '{language}'-ra."
+}
