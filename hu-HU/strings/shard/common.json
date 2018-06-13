@@ -11,5 +11,6 @@
 	"INFO_USERS": "Felhasználók",
 	"SEKITSUI_CLIENT_ID": "Sekitsui kliens azonosító",
 	"SEKITSUI_PING": "Sekitsuki válaszidő",
-	"SEKITSUI_VERSION": "Sekitsui Verzió"
+	"SEKITSUI_VERSION": "Sekitsui Verzió",
+	"HEADER_SELECT_ACTION": "Mit szeretnél csinálni?"
 }

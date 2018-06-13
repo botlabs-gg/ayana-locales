@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "请选择一门语言！",
+	"LANGUAGE_SET_USER": "好的，我已经将你的语言设置成 `{language}`。",
+	"LANGUAGE_SET_CHANNEL": "好的，我已经将 `{channel}` 频道的语言设置成 `{language}`。",
+	"LANGUAGE_SET_GUILD": "好的，我已经将服务器的语言设置成 `{language}`。"
+}

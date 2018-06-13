@@ -11,5 +11,6 @@
 	"INFO_USERS": "用户",
 	"SEKITSUI_CLIENT_ID": "Sekitsui 用户ID",
 	"SEKITSUI_PING": "Sekitsui Ping 值",
-	"SEKITSUI_VERSION": "Sekitsui 版本"
+	"SEKITSUI_VERSION": "Sekitsui 版本",
+	"HEADER_SELECT_ACTION": "你想做什么？"
 }

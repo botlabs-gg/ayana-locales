@@ -11,5 +11,6 @@
 	"INFO_USERS": "Brugere",
 	"SEKITSUI_CLIENT_ID": "Sekitsui Klient ID",
 	"SEKITSUI_PING": "Sekitsui Ping",
-	"SEKITSUI_VERSION": "Sekitsui Version"
+	"SEKITSUI_VERSION": "Sekitsui Version",
+	"HEADER_SELECT_ACTION": "Hvad vil du gerne gøre?"
 }

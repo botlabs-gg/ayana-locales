@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": "",
-	"INPUT_PARSER_ERROR_DM": "",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Muuttujan} other {Asetuksen}} `{name}` todentaminen epäonnistui.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Muuttujan} other {Asetuksen}} `{name}` pitää sisältää arvo `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Muuttujan} other {Asetuksen}} `{name}` pitää sopia yhteen seuraavan kanssa: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Muuttujan} other {Asetuksen}} `{name}` pitää olla numero!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Muuttujan} other {Asetuksen}} `{name}` pitää olla boolean (true/false)!",
+	"INPUT_PARSER_ERROR_DM": "Tarkista komentosi syntaksointi ja yritä uudelleen. Rajoituksien vuoksi, en ole kykenevä ehdottamaan YV:llä.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Ole hyvä, ja valitse yksi seuraavista kohteista `{name}` varten."
 }

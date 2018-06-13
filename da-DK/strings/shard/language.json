@@ -1,0 +1,6 @@
+{
+	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Vælg venligst et sprog!",
+	"LANGUAGE_SET_USER": "Okay, jeg har sat dit sprog til `{language}`.",
+	"LANGUAGE_SET_CHANNEL": "Okay, jeg har sat kanalen `{channel}`'s sprog til `{language}`.",
+	"LANGUAGE_SET_GUILD": "Okay, jeg har sat serverens sprog til `{language}`."
+}
