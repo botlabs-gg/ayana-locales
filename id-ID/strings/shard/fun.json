@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}** memberikan penghormatan untuk **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} hari ini, {numAll, number} sepanjang waktu.",
 	"FUN_RESPECTS_STATS": "`{numToday, number}` penghormatan sudah diberikan hari ini, `{numAll, number}` sepanjang waktu.",
-	"FUN_EMOJIFY_RESULT": ""
+	"FUN_EMOJIFY_RESULT": "Emoji untuk `{name}`: {emojified}"
 }
