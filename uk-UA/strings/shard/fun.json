@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}** висловив свою повагу до **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} сьогодні, {numAll, number} за весь час.",
 	"FUN_RESPECTS_STATS": "`{numToday, number}` поваг було висловлено сьогодні, `{numAll, number}` за весь час.",
-	"FUN_EMOJIFY_RESULT": ""
+	"FUN_EMOJIFY_RESULT": "Емоджі для `{name}`: {emojified}"
 }
