@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}**님이 **{for}**을\/를 위하여 조의를 표하셨어요.",
 	"FUN_RESPECTS_FOOTER": "금일 {numToday, number}명, 총합 {numAll, number}명",
 	"FUN_RESPECTS_STATS": "`{numToday, number}`명이 오늘 조의를 표하셨어요. 모두 합해서 `{numAll, number}`명이에요.",
-	"FUN_EMOJIFY_RESULT": ""
+	"FUN_EMOJIFY_RESULT": "`{name}'을 위한 이모지 : {emojified}"
 }
