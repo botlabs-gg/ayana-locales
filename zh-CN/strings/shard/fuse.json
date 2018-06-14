@@ -1,5 +1,5 @@
 {
-	"DISCORD_PERMISSION_MANAGE_MESSAGES": "信息管理",
+	"DISCORD_PERMISSION_MANAGE_MESSAGES": "管理信息",
 	"MESSAGEABLE_EMPTY_MESSAGE": "我尝试发出了一则空白讯息。",
 	"MESSAGEABLE_SEND_FAIL": "啊呀！输出的内容超过了2000个字。这是输出内容的文字档:",
 	"MESSAGEABLE_UPDATE_FAIL": "啊呀！输出的内容超过了2000个字。",
