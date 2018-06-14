@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}** heeft haar respect betaald voor **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} vandaag, {numAll, number} in totaal.",
 	"FUN_RESPECTS_STATS": "`{numToday, number}` waarderingen zijn vandaag betaald, `{numAll, number}` in totaal.",
-	"FUN_EMOJIFY_RESULT": ""
+	"FUN_EMOJIFY_RESULT": "Emojis voor `{name}`: {emojified}"
 }
