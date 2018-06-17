@@ -1,10 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Mengelola Pesan",
-	"ERROR_GENERAL": "",
+	"ERROR_GENERAL": "Terjadi kesalahan. Jika Anda memerlukan bantuan lebih lanjut mengenai ini, Anda dapat bertanya pada server dukungan kami (`support` untuk mendapatkan undangan).\n```{error}```",
 	"FINDER_ERROR": "Tidak dapat menemukan item yang cocok untuk `{search}`.",
 	"FINDER_ERROR_MEMBER": "Tidak dapat menemukan anggota yang cocok untuk `{search}`.",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_MEMBER": "",
+	"FINDER_HEADER": "Silakan memilih item yang Anda maksud dengan `{search}`:",
+	"FINDER_HEADER_MEMBER": "Silakan pilih anggota yang Anda maksud dengan `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Saya mencoba mengirim pesan kosong.",
 	"MESSAGEABLE_SEND_FAIL": "Ups! Outputnya menjadi lebih besar dari 2000 karakter. Ini file teks dengan konten:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ups! Outputnya menjadi lebih besar dari 2000 karakter.",
@@ -14,5 +14,5 @@
 	"PAGINATION_NO_MANAGE_MESSAGES": "Sepertinya saya tidak memiliki izin `{permission}` Discord. Saya akan otomatis menghapus pesan peralihan halaman jika izin ini diberikan.",
 	"PAGINATION_PAGE": "Halaman {numPage, number}/{numMax, number}",
 	"QUESTIONS_CANCEL": "Batal",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCELLED": "Permintaan dibatalkan."
 }
