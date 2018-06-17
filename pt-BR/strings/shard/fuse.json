@@ -13,6 +13,6 @@
 	"PAGINATION_NO_ITEMS": "Nada aqui porém só nós galinhas...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Não me parece que tenha a permissão `{permission}` do Discord. Irei apagar automaticamente mensagens de troca-páginas se esta permissão for dada.",
 	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Cancelar",
+	"QUESTIONS_CANCELLED": "Questão cancelada."
 }
