@@ -1,9 +1,9 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Manage Messages",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "",
+	"ERROR_GENERAL": "Something fucked up. If you have no idea how to deal with this, go ask some know-nothing cunt in the support server (use `support` to get the fucking invite).\n```{error}```",
+	"FINDER_ERROR": "I can't find fucking `{search}`, whatever that is supposed to be.",
+	"FINDER_ERROR_CHANNEL": "Couldn't find that fucking table called `{search}`. Get your shit together and try again cunt.",
+	"FINDER_ERROR_MEMBER": "I can't find that dickhead called `{search}`. Find them yourself you wanker.",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_CHANNEL": "",
 	"FINDER_HEADER_MEMBER": "",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Nothing here, fuck off.",
 	"PAGINATION_NO_MANAGE_MESSAGES": "I can't FUCKING `{permission}`. I'll delete page switching shit if you give it to me, cunt.",
 	"PAGINATION_PAGE": "Pagé {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Fuck that shit",
+	"QUESTIONS_CANCELLED": "Fuck your question."
 }
