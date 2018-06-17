@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Üzenetek kezelése",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Egy üres üzenetet próbáltam meg elküldeni.",
 	"MESSAGEABLE_SEND_FAIL": "Hoppá! A kimenet több mint 2000 karakter. Itt egy szöveges fájl a tartalommal:",
 	"MESSAGEABLE_UPDATE_FAIL": "Hoppá! A kimenet több lett mint 2000 karakter.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Használd a '<' vagy a '>' gombot, hogy válts oldalt. Használd a 'p<Szám>' parancsot, hogy egy meghatározott oldalra látogass (pl. 'p10').",
 	"PAGINATION_NO_ITEMS": "Senki sincs itt...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Úgy tűnik, hogy nincs meg a `{permission}` Discord engedélyem. Automatikusan törölni fogom az oldalváltási üzeneteket amint megvan ez az engedély.",
-	"PAGINATION_PAGE": "Oldal {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Oldal {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }
