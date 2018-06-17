@@ -2,7 +2,7 @@
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Mengelola Pesan",
 	"ERROR_GENERAL": "",
 	"FINDER_ERROR": "Tidak dapat menemukan item yang cocok untuk `{search}`.",
-	"FINDER_ERROR_MEMBER": "",
+	"FINDER_ERROR_MEMBER": "Tidak dapat menemukan anggota yang cocok untuk `{search}`.",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Saya mencoba mengirim pesan kosong.",
