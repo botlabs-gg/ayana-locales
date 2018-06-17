@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Manage Messages",
+	"ERROR_GENERAL": "An error occurred. If you need more help with this, you can ask us on our support server (`support` command to get the invite).\n```{error}```",
+	"FINDER_ERROR": "Unable to find matching item for `{search}`.",
+	"FINDER_ERROR_MEMBER": "Unable to find matching member for `{search}`",
+	"FINDER_HEADER": "Please pick the item you meant with `{search}`:",
+	"FINDER_HEADER_MEMBER": "Please pick the member you meant with `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "I tried to send an empty message.",
 	"MESSAGEABLE_SEND_FAIL": "Whoops! The output became larger than 2000 characters. Here's a text file with the content:",
 	"MESSAGEABLE_UPDATE_FAIL": "Whoops! The output became larger than 2000 characters.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Type `<` or `>` to switch the page. Type `p<Number>` to jump to a page (ex. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nothing but us chickens here...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "It doesn't look like I have the `{permission}` Discord permission. I will auto-delete page switching messages if this perm is given.",
-	"PAGINATION_PAGE": "Page {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Page {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "Cancel",
+	"QUESTIONS_CANCELLED": "Question cancelled."
 }
