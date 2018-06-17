@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** antoi respektiä.",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** antoi respektinsä: **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} tänään, {numAll, number} yhteensä.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` respektiä annettu tänään, `{numAll, number}` yhteensä."
+	"FUN_RESPECTS_STATS": "`{numToday, number}` respektiä annettu tänään, `{numAll, number}` yhteensä.",
+	"FUN_EMOJIFY_RESULT": "`{name}` Emoijeina on {emojified}"
 }

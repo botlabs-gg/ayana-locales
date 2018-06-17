@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** は敬意を払った。",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** は **{for}** に敬意を払った。",
 	"FUN_RESPECTS_FOOTER": " 今日{numToday, number}, 合計 {numAll, number}。",
-	"FUN_RESPECTS_STATS": "今日`{numToday, number}` 回、合計`{numAll, number}`回敬意が払われました。"
+	"FUN_RESPECTS_STATS": "今日`{numToday, number}` 回、合計`{numAll, number}`回敬意が払われました。",
+	"FUN_EMOJIFY_RESULT": ""
 }

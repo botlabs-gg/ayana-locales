@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** şi-a adus omagiul.",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** şi-a adus omagiul pentru **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} astăzi, {numAll, number} în total.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` omagii au fost aduse astăzi, `{numAll, number}` în total."
+	"FUN_RESPECTS_STATS": "`{numToday, number}` omagii au fost aduse astăzi, `{numAll, number}` în total.",
+	"FUN_EMOJIFY_RESULT": "Emoji pentru `{name}`: {emojified}"
 }

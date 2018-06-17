@@ -1,16 +1,16 @@
 {
 	"AYANA_VERSION": "",
 	"AYANA_CORE_VERSION": "",
-	"INFO_CONTAINER": "",
-	"INFO_MEMORY": "",
-	"INFO_SERVER_REGION": "",
-	"INFO_SERVERS": "",
-	"INFO_SHARD": "",
+	"INFO_CONTAINER": "Fleet",
+	"INFO_MEMORY": "Ammunition levels",
+	"INFO_SERVER_REGION": "Map coordinates",
+	"INFO_SERVERS": "Ship",
+	"INFO_SHARD": "Captin's Quarter",
 	"INFO_STREAMS": "",
-	"INFO_UPTIME": "",
-	"INFO_USERS": "",
+	"INFO_UPTIME": "Day's at sea",
+	"INFO_USERS": "Crew Members",
 	"SEKITSUI_CLIENT_ID": "",
 	"SEKITSUI_PING": "",
 	"SEKITSUI_VERSION": "",
-	"HEADER_SELECT_ACTION": ""
+	"HEADER_SELECT_ACTION": "Arrr! What booty shall ye chase?"
 }

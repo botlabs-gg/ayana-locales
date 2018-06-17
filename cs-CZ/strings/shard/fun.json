@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** vzdal\/a svůj respekt.",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** vzdal\/a svůj respekt kvůli **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} dnes, {numAll, number} za celou dobu.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` respektů bylo dnes vzdáno, `{numAll, number}` za celou dobu."
+	"FUN_RESPECTS_STATS": "`{numToday, number}` respektů bylo dnes vzdáno, `{numAll, number}` za celou dobu.",
+	"FUN_EMOJIFY_RESULT": ""
 }

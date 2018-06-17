@@ -2,5 +2,6 @@
 	"FUN_PAID_RESPECTS": "**{username}** has paid their shit.",
 	"FUN_PAID_RESPECTS_FOR": "**{username}** has paid their shit to **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} today, {numAll, number} all time.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` people have paid their shit today, `{numAll, number}` all time."
+	"FUN_RESPECTS_STATS": "`{numToday, number}` people have paid their shit today, `{numAll, number}` all time.",
+	"FUN_EMOJIFY_RESULT": "Smileys for `{name}`, bitch: {emojified}"
 }
