@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Hallinnoi viestejä",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Yritin lähettää tyhjän viestin.",
 	"MESSAGEABLE_SEND_FAIL": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä. Tässä on tekstitiedosto sisällöstä:",
 	"MESSAGEABLE_UPDATE_FAIL": "Hupsista! Ulostulo on suurempi kuin 2000 merkkiä.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Syötä `<` tai `>` vaihtaaksesi sivua. Syötä `p<num>` hypätäksesi sivulle (esim. `p10`).",
 	"PAGINATION_NO_ITEMS": "Hellunkanat täällä vaan...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Näyttää siltä, että minulta puuttuu `{permission}` Discord-oikeus. Sitten voin poistaa sivunumeroinnin viestit automaattisesti.",
-	"PAGINATION_PAGE": "Sivu {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Sivu {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }
