@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gestionar mensajes",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Traté de enviar un mensaje vacío.",
 	"MESSAGEABLE_SEND_FAIL": "¡Ups! La salida se hizo más grande que 2000 caracteres. Aquí hay un archivo de texto con el contenido:",
 	"MESSAGEABLE_UPDATE_FAIL": "¡Ups! La salida se hizo más grande que 2000 caracteres.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Escriba `<` o `>`para cambiar la página. Escriba `p<Number>` para saltar de página (ej. `p10`).",
 	"PAGINATION_NO_ITEMS": "Quién más estaría aquí...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "No parece que tengas el permiso Discord `{permission}`. Voy a borrar automáticamente los mensajes de cambio de página si se proporciona este permiso.",
-	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }
