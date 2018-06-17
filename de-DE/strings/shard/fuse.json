@@ -1,10 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Nachrichten verwalten",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "Ein Fehler ist aufgetreten. Wenn du mehr Hilfe benötigst, kannst du auf unserem Support-Server nachfragen (`support` Befehl um eine Einladung zu bekommen).\n```{error}```",
+	"FINDER_ERROR": "Es konnte kein übereinstimmender Eintrag für `{search}` gefunden werden.",
+	"FINDER_ERROR_CHANNEL": "Es konnte kein übereinstimmender Kanal für `{search}` gefunden werden.",
+	"FINDER_ERROR_MEMBER": "Es konnte kein übereinstimmendes Mitglied für `{search}` gefunden werden.",
+	"FINDER_HEADER": "Bitte wähle den Eintrag aus, den du mit `{search}` gemeint hast:",
+	"FINDER_HEADER_CHANNEL": "Bitte wähle den Kanal aus, den du mit `{search}` gemeint hast:",
+	"FINDER_HEADER_MEMBER": "Bitte wähle das Mitglied aus, das du mit `{search}` gemeint hast:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Ich habe versucht eine leere Nachricht zu senden.",
 	"MESSAGEABLE_SEND_FAIL": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen. Hier ist eine Textdatei mit dem Inhalt:",
 	"MESSAGEABLE_UPDATE_FAIL": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen.",
@@ -13,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Nichts außer uns beiden hier...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Es sieht nicht so aus als hätte ich die Discord Berechtigung `{permission}`. Ich werde Nachrichten für den Seitenwechsel automatisch löschen, wenn ich diese Berechtigung habe.",
 	"PAGINATION_PAGE": "Seite {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Abbrechen",
+	"QUESTIONS_CANCELLED": "Frage abgebrochen."
 }
