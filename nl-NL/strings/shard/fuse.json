@@ -1,7 +1,7 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Berichten beheren",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
+	"ERROR_GENERAL": "Er is een fout opgetreden. Als u meer hulp nodig hebt, kunt u dat vragen op onze support server (`support` voor de uitnodiging).\n```{error}```",
+	"FINDER_ERROR": "Kan geen bijpassend item vinden voor `{search}`.",
 	"FINDER_ERROR_MEMBER": "",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_MEMBER": "",
@@ -13,6 +13,6 @@
 	"PAGINATION_NO_ITEMS": "Hier is niks te vinden...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Het lijkt erop dat ik de `{permission}` Discord permissie niet heb. Ik zal pagina-veranderende berichten automatisch verwijderen als de permissie is gegeven.",
 	"PAGINATION_PAGE": "Pagina {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Annuleren",
+	"QUESTIONS_CANCELLED": "Vraag geannuleerd."
 }
