@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Manage Scribblin's",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Yer errand boy presented me with a blank parchment, what sort of joke is this.",
 	"MESSAGEABLE_SEND_FAIL": "Yer errand boy's message was far too long to listen to, so I made him write down the entire thing. Look for yourself:",
 	"MESSAGEABLE_UPDATE_FAIL": "Egad! Don't trifle me with yer excessive drivel, it is over 2000 characters.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Arrr! Decide if ye wish to turn to port or starboard by declaring `<` or `>` to change charts. Declare `p<Number>` to jump to a chart (ex. `p10`).",
 	"PAGINATION_NO_ITEMS": "Even the rats knew to abandon the ship...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Arrr! Davy Jones did not intend for me to use these features without the `{permission}` permission. I will discard the chart notes if the god's will me the permission.",
-	"PAGINATION_PAGE": "Chart {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Chart {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

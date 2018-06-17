@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Administrer Beskeder",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Jeg forsøgte at sende en tom besked.",
 	"MESSAGEABLE_SEND_FAIL": "Whoops! Beskeden overskred 2000 karakterer. Her er en tekst fil med hele indholdet:",
 	"MESSAGEABLE_UPDATE_FAIL": "Whoops! Beskeden overskred 2000 karakterer.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Skriv `<` eller `>` for at skifte side. Skriv `p<Nummer>` for at hoppe til en side (eks. `p10`).",
 	"PAGINATION_NO_ITEMS": "Der er frygteligt tomt her...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Det ser ud til at jeg ikke har Discord tilladelsen `{permission}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
-	"PAGINATION_PAGE": "Side {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Side {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

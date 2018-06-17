@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Управлять сообщениями",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Я попыталась отправить пустое сообщение.",
 	"MESSAGEABLE_SEND_FAIL": "Упс! Результат оказался больше 2000 символов. Вот текстовый файл с содержимым сообщения:",
 	"MESSAGEABLE_UPDATE_FAIL": "Упс! Результат оказался больше 2000 символов.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Введите `<` или `>` для переключения страницы. Введите `p<Number>` для перехода на страницу (например `p10`).",
 	"PAGINATION_NO_ITEMS": "Здесь ничего нет...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Похоже, у меня нет Discord-права `{permission}`. Я буду автоматически удалять переключающие сообщения после получения данного права.",
-	"PAGINATION_PAGE": "Страница {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Страница {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

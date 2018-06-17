@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Manage Messages",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Stuff was empty, I'll speak anyways HAH.",
 	"MESSAGEABLE_SEND_FAIL": "Oi! Your shitty paragraph is bigger than 2000 characters. I was so nice I made you a shitty text file:",
 	"MESSAGEABLE_UPDATE_FAIL": "Oi! Your shitty paragraph is bigger than 2000 characters. Tone that shit down.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "If you're too lazy to move your mouse you can use `<`, `>` or `p<Numba>` to switch the page, dickhead.",
 	"PAGINATION_NO_ITEMS": "Nothing here, fuck off.",
 	"PAGINATION_NO_MANAGE_MESSAGES": "I can't FUCKING `{permission}`. I'll delete page switching shit if you give it to me, cunt.",
-	"PAGINATION_PAGE": "Pagé {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Pagé {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

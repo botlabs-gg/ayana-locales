@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Nachrichten verwalten",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Ich habe versucht eine leere Nachricht zu senden.",
 	"MESSAGEABLE_SEND_FAIL": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen. Hier ist eine Textdatei mit dem Inhalt:",
 	"MESSAGEABLE_UPDATE_FAIL": "Hoppla! Die Ausgabe wurde länger als 2000 Zeichen.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Schreibe `<` oder `>` um die Seite zu wechseln. Schreibe `p<Zahl>` um zu einer Seite zu springen (z.B. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nichts außer uns beiden hier...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Es sieht nicht so aus als hätte ich die Discord Berechtigung `{permission}`. Ich werde Nachrichten für den Seitenwechsel automatisch löschen, wenn ich diese Berechtigung habe.",
-	"PAGINATION_PAGE": "Seite {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Seite {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

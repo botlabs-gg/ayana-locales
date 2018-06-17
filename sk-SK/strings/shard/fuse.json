@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Spravovať správy",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Skúsila som poslať prázdnu správu.",
 	"MESSAGEABLE_SEND_FAIL": "Ups! Výstup bol väčší ako 2000 znakov. Tu je textový súbor s obsahom:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ups! Výstup bol väčší ako 2000 znakov.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Píš `<` alebo `>` pre prepnutie strany.\nNapíš `p<číslo>` pre preskočenie na stranu (napr. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nikde nič, len kurčatá...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Vyzerá, že nemám oprávnenie Discordu `{permission}`. Keď budem mať toto oprávnenie, smažem správy, ktoré prepínajú strany.",
-	"PAGINATION_PAGE": "Strana {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Strana {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

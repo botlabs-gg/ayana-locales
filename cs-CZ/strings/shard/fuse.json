@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Spravovat zprávy",
+	"ERROR_GENERAL": "",
+	"FINDER_ERROR": "",
+	"FINDER_ERROR_MEMBER": "",
+	"FINDER_HEADER": "",
+	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Zkusila jsem poslat prázdnou zprávu.",
 	"MESSAGEABLE_SEND_FAIL": "Ups. Výstup je delší než 2000 znaků. Tady je textový soubor s obsahem:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ups. Výstup je delší než 2000 znaků.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Piš `<` nebo `>` pro přepnutí stránky.\nNapiš `p<číslo>` pro skok na stránku (např. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nikde nic, jen kuřata...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Vypadá, že nemám oprávnění Discordu `{permission}`. Automaticky smažu zprávy které budou přepínat stránky pokud mi toto bude povoleno.",
-	"PAGINATION_PAGE": "Stránka {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Stránka {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCELLED": ""
 }

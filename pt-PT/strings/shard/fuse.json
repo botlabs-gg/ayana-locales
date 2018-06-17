@@ -1,5 +1,10 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gerir Mensagens",
+	"ERROR_GENERAL": "Um erro ocorreu. Se precisares de mais ajuda para isto, podes perguntar-nos no nosso servidor de apoio (o comando `support` para receber o convite). ```{error}```",
+	"FINDER_ERROR": "Impossibilidade de encontrar o item correspondente para `{search}`.",
+	"FINDER_ERROR_MEMBER": "Impossibilidade de encontrar o membro correspondente para `{search}`.",
+	"FINDER_HEADER": "Por favor escolhe o item que querias dizer com `{search}`:",
+	"FINDER_HEADER_MEMBER": "Por favor escolhe o membro que querias dizer com `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Tentei enviar uma mensagem vazia.",
 	"MESSAGEABLE_SEND_FAIL": "Ups! A produção ficou maior que 2000 caracteres. Aqui está um ficheiro de texto com o conteúdo:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ups! A produção ficou maior que 2000 caracteres.",
@@ -7,5 +12,7 @@
 	"PAGINATION_ALTERNATIVE_NAVIGATION": "Digita `<` ou `>` para trocar de página. Digita `p<Número>` para saltar para uma página (ex. `p10`).",
 	"PAGINATION_NO_ITEMS": "Nada aqui porém só nós galinhas...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Não me parece que tenha a permissão `{permission}` do Discord. Irei apagar automaticamente mensagens de troca-páginas se esta permissão for dada.",
-	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}"
+	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}",
+	"QUESTIONS_CANCEL": "Cancelar",
+	"QUESTIONS_CANCELLED": "Questão cancelada."
 }
