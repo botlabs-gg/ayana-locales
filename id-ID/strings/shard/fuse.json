@@ -1,7 +1,7 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Mengelola Pesan",
 	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
+	"FINDER_ERROR": "Tidak dapat menemukan item yang cocok untuk `{search}`.",
 	"FINDER_ERROR_MEMBER": "",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_MEMBER": "",
@@ -13,6 +13,6 @@
 	"PAGINATION_NO_ITEMS": "Tidak ada selain kami, ayam di sini...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Sepertinya saya tidak memiliki izin `{permission}` Discord. Saya akan otomatis menghapus pesan peralihan halaman jika izin ini diberikan.",
 	"PAGINATION_PAGE": "Halaman {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
+	"QUESTIONS_CANCEL": "Batal",
 	"QUESTIONS_CANCELLED": ""
 }
