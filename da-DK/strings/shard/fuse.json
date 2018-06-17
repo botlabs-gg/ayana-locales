@@ -1,10 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Administrer Beskeder",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "Der opstod en fejl. Hvis du har brug for yderligere hjælp med dette kan du få hjælp i vores support server (brug `support` kommandoen for at modtage en invitation).\n```{error}```",
+	"FINDER_ERROR": "Kunne ikke finde et match for `{search}`.",
+	"FINDER_ERROR_CHANNEL": "Kunne ikke finde en matchende kanal for `{search}`.",
+	"FINDER_ERROR_MEMBER": "Kunne ikke finde en matchende bruger for `{search}`.",
+	"FINDER_HEADER": "Vælg venligst, hvad du mente med `{search}`:",
+	"FINDER_HEADER_CHANNEL": "Vælg venligst kanalen du mente med `{search}`:",
+	"FINDER_HEADER_MEMBER": "Vælg venligst hvad du mente med `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Jeg forsøgte at sende en tom besked.",
 	"MESSAGEABLE_SEND_FAIL": "Whoops! Beskeden overskred 2000 karakterer. Her er en tekst fil med hele indholdet:",
 	"MESSAGEABLE_UPDATE_FAIL": "Whoops! Beskeden overskred 2000 karakterer.",
@@ -13,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Der er frygteligt tomt her...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Det ser ud til at jeg ikke har Discord tilladelsen `{permission}`. Jeg vil automatisk slette sideskift beskeder hvis denne tilladelse er givet.",
 	"PAGINATION_PAGE": "Side {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Afbryd",
+	"QUESTIONS_CANCELLED": "Spørgsmål afbrudt."
 }

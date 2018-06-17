@@ -1,10 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Zarządzanie wiadomościami",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "Wystąpił błąd. Jeżeli potrzebujesz dodatkowej pomocy, możesz nas o to zapytać, na naszym serwerze wsparcia (użyj komendy `support` aby wyświetlić zaproszenie).\n```{error}```",
+	"FINDER_ERROR": "Nie udało się odnaleźć pasującej pozycji dla `{search}`.",
+	"FINDER_ERROR_CHANNEL": "Nie udało się odnaleźć pasującego kanału dla `{search}`.",
+	"FINDER_ERROR_MEMBER": "Nie udało się odnaleźć pasującego użytkownika dla `{search}`.",
+	"FINDER_HEADER": "Proszę wybrać element, który miałaś/eś na myśli poprzez `{search}`:",
+	"FINDER_HEADER_CHANNEL": "Proszę wybrać kanał, który miałaś/eś na myśli poprzez `{search}`:",
+	"FINDER_HEADER_MEMBER": "Proszę wybrać użytkownika, którego miałaś/eś na myśli poprzez `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Próbowałam wysłać pustą wiadomość.",
 	"MESSAGEABLE_SEND_FAIL": "Ojej! Wiadomość przekroczyła limit 2000 znaków. Łap plik tekstowy z wiadomością:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ojej! Wiadomość przekroczyła limit 2000 znaków.",
@@ -13,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Brak elementów do wyświetlenia...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Wygląda na to, że nie mam uprawnień Discord `{permission}`. Automatycznie usunę poprzednie wiadomości o przełączeniu stron, po nadaniu mi tych uprawnień.",
 	"PAGINATION_PAGE": "Strona {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Anuluj",
+	"QUESTIONS_CANCELLED": "Zapytanie anulowane."
 }
