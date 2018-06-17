@@ -1,7 +1,7 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gestisci Messaggi",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
+	"ERROR_GENERAL": "Si è verificato un errore. Se hai bisogno di aiuto, puoi chiedere a noi sul nostro server di supporto (comando `support` per ricevere l'invito).\n```{error}```",
+	"FINDER_ERROR": "Nessuna corrispondenza durante la ricerca dell'elemento `{search}`.",
 	"FINDER_ERROR_MEMBER": "",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_MEMBER": "",
@@ -13,6 +13,6 @@
 	"PAGINATION_NO_ITEMS": "Nient'altro che noi polli qui...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "A quanto pare non ho il permesso di Discord `{permission}`. Potrò cancellare automaticamente i messaggi di cambio pagina una volta che avrò questo permesso.",
 	"PAGINATION_PAGE": "Pagina {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Annulla",
+	"QUESTIONS_CANCELLED": "Domanda annullata."
 }
