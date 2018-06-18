@@ -1,12 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gerenciar mensagens",
-	"ERROR_GENERAL": "Um erro ocorreu. Se precisares de mais ajuda para isto, podes perguntar-nos no nosso servidor de apoio (o comando `support` para receber o convite). ```{error}```",
-	"FINDER_ERROR": "Impossibilidade de encontrar o item correspondente para `{search}`.",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "Impossibilidade de encontrar o membro correspondente para `{search}`.",
-	"FINDER_HEADER": "Por favor escolhe o item que querias dizer com `{search}`:",
-	"FINDER_HEADER_CHANNEL": "",
-	"FINDER_HEADER_MEMBER": "Por favor escolhe o membro que querias dizer com `{search}`:",
+	"ERROR_GENERAL": "Ocorreu um erro. Se precisar de mais ajuda, você pode pedi-la no nosso servidor de assistência (comando `support` para receber o convite).\n```{error}```",
+	"FINDER_ERROR": "Não foi possível encontrar o elemento correspondente para `{search}`.",
+	"FINDER_ERROR_CHANNEL": "Não foi possível encontrar o canal correspondente para `{search}`.",
+	"FINDER_ERROR_MEMBER": "Não foi possível encontrar o membro correspondente para `{search}`.",
+	"FINDER_HEADER": "Escolha o elemento que você se refere por `{search}`:",
+	"FINDER_HEADER_CHANNEL": "Escolha o canal que você se refere por `{search}`:",
+	"FINDER_HEADER_MEMBER": "Escolha o membro que você se refere por `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Tentei enviar uma mensagem vazia.",
 	"MESSAGEABLE_SEND_FAIL": "Ops! A produção ficou maior que 2000 caracteres. Aqui está um arquivo de texto com o conteúdo:",
 	"MESSAGEABLE_UPDATE_FAIL": "Ops! A produção ficou maior que 2000 caracteres.",
@@ -16,5 +16,5 @@
 	"PAGINATION_NO_MANAGE_MESSAGES": "Não me parece que tenha a permissão `{permission}` do Discord. Irei apagar automaticamente mensagens de troca-páginas se esta permissão for dada.",
 	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}",
 	"QUESTIONS_CANCEL": "Cancelar",
-	"QUESTIONS_CANCELLED": "Questão cancelada."
+	"QUESTIONS_CANCELLED": "Pergunta cancelada."
 }
