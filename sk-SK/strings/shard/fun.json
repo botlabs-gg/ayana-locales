@@ -3,5 +3,5 @@
 	"FUN_PAID_RESPECTS_FOR": "**{username}** vzdal\/a svôj respekt kvôli **{for}**.",
 	"FUN_RESPECTS_FOOTER": "{numToday, number} dnes, {numAll, number} za celý čas.",
 	"FUN_RESPECTS_STATS": "`{numToday, number}` respektov bolo dnes vzdaných, `{numAll, number}` za celý čas.",
-	"FUN_EMOJIFY_RESULT": ""
+	"FUN_EMOJIFY_RESULT": "Emoji pre `{name}`: {emojified}"
 }
