@@ -1,6 +1,6 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Керування повідомленнями",
-	"ERROR_GENERAL": "",
+	"ERROR_GENERAL": "Трапилася помилка. Якщо вам потрібна допомога, ви можете запитати нас на нашому сервері підтримки (напишіть `support` для отримання запрошення).\n```{error}```",
 	"FINDER_ERROR": "",
 	"FINDER_ERROR_CHANNEL": "",
 	"FINDER_ERROR_MEMBER": "",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Тут анічогісінько немає...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Схоже, я не маю дозволу `{permission}` на сервері. Я автоматично видалятиму повідомлення зі сторінковою навігацією, якщо цей дозвіл буде надано.",
 	"PAGINATION_PAGE": "Сторінка {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Скасувати",
+	"QUESTIONS_CANCELLED": "Питання скасовано."
 }
