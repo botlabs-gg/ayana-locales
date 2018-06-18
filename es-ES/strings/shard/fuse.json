@@ -1,12 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gestionar mensajes",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_CHANNEL": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "Ha ocurrido un error. Si necesita más ayuda con esto, puedes pedirla en nuestro servidor de soporte (comando `support` para obtener la invitación).\n```{error}```",
+	"FINDER_ERROR": "No se pudo encontrar el elemento correspondiente para `{search}`.",
+	"FINDER_ERROR_CHANNEL": "No se ha podido encontrar el canal correspondiente para `{search}`.",
+	"FINDER_ERROR_MEMBER": "No se pudo encontrar a un miembro correspondiente para `{search}`.",
+	"FINDER_HEADER": "Por favor elija el elemento al que se refiera por `{search}`:",
+	"FINDER_HEADER_CHANNEL": "Por favor elija el canal al que se refiera por `{search}`:",
+	"FINDER_HEADER_MEMBER": "Por favor elija al miembro al que se refiera por `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "Traté de enviar un mensaje vacío.",
 	"MESSAGEABLE_SEND_FAIL": "¡Ups! La salida se hizo más grande que 2000 caracteres. Aquí hay un archivo de texto con el contenido:",
 	"MESSAGEABLE_UPDATE_FAIL": "¡Ups! La salida se hizo más grande que 2000 caracteres.",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Quién más estaría aquí...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "No parece que tengas el permiso Discord `{permission}`. Voy a borrar automáticamente los mensajes de cambio de página si se proporciona este permiso.",
 	"PAGINATION_PAGE": "Página {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Cancelar",
+	"QUESTIONS_CANCELLED": "Pregunta cancelada."
 }
