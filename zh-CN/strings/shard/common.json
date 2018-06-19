@@ -12,7 +12,7 @@
 	"INFO_ID": "ID",
 	"INFO_USERNAME": "用户名",
 	"INFO_DISCRIMINATOR": "",
-	"INFO_NICKNAME": "",
+	"INFO_NICKNAME": "昵称",
 	"INFO_STATUS": "",
 	"INFO_PLAYING": "",
 	"INFO_JOINED": "",
