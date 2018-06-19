@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": "",
-	"INPUT_PARSER_ERROR_DM": "",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {เหตุผล} other {ตัวเลือก}} `{name}` ผิดพลาดในการยืนยัน",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {เหตุผล} other {ตัวเลือก}} `{name}` ควรจะเท่ากับ `{value}`!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {เหตุผล} other {ตัวเลือก}} `{name}` ควรตรงกันกับสิ่งต่อไปนี้:\n`{enum}`",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {เหตุผล} other {ตัวเลือก}} `{name}` ควรจะเป็นตัวเลข",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {เหตุผล} other {ตัวเลือก}} `{name}` ควรจะเป็นบูล (true/false)",
+	"INPUT_PARSER_ERROR_DM": "กรุณาตรวจสอบคำสั่งอีกรอบนึง เนื่องจากมีข้อจำกัดของข้อความส่วนตัว ฉันไม่สามารถช่วยได้นะ",
+	"INPUT_PARSER_HEADER_DEFAULT": "กรุณาเลือกอะไรซักอย่างจาก `{name}`"
 }
