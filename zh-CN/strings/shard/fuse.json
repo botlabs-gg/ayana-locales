@@ -4,7 +4,7 @@
 	"FINDER_ERROR": "找不到与 `{search}` 匹配的项目。",
 	"FINDER_ERROR_CHANNEL": "找不到与 `{search}` 匹配的频道。",
 	"FINDER_ERROR_MEMBER": "找不到与 `{search}` 匹配的成员。",
-	"FINDER_HEADER": "",
+	"FINDER_HEADER": "请从以下有关 `{search}` 的项目中选择你想要的：",
 	"FINDER_HEADER_CHANNEL": "",
 	"FINDER_HEADER_MEMBER": "",
 	"MESSAGEABLE_EMPTY_MESSAGE": "我尝试发出了一则空白讯息。",
