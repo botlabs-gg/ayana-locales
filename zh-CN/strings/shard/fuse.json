@@ -5,8 +5,8 @@
 	"FINDER_ERROR_CHANNEL": "找不到与 `{search}` 匹配的频道。",
 	"FINDER_ERROR_MEMBER": "找不到与 `{search}` 匹配的成员。",
 	"FINDER_HEADER": "请从以下有关 `{search}` 的项目中选择你想要的：",
-	"FINDER_HEADER_CHANNEL": "",
-	"FINDER_HEADER_MEMBER": "",
+	"FINDER_HEADER_CHANNEL": "请从以下有关 `{search}` 的频道中选择你想要的：",
+	"FINDER_HEADER_MEMBER": "请从以下有关 `{search}` 的成员中选择你想要的：",
 	"MESSAGEABLE_EMPTY_MESSAGE": "我尝试发出了一则空白讯息。",
 	"MESSAGEABLE_SEND_FAIL": "啊呀！输出的内容超过了2000个字。这是输出内容的文字档:",
 	"MESSAGEABLE_UPDATE_FAIL": "啊呀！输出的内容超过了2000个字。",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "这里除了我们俩之外一无所有…",
 	"PAGINATION_NO_MANAGE_MESSAGES": "看起来我并没有Discord的`{permission}`权限。一旦获得授权，我将会自动删除翻页信息。",
 	"PAGINATION_PAGE": "第 {numPage, number}/{numMax, number} 页",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "取消",
+	"QUESTIONS_CANCELLED": "问题已取消。"
 }
