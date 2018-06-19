@@ -1,9 +1,9 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "管理信息",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "",
+	"ERROR_GENERAL": "发生错误。如果你需要更多帮助，你可以到我们的支援服务器（使用`support`命令获得邀请链接）询问我们。\n```{error}```",
+	"FINDER_ERROR": "找不到与 `{search}` 匹配的项目。",
+	"FINDER_ERROR_CHANNEL": "找不到与 `{search}` 匹配的频道。",
+	"FINDER_ERROR_MEMBER": "找不到与 `{search}` 匹配的成员。",
 	"FINDER_HEADER": "",
 	"FINDER_HEADER_CHANNEL": "",
 	"FINDER_HEADER_MEMBER": "",
