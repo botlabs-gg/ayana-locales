@@ -1,12 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "Gérer les Messages",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_CHANNEL": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "Une erreur est survenue. Si vous avez besoin d'aide avec ceci, vous pouvez nous demander sur notre serveur de support (exécutez `support` afin de récupérer une invitation).\n```{error}```",
+	"FINDER_ERROR": "Impossible de trouver un élément correspondant à `{search}`.",
+	"FINDER_ERROR_CHANNEL": "Impossible de trouver un salon correspondant à `{search}`.",
+	"FINDER_ERROR_MEMBER": "Impossible de trouver un membre correspondant à `{search}`.",
+	"FINDER_HEADER": "Veuillez choisir l'élément correspondant à `{search}`:",
+	"FINDER_HEADER_CHANNEL": "Veuillez choisir le salon correspondant à `{search}`:",
+	"FINDER_HEADER_MEMBER": "Veuillez choisir le membre correspondant à `{search}`:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "J'ai essayé d'envoyer un message vide.",
 	"MESSAGEABLE_SEND_FAIL": "Oups! Le message de sortie fait plus de 2000 caractères. Voici un fichier avec son contenu:",
 	"MESSAGEABLE_UPDATE_FAIL": "Oups! Le message de sortie fait plus de 2000 caractères.",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "Il n'y a rien d'autre ici que nous, les poules...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "Il semblerait que je ne possède pas la permission Discord `{permission}`. Je supprimerai les messages de changement de page automatiquement si cette permission m'est donnée.",
 	"PAGINATION_PAGE": "Page {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "Annuler",
+	"QUESTIONS_CANCELLED": "Question annulée."
 }
