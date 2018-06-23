@@ -1,9 +1,9 @@
 {
-	"INPUT_PARSER_ERROR_CUSTOM": "",
-	"INPUT_PARSER_ERROR_EQUALS": "",
-	"INPUT_PARSER_ERROR_ENUM": "",
-	"INPUT_PARSER_ERROR_NUMBER": "",
-	"INPUT_PARSER_ERROR_BOOLEAN": "",
-	"INPUT_PARSER_ERROR_DM": "",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} other {Option}} `{name}` giriş doğrulamasında başarısız.",
+	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} other {Option}} `{name}`, `{value}`'e eşit olmalı!",
+	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} other {Option}} `{name}`, bunlardan biriyle eşleşmeli: `{enum}`.",
+	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Option}} `{name}` bir numara olmalı!",
+	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Option}} `{name}` bir boole olmalı (doğru/yanlış)!",
+	"INPUT_PARSER_ERROR_DM": "Komut söz diziminizi kontrol edip tekrar deneyiniz. Direk mesajların kısıtlamaları yüzünden öneri yapamamaktayım.",
+	"INPUT_PARSER_HEADER_DEFAULT": "Lütfen `{name}` için sıradaki öğelerden birini seçiniz."
 }
