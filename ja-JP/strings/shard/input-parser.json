@@ -5,5 +5,5 @@
 	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {引数} other {オプション}} `{name}` は数値で入力してください!",
 	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {引数} other {オプション}} `{name}` はブール値 (true/false) で入力してください!",
 	"INPUT_PARSER_ERROR_DM": "コマンドの構文を確認してもう一度試してください。DMが制限されているため、提案が出来ません。",
-	"INPUT_PARSER_HEADER_DEFAULT": ""
+	"INPUT_PARSER_HEADER_DEFAULT": "以下の`{name}`のいずれかを選択してください。"
 }

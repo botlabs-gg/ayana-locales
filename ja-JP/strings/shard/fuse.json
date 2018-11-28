@@ -1,12 +1,12 @@
 {
 	"DISCORD_PERMISSION_MANAGE_MESSAGES": "メッセージの編集",
-	"ERROR_GENERAL": "",
-	"FINDER_ERROR": "",
-	"FINDER_ERROR_CHANNEL": "",
-	"FINDER_ERROR_MEMBER": "",
-	"FINDER_HEADER": "",
-	"FINDER_HEADER_CHANNEL": "",
-	"FINDER_HEADER_MEMBER": "",
+	"ERROR_GENERAL": "エラーが発生しました。もしサポートが必要な場合はサポートサーバーに参加してください(`support` コマンドで招待URLを取得出来ます)。\n```{error}```",
+	"FINDER_ERROR": "`{search}`に一致する項目がありません。",
+	"FINDER_ERROR_CHANNEL": "`{search}`に一致するチャンネルがありません。",
+	"FINDER_ERROR_MEMBER": "`{search}`に一致するメンバーがいません。",
+	"FINDER_HEADER": "`{search}`を意味する項目を選択してください:",
+	"FINDER_HEADER_CHANNEL": "`{search}`を意味するチャンネルを選択してください:",
+	"FINDER_HEADER_MEMBER": "`{search}`を意味するメンバーを選択してください:",
 	"MESSAGEABLE_EMPTY_MESSAGE": "空のメッセージを送信しようとしています。",
 	"MESSAGEABLE_SEND_FAIL": "おっと！出力する文字数が2000字を超えました。内容は次の通りです。",
 	"MESSAGEABLE_UPDATE_FAIL": "おっと！出力する文字数が2000字を超えました。",
@@ -15,6 +15,6 @@
 	"PAGINATION_NO_ITEMS": "いるのは俺たちチキンだけ...",
 	"PAGINATION_NO_MANAGE_MESSAGES": "私に`{permission}`の権限が与えられていないようです。その権限が私に付与された場合、 自動的にページを削除し、メッセージを編集する事が出来ます。",
 	"PAGINATION_PAGE": "ページ {numPage, number}/{numMax, number}",
-	"QUESTIONS_CANCEL": "",
-	"QUESTIONS_CANCELLED": ""
+	"QUESTIONS_CANCEL": "キャンセル",
+	"QUESTIONS_CANCELLED": "要求がキャンセルされました。"
 }
