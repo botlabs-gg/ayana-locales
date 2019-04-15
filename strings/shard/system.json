@@ -1,4 +1,15 @@
 {
 	"SYSTEM_PING": "Pong!",
-	"SYSTEM_PING_COUNT": "Pong! `{numSecs, number}s {numMilis, number}ms`"
+	"SYSTEM_PING_COUNT": "Pong! `{numSecs, number}s {numMilis, number}ms`",
+	"BENTO_VERSION": "Bento Version",
+	"AYANA_GATEWAY_ID": "Ayana Gateway ID",
+	"AYANA_GATEWAY_PING": "Ayana Gateway Ping",
+	"AYANA_GATEWAY_VERSION": "Ayana Gateway Version",
+	"ENV_HOSTNAME": "Hostname",
+	"ENV_PLATFORM": "Platform",
+	"ENV_UPTIME": "Uptime",
+	"CLUSTER_GUILDS": "Guilds",
+	"CLUSTER_USERS": "Users",
+	"CLUSTER_STREAMS": "Streams",
+	"CLUSTER_RAM": "Ram"
 }
