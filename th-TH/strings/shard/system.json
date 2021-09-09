@@ -1,4 +1,0 @@
-{
-	"SYSTEM_PING": "ปอง!",
-	"SYSTEM_PING_COUNT": "ปอง! `{numSecs, number} วินาที {numMilis, number} มิลลิวินาที`"
-}

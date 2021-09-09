@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Не вдалося форматувати переклад {key}: {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Не вдалося отримати переклад `{key}`."
-}

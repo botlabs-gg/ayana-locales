@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Palun vali keelt!",
-	"LANGUAGE_SET_USER": "Olgu, ma sätestasin su keele `{language}`ks.",
-	"LANGUAGE_SET_CHANNEL": "Olgu, ma panin kanali `{channel}` keeleks `{language}`.",
-	"LANGUAGE_SET_GUILD": "Olgu, ma panin serveri keeleks `{language}`."
-}

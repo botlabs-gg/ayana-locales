@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {參數} other {選項}} `{name}` 的輸入驗證失敗了。",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {參數} other {選項}} `{name}` 必須為 `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {參數} other {選項}} `{name}` 必須與下列內容之一匹配： `{enum}`",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {參數} other {選項}} `{name}` 必須為數字！",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {參數} other {選項}} `{name}` 必須為布林值(true/false)！",
-	"INPUT_PARSER_ERROR_DM": "請檢查你的指令語法後再試一次。由於私人訊息的權限限制，我無法提出建議。",
-	"INPUT_PARSER_HEADER_DEFAULT": "請選擇下列選項之一"
-}

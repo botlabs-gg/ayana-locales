@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Failed to align the compass with the map \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Failed to decipher the parchment \"{key}\"."
-}

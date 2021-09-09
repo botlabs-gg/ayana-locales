@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "翻訳のフォーマットに失敗しました。 \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "翻訳の解析に失敗しました `{key}`."
-}

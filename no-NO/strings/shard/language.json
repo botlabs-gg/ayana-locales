@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Vennligst velg et språk!",
-	"LANGUAGE_SET_USER": "Okey, jeg har satt ditt språk til `{language}`.",
-	"LANGUAGE_SET_CHANNEL": "Okey, jeg har satt språket i kanalen `{channel}` til `{language}`.",
-	"LANGUAGE_SET_GUILD": "Okey, jeg har satt serverens språk til `{language}`."
-}

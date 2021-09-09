@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** har gitt sin respekt.",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** har gitt sin respekt til **{for}**.",
-	"FUN_RESPECTS_FOOTER": "{numToday, number} i dag, {numAll, number} i alt.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` har blitt gitt i dag, `{numAll, number}` i alt.",
-	"FUN_EMOJIFY_RESULT": "Emojis av `{name}`: {emojified}"
-}

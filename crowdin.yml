@@ -1,9 +1,0 @@
-files:
-  - source: /strings/*json
-    ignore:
-      - /strings/settings.json
-    translation: /%locale%/%original_path%/%original_file_name%
-    update_option: update_as_unapproved
-  - source: /strings/*/*.json
-    translation: /%locale%/%original_path%/%original_file_name%
-    update_option: update_as_unapproved

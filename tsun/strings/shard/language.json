@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Y-you need to select a language!",
-	"LANGUAGE_SET_USER": "There, your language is now `{language}`, happy?! Not like I care if you are.",
-	"LANGUAGE_SET_CHANNEL": "The channel `{channel}`'s language is now `{language}`. Must I help you with everything?! Geez.",
-	"LANGUAGE_SET_GUILD": "There, the server language is now `{language}`, happy?! Not like I care if you are."
-}

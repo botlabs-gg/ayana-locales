@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "กรุณาเลืิอกภาษา!",
-	"LANGUAGE_SET_USER": "โอเค เราตั้งเป็นภาษาเป็น `{language}` แล้วนะ",
-	"LANGUAGE_SET_CHANNEL": "โอเค เราตั้งภาษาของห้อง `{channel}` เป็นภาษา `{language}` แล้วนะ",
-	"LANGUAGE_SET_GUILD": "โอเค เราตั้งภาษาของเซิร์ฟเวอร์เป็น `{language}` แล้วนะ"
-}

@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Errore nell'inizializzazione della traduzione {key}: {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Errore nell'inizializzazione della traduzione {key}\"."
-}

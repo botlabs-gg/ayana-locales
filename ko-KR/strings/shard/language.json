@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "언어를 선택해주세요!",
-	"LANGUAGE_SET_USER": "좋아요, 당신의 언어를 `{language}`로 설정했어요.",
-	"LANGUAGE_SET_CHANNEL": "좋아요, 채널 '{channel}'의 언어를 `{language}`로 설정했어요.",
-	"LANGUAGE_SET_GUILD": "좋아요, 서버 언어를 `{language}`로 설정했어요."
-}

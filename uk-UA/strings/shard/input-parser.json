@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "Валідація {type, select, arg {аргументу} other {опції}} `{name}`пройшла невдало.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Аргумент} other {Опція}} `{name}` має дорівнювати `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "Значення {type, select, arg {аргументу} other {опції}} `{name}` має відповідати одному з наступних: `{enum}`",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Аргумент} other {Опція}} `{name}` має бути числом!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Аргумент} other {Опція}} `{name}` має бути булевого типу (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Будь ласка, перевірте написання вашої команди й спробуйте знову. Через обмеження в ОП я не можу робити припущення.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Будь ласка, оберіть один з наступних елементів"
-}

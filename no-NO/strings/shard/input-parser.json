@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argumentet} other {Alternativet}} `{name}`'s innputsvalidering mislyktes.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argumentet} other {Alternativet}} `{name}` må være lik `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argumentet} other {Alternativet}} `{name}`må være lik en av de følgende: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argumentet} other {Alternativet}} `{name}` må være et tall!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argumentet} other {Alternativet}} `{name}` må være en boolsk variabel (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Vennligst se over din kommando-syntaks og prøv igjen. På grunn av begrensninger i DMs er jeg ikke i stand til å komme med forslag.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Vennligst velg et av de følgende elementene for `{name}`."
-}

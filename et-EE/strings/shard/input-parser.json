@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Argument} other {Option}} `{name}` sisendi valimine nurjus.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} other {Option}} `{name}` peab võrduma `{value}`-ga!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} other {Option}} `{name}` peab klappima ühest järgnevast: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Option}} `{name}` peab olema number!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Option}} `{name}` peab olema boolean (tõsi/väär)!",
-	"INPUT_PARSER_ERROR_DM": "Palun kontrolli enda käsu süntaksi ja proovi uuesti. DM-ide piirangute tõttu ei saa ma ettepanekuid teha.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Palun vali üks järgnevatest punktidest `{name}`le."
-}
