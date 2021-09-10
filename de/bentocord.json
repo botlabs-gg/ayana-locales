@@ -1,1 +1,15 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "Der Befehl `{command}` existiert nicht im CommandManager",
+    "BENTOCORD_COMMAND_ERROR": "Es gab einen Fehler beim Verarbeiten des Befehls: {error}",
+    "BENTOCORD_PING": "Pong!",
+    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Das aktuelle Präfix ist `{prefix}`",
+    "BENTOCORD_PREFIX_SET": "Das Präfix wurde auf `{prefix}` geändert",
+    "BENTOCORD_PRESENCE_UPDATED": "Präsenz aktualisiert!",
+    "BENTOCORD_PROMPT_CHOICE": "Bitte wähle eine der folgenden Auswahlmöglichkeiten aus:",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "Bitte wähle eine der folgenden Auswahlmöglichkeiten für die Option `{option}` aus:",
+    "BENTOCORD_PROMPT_OPTION": "Bitte mache eine Eingabe für die Option `{option}` mit dem Typen `{type}`",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "Bitte wähle einen Unterbefehl aus:",
+    "BENTOCORD_PROMPT_USAGE": "Du kannst mit einer Nachricht, oder dem `r`-Befehl antworten",
+    "BENTOCORD_SUPPRESSOR_HALT": "Die Ausführung des Befehls wurde durch `{suppressor}` verhindert: {message}"
+}
