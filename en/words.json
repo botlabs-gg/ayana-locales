@@ -1,8 +1,13 @@
 {
-	"WORD_GUILDS": "Servers",
-	"WORD_USERS": "Users",
-	"WORD_RAM": "Ram",
-	"WORD_UPTIME": "Uptime",
-	"WORD_HOSTNAME": "Hostname",
-	"WORD_PLATFORM": "Platform"
+    "WORD_CREATED": "Created",
+    "WORD_GUILDS": "Servers",
+    "WORD_HOSTNAME": "Hostname",
+    "WORD_ID": "Id",
+    "WORD_JOINED": "Joined",
+    "WORD_NICKNAME": "Nickname",
+    "WORD_PLATFORM": "Platform",
+    "WORD_RAM": "Ram",
+    "WORD_TYPE": "Type",
+    "WORD_UPTIME": "Uptime",
+    "WORD_USERS": "Users"
 }

@@ -1,9 +1,9 @@
 {
-	"LOCALIZATION_FAILURE": "Failed to find translation for {key}",
-	"LOCALIZATION_FORMAT_FAILURE": "Failed to format translation {key}: {error}",
-	"GUILD_LOCALE_UPDATED": "Server locale has been set to {locale}",
-	"USER_LOCALE_UPDATED": "Your locale has been set to {locale}",
-	"AYANA_VERSION": "Ayana Version",
-	"BENTO_VERSION": "Bento Version",
-	"BENTOCORD_VERSION": "Bentocord Version"
+    "AYANA_VERSION": "Ayana Version",
+    "BENTOCORD_VERSION": "Bentocord Version",
+    "BENTO_VERSION": "Bento Version",
+    "GUILD_LOCALE_UPDATED": "Server locale has been set to {locale}.",
+    "LOCALIZATION_FAILURE": "Failed to find translation for `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Failed to format translation `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Your locale has been set to {locale}."
 }
