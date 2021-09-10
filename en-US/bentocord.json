@@ -1,0 +1,15 @@
+{
+	"BENTOCORD_COMMAND_ERROR": "There was an error processing command: {error}",
+	"BENTOCORD_SUPPRESSOR_HALT": "Suppressor `{suppressor}` halted execution: {message}",
+	"BENTOCORD_PROMPT_USAGE": "You may respond via message or the `r` command",
+	"BENTOCORD_PROMPT_SUBCOMMAND": "Please select a subcommand:",
+	"BENTOCORD_PROMPT_OPTION": "Please provide an input for option `{option}` of type `{type}`",
+	"BENTOCORD_PROMPT_CHOICE": "Please select one of the following choices:",
+	"BENTOCORD_PROMPT_CHOICE_OPTION": "Please select one of the following choices for option `{option}`:",
+	"BENTOCORD_ADV_NOTEXIST": "Command `{command}` does not exist in CommandManager",
+	"BENTOCORD_PING": "Pong!",
+	"BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+	"BENTOCORD_PREFIX": "Current prefix is `{prefix}`",
+	"BENTOCORD_PREFIX_SET": "Prefix has been set to `{prefix}`",
+	"BENTOCORD_PRESENCE_UPDATED": "Presence Updated!"
+}
