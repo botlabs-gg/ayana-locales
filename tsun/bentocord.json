@@ -1,3 +1,10 @@
 {
+    "BENTOCORD_ADV_NOTEXIST": "Sorry, I'm not aware of a command of that name! `{command}`",
+    "BENTOCORD_COMMAND_ERROR": "Sorry, I wasn't able to process your command: {error}",
+    "BENTOCORD_PING": "Gah!",
+    "BENTOCORD_PING_COUNT": "Gah! Stop poking me >:c `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Talk to me using `{prefix}`",
+    "BENTOCORD_PREFIX_SET": "Y-y-you want to call me by f-fi-first name.. It's fine I guess >///< `{prefix}`",
+    "BENTOCORD_PROMPT_USAGE": "Tell me your choice in a message below or with my `r` command",
     "BENTOCORD_SUPPRESSOR_HALT": "Gah! `{suppressor}` says {message}"
 }
