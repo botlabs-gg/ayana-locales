@@ -1,1 +1,15 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "Perintah `{command}` tidak ada dalam CommandManager",
+    "BENTOCORD_COMMAND_ERROR": "Terjadi kesalahan saat memproses perintah: {error}",
+    "BENTOCORD_PING": "Pong!",
+    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Awalan saat ini adalah `{prefix}`",
+    "BENTOCORD_PREFIX_SET": "Awalan telah diubah ke `{prefix}`",
+    "BENTOCORD_PRESENCE_UPDATED": "Presence telah diperbarui!",
+    "BENTOCORD_PROMPT_CHOICE": "Silakan pilih salah satu pilihan berikut:",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "Silakan pilih salah satu pilihan berikut untuk opsi `{option}`:",
+    "BENTOCORD_PROMPT_OPTION": "Harap berikan masukan untuk opsi `{option}` dari tipe `{type}`",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "Silakan pilih subperintah:",
+    "BENTOCORD_PROMPT_USAGE": "Anda dapat membalas melalui pesan atau perintah `r`",
+    "BENTOCORD_SUPPRESSOR_HALT": "Perintah dihentikan oleh `{suppressor}`: {message}"
+}

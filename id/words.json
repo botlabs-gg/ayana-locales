@@ -1,1 +1,8 @@
-{}
+{
+    "WORD_PLATFORM": "Platform",
+    "WORD_HOSTNAME": "Nama host",
+    "WORD_UPTIME": "Waktu aktif",
+    "WORD_RAM": "RAM",
+    "WORD_USERS": "Pengguna",
+    "WORD_GUILDS": "Server"
+}
