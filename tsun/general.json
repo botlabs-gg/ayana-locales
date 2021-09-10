@@ -1,5 +1,5 @@
 {
-	"LOCALIZATION_FAILURE": "Failed to find translation for {key}",
-	"LOCALIZATION_FORMAT_FAILURE": "Failed to format translation {key}: {error}",
-	"GUILD_LOCALE_UPDATED": "It's not like I'm happy you told me to talk casually or anything! ( ≧Д≦) ({locale})"
+    "GUILD_LOCALE_UPDATED": "It's not like I'm happy you told me to talk casually or anything! ( ≧Д≦) ({locale})",
+    "LOCALIZATION_FAILURE": "",
+    "LOCALIZATION_FORMAT_FAILURE": ""
 }
