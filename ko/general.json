@@ -1,1 +1,8 @@
-{}
+{
+    "AYANA_VERSION": "Ayana 버전",
+    "BENTOCORD_VERSION": "Bentocord 버전",
+    "BENTO_VERSION": "Bento 버전",
+    "GUILD_LOCALE_UPDATED": "서버의 언어가 {locale}로 설정되었어요.",
+    "LOCALIZATION_FORMAT_FAILURE": "{key}를 구성하는데 실패했어요: {error}",
+    "USER_LOCALE_UPDATED": "언어가 {locale}로 설정되었어요."
+}
