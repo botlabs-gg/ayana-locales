@@ -1,1 +1,4 @@
-{}
+{
+    "BENTOCORD_COMMAND_ERROR": "Wystąpił błąd podczas przetwarzania komendy: {error}",
+    "BENTOCORD_PROMPT_USAGE": "Możesz odpowiedzieć wiadomością albo poprzez użycie komendy `r`"
+}
