@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** telah beri kehormatan mereka.",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** telah beri kehormatan bagi **{for}**.",
-	"FUN_RESPECTS_FOOTER": "{numToday, number} hari ini, {numAll, number} setiap masa.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` kehormatan telah diberi hari ini, `{numAll, number}` setiap masa.",
-	"FUN_EMOJIFY_RESULT": ""
-}

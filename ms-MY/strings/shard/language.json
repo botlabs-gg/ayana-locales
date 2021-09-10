@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Sila pilih satu bahasa!",
-	"LANGUAGE_SET_USER": "Baiklah, saya telah tetapkan bahasa anda kepada `{language}`.",
-	"LANGUAGE_SET_CHANNEL": "Baiklah, saya telah tetapkan bahasa channel `{channel}` kepada `{language}`.",
-	"LANGUAGE_SET_GUILD": "Baiklah, saya telah tetapkan bahasa server kepada `{language}`."
-}

@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Lütfen bir dil seçiniz!",
-	"LANGUAGE_SET_USER": "Tamam, dilinizi `{language}` yaptım.",
-	"LANGUAGE_SET_CHANNEL": "Tamam, `{channel}` kanalının dilini `{language}` yaptım.",
-	"LANGUAGE_SET_GUILD": "Tamam, sunucu dilini `{language}` yaptım."
-}

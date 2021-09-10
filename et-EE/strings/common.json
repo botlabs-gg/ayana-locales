@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Tõrkus vormistada tõlke \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Tõlke `{key}` lahendamine nurjus."
-}

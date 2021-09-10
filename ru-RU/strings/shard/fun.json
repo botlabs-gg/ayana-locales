@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** почтил память.",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** почтил память **{for}**.",
-	"FUN_RESPECTS_FOOTER": "{numToday, number} сегодня, {numAll, number} всего.",
-	"FUN_RESPECTS_STATS": "Сегодня почтили память `{numToday, number}` раз, всего: `{numAll, number}`.",
-	"FUN_EMOJIFY_RESULT": "Эмодзи для `{name}`: {emojified}"
-}

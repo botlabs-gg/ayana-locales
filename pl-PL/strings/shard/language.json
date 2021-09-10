@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Proszę wybrać język!",
-	"LANGUAGE_SET_USER": "Okej, ustawiłam Twój język na `{language}`.",
-	"LANGUAGE_SET_CHANNEL": "Okej, ustawiłam język kanału `{channel}` na `{language}`.",
-	"LANGUAGE_SET_GUILD": "Okej, ustawiłam język serwera na `{language}`."
-}

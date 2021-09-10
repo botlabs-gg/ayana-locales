@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "Nepodařilo se oveřit {type, select, arg {argument} other {možnost}} `{name}`.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Argument} other {Možnost}} `{name}` musí být rovna `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Argument} other {Možnost}} `{name}` musí být jedno z následujících: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Argument} other {Možnost}} `{name}` musí být číslo!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Argument} other {Možnost}} `{name}` musí být true/false (ano/ne)!",
-	"INPUT_PARSER_ERROR_DM": "Prosím zkontroluj tvůj vstup a zkus to znovu. Kvůli omezení DM ti nemůžu poradit.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Prosím vyber jednu z těchto položek pro `{name}`."
-}

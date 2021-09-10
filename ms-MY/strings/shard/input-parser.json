@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "Input {type, select, arg {Arahan} other {Pilihan}} `{name}` gagal pengesahan.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Arahan} other {Pilihan}} `{name}` perlu bersamaan `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Arahan} other {Pilihan}} `{name}` perlu padan dengan salah satu berikut: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Arahan} other {Pilihan}} `{name}` mestilah sebuah nombor!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Arahan} other {Pilihan}} `{name}` mestilah sebuah boolean (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Sila semak sintaks arahan anda dan cuba lagi. Saya gagal memberi cadangan kerana mesej peribadi dihadkan.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Sila pilih salah satu item berikut untuk `{name}`."
-}

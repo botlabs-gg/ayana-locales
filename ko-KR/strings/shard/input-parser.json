@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {인수} other {옵션}} `{name}`은/는 입력 유효성 검사에 실패했어요.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {인수} other {옵션}} `{name}`은/는 반드시 `{value}`와 동일해야 해요!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {인수} other {옵션}} `{name}`은/는 다음과 일치해야 해요: `{enum}`",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {인수} other {옵션}} `{name}`은/는 반드시 숫자여야 해요!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {인수} other {옵션}} `{name}`은/는 반드시 부울 (참/거짓)이여야 해요!",
-	"INPUT_PARSER_ERROR_DM": "명령문을 확인하고 다시 시도해주세요. 개인 메세지의 제한때문에 제가 제안을 만들 수 없어요.",
-	"INPUT_PARSER_HEADER_DEFAULT": "`{name}`에 대해 다음 항목 중 하나를 선택해주세요."
-}

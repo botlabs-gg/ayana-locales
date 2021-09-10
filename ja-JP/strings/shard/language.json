@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "言語を選択してください!",
-	"LANGUAGE_SET_USER": "(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ･ﾟ･ 言語を `{language}`に設定しました。",
-	"LANGUAGE_SET_CHANNEL": "(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ･ﾟ･  `{channel}`の言語を`{language}`に設定しました。",
-	"LANGUAGE_SET_GUILD": "(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ･ﾟ･ サーバーの言語を`{language}`に設定しました。"
-}

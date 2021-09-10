@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Nemôžem zformátovať preklad {key}: {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Nemôžem nájsť preklad `{key}`."
-}

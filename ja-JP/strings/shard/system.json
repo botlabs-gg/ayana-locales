@@ -1,4 +1,0 @@
-{
-	"SYSTEM_PING": "ポン!",
-	"SYSTEM_PING_COUNT": "ポン! `{numSecs, number}s {numMilis, number}ms`"
-}

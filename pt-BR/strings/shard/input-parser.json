@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "Falha na validação da entrada para o {type, select, arg {argumento} other {opção}} `{name}`.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {O argumento} other {A opção}} `{name}` deve igualar a `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {O argumento} other {A opção}} `{name}` deve corresponder com um dos seguintes: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {O argumento} other {A opção}} `{name}` deve ser um número!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {O argumento} other {A opção}} `{name}` deve ser um valor booleano (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Verifique a sua sintaxe do comando e tente novamente. Devido a limitações das mensagens diretas, estou incapaz de fazer sugestões.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Selecione um dos seguintes elementos para `{name}`."
-}
