@@ -1,1 +1,3 @@
-{}
+{
+    "BENTOCORD_SUPPRESSOR_HALT": "Gah! `{suppressor}` says {message}"
+}

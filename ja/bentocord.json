@@ -1,0 +1,4 @@
+{
+    "BENTOCORD_PING": "ポン!",
+    "BENTOCORD_PING_COUNT": "ポン! `{s, number}s {ms, number}ms`"
+}
