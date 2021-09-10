@@ -1,0 +1,8 @@
+{
+    "WORD_PLATFORM": "Plataforma",
+    "WORD_HOSTNAME": "Nombre del host",
+    "WORD_UPTIME": "Tiempo en línea",
+    "WORD_RAM": "Ram",
+    "WORD_USERS": "Usuarios",
+    "WORD_GUILDS": "Servidores"
+}
