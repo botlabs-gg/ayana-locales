@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** paid their respects.",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** paid their respects for **{for}**.",
-	"FUN_RESPECTS_FOOTER": "{numToday, number} today, {numAll, number} all time.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` respects have been paid today, `{numAll, number}` all time.",
-	"FUN_EMOJIFY_RESULT": "Emojis for `{name}`: {emojified}"
-}

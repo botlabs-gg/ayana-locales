@@ -1,6 +1,0 @@
-{
-	"LANGUAGE_HEADER_SELECT_LANGUAGE": "Будь ласка, оберіть мову!",
-	"LANGUAGE_SET_USER": "Добре, тепер ваша мова — `{language}`.",
-	"LANGUAGE_SET_CHANNEL": "Добре, тепер мова каналу `{channel}` — `{language}`.",
-	"LANGUAGE_SET_GUILD": "Добре, тепер мова серверу — `{language}`."
-}

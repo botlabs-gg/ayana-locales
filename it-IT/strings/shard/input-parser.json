@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "Errore nella convalida dell'input per l'{type, select, arg {argomento} other {opzione}} `{name}`.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {L'argomento} other {L'opzione}} `{name}` dev'essere uguale a `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {L'argomento `{name}` deve corrispondere a uno dei seguenti: `{enum}`} other {L'opzione `{name}` deve corrispondere a una delle seguenti: `{enum}`}}.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {L'argomento} other {L'opzione}} `{name}` dev'essere un numero!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {L'argomento} other {L'opzione}} `{name}` dev'essere un valore booleano (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Controlla la sintassi del comando e riprova. A causa di alcune limitazioni sui miei messaggi diretti, non posso darti suggerimenti.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Seleziona uno dei seguenti elementi per `{name}`."
-}

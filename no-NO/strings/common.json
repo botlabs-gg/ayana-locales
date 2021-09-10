@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Klarte ikke å formatere oversettelsen \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Klarte ikke å finne oversettelsen \"{key}\"."
-}

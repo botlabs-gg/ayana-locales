@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** 表達了他的敬意。",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** 表達了他對 **{for}** 的敬意。",
-	"FUN_RESPECTS_FOOTER": "今天 {numToday, number}，所有時間 {numAll, number}。",
-	"FUN_RESPECTS_STATS": "今天內共已表達 `{numToday, number}` 次敬意，所有時間共 `{numAll, number}` 次。",
-	"FUN_EMOJIFY_RESULT": "{name} 的表情符號：{emojified}"
-}

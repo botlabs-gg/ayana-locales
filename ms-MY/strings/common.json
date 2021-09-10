@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Gagal memformat terjemahan \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Gagal untuk cari terjemahan \"{key}\"."
-}

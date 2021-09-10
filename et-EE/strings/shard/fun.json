@@ -1,7 +1,0 @@
-{
-	"FUN_PAID_RESPECTS": "**{username}** Austas kedagi.",
-	"FUN_PAID_RESPECTS_FOR": "**{username}** austas **{for}**.",
-	"FUN_RESPECTS_FOOTER": "{numToday, number} täna,  {numAll, number} ajaloos.",
-	"FUN_RESPECTS_STATS": "`{numToday, number}` kordi on austatud kedagi täna. `{numAll, number}` kogu aeg.",
-	"FUN_EMOJIFY_RESULT": ""
-}

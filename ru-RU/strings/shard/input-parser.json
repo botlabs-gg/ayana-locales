@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {Аргумент} other {Вариант}} `{name}` не смог пройти проверку.",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {Аргумент} other {Вариант}} `{name}` должен быть равен `{value}`!",
-	"INPUT_PARSER_ERROR_ENUM": "{type, select, arg {Аргумент} other {Вариант}} `{name}` должен соответствовать одному из следующих: `{enum}`.",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {Аргумент} other {Вариант}} `{name}` должен быть числом!",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {Аргумент} other {Вариант}} `{name}` должен быть логическим (true/false)!",
-	"INPUT_PARSER_ERROR_DM": "Пожалуйста, проверьте синтаксис команды и попробуйте снова. Из-за ограничения ЛС, я не могу предложить варианты.",
-	"INPUT_PARSER_HEADER_DEFAULT": "Пожалуйста, выберите один из следующих пунктов для `{name}`."
-}

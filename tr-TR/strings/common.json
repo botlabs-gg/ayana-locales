@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Bu çeviriyi formatlayamadım \"{key}\": {errorMessage}",
-	"I18N_RESOLVE_FAILED": "`{key}` çevirisini çözme başarısız."
-}

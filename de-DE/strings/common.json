@@ -1,4 +1,0 @@
-{
-	"I18N_FORMAT_FAILED": "Die Übersetzung \"{key}\" konnte nicht formatiert werden: {errorMessage}",
-	"I18N_RESOLVE_FAILED": "Die Übersetzung \"{key}\" konnte nicht aufgelöst werden."
-}

@@ -1,9 +1,0 @@
-{
-	"INPUT_PARSER_ERROR_CUSTOM": "{type, select, arg {参数} other {选项}} `{name}` 输入验证失败。",
-	"INPUT_PARSER_ERROR_EQUALS": "{type, select, arg {参数} other {选项}} `{name}` 必须等于 `{value}`！",
-	"INPUT_PARSER_ERROR_ENUM": "`{name}` {type, select, arg {参数} other {选项}}必须与下列项目之一匹配： `{enum}`。",
-	"INPUT_PARSER_ERROR_NUMBER": "{type, select, arg {参数} other {选项}} `{name}` 必须是数字！",
-	"INPUT_PARSER_ERROR_BOOLEAN": "{type, select, arg {参数} other {选项}} `{name}` 必须是布尔值 (true/false)！",
-	"INPUT_PARSER_ERROR_DM": "因为私信的限制，我无法提供选项。请检查你的命令语法并重试。",
-	"INPUT_PARSER_HEADER_DEFAULT": "请在下列项目中选择一个"
-}
