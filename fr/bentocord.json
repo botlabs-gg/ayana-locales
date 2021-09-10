@@ -1,1 +1,9 @@
-{}
+{
+    "BENTOCORD_COMMAND_ERROR": "Une erreur est survenue lors du traitement de la commande : {error}",
+    "BENTOCORD_PING": "Pong !",
+    "BENTOCORD_PING_COUNT": "Pong ! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Le préfixe actuel est `{prefix}`",
+    "BENTOCORD_PREFIX_SET": "Le préfixe est maintenant `{prefix}`",
+    "BENTOCORD_PRESENCE_UPDATED": "Présence mise à jour !",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "Veuillez sélectionner une sous-commande :"
+}
