@@ -1,0 +1,15 @@
+{
+    "BENTOCORD_ADV_NOTEXIST": "Kommando `{command}` eksisterer ikke i CommandManager",
+    "BENTOCORD_COMMAND_ERROR": "Der opstod en fejl under behandlingen af kommandoen: {error}",
+    "BENTOCORD_PING": "Pong!",
+    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Nuværende præfiks er `{prefix}`",
+    "BENTOCORD_PREFIX_SET": "Præfiks blev sat til `{prefix}`",
+    "BENTOCORD_PRESENCE_UPDATED": "Tilstedeværelse opdateret!",
+    "BENTOCORD_PROMPT_CHOICE": "Vælg venligst en af de følgende valgmuligheder:",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "Vælg venligst en af de følgende valmuligheder for indstillingen `{option}`:",
+    "BENTOCORD_PROMPT_OPTION": "Angiv venligst en værdi for valgmuligheden `{option}` af typen `{type}`",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "Vælg venligst en underkommando:",
+    "BENTOCORD_PROMPT_USAGE": "Du kan svare ved at skrive en besked eller bruge `r`-kommandoen",
+    "BENTOCORD_SUPPRESSOR_HALT": "Behandlingen blev standset af `{suppressor}`: {message}"
+}

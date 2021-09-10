@@ -1,1 +1,8 @@
-{}
+{
+    "WORD_GUILDS": "Server",
+    "WORD_USERS": "Nutzer",
+    "WORD_RAM": "RAM",
+    "WORD_UPTIME": "Laufzeit",
+    "WORD_HOSTNAME": "Hostname",
+    "WORD_PLATFORM": "Plattform"
+}

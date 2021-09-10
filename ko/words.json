@@ -1,1 +1,8 @@
-{}
+{
+    "WORD_GUILDS": "서버",
+    "WORD_USERS": "유저",
+    "WORD_RAM": "RAM",
+    "WORD_UPTIME": "가동 시간",
+    "WORD_HOSTNAME": "호스트 이름",
+    "WORD_PLATFORM": "플랫폼"
+}
