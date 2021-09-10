@@ -1,14 +1,14 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "在 CommandManager 找不到指令 `{command}`",
     "BENTOCORD_COMMAND_ERROR": "在處理命令時發生錯誤: {error}",
-    "BENTOCORD_PING": "乓!",
-    "BENTOCORD_PING_COUNT": "乓! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PING": "乓！",
+    "BENTOCORD_PING_COUNT": "乓！`{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "當前前綴為 `{prefix}`",
     "BENTOCORD_PREFIX_SET": "前綴已被設定為 `{prefix}`",
     "BENTOCORD_PRESENCE_UPDATED": "狀態已更新!",
     "BENTOCORD_PROMPT_CHOICE": "請從下列選項挑選其中一個:",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "請從下列有關於 `{option}` 的選項挑選其中一個:",
-    "BENTOCORD_PROMPT_OPTION": "請輸入一個有關於 `{option}` 的選項或是一個有關於 `{type}` 的類型",
+    "BENTOCORD_PROMPT_OPTION": "請為 `{option}` 選項輸入一個類型為 `{type}` 的值",
     "BENTOCORD_PROMPT_SUBCOMMAND": "請選擇一道子命令:",
     "BENTOCORD_PROMPT_USAGE": "你可以透過訊息或是 `r` 指令回應",
     "BENTOCORD_SUPPRESSOR_HALT": "該命令被Suppressor `{suppressor}` 中止了: {message}"

@@ -1,1 +1,8 @@
-{}
+{
+    "WORD_RAM": "Ram",
+    "WORD_GUILDS": "服务器",
+    "WORD_USERS": "用户",
+    "WORD_UPTIME": "在线时间",
+    "WORD_HOSTNAME": "主机名",
+    "WORD_PLATFORM": "平台"
+}
