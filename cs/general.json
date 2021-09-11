@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Verze Ayany",
+    "BENTOCORD_VERSION": "Verze Bentocordu",
+    "BENTO_VERSION": "Verze Benta",
+    "GUILD_LOCALE_UPDATED": "Serverový jazyk byl nastaven na {locale}.",
+    "LOCALIZATION_FAILURE": "Nebyl nalezen překlad pro `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Formátování překladu `{key}` selhalo: {error}",
+    "USER_LOCALE_UPDATED": "Tvůj jazyk byl nastaven na {locale}."
+}

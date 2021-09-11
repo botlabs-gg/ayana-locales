@@ -1,1 +1,13 @@
-{}
+{
+    "WORD_CREATED": "Vytvořen",
+    "WORD_GUILDS": "Servery",
+    "WORD_ID": "ID",
+    "WORD_NICKNAME": "Přezdívka",
+    "WORD_PLATFORM": "Platforma",
+    "WORD_RAM": "RAM",
+    "WORD_TYPE": "Typ",
+    "WORD_UPTIME": "Doba provozu",
+    "WORD_USERS": "Uživatelé",
+    "WORD_JOINED": "Připojen",
+    "WORD_HOSTNAME": "Název hostitele"
+}
