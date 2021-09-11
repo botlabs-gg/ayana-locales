@@ -4,5 +4,10 @@
     "WORD_UPTIME": "Czas pracy",
     "WORD_RAM": "Ram",
     "WORD_HOSTNAME": "Nazwa hosta",
-    "WORD_PLATFORM": "Platforma"
+    "WORD_PLATFORM": "Platforma",
+    "WORD_NICKNAME": "Nazwa użytkownika",
+    "WORD_CREATED": "Utworzono",
+    "WORD_ID": "Id",
+    "WORD_JOINED": "Dołączono",
+    "WORD_TYPE": "Typ"
 }
