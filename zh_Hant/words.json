@@ -4,5 +4,10 @@
     "WORD_UPTIME": "運行時間",
     "WORD_HOSTNAME": "主機名",
     "WORD_PLATFORM": "平臺",
-    "WORD_RAM": "Ram"
+    "WORD_RAM": "Ram",
+    "WORD_CREATED": "已建立",
+    "WORD_ID": "Id",
+    "WORD_JOINED": "已加入",
+    "WORD_NICKNAME": "暱稱",
+    "WORD_TYPE": "類型"
 }
