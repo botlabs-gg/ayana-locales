@@ -4,5 +4,10 @@
     "WORD_RAM": "RAM",
     "WORD_UPTIME": "Laufzeit",
     "WORD_HOSTNAME": "Hostname",
-    "WORD_PLATFORM": "Plattform"
+    "WORD_PLATFORM": "Plattform",
+    "WORD_TYPE": "Typ",
+    "WORD_ID": "ID",
+    "WORD_JOINED": "Beigetreten",
+    "WORD_NICKNAME": "Nickname",
+    "WORD_CREATED": "Erstellt"
 }
