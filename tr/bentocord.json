@@ -1,1 +1,15 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "`{command}` diye bir komut yok.",
+    "BENTOCORD_COMMAND_ERROR": "Komutu işlerken bir hata meydana geldi: {error}",
+    "BENTOCORD_PING": "Pong!",
+    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "Komutların mevcut öneki: `{prefix}`.",
+    "BENTOCORD_PREFIX_SET": "Mevcut komut öneki `{prefix}` olarak değiştirildi.",
+    "BENTOCORD_PRESENCE_UPDATED": "Presence Güncellendi!",
+    "BENTOCORD_PROMPT_CHOICE": "Lütfen aşağıdaki seçeneklerden bir tanesini seçiniz:",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "Seçenek `{option}` için lütfen aşağıdaki seçeneklerden bir tanesini seçin:",
+    "BENTOCORD_PROMPT_OPTION": "Seçenek `{option}` için lütfen `{type}` türünde bir girdi giriniz:",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "Lütfen bir alt komut seçiniz:",
+    "BENTOCORD_PROMPT_USAGE": "DM yoluyla veya `r` komutu ile cevap verebilirsiniz.",
+    "BENTOCORD_SUPPRESSOR_HALT": "Yürütme `{suppressor}` sebebiyle durduruldu: {message}"
+}
