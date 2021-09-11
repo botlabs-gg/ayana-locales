@@ -2,8 +2,8 @@
     "AYANA_VERSION": "Ayana Version",
     "BENTOCORD_VERSION": "Bentocord Version",
     "BENTO_VERSION": "Bento Version",
-    "GUILD_LOCALE_UPDATED": "Die Serversprache wurde auf {locale} gesetzt",
-    "LOCALIZATION_FAILURE": "Die Übersetzung für {key} konnte nicht gefunden werden",
-    "LOCALIZATION_FORMAT_FAILURE": "Die Übersetzung mit dem Schlüssel {key} konnte nicht formatiert werden: {error}",
-    "USER_LOCALE_UPDATED": "Deine Sprache wurde auf {locale} gesetzt"
+    "GUILD_LOCALE_UPDATED": "Die Serversprache wurde auf {locale} gesetzt.",
+    "LOCALIZATION_FAILURE": "Die Übersetzung für `{key}` konnte nicht gefunden werden",
+    "LOCALIZATION_FORMAT_FAILURE": "Die Übersetzung mit dem Schlüssel `{key}` konnte nicht formatiert werden: {error}",
+    "USER_LOCALE_UPDATED": "Deine Sprache wurde auf {locale} gesetzt."
 }

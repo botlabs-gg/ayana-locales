@@ -4,5 +4,10 @@
     "WORD_RAM": "Ram",
     "WORD_UPTIME": "Oppetid",
     "WORD_HOSTNAME": "Værtsnavn",
-    "WORD_PLATFORM": "Platform"
+    "WORD_PLATFORM": "Platform",
+    "WORD_CREATED": "Oprettet",
+    "WORD_ID": "Id",
+    "WORD_JOINED": "Forbundet",
+    "WORD_NICKNAME": "Kaldenavn",
+    "WORD_TYPE": "Type"
 }

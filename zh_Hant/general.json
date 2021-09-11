@@ -2,8 +2,8 @@
     "AYANA_VERSION": "Ayana版本",
     "BENTOCORD_VERSION": "Bentocord版本",
     "BENTO_VERSION": "Bento版本",
-    "GUILD_LOCALE_UPDATED": "伺服器的地區已被設置成 {locale}",
-    "LOCALIZATION_FAILURE": "無法找到有關於 {key} 的翻譯",
-    "LOCALIZATION_FORMAT_FAILURE": "解析 {key} 的翻譯時失敗了: {error}",
-    "USER_LOCALE_UPDATED": "您的地區已被設置成 {locale}"
+    "GUILD_LOCALE_UPDATED": "伺服器的地區已被設置成 {locale}。",
+    "LOCALIZATION_FAILURE": "無法找到有關於 `{key}` 的翻譯",
+    "LOCALIZATION_FORMAT_FAILURE": "解析 `{key}` 的翻譯時失敗了：{error}",
+    "USER_LOCALE_UPDATED": "您的地區已被設置成 {locale}。"
 }

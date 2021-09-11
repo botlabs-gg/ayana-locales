@@ -1,1 +1,10 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "Команды `{command}` не существует.",
+    "BENTOCORD_COMMAND_ERROR": "Произошла ошибка при обработке команды: {error}",
+    "BENTOCORD_PING": "Понг!",
+    "BENTOCORD_PING_COUNT": "Понг! `{s, number}с. {ms, number}мс.`",
+    "BENTOCORD_PREFIX": "Текущий префикс: `{prefix}`.",
+    "BENTOCORD_PREFIX_SET": "Префикс изменен на `{prefix}`.",
+    "BENTOCORD_PROMPT_CHOICE": "Пожалуйста, выберите один из следующих вариантов:",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "Пожалуйста, выберите один из следующих вариантов для аргумента `{option}`:"
+}

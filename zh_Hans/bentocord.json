@@ -1,15 +1,15 @@
 {
-    "BENTOCORD_ADV_NOTEXIST": "CommandManager中不存在`{command}`指令",
+    "BENTOCORD_ADV_NOTEXIST": "不存在`{command}`指令。",
     "BENTOCORD_COMMAND_ERROR": "处理命令时发生错误：{error}",
     "BENTOCORD_PING": "乓！",
     "BENTOCORD_PING_COUNT": "乓！`{s, number}s {ms, number}ms`",
-    "BENTOCORD_PREFIX": "当前前缀为`{prefix}`",
-    "BENTOCORD_PREFIX_SET": "前缀已被设为`{prefix}`",
+    "BENTOCORD_PREFIX": "当前前缀为`{prefix}`。",
+    "BENTOCORD_PREFIX_SET": "前缀已被设为`{prefix}`。",
     "BENTOCORD_PRESENCE_UPDATED": "已更新状态！",
-    "BENTOCORD_PROMPT_CHOICE": "请从下列选项中选择一个：",
-    "BENTOCORD_PROMPT_CHOICE_OPTION": "请从下列选项中为`{option}`选择一个：",
-    "BENTOCORD_PROMPT_OPTION": "请为`{option}`选项提供一个类型为`{type}`的值",
+    "BENTOCORD_PROMPT_CHOICE": "请从下列选项中选择一项：",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "请从下列选项中为`{option}`选择一项：",
+    "BENTOCORD_PROMPT_OPTION": "请为`{option}`选项提供一个类型为`{type}`的值：",
     "BENTOCORD_PROMPT_SUBCOMMAND": "请选择一个子命令：",
-    "BENTOCORD_PROMPT_USAGE": "你可以透过讯息或`r`指令回复",
-    "BENTOCORD_SUPPRESSOR_HALT": "被Suppressor `{suppressor}`阻止了运行：{message}"
+    "BENTOCORD_PROMPT_USAGE": "你可以透过讯息或`r`指令回复。",
+    "BENTOCORD_SUPPRESSOR_HALT": "运行被`{suppressor}`中止：{message}"
 }

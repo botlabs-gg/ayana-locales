@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Wersja Ayany",
+    "BENTOCORD_VERSION": "Wersja Bentocord",
+    "BENTO_VERSION": "Wersja Bento",
+    "GUILD_LOCALE_UPDATED": "Język serwera został zmieniony na {locale}.",
+    "LOCALIZATION_FAILURE": "Nie znaleziono tłumaczenia dla `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Nie udało się sformatować tłumaczenie `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Twój język został zmieniony na {locale}."
+}

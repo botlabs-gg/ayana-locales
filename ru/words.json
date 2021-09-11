@@ -1,1 +1,12 @@
-{}
+{
+    "WORD_HOSTNAME": "Имя хоста",
+    "WORD_PLATFORM": "Платформа",
+    "WORD_RAM": "ОЗУ",
+    "WORD_GUILDS": "Серверов",
+    "WORD_USERS": "Пользователей",
+    "WORD_CREATED": "Создан",
+    "WORD_JOINED": "Присоединился",
+    "WORD_NICKNAME": "Никнейм",
+    "WORD_TYPE": "Тип",
+    "WORD_UPTIME": "Время «в сети»"
+}

@@ -4,5 +4,10 @@
     "WORD_RAM": "RAM",
     "WORD_UPTIME": "가동 시간",
     "WORD_HOSTNAME": "호스트 이름",
-    "WORD_PLATFORM": "플랫폼"
+    "WORD_PLATFORM": "플랫폼",
+    "WORD_CREATED": "생성됨",
+    "WORD_ID": "Id",
+    "WORD_JOINED": "참가함",
+    "WORD_NICKNAME": "닉네임",
+    "WORD_TYPE": "유형"
 }

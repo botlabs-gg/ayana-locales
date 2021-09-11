@@ -1,5 +1,5 @@
 {
-    "BENTOCORD_ADV_NOTEXIST": "명령어 `{command}`은/는 명령어 관리자에 존재하지 않아요.",
+    "BENTOCORD_ADV_NOTEXIST": "`{command}` 명령어는 존재하지 않아요.",
     "BENTOCORD_COMMAND_ERROR": "명령을 처리하는 중에 문제가 발생했어요: {error}",
     "BENTOCORD_PING": "퐁!",
     "BENTOCORD_PING_COUNT": "퐁! `{s, number}s {ms, number}ms`",
@@ -7,9 +7,9 @@
     "BENTOCORD_PREFIX_SET": "접두어가 `{prefix}`로 설정되었어요.",
     "BENTOCORD_PRESENCE_UPDATED": "상태가 업데이트되었어요!",
     "BENTOCORD_PROMPT_CHOICE": "다음 선택지 중에서 한 가지를 선택해 주세요:",
-    "BENTOCORD_PROMPT_CHOICE_OPTION": "옵션 `{option}`에 대해 다음 중 하나를 선택해 주세요.",
-    "BENTOCORD_PROMPT_OPTION": "`{option}`에 대한 옵션이나 `{type}`에 대한 유형을 입력해 주세요.",
-    "BENTOCORD_PROMPT_SUBCOMMAND": "하위 명령어를 선택해 주세요.",
+    "BENTOCORD_PROMPT_CHOICE_OPTION": "다음 `{option}` 에 대한 옵션 중 한 가지를 선택해 주세요:",
+    "BENTOCORD_PROMPT_OPTION": "`{option}` 옵션에는 `{type}` 형식의 값을 입력해 주셔야 해요:",
+    "BENTOCORD_PROMPT_SUBCOMMAND": "하위 명령어를 선택해 주세요:",
     "BENTOCORD_PROMPT_USAGE": "메시지나 `r` 명령어를 통해 응답하실 수 있어요.",
     "BENTOCORD_SUPPRESSOR_HALT": "`{suppressor}`에 의해 명령 실행이 중단되었어요: {message}"
 }
