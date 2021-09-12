@@ -1,5 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Command `{command}` does not exist.",
+    "BENTOCORD_ADV_NO_RECURSIVE": "Recursive exection is not allowed.",
     "BENTOCORD_COMMAND_ERROR": "There was an error processing command: {error}",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
