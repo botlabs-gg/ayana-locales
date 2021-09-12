@@ -13,6 +13,7 @@
     "BENTOCORD_PROMPT_CANCELED_TIMEOUT": "Input timeout.",
     "BENTOCORD_PROMPT_CHOICE": "Please select one of the following choices:",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "Please select one of the following choices for option `{option}`:",
+    "BENTOCORD_PROMPT_CONFIRM": "Please confirm you wish to continue [y/n]:",
     "BENTOCORD_PROMPT_OPTION": "Please provide an input for option `{option}` of type `{type}`:",
     "BENTOCORD_PROMPT_SUBCOMMAND": "Please select a subcommand:",
     "BENTOCORD_PROMPT_USAGE": "*You may respond via message or the `r` command.*",
