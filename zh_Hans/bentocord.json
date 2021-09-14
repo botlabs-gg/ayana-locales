@@ -1,5 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "不存在`{command}`命令。",
+    "BENTOCORD_ADV_NO_RECURSIVE": "递归执行被禁止。",
     "BENTOCORD_COMMAND_ERROR": "处理命令时发生错误：{error}",
     "BENTOCORD_PING": "乓！",
     "BENTOCORD_PING_COUNT": "乓！`{s, number}s {ms, number}ms`",
@@ -13,6 +14,7 @@
     "BENTOCORD_PROMPT_CANCELED_TIMEOUT": "输入等待超时。",
     "BENTOCORD_PROMPT_CHOICE": "请从下列选项中选择一项：",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "请从下列选项中为`{option}`选择一项：",
+    "BENTOCORD_PROMPT_CONFIRM": "请确认你是否想要继续 [y/n]：",
     "BENTOCORD_PROMPT_OPTION": "请为`{option}`选项提供一个类型为`{type}`的值：",
     "BENTOCORD_PROMPT_SUBCOMMAND": "请选择一个子命令：",
     "BENTOCORD_PROMPT_USAGE": "*你可以透过讯息或`r`命令回复。*",
