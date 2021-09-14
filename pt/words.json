@@ -1,1 +1,13 @@
-{}
+{
+    "WORD_GUILDS": "Servidores",
+    "WORD_HOSTNAME": "Nome do anfitrião",
+    "WORD_ID": "Identificação",
+    "WORD_NICKNAME": "Alcunha",
+    "WORD_PLATFORM": "Plataforma",
+    "WORD_RAM": "RAM",
+    "WORD_TYPE": "Tipo",
+    "WORD_UPTIME": "Tempo de atividade",
+    "WORD_USERS": "Utilizadores",
+    "WORD_CREATED": "Criado",
+    "WORD_JOINED": "Juntou-se"
+}

@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Versão da Ayana",
+    "BENTOCORD_VERSION": "Versão do Bentocord",
+    "BENTO_VERSION": "Versão do Bento",
+    "GUILD_LOCALE_UPDATED": "A localidade do servidor foi definida para {locale}.",
+    "LOCALIZATION_FAILURE": "Falha ao encontrar tradução para `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Falha ao formatar tradução `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "O teu local foi definido para {locale}."
+}
