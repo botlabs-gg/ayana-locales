@@ -7,7 +7,9 @@
     "WORD_PLATFORM": "Platforma",
     "WORD_NICKNAME": "Nazwa użytkownika",
     "WORD_CREATED": "Utworzono",
-    "WORD_ID": "Id",
+    "WORD_ID": "ID",
     "WORD_JOINED": "Dołączono",
-    "WORD_TYPE": "Typ"
+    "WORD_TYPE": "Typ",
+    "WORD_MENTION": "Wzmianka",
+    "WORD_ROLES": "Role"
 }

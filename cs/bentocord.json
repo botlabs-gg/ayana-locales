@@ -1,5 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Příkaz `{command}` neexistuje.",
+    "BENTOCORD_ADV_NO_RECURSIVE": "Rekurzivní spuštění příkazu je zakázáno.",
     "BENTOCORD_COMMAND_ERROR": "Nastala chyba při zpracování příkazu: {error}",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number} s {ms, number} ms`",
@@ -13,6 +14,7 @@
     "BENTOCORD_PROMPT_CANCELED_TIMEOUT": "Čas na zadání odpovědi vypršel.",
     "BENTOCORD_PROMPT_CHOICE": "Prosím, vyber jednu z následujících možností:",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "Prosím, vyber jednu z následujících možností pro možnost `{option}`:",
+    "BENTOCORD_PROMPT_CONFIRM": "Prosím potvrď, zda chceš pokračovat [y/n]:",
     "BENTOCORD_PROMPT_OPTION": "Prosím, poskytni hodnotu pro možnost `{option}` typu `{type}`:",
     "BENTOCORD_PROMPT_SUBCOMMAND": "Prosím, vyber podpříkaz:",
     "BENTOCORD_PROMPT_USAGE": "*Můžeš odpovědět zprávou nebo pomocí příkazu `r`.*",

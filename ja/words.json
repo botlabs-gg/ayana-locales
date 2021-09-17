@@ -1,1 +1,15 @@
-{}
+{
+    "WORD_RAM": "メモリ",
+    "WORD_GUILDS": "サーバー",
+    "WORD_HOSTNAME": "ホスト名",
+    "WORD_PLATFORM": "プラットフォーム",
+    "WORD_TYPE": "種別",
+    "WORD_CREATED": "作成されました",
+    "WORD_ID": "ID",
+    "WORD_JOINED": "参加しました",
+    "WORD_NICKNAME": "ニックネーム",
+    "WORD_MENTION": "メンション",
+    "WORD_ROLES": "ロール",
+    "WORD_UPTIME": "稼働時間",
+    "WORD_USERS": "ユーザー"
+}

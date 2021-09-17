@@ -9,5 +9,7 @@
     "WORD_UPTIME": "Doba provozu",
     "WORD_USERS": "Uživatelé",
     "WORD_JOINED": "Připojen",
-    "WORD_HOSTNAME": "Název hostitele"
+    "WORD_HOSTNAME": "Název hostitele",
+    "WORD_ROLES": "Role",
+    "WORD_MENTION": "Zmínka"
 }
