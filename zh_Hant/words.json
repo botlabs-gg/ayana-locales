@@ -6,8 +6,10 @@
     "WORD_PLATFORM": "平臺",
     "WORD_RAM": "Ram",
     "WORD_CREATED": "已建立",
-    "WORD_ID": "Id",
+    "WORD_ID": "ID",
     "WORD_JOINED": "已加入",
     "WORD_NICKNAME": "暱稱",
-    "WORD_TYPE": "類型"
+    "WORD_TYPE": "類型",
+    "WORD_MENTION": "提及",
+    "WORD_ROLES": "身份組"
 }
