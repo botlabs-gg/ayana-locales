@@ -2,8 +2,8 @@
     "AYANA_VERSION": "Versión de Ayana",
     "BENTOCORD_VERSION": "Versión de Bentocord",
     "BENTO_VERSION": "Versión de Bento",
-    "GUILD_LOCALE_UPDATED": "La configuración regional del servidor se ha establecido en {locale}",
-    "LOCALIZATION_FAILURE": "No se ha podido encontrar la traducción de {key}",
-    "LOCALIZATION_FORMAT_FAILURE": "Fallo en el formato de la traducción {key}: {error}",
-    "USER_LOCALE_UPDATED": "Su configuración regional se ha establecido en {locale}"
+    "GUILD_LOCALE_UPDATED": "Se ha elegido {locale} como configuración regional del servidor.",
+    "LOCALIZATION_FAILURE": "No se ha podido encontrar la traducción de `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Fallo en el formato de la traducción `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Ha elegido {locale} como su configuración regional."
 }
