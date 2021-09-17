@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Ayanaバージョン",
+    "BENTOCORD_VERSION": "Bentocordバージョン",
+    "BENTO_VERSION": "Bentoバージョン",
+    "GUILD_LOCALE_UPDATED": "サーバーの言語を{locale}に設定しました。",
+    "LOCALIZATION_FAILURE": "`{key}`の翻訳が見つかりませんでした",
+    "LOCALIZATION_FORMAT_FAILURE": "翻訳のフォーマットに失敗しました `{key}`:{error}",
+    "USER_LOCALE_UPDATED": "あなたの使用言語を{locale}に設定しました。"
+}
