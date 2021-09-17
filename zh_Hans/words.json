@@ -6,8 +6,10 @@
     "WORD_HOSTNAME": "主机名",
     "WORD_PLATFORM": "平台",
     "WORD_CREATED": "已创建",
-    "WORD_ID": "Id",
+    "WORD_ID": "ID",
     "WORD_JOINED": "已加入",
     "WORD_NICKNAME": "昵称",
-    "WORD_TYPE": "类型"
+    "WORD_TYPE": "类型",
+    "WORD_MENTION": "提及",
+    "WORD_ROLES": "身份组"
 }
