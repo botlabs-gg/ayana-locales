@@ -4,5 +4,12 @@
     "WORD_UPTIME": "Durée de fonctionnement",
     "WORD_RAM": "Ram",
     "WORD_USERS": "Utilisateurs",
-    "WORD_GUILDS": "Serveurs"
+    "WORD_GUILDS": "Serveurs",
+    "WORD_TYPE": "Type",
+    "WORD_CREATED": "Créé(e)",
+    "WORD_ID": "ID",
+    "WORD_JOINED": "Rejoint",
+    "WORD_NICKNAME": "Pseudonyme",
+    "WORD_MENTION": "Mention",
+    "WORD_ROLES": "Roles"
 }
