@@ -4,5 +4,12 @@
     "WORD_UPTIME": "Tiempo en línea",
     "WORD_RAM": "Ram",
     "WORD_USERS": "Usuarios",
-    "WORD_GUILDS": "Servidores"
+    "WORD_GUILDS": "Servidores",
+    "WORD_CREATED": "Creado",
+    "WORD_ID": "ID",
+    "WORD_JOINED": "Ingreso",
+    "WORD_NICKNAME": "Usuario",
+    "WORD_TYPE": "Tipo",
+    "WORD_MENTION": "Mención",
+    "WORD_ROLES": "Roles"
 }
