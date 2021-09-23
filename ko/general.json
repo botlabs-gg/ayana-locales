@@ -3,7 +3,7 @@
     "BENTOCORD_VERSION": "Bentocord 버전",
     "BENTO_VERSION": "Bento 버전",
     "GUILD_LOCALE_UPDATED": "서버의 언어가 {locale}로 설정되었어요.",
-    "LOCALIZATION_FAILURE": "`{key}`에 대한 번역을 찾을 수 없어요.",
+    "LOCALIZATION_FAILURE": "`{key}`에 대한 번역을 찾을 수 없어요",
     "LOCALIZATION_FORMAT_FAILURE": "`{key}`에 대한 번역 형식을 지정하지 못했어요: {error}",
     "USER_LOCALE_UPDATED": "언어가 {locale}로 설정되었어요."
 }

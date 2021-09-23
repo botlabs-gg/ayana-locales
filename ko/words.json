@@ -6,10 +6,11 @@
     "WORD_HOSTNAME": "호스트 이름",
     "WORD_PLATFORM": "플랫폼",
     "WORD_CREATED": "생성된 날짜",
-    "WORD_ID": "ID",
+    "WORD_ID": "아이디",
     "WORD_JOINED": "참가한 날짜",
     "WORD_NICKNAME": "닉네임",
     "WORD_TYPE": "유형",
     "WORD_MENTION": "멘션",
-    "WORD_ROLES": "역할"
+    "WORD_ROLES": "역할",
+    "WORD_CANCELED": "취소된"
 }
