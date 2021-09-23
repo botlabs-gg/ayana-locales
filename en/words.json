@@ -11,5 +11,19 @@
     "WORD_ROLES": "Roles",
     "WORD_TYPE": "Type",
     "WORD_UPTIME": "Uptime",
-    "WORD_USERS": "Users"
+    "WORD_USERS": "Users",
+    "WORD_OWNER": "Owner",
+    "WORD_CHANNEL": "Channels",
+    "WORD_MEMBER": "Members",
+    "WORD_COLOR": "Color",
+    "WORD_HOIST": "Hoist",
+    "WORD_MANAGED": "Managed",
+    "WORD_POSITION": "Position",
+    "WORD_ERROR": "Error",
+    "WORD_YES": "Yes",
+    "WORD_NO": "No",
+    "WORD_MENTIONABLE": "Mentionable",
+    "WORD_NA": "n/a",
+    "WORD_NAME": "Name",
+    "WORD_TOPIC": "Topic"
 }
