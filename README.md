@@ -1,9 +1,9 @@
 # Ayana Localization
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/ayana/localized.svg)](https://translate.ayana.io)
+[![Weblate](https://translate.ayana.io/widgets/ayana-shard/-/svg-badge.svg)](https://translate.ayana.io)
 [![Discord](https://discordapp.com/api/guilds/145166056812576768/embed.png)](https://discord.gg/WpfP3aW)
 
 ## Contribute
-If you would like to help translate Ayana to your locale you can do so by visiting our [Crowdin Project](https://translate.ayana.io). If you would like to become a Translator on our [Discord Server](https://discord.gg/WpfP3aW) and also be able to proofread strings, contact a staff member (Support and upwards). Further instructions will be given afterwards.
+If you would like to help translate Ayana to your locale you can do so by visiting our [Weblate Instance](https://translate.ayana.io). If you would like to become a Translator on our [Discord Server](https://discord.gg/WpfP3aW) and also be able to review strings, contact a staff member (Support and upwards). Further instructions will be given afterwards.
 
 Please work hard to make your output feel and function very similar to how the source translation is setup.
 
