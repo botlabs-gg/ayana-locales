@@ -11,5 +11,6 @@
     "WORD_UPTIME": "Çalışma Süresi",
     "WORD_USERS": "Kullanıcılar",
     "WORD_ROLES": "Roller",
-    "WORD_MENTION": "Bahsetme"
+    "WORD_MENTION": "Bahsetme",
+    "WORD_CANCELED": "İptal Edildi"
 }
