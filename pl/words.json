@@ -11,5 +11,6 @@
     "WORD_JOINED": "Dołączono",
     "WORD_TYPE": "Typ",
     "WORD_MENTION": "Wzmianka",
-    "WORD_ROLES": "Role"
+    "WORD_ROLES": "Role",
+    "WORD_CANCELED": "Anulowano"
 }
