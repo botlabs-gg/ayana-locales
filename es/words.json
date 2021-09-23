@@ -11,5 +11,6 @@
     "WORD_NICKNAME": "Usuario",
     "WORD_TYPE": "Tipo",
     "WORD_MENTION": "Mención",
-    "WORD_ROLES": "Roles"
+    "WORD_ROLES": "Roles",
+    "WORD_CANCELED": "cancelar"
 }
