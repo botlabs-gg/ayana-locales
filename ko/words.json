@@ -12,5 +12,19 @@
     "WORD_TYPE": "유형",
     "WORD_MENTION": "멘션",
     "WORD_ROLES": "역할",
-    "WORD_CANCELED": "취소된"
+    "WORD_CANCELED": "취소된",
+    "WORD_POSITION": "순서",
+    "WORD_CHANNEL": "채널",
+    "WORD_COLOR": "색상",
+    "WORD_ERROR": "에러",
+    "WORD_MEMBER": "멤버",
+    "WORD_HOIST": "멤버별 표시",
+    "WORD_MANAGED": "자동 관리",
+    "WORD_MENTIONABLE": "멘션 가능",
+    "WORD_TOPIC": "주제",
+    "WORD_UNAVAILABLE": "사용 불가",
+    "WORD_NO": "아니요",
+    "WORD_YES": "네",
+    "WORD_NAME": "이름",
+    "WORD_OWNER": "소유자"
 }
