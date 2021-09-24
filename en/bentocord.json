@@ -3,7 +3,7 @@
     "BENTOCORD_ADV_NO_RECURSIVE": "Recursive execution is not allowed.",
     "BENTOCORD_COMMAND_ERROR": "There was an error processing command: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Type `<` or `>` to switch pages, `x` to close, or `p[number]` to jump to a page (ex. `p10`).",
-    "BENTOCORD_PAGINATION_PAGE": "Page {page}/{max}",
+    "BENTOCORD_PAGINATION_PAGE": "Page {page}/{total}",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "Current prefix is `{prefix}`.",

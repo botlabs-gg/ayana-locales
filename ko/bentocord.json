@@ -3,7 +3,7 @@
     "BENTOCORD_ADV_NO_RECURSIVE": "재귀 실행은 허용되지 않아요.",
     "BENTOCORD_COMMAND_ERROR": "명령을 처리하는 중에 문제가 발생했어요: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "`<` 또는 `>` 를 입력해서 페이지를 이동하거나, `x`를 입력하여 닫거나, `p[숫자]`를 입력해서 해당 페이지로 이동할 수 있어요(예. `p10`).",
-    "BENTOCORD_PAGINATION_PAGE": "페이지 {page}/{max}",
+    "BENTOCORD_PAGINATION_PAGE": "페이지 {page}/{total}",
     "BENTOCORD_PING": "퐁!",
     "BENTOCORD_PING_COUNT": "퐁! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "현재 접두어는 `{prefix}`에요.",
