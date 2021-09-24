@@ -11,6 +11,7 @@
     "MUSIC_QUEUE": "Music Queue",
     "MUSIC_QUEUED": "Queued `{track}`.",
     "MUSIC_QUEUED_PLAYLIST": "Queued {count} tracks from `{playlist}`.",
+    "MUSIC_QUEUE_CURRENT_FLARE": "{arrow} current track",
     "MUSIC_QUEUE_EMPTY": "There is nothing in the queue. Try adding something with `/music play`!",
     "MUSIC_QUEUE_PURGED": "Removed `{count}` items from the queue.",
     "MUSIC_QUEUE_SHUFFLED": ":twisted_rightwards_arrows: Shuffled `{count}` items.",
