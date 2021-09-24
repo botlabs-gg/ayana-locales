@@ -25,5 +25,6 @@
     "WORD_POSITION": "位置",
     "WORD_TOPIC": "话题",
     "WORD_UNAVAILABLE": "不可用",
-    "WORD_YES": "是"
+    "WORD_YES": "是",
+    "WORD_NO": "否"
 }
