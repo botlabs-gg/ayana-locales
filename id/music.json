@@ -11,6 +11,7 @@
     "MUSIC_QUEUE": "Antrean Musik",
     "MUSIC_QUEUED": "Mengantrekan `{track}`.",
     "MUSIC_QUEUED_PLAYLIST": "Mengantrekan `{count}` lagu dari `{playlist}`.",
+    "MUSIC_QUEUE_CURRENT_FLARE": "{arrow} sedang diputar",
     "MUSIC_QUEUE_EMPTY": "Tidak ada apa-apa dalam antrean. Coba tambahkan sesuatu dengan `/music play`!",
     "MUSIC_QUEUE_PURGED": "Menghapus `{count}` lagu dari antrean.",
     "MUSIC_QUEUE_SHUFFLED": "Mengacak `{count}` lagu.",
