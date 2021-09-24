@@ -11,5 +11,19 @@
     "WORD_NICKNAME": "昵称",
     "WORD_TYPE": "类型",
     "WORD_MENTION": "提及",
-    "WORD_ROLES": "身份组"
+    "WORD_ROLES": "身份组",
+    "WORD_CANCELED": "已取消",
+    "WORD_CHANNEL": "频道",
+    "WORD_COLOR": "颜色",
+    "WORD_ERROR": "错误",
+    "WORD_HOIST": "悬挂",
+    "WORD_MANAGED": "被管理",
+    "WORD_MEMBER": "成员",
+    "WORD_MENTIONABLE": "可提及",
+    "WORD_NAME": "名字",
+    "WORD_OWNER": "所有者",
+    "WORD_POSITION": "位置",
+    "WORD_TOPIC": "话题",
+    "WORD_UNAVAILABLE": "不可用",
+    "WORD_YES": "是"
 }

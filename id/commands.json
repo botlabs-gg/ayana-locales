@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "Kecepatan Bit Suara",
+    "CHANNELINFO_CHANNEL_TYPE": "Tipe Kanal",
+    "CHANNELINFO_CONNECTED": "Pengguna yang Terhubung",
+    "CHANNELINFO_OVERWRITE": "Izin Menimpa",
+    "CHANNELINFO_TEXT": "Teks",
+    "CHANNELINFO_VOICE": "Suara",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} teks / {voice} suara"
+}

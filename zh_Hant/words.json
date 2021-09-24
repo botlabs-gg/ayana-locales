@@ -11,5 +11,6 @@
     "WORD_NICKNAME": "暱稱",
     "WORD_TYPE": "類型",
     "WORD_MENTION": "提及",
-    "WORD_ROLES": "身份組"
+    "WORD_ROLES": "身份組",
+    "WORD_CANCELED": "已取消"
 }

@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "语音比特率",
+    "CHANNELINFO_CHANNEL_TYPE": "频道类型",
+    "CHANNELINFO_CONNECTED": "已连接用户",
+    "CHANNELINFO_OVERWRITE": "权限覆写",
+    "CHANNELINFO_TEXT": "文字",
+    "CHANNELINFO_VOICE": "语音",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} 文字 / {voice} 语音"
+}

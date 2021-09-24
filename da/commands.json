@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "Stemme Bitrate",
+    "CHANNELINFO_CHANNEL_TYPE": "Kanaltype",
+    "CHANNELINFO_CONNECTED": "Forbundet brugere",
+    "CHANNELINFO_OVERWRITE": "Tilladelsesoverskrivelser",
+    "CHANNELINFO_TEXT": "Tekst",
+    "CHANNELINFO_VOICE": "Stemme",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} tekst / {voice} stemme"
+}

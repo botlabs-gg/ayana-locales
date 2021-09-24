@@ -7,6 +7,6 @@
     "BENTOCORD_PREFIX_SET": "Y-y-you want to call me by f-fi-first name.. It's fine I guess >///< `{prefix}`.",
     "BENTOCORD_PROMPT_CANCELED": "It's not like I wanted to know anyways ヾ(｀ε´)ﾉ.",
     "BENTOCORD_PROMPT_CANCELED_REASON": "It's not like I wanted to know anyways ヾ(｀ε´)ﾉ ({reason})",
-    "BENTOCORD_PROMPT_USAGE": "Tell me your choice in a message below or with my `r` command",
+    "BENTOCORD_PROMPT_USAGE": "*Tell me your choice in a message below or with my `r` command.*",
     "BENTOCORD_SUPPRESSOR_HALT": "Gah! `{suppressor}` says {message}"
 }
