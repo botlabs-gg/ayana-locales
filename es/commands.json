@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "Tasa de bits de voz",
+    "CHANNELINFO_CHANNEL_TYPE": "Tipo de canal",
+    "CHANNELINFO_CONNECTED": "Usuarios conectados",
+    "CHANNELINFO_OVERWRITE": "Sobreescrituras de permisos",
+    "CHANNELINFO_TEXT": "Texto",
+    "CHANNELINFO_VOICE": "Voz",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} texto / {voice} voz"
+}
