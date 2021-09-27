@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "Prędkość Strumienia Danych",
+    "CHANNELINFO_CHANNEL_TYPE": "Rodzaj Kanału",
+    "CHANNELINFO_CONNECTED": "Połączonych Użytkowników",
+    "CHANNELINFO_OVERWRITE": "Nadpisane Permisje",
+    "CHANNELINFO_TEXT": "Kanał tekstowy",
+    "CHANNELINFO_VOICE": "Kanał Głosowy",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} tekstowych / {voice} głosowych"
+}
