@@ -1,4 +1,5 @@
 {
+    "AVATAR_DIRECT_LINK": "[Direct Link]({link})",
     "CHANNELINFO_BITRATE": "Voice Bitrate",
     "CHANNELINFO_CHANNEL_TYPE": "Channel Type",
     "CHANNELINFO_CONNECTED": "Connected Users",
