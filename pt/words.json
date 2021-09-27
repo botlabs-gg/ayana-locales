@@ -1,7 +1,7 @@
 {
     "WORD_GUILDS": "Servidores",
     "WORD_HOSTNAME": "Nome do anfitrião",
-    "WORD_ID": "Identificação",
+    "WORD_ID": "ID",
     "WORD_NICKNAME": "Alcunha",
     "WORD_PLATFORM": "Plataforma",
     "WORD_RAM": "RAM",
@@ -9,5 +9,22 @@
     "WORD_UPTIME": "Tempo de atividade",
     "WORD_USERS": "Utilizadores",
     "WORD_CREATED": "Criado",
-    "WORD_JOINED": "Juntou-se"
+    "WORD_JOINED": "Juntou-se",
+    "WORD_CANCELED": "Canceledo",
+    "WORD_MENTION": "Menção",
+    "WORD_ROLES": "Cargos",
+    "WORD_CHANNEL": "Canais",
+    "WORD_COLOR": "Cor",
+    "WORD_ERROR": "Erro",
+    "WORD_HOIST": "Alçar",
+    "WORD_MANAGED": "Gerido",
+    "WORD_MEMBER": "Membros",
+    "WORD_MENTIONABLE": "Mencionável",
+    "WORD_NAME": "Nome",
+    "WORD_NO": "Não",
+    "WORD_OWNER": "Dono",
+    "WORD_POSITION": "Posição",
+    "WORD_TOPIC": "Tópico",
+    "WORD_UNAVAILABLE": "Indisponível",
+    "WORD_YES": "Sim"
 }
