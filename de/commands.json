@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "Sprachkanal Bitrate",
+    "CHANNELINFO_CHANNEL_TYPE": "Kanaltyp",
+    "CHANNELINFO_CONNECTED": "Verbundene Nutzer",
+    "CHANNELINFO_OVERWRITE": "Rechteüberschreibungen",
+    "CHANNELINFO_TEXT": "Text",
+    "CHANNELINFO_VOICE": "Sprache",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} Text / {voice} Sprache"
+}

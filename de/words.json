@@ -9,5 +9,14 @@
     "WORD_ID": "ID",
     "WORD_JOINED": "Beigetreten",
     "WORD_NICKNAME": "Nickname",
-    "WORD_CREATED": "Erstellt"
+    "WORD_CREATED": "Erstellt",
+    "WORD_CANCELED": "Abgebrochen",
+    "WORD_CHANNEL": "Kanäle",
+    "WORD_COLOR": "Farbe",
+    "WORD_ERROR": "Fehler",
+    "WORD_HOIST": "Hoist",
+    "WORD_MANAGED": "Verwaltet",
+    "WORD_MEMBER": "Mitglieder",
+    "WORD_MENTIONABLE": "Erwähnbar",
+    "WORD_MENTION": "Erwähnung"
 }

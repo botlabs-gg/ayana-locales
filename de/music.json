@@ -1,1 +1,15 @@
-{}
+{
+    "DESCRIPTION_MUSIC": "Ayana Musikspieler",
+    "DESCRIPTION_MUSIC_BACK": "Zum letzten Song zurückspringen",
+    "DESCRIPTION_MUSIC_DEBUG": "Zeigt Analyseinformationen über das Musiksystem",
+    "DESCRIPTION_MUSIC_JOIN": "Einen Sprachkanal betreten",
+    "DESCRIPTION_MUSIC_JUMP": "Zu einem spezifischen Song springen",
+    "DESCRIPTION_MUSIC_LEAVE": "Kanal verlassen",
+    "DESCRIPTION_MUSIC_PAUSE": "Pause umschalten",
+    "DESCRIPTION_MUSIC_PLAY": "Warteschlange abspielen",
+    "DESCRIPTION_MUSIC_PROVIDERS": "Zeigt die Liste der unterstützten Musikquellen",
+    "DESCRIPTION_MUSIC_PURGE": "Entfernt alle Songs aus der Warteschlange",
+    "DESCRIPTION_MUSIC_QUEUE": "Songs zur Warteschlange hinzufügen",
+    "DESCRIPTION_MUSIC_REMOVE": "Entfernt Songs aus der Warteschlange",
+    "DESCRIPTION_MUSIC_REMOVERANGE": "Entfernt Songs zwischen zwei Positionen in der Warteschlange"
+}
