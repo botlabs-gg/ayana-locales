@@ -9,6 +9,7 @@
     "BENTOCORD_PREFIX": "현재 접두어는 `{prefix}`에요.",
     "BENTOCORD_PREFIX_SET": "접두어가 `{prefix}`로 설정되었어요.",
     "BENTOCORD_PRESENCE_UPDATED": "상태가 업데이트되었어요!",
+    "BENTOCORD_PROMPTMANAGER_UNLOAD": "매니저가 언로드되는 중이에요.",
     "BENTOCORD_PROMPT_CANCELED": "명령이 취소되었어요.",
     "BENTOCORD_PROMPT_CANCELED_MAX_ATTEMPTS": "입력 횟수를 초과하셨어요.",
     "BENTOCORD_PROMPT_CANCELED_NEW": "새 명령을 입력하셨어요.",

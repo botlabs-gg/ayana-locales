@@ -2,7 +2,7 @@
     "CHANNELINFO_BITRATE": "음성 비트레이트",
     "CHANNELINFO_CHANNEL_TYPE": "채널 유형",
     "CHANNELINFO_CONNECTED": "연결된 유저",
-    "CHANNELINFO_OVERWRITE": "권한 덮어쓰기",
+    "CHANNELINFO_OVERWRITE": "권한 무시",
     "CHANNELINFO_TEXT": "텍스트",
     "CHANNELINFO_VOICE": "음성",
     "SERVERINFO_CHANNEL_COUNTS": "{text} 텍스트 / {voice} 음성"
