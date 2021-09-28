@@ -1,9 +1,17 @@
 {
+    "AVATAR_DIRECT_LINK": "[Direkte link]({link})",
     "CHANNELINFO_BITRATE": "Stemme Bitrate",
     "CHANNELINFO_CHANNEL_TYPE": "Kanaltype",
     "CHANNELINFO_CONNECTED": "Forbundet brugere",
     "CHANNELINFO_OVERWRITE": "Tilladelsesoverskrivelser",
     "CHANNELINFO_TEXT": "Tekst",
     "CHANNELINFO_VOICE": "Stemme",
+    "INVITE_ALPHA": "Helt sikkert :ok_hand:\nFor at tilføje mig til din server, klik venligst på linket herunder:\n\n{invite}\n\nBemærk: Giv ikke Ayana Alpha alt for mange tilladelser på din server. Hun er meget ustabil og der er ingen garanti for, at hun ikke ødelægger noget på din server.",
+    "INVITE_PRO": "Ayana PRO er en privat hosted instans af Ayana, der er ekslusiv for Patreon støttere.\nHøjere kvalitet på musik, mindre nedetid og højere stabilitet er kun få af de fordele du får.\n\nFor at lære mere om, hvordan du kommer ombord, gå til {uri}.\nAlternativt kan du tilføje den offentlige Ayana her {invite}.",
+    "INVITE_TEXT": "Helt sikkert :ok_hand:\nFor at tilføje mig til din server, klik venligst på en af linksne herunder:\n\nAnbefalede tilladelser: {invite}\nMinimale tilladelser: {invitemin}",
+    "PICK_DEBUG": "Forsyn venligst adskillige valgmuligheder, adskilt med kommaer: =pick valgmulighed1, valgmulighed2, …",
+    "PICK_LARGE_INPUT": "Inputtet af den valgmulighed jeg valgte er for langt.",
+    "RANDOM_LIMIT_ERROR": "Nedre grænse kan ikke være højere end øvre grænse.",
+    "RANDOM_RESPONSE": "Dit tilfældige tal er {num}.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} tekst / {voice} stemme"
 }
