@@ -1,9 +1,17 @@
 {
+    "AVATAR_DIRECT_LINK": "[Link]({link})",
     "CHANNELINFO_BITRATE": "Prędkość Strumienia Danych",
     "CHANNELINFO_CHANNEL_TYPE": "Rodzaj Kanału",
     "CHANNELINFO_CONNECTED": "Połączonych Użytkowników",
     "CHANNELINFO_OVERWRITE": "Nadpisane Permisje",
     "CHANNELINFO_TEXT": "Kanał tekstowy",
     "CHANNELINFO_VOICE": "Kanał Głosowy",
+    "INVITE_ALPHA": "Nie ma sprawy :ok_hand:\nAbym dołączyła, kliknij link poniżej:\n\n{invite}\n\nUwaga: Nie dawaj Ayanie Alpha za dużo permisji na serwerze. Jest ona niestabilna i nie ma gwarancji, że nic nie popsuje na Twoim serwerze.",
+    "INVITE_PRO": "Ayana PRO jest prywatnie hostowaną kopią Ayany ekskluzywną dla Patronów.\nWyższa jakość odtwarzania, mniejszy czas wyłączenia oraz większa stabilność to tylko parę korzyści, które dostajesz.\n\nAby dowiedzieć się więcej albo aby dołączyć, sprawdź {uri}.\nMożesz również dodać Ayanę tutaj {invite}.",
+    "INVITE_TEXT": "Nie ma sprawy :ok_hand:\nAbym dołączyła, kliknij link poniżej:\n\nRekomendowane permisje: {invite}\nMinimalne permisje: {invitemin}",
+    "PICK_DEBUG": "Wprowadź parę opcji oddzielone przecinkiem: =pick opcja1, opcja2, …",
+    "PICK_LARGE_INPUT": "Wejście opcji, które wybrałam, jest za duże.",
+    "RANDOM_LIMIT_ERROR": "Dolna granica nie może być większa od górnej granicy.",
+    "RANDOM_RESPONSE": "Twoją losową liczbą jest {num}.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} tekstowych / {voice} głosowych"
 }
