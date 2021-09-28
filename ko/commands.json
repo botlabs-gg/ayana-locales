@@ -1,9 +1,17 @@
 {
+    "AVATAR_DIRECT_LINK": "[다이렉트 링크]({link})",
     "CHANNELINFO_BITRATE": "음성 비트레이트",
     "CHANNELINFO_CHANNEL_TYPE": "채널 유형",
     "CHANNELINFO_CONNECTED": "연결된 유저",
     "CHANNELINFO_OVERWRITE": "권한 무시",
     "CHANNELINFO_TEXT": "텍스트",
     "CHANNELINFO_VOICE": "음성",
+    "INVITE_ALPHA": "물론이죠 :ok_hand:\n저를 서버에 초대하시려면 아래의 링크를 눌러주세요:\n\n{invite}\n\n주의: Ayana Alpha에게 너무 많은 권한을 부여하지 마세요. 이 버전의 Ayana는 매우 불안정하며 이로 인해 서버에 문제가 발생했을 경우 저희가 책임지지 않아요.",
+    "INVITE_PRO": "Ayana PRO는 별도의 호스팅을 두고 있는 Patreon 후원자들을 위한 Ayana 특전이에요.\n높은 품질의 재생능력, 빠른 반응성, 높은 안정성등 다양한 혜택을 얻을 수 있어요.\n\n자세한 정보를 보고 싶으시거나 후원을 원하시는 분은 {uri} 에서 확인해 주세요.\n또는 공용 Ayana를 {invite} 에서 추가하실 수 있어요.",
+    "INVITE_TEXT": "물론이죠 :ok_hand:\n저를 초대하려면 아래의 링크 중 하나를 눌러주세요:\n\n보통 권한: {invite}\n최소 권한: {invitemin}",
+    "PICK_DEBUG": "여러 옵션을 쉼표로 구분하여 입력해 주세요: =pick 옵션1, 옵션2, …",
+    "PICK_LARGE_INPUT": "제가 고르려 했던 옵션의 입력 값이 너무 커요.",
+    "RANDOM_LIMIT_ERROR": "하한은 상한보다 클 수 없어요.",
+    "RANDOM_RESPONSE": "{num} 번이 제가 뽑은 숫자에요.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} 텍스트 / {voice} 음성"
 }
