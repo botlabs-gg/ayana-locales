@@ -1,6 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Kommandoen `{command}` eksisterer ikke.",
-    "BENTOCORD_PAGINATION_NAVIGATION": "Skriv inn `<` eller `>` for å skifte sider, `x` for å lukke denne menyen, eller `p[tall]` for å hoppe til en side (for eksempel `p10`).",
+    "BENTOCORD_PAGINATION_NAVIGATION": "Skriv inn `<` eller `>` for å skifte sider, `x` for å lukke denne menyen, eller `p[sidetall]` for å hoppe til en side (for eksempel `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Side {page}/{total}",
     "BENTOCORD_PROMPT_CHOICE": "Vennligst velg et av disse alternativene:",
     "BENTOCORD_PROMPT_CONFIRM": "Vennligst bekreft at du ønsker å fortsette [y/n]:",
