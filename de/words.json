@@ -18,5 +18,13 @@
     "WORD_MANAGED": "Verwaltet",
     "WORD_MEMBER": "Mitglieder",
     "WORD_MENTIONABLE": "Erwähnbar",
-    "WORD_MENTION": "Erwähnung"
+    "WORD_MENTION": "Erwähnung",
+    "WORD_ROLES": "Rollen",
+    "WORD_NAME": "Name",
+    "WORD_NO": "Nein",
+    "WORD_OWNER": "Besitzer",
+    "WORD_POSITION": "Position",
+    "WORD_TOPIC": "Thema",
+    "WORD_UNAVAILABLE": "Nicht verfügbar",
+    "WORD_YES": "Ja"
 }
