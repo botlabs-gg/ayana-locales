@@ -1,4 +1,6 @@
 {
-    "english": "Norwegian",
-    "native": "Norsk Bokmål"
+    "enabled": true,
+    "english": "Norwegian Bokmål",
+    "imaginary": false,
+    "native": ""
 }
