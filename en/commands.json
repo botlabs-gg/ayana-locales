@@ -8,11 +8,13 @@
     "CHANNELINFO_VOICE": "Voice",
     "DESCRIPTION_AVATAR": "Display avatar of a user",
     "DESCRIPTION_CHANNELINFO": "Display info about a channel",
+    "DESCRIPTION_INFO": "Display info of a bot",
     "DESCRIPTION_INVITE": "Display invite related info",
     "DESCRIPTION_PICK": "Pick an option from multiple options",
     "DESCRIPTION_RANDOM": "Display a random no with support of upper and lower limit",
     "DESCRIPTION_ROLEINFO": "Display info about a role",
     "DESCRIPTION_SERVERINFO": "Display info about a server",
+    "DESCRIPTION_SUPPORT": "Display invite link for support channel",
     "INFO_FOOTER": "*Ayana Creator, To view more information about all shards use {prefix}shardinfo",
     "INFO_USEFUL_LINKS": "**Useful links:**\n[Invite Me]({invite}), [Minimal Invite]({inviteMin}), [Ayana Status]({status}), [Support Server]({supportInvite}), [Donate]({donate}), [Twitter]({twitter}), [Facebook]({facebook})",
     "INVITE_ALPHA": "Sure thing :ok_hand:\n\nTo have me join your server please click on the link below:\n\n{invite}\n\nNote: Don't give Ayana Alpha too many permissions on your server. She is really unstable and there is no warranty if she breaks something on your server.",
@@ -22,5 +24,6 @@
     "PICK_LARGE_INPUT": "The input of the option I wanted to pick is too large.",
     "RANDOM_LIMIT_ERROR": "Lower bound cannot be bigger than upper bound.",
     "RANDOM_RESPONSE": "Your random number is {num}.",
-    "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice"
+    "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice",
+    "SUPPORT_TEXT": "For support, suggestions, or bugs with Ayana, please join the support server. {support}"
 }
