@@ -1,1 +1,6 @@
-{}
+{
+    "DESCRIPTION_MUSIC": "Ayanaミュージックプレイヤー",
+    "DESCRIPTION_MUSIC_BACK": "前のトラックに戻る",
+    "DESCRIPTION_MUSIC_DEBUG": "ミュージックのデバッグ情報を表示",
+    "DESCRIPTION_MUSIC_JOIN": "ボイスチャンネルに参加"
+}

@@ -1,1 +1,9 @@
-{}
+{
+    "CHANNELINFO_BITRATE": "語音位元率",
+    "CHANNELINFO_CHANNEL_TYPE": "頻道類別",
+    "CHANNELINFO_CONNECTED": "已連接使用者",
+    "CHANNELINFO_OVERWRITE": "權限覆蓋",
+    "CHANNELINFO_TEXT": "文字",
+    "CHANNELINFO_VOICE": "語音",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} 文字 / {voice} 語音"
+}

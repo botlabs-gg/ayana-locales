@@ -11,5 +11,20 @@
     "WORD_NICKNAME": "Nama panggilan",
     "WORD_TYPE": "Tipe",
     "WORD_ROLES": "Peran",
-    "WORD_MENTION": "Sebutan"
+    "WORD_MENTION": "Sebutan",
+    "WORD_CANCELED": "Dibatalkan",
+    "WORD_CHANNEL": "Kanal",
+    "WORD_COLOR": "Warna",
+    "WORD_ERROR": "Kesalahan",
+    "WORD_MANAGED": "Dikelola",
+    "WORD_MEMBER": "Anggota",
+    "WORD_MENTIONABLE": "Dapat disebutkan",
+    "WORD_NAME": "Nama",
+    "WORD_NO": "Tidak",
+    "WORD_OWNER": "Pemilik",
+    "WORD_POSITION": "Posisi",
+    "WORD_TOPIC": "Topik",
+    "WORD_UNAVAILABLE": "Tidak tersedia",
+    "WORD_YES": "Ya",
+    "WORD_HOIST": "Hoist"
 }

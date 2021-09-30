@@ -11,5 +11,20 @@
     "WORD_NICKNAME": "暱稱",
     "WORD_TYPE": "類型",
     "WORD_MENTION": "提及",
-    "WORD_ROLES": "身份組"
+    "WORD_ROLES": "身份組",
+    "WORD_CANCELED": "已取消",
+    "WORD_COLOR": "顏色",
+    "WORD_ERROR": "錯誤",
+    "WORD_HOIST": "懸吊",
+    "WORD_MEMBER": "成員",
+    "WORD_MENTIONABLE": "可提及",
+    "WORD_NAME": "名字",
+    "WORD_NO": "否",
+    "WORD_OWNER": "擁有者",
+    "WORD_POSITION": "位置",
+    "WORD_TOPIC": "主題",
+    "WORD_UNAVAILABLE": "無法使用",
+    "WORD_YES": "是",
+    "WORD_CHANNEL": "頻道",
+    "WORD_MANAGED": "被管理"
 }

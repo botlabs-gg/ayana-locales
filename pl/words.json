@@ -11,5 +11,20 @@
     "WORD_JOINED": "Dołączono",
     "WORD_TYPE": "Typ",
     "WORD_MENTION": "Wzmianka",
-    "WORD_ROLES": "Role"
+    "WORD_ROLES": "Role",
+    "WORD_CANCELED": "Anulowano",
+    "WORD_CHANNEL": "Kanały",
+    "WORD_COLOR": "Kolor",
+    "WORD_ERROR": "Błąd",
+    "WORD_MEMBER": "Członkowie",
+    "WORD_NAME": "Nazwa",
+    "WORD_NO": "Nie",
+    "WORD_OWNER": "Właściciel",
+    "WORD_POSITION": "Pozycja",
+    "WORD_TOPIC": "Temat",
+    "WORD_UNAVAILABLE": "Niedostępny",
+    "WORD_YES": "Tak",
+    "WORD_MANAGED": "Zarządzany",
+    "WORD_MENTIONABLE": "Można wspomnieć",
+    "WORD_HOIST": "Hoist"
 }
