@@ -1,1 +1,17 @@
-{}
+{
+    "AVATAR_DIRECT_LINK": "[Přímý odkaz]({link})",
+    "CHANNELINFO_BITRATE": "Přenosová rychlost kanálu",
+    "CHANNELINFO_CHANNEL_TYPE": "Typ kanálu",
+    "CHANNELINFO_CONNECTED": "Připojených uživatelů",
+    "CHANNELINFO_OVERWRITE": "Změny oprávnění",
+    "CHANNELINFO_TEXT": "Textový",
+    "CHANNELINFO_VOICE": "Hlasový",
+    "INVITE_ALPHA": "Jistě :ok_hand:\nAbych přišla na tvůj server, prosím, klikni na tento odkaz:\n\n{invite}\n\nPoznámka: Nedávej alpha verzi Ayany na tvém serveru příliš moc oprávnění. Je opravdu nestabilní a neručíme za to, že něco na tvém serveru rozbije.",
+    "INVITE_PRO": "Ayana PRO je soukromá instance Ayany dostupná exkluzivně podporovatelům na Patreonu.\nLepší kvalita zvuku, méně výpadků a vyšší stabilita jsou jedny z mnoha výhod.\n\nPro více informací jdi na {uri}.\nPopřípadě si můžeš přidat veřejnou verzi Ayany: {invite}.",
+    "INVITE_TEXT": "Určitě :ok_hand:\nAbych přišla na tvůj server, vyber si jeden z těchto odkazů:\n\nDoporučená oprávnění: {invite}\nMinimální oprávnění: {invitemin}",
+    "PICK_DEBUG": "Prosím, poskytni více možností oddělených čárkami: =pick možnost1, možnost2, …",
+    "PICK_LARGE_INPUT": "Možnost, kterou jsem si chtěla vybrat, je příliš dlouhá.",
+    "RANDOM_LIMIT_ERROR": "Spodní hranice nemůže být větší jako horní.",
+    "RANDOM_RESPONSE": "Tvoje náhodné číslo je {num}.",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} textových / {voice} hlasových"
+}
