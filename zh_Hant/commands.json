@@ -1,9 +1,17 @@
 {
+    "AVATAR_DIRECT_LINK": "[直接連結]({link})",
     "CHANNELINFO_BITRATE": "語音位元率",
     "CHANNELINFO_CHANNEL_TYPE": "頻道類別",
     "CHANNELINFO_CONNECTED": "已連接使用者",
     "CHANNELINFO_OVERWRITE": "權限覆蓋",
     "CHANNELINFO_TEXT": "文字",
     "CHANNELINFO_VOICE": "語音",
+    "INVITE_ALPHA": "當然 :ok_hand:\n請點擊下列連結讓我加入您的伺服器：\n\n{invite}\n\n備註：不要授予Ayana Alpha太多關於您伺服器的權限。她太不穩定了，如果她破壞您的伺服器的話恕不負責。",
+    "INVITE_PRO": "Ayana PRO是一個獨立於公開版的實例，用於服務Patreon贊助者。\n您可以從她獲得一些好處，例如較高的音樂播放品質、較少的停機時間以及較好的穩定性。\n\n想要知道更多的話可以透過此連結了解：{uri}。\n或者您可以透過此連結邀請公開的Ayana：{invite}。",
+    "INVITE_TEXT": "當然 :ok_hand:\n請點擊下列連結讓我加入您的伺服器：\n\n推薦權限：{invite}\n最小權限：{invitemin}",
+    "PICK_DEBUG": "請提供數個以半形逗號分隔的選項：=pick option1, option2, …",
+    "PICK_LARGE_INPUT": "我已挑選一選項，但該選項的內容過大。",
+    "RANDOM_LIMIT_ERROR": "下限不能大於上限。",
+    "RANDOM_RESPONSE": "您的隨機數字為 {num} 。",
     "SERVERINFO_CHANNEL_COUNTS": "{text} 文字 / {voice} 語音"
 }

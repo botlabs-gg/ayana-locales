@@ -26,5 +26,12 @@
     "WORD_UNAVAILABLE": "無法使用",
     "WORD_YES": "是",
     "WORD_CHANNEL": "頻道",
-    "WORD_MANAGED": "被管理"
+    "WORD_MANAGED": "被管理",
+    "WORD_SERVERS": "伺服器",
+    "WORD_CONTAINER": "容器",
+    "WORD_DEVELOPERS": "開發者",
+    "WORD_LIBRARY": "函式庫",
+    "WORD_SHARD": "分片",
+    "WORD_VERSION": "版本",
+    "WORD_WEBSITE": "網站"
 }
