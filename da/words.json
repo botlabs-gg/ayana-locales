@@ -26,5 +26,12 @@
     "WORD_TOPIC": "Emne",
     "WORD_UNAVAILABLE": "Utilgængelig",
     "WORD_YES": "Ja",
-    "WORD_MANAGED": "Styret"
+    "WORD_MANAGED": "Styret",
+    "WORD_CONTAINER": "Beholder",
+    "WORD_DEVELOPERS": "Udviklere",
+    "WORD_LIBRARY": "Bibliotek",
+    "WORD_SERVERS": "Servere",
+    "WORD_SHARD": "Shard",
+    "WORD_VERSION": "Version",
+    "WORD_WEBSITE": "Hjemmeside"
 }
