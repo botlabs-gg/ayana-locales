@@ -26,5 +26,14 @@
     "WORD_POSITION": "Position",
     "WORD_TOPIC": "Thema",
     "WORD_UNAVAILABLE": "Nicht verfügbar",
-    "WORD_YES": "Ja"
+    "WORD_YES": "Ja",
+    "WORD_HEADS": "Kopf",
+    "WORD_TAILS": "Zahl",
+    "WORD_WEBSITE": "Webseite",
+    "WORD_CONTAINER": "Container",
+    "WORD_DEVELOPERS": "Entwickler",
+    "WORD_LIBRARY": "Bibliothek",
+    "WORD_SERVERS": "Server",
+    "WORD_SHARD": "Shard",
+    "WORD_VERSION": "Version"
 }

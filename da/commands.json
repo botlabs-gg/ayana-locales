@@ -8,11 +8,14 @@
     "CHANNELINFO_VOICE": "Stemme",
     "DESCRIPTION_AVATAR": "Fremvis brugers profilbillede",
     "DESCRIPTION_CHANNELINFO": "Fremvis kanalinformation",
+    "DESCRIPTION_FLIPCOIN": "Slå plat eller krone",
+    "DESCRIPTION_INFO": "Fremvis informationer om en bot",
     "DESCRIPTION_INVITE": "Fremvis invitations relaterede informationer",
     "DESCRIPTION_PICK": "Vælg en valgmulighed ud fra adskillige valgmuligheder",
     "DESCRIPTION_RANDOM": "Giver et tal, der kan bestemmes ud fra en øvre og nedre grænse",
     "DESCRIPTION_ROLEINFO": "Fremvis informationer om en rolle",
     "DESCRIPTION_SERVERINFO": "Fremvis serverinformation",
+    "DESCRIPTION_SUPPORT": "Vis invitationslink til support kanalen",
     "INFO_FOOTER": "*Ayana-udvikler, For at se flere information om alle shards, brug {prefix}shardinfo",
     "INFO_USEFUL_LINKS": "**Nyttige links:**\n[Inviter mig]({invite}), [Minimal Invite]({inviteMin}), [Ayana Status]({status}), [Support Server]({supportInvite}), [Doner]({donate}), [Twitter]({twitter}), [Facebook]({facebook})",
     "INVITE_ALPHA": "Helt sikkert :ok_hand:\n\nFor at tilføje mig til din server, klik venligst på linket herunder:\n\n{invite}\n\nBemærk: Giv ikke Ayana Alpha alt for mange tilladelser på din server. Hun er meget ustabil og der er ingen garanti for, at hun ikke ødelægger noget på din server.",
@@ -22,5 +25,6 @@
     "PICK_LARGE_INPUT": "Inputtet af den valgmulighed jeg valgte er for langt.",
     "RANDOM_LIMIT_ERROR": "Nedre grænse kan ikke være højere end øvre grænse.",
     "RANDOM_RESPONSE": "Dit tilfældige tal er {num}.",
-    "SERVERINFO_CHANNEL_COUNTS": "{text} tekst / {voice} stemme"
+    "SERVERINFO_CHANNEL_COUNTS": "{text} tekst / {voice} stemme",
+    "SUPPORT_TEXT": "For support, forslag, eller fejl med Ayana, tilslut venligst support serveren: {support}"
 }

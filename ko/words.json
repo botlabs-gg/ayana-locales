@@ -18,7 +18,7 @@
     "WORD_COLOR": "색상",
     "WORD_ERROR": "에러",
     "WORD_MEMBER": "멤버",
-    "WORD_HOIST": "멤버별 표시",
+    "WORD_HOIST": "역할별 표시",
     "WORD_MANAGED": "자동 관리",
     "WORD_MENTIONABLE": "멘션 가능",
     "WORD_TOPIC": "주제",
@@ -26,5 +26,14 @@
     "WORD_NO": "아니요",
     "WORD_YES": "네",
     "WORD_NAME": "이름",
-    "WORD_OWNER": "소유자"
+    "WORD_OWNER": "소유자",
+    "WORD_HEADS": "앞면",
+    "WORD_VERSION": "버전",
+    "WORD_WEBSITE": "웹사이트",
+    "WORD_TAILS": "뒷면",
+    "WORD_CONTAINER": "컨테이너",
+    "WORD_DEVELOPERS": "개발자",
+    "WORD_LIBRARY": "라이브러리",
+    "WORD_SERVERS": "서버",
+    "WORD_SHARD": "샤드"
 }

@@ -26,5 +26,14 @@
     "WORD_HOIST": "Oddělené zobrazení",
     "WORD_UNAVAILABLE": "Nedostupný",
     "WORD_CANCELED": "Zrušeno",
-    "WORD_MENTIONABLE": "Lze zmínit"
+    "WORD_MENTIONABLE": "Lze zmínit",
+    "WORD_CONTAINER": "Kontejner",
+    "WORD_DEVELOPERS": "Vývojáři",
+    "WORD_LIBRARY": "Knihovna",
+    "WORD_HEADS": "Panna",
+    "WORD_SERVERS": "Servery",
+    "WORD_VERSION": "Verze",
+    "WORD_WEBSITE": "Webová stránka",
+    "WORD_TAILS": "Orel",
+    "WORD_SHARD": "Shard"
 }
