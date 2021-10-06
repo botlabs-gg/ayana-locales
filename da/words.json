@@ -33,5 +33,7 @@
     "WORD_SERVERS": "Servere",
     "WORD_SHARD": "Shard",
     "WORD_VERSION": "Version",
-    "WORD_WEBSITE": "Hjemmeside"
+    "WORD_WEBSITE": "Hjemmeside",
+    "WORD_HEADS": "Plat",
+    "WORD_TAILS": "Krone"
 }
