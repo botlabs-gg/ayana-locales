@@ -1,7 +1,7 @@
 {
     "DESCRIPTION_MUSIC": "Lecteur de Musique Ayana",
-    "DESCRIPTION_MUSIC_BACK": "Revenir a la piste précédente",
-    "DESCRIPTION_MUSIC_DEBUG": "Afficher les informations de débogage",
+    "DESCRIPTION_MUSIC_BACK": "Retour à la piste précédente",
+    "DESCRIPTION_MUSIC_DEBUG": "Afficher les informations de débogage de la musique",
     "DESCRIPTION_MUSIC_JOIN": "Rejoindre un canal vocal",
     "DESCRIPTION_MUSIC_JUMP": "Passer à une musique précise",
     "DESCRIPTION_MUSIC_LEAVE": "Sortir des canaux",
