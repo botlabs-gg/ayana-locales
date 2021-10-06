@@ -1,4 +1,6 @@
 {
-    "english": "Tiếng Anh",
-    "native": "Tiếng Anh"
+	"enabled": true,
+    "english": "Vietnamese",
+	"imaginary": false,
+    "native": "Tiếng Việt"
 }
