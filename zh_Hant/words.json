@@ -33,5 +33,7 @@
     "WORD_LIBRARY": "函式庫",
     "WORD_SHARD": "分片",
     "WORD_VERSION": "版本",
-    "WORD_WEBSITE": "網站"
+    "WORD_WEBSITE": "網站",
+    "WORD_HEADS": "正面",
+    "WORD_TAILS": "反面"
 }
