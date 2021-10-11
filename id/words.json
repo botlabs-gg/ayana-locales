@@ -26,5 +26,14 @@
     "WORD_TOPIC": "Topik",
     "WORD_UNAVAILABLE": "Tidak tersedia",
     "WORD_YES": "Ya",
-    "WORD_HOIST": "Hoist"
+    "WORD_HOIST": "Hoist",
+    "WORD_HEADS": "Kepala",
+    "WORD_TAILS": "Ekor",
+    "WORD_WEBSITE": "Situs web",
+    "WORD_CONTAINER": "Kontainer",
+    "WORD_DEVELOPERS": "Pengembang",
+    "WORD_LIBRARY": "Perpustakaan",
+    "WORD_SERVERS": "Server",
+    "WORD_SHARD": "Shard",
+    "WORD_VERSION": "Versi"
 }
