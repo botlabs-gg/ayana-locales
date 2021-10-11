@@ -1,1 +1,25 @@
-{}
+{
+    "WORD_NAME": "Navn",
+    "WORD_NICKNAME": "Kallenavn",
+    "WORD_NO": "Nei",
+    "WORD_OWNER": "Eier",
+    "WORD_PLATFORM": "Plattform",
+    "WORD_POSITION": "Posisjon",
+    "WORD_ROLES": "Roller",
+    "WORD_SERVERS": "Servere",
+    "WORD_UNAVAILABLE": "Utilgjengelig",
+    "WORD_USERS": "Brukere",
+    "WORD_VERSION": "Versjon",
+    "WORD_WEBSITE": "Hjemmeside",
+    "WORD_YES": "Ja",
+    "WORD_CANCELED": "Avbrutt",
+    "WORD_CHANNEL": "Kanaler",
+    "WORD_COLOR": "Farge",
+    "WORD_CREATED": "Opprettet",
+    "WORD_ERROR": "Feil",
+    "WORD_GUILDS": "Servere",
+    "WORD_DEVELOPERS": "Utviklere",
+    "WORD_HOIST": "Fremhevet",
+    "WORD_LIBRARY": "Bibliotek",
+    "WORD_MEMBER": "Medlemmer"
+}

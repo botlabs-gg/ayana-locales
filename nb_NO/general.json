@@ -1,1 +1,6 @@
-{}
+{
+    "GUILD_LOCALE_UPDATED": "Serverens språk har blitt satt til {locale}.",
+    "LOCALIZATION_FAILURE": "Ikke i stand til å finne en oversettelse for `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Ikke i stand til å formatere oversettelsen `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Ditt språk har blitt satt til {locale}."
+}
