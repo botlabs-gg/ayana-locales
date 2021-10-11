@@ -32,5 +32,8 @@
     "WORD_SERVERS": "Serveurs",
     "WORD_SHARD": "Shard",
     "WORD_VERSION": "Version",
-    "WORD_WEBSITE": "Site web"
+    "WORD_WEBSITE": "Site web",
+    "WORD_HEADS": "Têtes",
+    "WORD_HOIST": "Treuil",
+    "WORD_TAILS": "Queues"
 }
