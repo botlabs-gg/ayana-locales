@@ -84,5 +84,8 @@
     "WAA_OTHER": "Awww look {target}, you made {source} sad",
     "WAA_SELF": "{source} is sad :c",
     "WASTED_OTHER": "{target} got WASTED by {source}",
-    "WASTED_SELF": "{source} got WASTED"
+    "WASTED_SELF": "{source} got WASTED",
+    "WEEBSH_FAIL": "Failed to get the `{type}` image from weeb.sh :< You should try again.",
+    "WEEBSH_FOOTER": "Powered by weeb.sh",
+    "WEEBSH_TYPES": "Weebsh Types"
 }

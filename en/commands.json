@@ -28,8 +28,5 @@
     "RANDOM_LIMIT_ERROR": "Lower bound cannot be bigger than upper bound.",
     "RANDOM_RESPONSE": "Your random number is {num}.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice",
-    "SUPPORT_TEXT": "For support, suggestions, or bugs with Ayana, please join the support server. {support}",
-    "WEEBSH_FAIL": "Failed to get the `{type}` image from weeb.sh :< You should try again.",
-    "WEEBSH_FOOTER": "Powered by weeb.sh",
-    "WEEBSH_TYPES": "Weebsh Types"
+    "SUPPORT_TEXT": "For support, suggestions, or bugs with Ayana, please join the support server. {support}"
 }
