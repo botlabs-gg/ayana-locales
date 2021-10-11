@@ -26,5 +26,9 @@
     "WORD_TOPIC": "话题",
     "WORD_UNAVAILABLE": "不可用",
     "WORD_YES": "是",
-    "WORD_NO": "否"
+    "WORD_NO": "否",
+    "WORD_DEVELOPERS": "开发者",
+    "WORD_LIBRARY": "库",
+    "WORD_HEADS": "正面",
+    "WORD_CONTAINER": "容器"
 }

@@ -1,0 +1,9 @@
+{
+    "AYANA_VERSION": "Ayana Versie",
+    "BENTOCORD_VERSION": "Bentocord Versie",
+    "BENTO_VERSION": "Bento Versie",
+    "GUILD_LOCALE_UPDATED": "Server taal is gewijzigd naar {locale}.",
+    "LOCALIZATION_FAILURE": "Geen vertaling gevonden voor `{key} `",
+    "LOCALIZATION_FORMAT_FAILURE": "Formateren van vertaling mislukt `{key}`:{error}",
+    "USER_LOCALE_UPDATED": "Jouw taal is gewijzigd naar {locale}."
+}

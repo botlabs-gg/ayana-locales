@@ -26,5 +26,14 @@
     "WORD_YES": "Tak",
     "WORD_MANAGED": "Zarządzany",
     "WORD_MENTIONABLE": "Można wspomnieć",
-    "WORD_HOIST": "Hoist"
+    "WORD_HOIST": "Hoist",
+    "WORD_TAILS": "Reszka",
+    "WORD_HEADS": "Orzeł",
+    "WORD_CONTAINER": "Kontener",
+    "WORD_DEVELOPERS": "Deweloperzy",
+    "WORD_LIBRARY": "Biblioteka",
+    "WORD_SERVERS": "Serwery",
+    "WORD_SHARD": "Shard",
+    "WORD_VERSION": "Wersja",
+    "WORD_WEBSITE": "Strona"
 }

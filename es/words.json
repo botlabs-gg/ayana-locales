@@ -26,5 +26,12 @@
     "WORD_POSITION": "Posición",
     "WORD_TOPIC": "Tema",
     "WORD_UNAVAILABLE": "No disponible",
-    "WORD_YES": "Sí"
+    "WORD_YES": "Sí",
+    "WORD_HEADS": "Jefes",
+    "WORD_CONTAINER": "Contenedor",
+    "WORD_DEVELOPERS": "Desarrolladores",
+    "WORD_LIBRARY": "Biblioteca",
+    "WORD_SERVERS": "Servidores",
+    "WORD_VERSION": "Versión",
+    "WORD_WEBSITE": "Sitio web"
 }
