@@ -1,1 +1,7 @@
-{}
+{
+    "AWOO_OTHER": "{source} awoo {target}",
+    "AWOO_SELF": "{source} awoo",
+    "BAD_OTHER": "Bien le bonjour {target}, vous avez été puni·e par {source} car vous avez été MÉCHANT·E",
+    "BAD_SELF": "Vous voulez vous punir vous même {source} ? D'accord",
+    "BLUSH_OTHER": "Awww regardez ça, {target} a fait rougir {source}, c'est si mignon"
+}
