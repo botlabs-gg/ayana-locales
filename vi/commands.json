@@ -16,6 +16,7 @@
     "DESCRIPTION_RANDOM": "Hiển thị một số ngẫu nhiên với giới hạn tối đa và tối thiểu",
     "DESCRIPTION_ROLEINFO": "Hiển thị thông tin về một role",
     "DESCRIPTION_SERVERINFO": "Hiển thị thông tin về một server",
+    "DESCRIPTION_SPONGEBOB": "Meme Spongebob đang chế giễu ai đó; cũng như biến văn bản bạn vừa cho thành một meme",
     "DESCRIPTION_SUPPORT": "Hiển thị link mời đến kênh hỗ trợ",
     "FORTUNE_ERROR": "Một lỗi đã xảy ra khi lấy fortune cookie của bạn. Nếu bạn cần thêm thông tin, vui lòng báo cáo lỗi này cho server hỗ trợ (chạy `support` để lấy lời mời).",
     "INFO_FOOTER": "*Ayana Creator, để xem thêm thông tin về toàn bộ shard vui lòng sử dụng {prefix}shardinfo",

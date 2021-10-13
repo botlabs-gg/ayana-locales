@@ -1,9 +1,16 @@
 {
+    "AVATAR_DIRECT_LINK": "[Link Direto]({link})",
     "CHANNELINFO_BITRATE": "Taxa de bits da voz",
     "CHANNELINFO_CHANNEL_TYPE": "Tipo de canal",
     "CHANNELINFO_CONNECTED": "Utilizadores conectados",
     "CHANNELINFO_OVERWRITE": "Substituição de permissões",
     "CHANNELINFO_TEXT": "Texto",
     "CHANNELINFO_VOICE": "Voz",
+    "DESCRIPTION_AVATAR": "Mostrar o avatar dum utilizador",
+    "DESCRIPTION_CHANNELINFO": "Mostrar informação sobre um canal",
+    "DESCRIPTION_FLIPCOIN": "Lançar uma moeda ao ar",
+    "DESCRIPTION_FORTUNE": "Mensagens de biscoitos da sorte",
+    "DESCRIPTION_INFO": "Mostrar informações sobre Ayana",
+    "DESCRIPTION_INVITE": "Mostrar informações relacionadas com o convite",
     "SERVERINFO_CHANNEL_COUNTS": "{text} texto / {voice} voz"
 }

@@ -16,6 +16,7 @@
     "DESCRIPTION_RANDOM": "Menampilkan nomor acak dengan dukungan batas atas dan bawah",
     "DESCRIPTION_ROLEINFO": "Menampilkan informasi tentang role",
     "DESCRIPTION_SERVERINFO": "Menampilkan informasi tentang server",
+    "DESCRIPTION_SPONGEBOB": "meme mengejek Spongebob; juga meme teks yang kamu berikan",
     "DESCRIPTION_SUPPORT": "Menampilkan tautan undangan untuk kanal dukungan",
     "FORTUNE_ERROR": "Terjadi kesalahan saat mendapatkan kue keberuntungan. Jika Anda memerlukan bantuan lebih lanjut, harap laporkan ini ke server dukungan kami (perintah `support` untuk mendapatkan undangan).",
     "INFO_FOOTER": "*Pencipta Ayana, untuk melihat informasi lebih lanjut tentang semua shard, pakai {prefix}shardinfo",

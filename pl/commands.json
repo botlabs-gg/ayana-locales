@@ -16,6 +16,7 @@
     "DESCRIPTION_RANDOM": "Wyświetl losową liczbę z możliwością wyboru górnej oraz dolnej granicy",
     "DESCRIPTION_ROLEINFO": "Wyświetl informacje o roli",
     "DESCRIPTION_SERVERINFO": "Wyświetl informacje o serwerze",
+    "DESCRIPTION_SPONGEBOB": "Drwiący mem z Spongebobem; również dodaje tekst, który napiszesz",
     "DESCRIPTION_SUPPORT": "Wyświetl informacje o zaproszeniu do kanału pomocy technicznej",
     "FORTUNE_ERROR": "Wystąpił błąd podczas losowania ciasteczka z wróżbą. Jeżeli potrzebujesz pomocy, zgłoś to na naszym serwerze (`support` aby otrzymać zaproszenie).",
     "INFO_FOOTER": "*Twórca Ayany, aby zobaczyć więcej informacji o shardach, użyj {prefix}shardinfo",

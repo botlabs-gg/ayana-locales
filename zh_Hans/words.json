@@ -30,5 +30,10 @@
     "WORD_DEVELOPERS": "开发者",
     "WORD_LIBRARY": "库",
     "WORD_HEADS": "正面",
-    "WORD_CONTAINER": "容器"
+    "WORD_CONTAINER": "容器",
+    "WORD_SERVERS": "服务器",
+    "WORD_SHARD": "节点",
+    "WORD_TAILS": "背面",
+    "WORD_WEBSITE": "网站",
+    "WORD_VERSION": "版本"
 }
