@@ -8,6 +8,7 @@
     "CHANNELINFO_VOICE": "Voice",
     "DESCRIPTION_AVATAR": "Display avatar of a user",
     "DESCRIPTION_CHANNELINFO": "Display info about a channel",
+    "DESCRIPTION_CLEAN": "I will delete my messages in the last 100 messages",
     "DESCRIPTION_FLIPCOIN": "Flip a coin",
     "DESCRIPTION_FORTUNE": "Fortune cookie messages",
     "DESCRIPTION_INFO": "Display info about Ayana",
