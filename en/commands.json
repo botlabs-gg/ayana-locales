@@ -9,6 +9,7 @@
     "CHANNELINFO_TEXT": "Text",
     "CHANNELINFO_VOICE": "Voice",
     "DESCRIPTION_AVATAR": "Display avatar of a user",
+    "DESCRIPTION_BAN": "Ban users",
     "DESCRIPTION_BIGTEXT": "Generates text with regional indicators",
     "DESCRIPTION_BIGTEXTD": "Same as bigtext, but I also remove your command",
     "DESCRIPTION_CHANNELINFO": "Display info about a channel",
