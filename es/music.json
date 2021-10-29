@@ -24,7 +24,7 @@
     "MUSIC_BACKSKIPPED": ":arrow_backward: Se retrocedió `{track}`.",
     "MUSIC_BACK_END": "Es el inicio de la cola, no hay nada que retroceder.",
     "MUSIC_EXCEPTION": "Un error ''{severity}'' ha ocurrido: {message}.",
-    "MUSIC_JOIN_MESSAGE": ":white_check_mark:Me uní a :speaker:`{voice}`.",
+    "MUSIC_JOIN_MESSAGE": ":white_check_mark: Me uní a :speaker:`{voice}`.",
     "MUSIC_JUMPED": "Se ha saltado a `{track}` en la posición **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Me he ido y desligue los canales.",
     "MUSIC_NO_MATCHES": "No se pudo encontrar ninguna coincidencia adecuada",
