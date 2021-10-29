@@ -33,5 +33,7 @@
     "WORD_VERSION": "Versiyon",
     "WORD_WEBSITE": "Web sitesi",
     "WORD_UNAVAILABLE": "Kullanım Dışı",
-    "WORD_YES": "Evet"
+    "WORD_YES": "Evet",
+    "WORD_MANAGED": "Yönetilmiş",
+    "WORD_HOIST": "Rol listesinde ayrı göster"
 }
