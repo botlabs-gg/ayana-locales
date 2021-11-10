@@ -25,6 +25,8 @@
     "DESCRIPTION_RANDOM": "Display a random no with support of upper and lower limit",
     "DESCRIPTION_ROLE": "Give, take and modify roles",
     "DESCRIPTION_ROLEINFO": "Display info about a role",
+    "DESCRIPTION_SAY": "Have me say something",
+    "DESCRIPTION_SAYD": "Same as say, but I also remove your command",
     "DESCRIPTION_SERVERINFO": "Display info about a server",
     "DESCRIPTION_SHRUG": "Display image of shrug",
     "DESCRIPTION_SHRUGD": "Same as shrug, but I also remove your command",
@@ -54,6 +56,7 @@
     "ROLE_PLEASEWAIT": "Please wait while I process your request. (Users processed: {usersProcessed})",
     "ROLE_TOOMANYOPTIONS": "You used more than one of the following options, which is invalid `user, users, bots`.",
     "ROLE_USERROLELOW": "The role `{role}` cannot be used or modified because your highest role is not above it.",
+    "SAY_FOOTER": "The above message is user-generated content. Unset `nosneak` to remove this embed",
     "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice",
     "SUPPORT_TEXT": "For support, suggestions, or bugs with Ayana, please join the support server. {support}"
 }
