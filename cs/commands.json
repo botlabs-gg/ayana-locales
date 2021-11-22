@@ -16,6 +16,7 @@
     "DESCRIPTION_RANDOM": "Vybere náhodné číslo s podporou vrchního i spodního limitu",
     "DESCRIPTION_ROLEINFO": "Zobrazí informace o roli",
     "DESCRIPTION_SERVERINFO": "Zobrazí informace o serveru",
+    "DESCRIPTION_SPONGEBOB": "Napodobovací mem se Spongebobem; také zmemuje text, který napíšeš",
     "DESCRIPTION_SUPPORT": "Zobrazí pozvánku na kanál podpory",
     "FORTUNE_ERROR": "Nastala chyba při získávání koláčku štěstí. Jestli potřebuješ pomoci, prosím, nahlaš to na našem serveru podpory )(použij příkaz `support` pro pozvánku).",
     "INFO_FOOTER": "*Tvůrce Ayany; pro více informací o všech shardech použij {prefix}shardinfo",
