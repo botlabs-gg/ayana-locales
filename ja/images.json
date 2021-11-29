@@ -1,1 +1,25 @@
-{}
+{
+    "AWOO_OTHER": "{source}が{target}にawooしました",
+    "AWOO_SELF": "{source}がawooしました",
+    "BAD_OTHER": "やぁ{target}、悪い子な君には{source}のお仕置きよ",
+    "BAD_SELF": "{source}君、自虐プレイがお好みで？しょうがないにゃあ...いいよ",
+    "BLUSH_OTHER": "┌(┌^o^)┐ホモォ...{target}が{source}を顔真っ赤にさせちゃって可愛いねぇ",
+    "BLUSH_SELF": "┌(┌^o^)┐ホモォ...{source}君顔真っ赤だねぇ...グヘヘ",
+    "CONFUSED_OTHER": "あらら...{target}君のせいで{source}が└(՞ةڼ◔)」してるよ、どうしちゃったのかな？？？",
+    "CONFUSED_SELF": "{source}君は混乱しているﾟдﾟ]",
+    "CUDDLE_OTHER": "{target}は{source}の抱き枕よ",
+    "CUDDLE_SELF": "{source}の抱き枕募集中|-ﾟ)",
+    "DANCE_OTHER": "見て！{source}と{target}が踊っているよ、かわいいね",
+    "DANCE_SELF": "ﾟдﾟ] {source}が急に踊り始めた",
+    "DESCRIPTION_AWOO": "Momiji/Wan(犬走椛)の 'awoo' な画像",
+    "DESCRIPTION_BAD": "キャラクターのﾑﾌﾌな画像",
+    "DESCRIPTION_BLUSH": "お顔真っ赤なキャラクターの画像",
+    "DESCRIPTION_CONFUSED": "混乱している子の画像",
+    "DESCRIPTION_CUDDLE": ".°ʚ( *´꒳))ω`,,)ｷﾞｭｯ♡ ＊他の人にメンションすることで抱き合うこともできます",
+    "DESCRIPTION_DANCE": "₍₍ (ง ›ω‹ )ว ⁾⁾",
+    "DESCRIPTION_HUG": "♡(´｡•ω(•ω•｡`)♡＊他の人にメンションすることでその人をハグすることもできます",
+    "DESCRIPTION_IDK": "なんも分からん時用の┐(´～｀)┌な画像",
+    "DESCRIPTION_INSULT": "ランダムな煽り画像 ＊他の人にメンションすることでその人を煽ることもできます",
+    "DESCRIPTION_INU": "random.dog からランダムに犬の画像を取得",
+    "DESCRIPTION_JOJO": "ジョジョの奇妙な冒険のミーム"
+}
