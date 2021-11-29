@@ -1,1 +1,16 @@
-{}
+{
+    "BIGTEXT_OUTPUTTOOLARGE": "Whoops! Ang iyong output na mensahe ay mas malaki sa 2000 na karakter!",
+    "CHANNELINFO_TEXT": "Teksto",
+    "DESCRIPTION_AVATAR": "Ipakita ang avatar ng isang user",
+    "DESCRIPTION_BIGTEXT": "Bumubuo ng mga teksto gamit ang regional indicators",
+    "DESCRIPTION_BIGTEXTD": "Katulad ng bigtext, kaso tatanggalin ko ang iyong command",
+    "DESCRIPTION_CHANNELINFO": "Ipakita ang impormasyon tungkol sa isang channel",
+    "DESCRIPTION_FLIPCOIN": "Pumitik ng barya",
+    "DESCRIPTION_FORTUNE": "Mga mensahe sa fortune cookies",
+    "DESCRIPTION_GIVEROLE": "Magbigay ng mga roles",
+    "DESCRIPTION_INFO": "Ipakita ang impormasyon tungkol kay Ayana",
+    "DESCRIPTION_ROLE": "Magbigay, kuhain at baguhin ang mga roles",
+    "DESCRIPTION_ROLEINFO": "Ipakita ang impormasyon tungkol sa isang role",
+    "DESCRIPTION_SHRUG": "Magpapakita ng imahe ng shrug",
+    "DESCRIPTION_SHRUGD": "Katulad ng shrug, pero tatanggalin ko ang iyong command"
+}
