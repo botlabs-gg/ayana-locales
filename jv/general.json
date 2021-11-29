@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Vèrsi Ayana",
+    "BENTOCORD_VERSION": "Vèrsi Bentocord",
+    "BENTO_VERSION": "Vèrsi Bento",
+    "GUILD_LOCALE_UPDATED": "Basa leladèn wis disetèl dadi {locale}.",
+    "LOCALIZATION_FAILURE": "Wurung nemokaké pertalan kanggo `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Wurung ngeformat pertalan `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Basamu wis disetèl dadi {locale}."
+}
