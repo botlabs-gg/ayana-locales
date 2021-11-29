@@ -12,7 +12,7 @@
     "WORD_TYPE": "Tipo",
     "WORD_MENTION": "Mención",
     "WORD_ROLES": "Roles",
-    "WORD_CANCELED": "cancelado",
+    "WORD_CANCELED": "Cancelado",
     "WORD_CHANNEL": "Canales",
     "WORD_COLOR": "Color",
     "WORD_ERROR": "Error",
@@ -33,5 +33,7 @@
     "WORD_LIBRARY": "Biblioteca",
     "WORD_SERVERS": "Servidores",
     "WORD_VERSION": "Versión",
-    "WORD_WEBSITE": "Sitio web"
+    "WORD_WEBSITE": "Sitio web",
+    "WORD_TAILS": "Colas",
+    "WORD_SHARD": "Fragmento"
 }

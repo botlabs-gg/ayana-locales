@@ -1,0 +1,18 @@
+{
+    "DESCRIPTION_MUSIC": "إيانا مشغلةُ الموسيقى",
+    "DESCRIPTION_MUSIC_BACK": "العودة إلى المسار السابق",
+    "DESCRIPTION_MUSIC_DEBUG": "عرض معلومات تصحيح الأخطاء للموسيقى",
+    "DESCRIPTION_MUSIC_FASTFORWARD": "التقدم السريع لمسار التشغيل",
+    "DESCRIPTION_MUSIC_JOIN": "الدخول الى القناة الصوتية",
+    "DESCRIPTION_MUSIC_JUMP": "التخطي الى اغنية محددة",
+    "DESCRIPTION_MUSIC_LEAVE": "الخروج من القنوات",
+    "DESCRIPTION_MUSIC_PAUSE": "تبديل الوقوف",
+    "DESCRIPTION_MUSIC_PLAY": "تشغيل الطابور",
+    "DESCRIPTION_MUSIC_PROVIDERS": "أظهار قائمة موفرين المسار المدعومين",
+    "DESCRIPTION_MUSIC_PURGE": "إزالة كل الأغاني من الطابور",
+    "DESCRIPTION_MUSIC_QUEUE": "إضافة مسار الى الطابور",
+    "DESCRIPTION_MUSIC_REMOVE": "إزالة المسارات من الطابور",
+    "DESCRIPTION_MUSIC_REMOVERANGE": "إزالة المسارات بين الوظيفتين",
+    "DESCRIPTION_MUSIC_REPEAT": "إدارة وضع التكرار",
+    "DESCRIPTION_MUSIC_REWIND": "ترجيع تشغيل المسار"
+}
