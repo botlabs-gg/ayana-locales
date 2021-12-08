@@ -17,7 +17,7 @@
     "BENTOCORD_PROMPT_CANCELED_TIMEOUT": "Tiempo excedido para la entrada de datos.",
     "BENTOCORD_PROMPT_CHOICE": "Por favor, seleccione una de las siguiente opciones:",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "Por favor, selecciones uno de las siguientes opciones `{option}`:",
-    "BENTOCORD_PROMPT_CONFIRM": "Porfavor confirme si desea continuar [y/n]:",
+    "BENTOCORD_PROMPT_CONFIRM": "Por favor confirme si desea continuar [y/n]:",
     "BENTOCORD_PROMPT_MISSING_PERMISSION": "No parece que yo tenga el permiso `{permission}` de Discord. Por favor otórguelo para una experiencia mejor.",
     "BENTOCORD_PROMPT_OPTION": "Proporcione una entrada para la opción `{option}` del tipo `{type}`:",
     "BENTOCORD_PROMPT_SUBCOMMAND": "Por favor, seleccione un subcomando:",

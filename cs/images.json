@@ -20,6 +20,7 @@
     "LICK_SELF": "{source} líže.... sám sebe?",
     "NYAN_SELF": "Tady máš nějaké pěkné kočkoholky {source}",
     "SLAP_SELF": "Hmm, {source} dává facku sám sobě, cože?",
+    "THUMBSUP_OTHER": "Hej {target}, {source} si myslí, že tvůj nápad je dobrý",
     "THUMBSUP_SELF": "{source} si myslí, že má dobrý nápad",
     "WAA_OTHER": "Awww, podívej se, {target}! Uživatel {source} je kvůli tobě smutný",
     "WAA_SELF": "Uživateli {source} je smutno :c",

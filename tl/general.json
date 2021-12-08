@@ -1,1 +1,9 @@
-{}
+{
+    "AYANA_VERSION": "Ayana Version",
+    "BENTOCORD_VERSION": "Bentocord Version",
+    "BENTO_VERSION": "Bento Version",
+    "GUILD_LOCALE_UPDATED": "Ang lokal na server ay itinaktad sa {locale}.",
+    "LOCALIZATION_FAILURE": "Nabigo makahanap ng translasyon sa `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Nabigong i-format ang translasyon `{key}`: {error}",
+    "USER_LOCALE_UPDATED": "Ang iyong lokal ay itinakda sa {locale}."
+}
