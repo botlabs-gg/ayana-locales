@@ -1,5 +1,6 @@
 {
     "AWOO_OTHER": "{source} awoos {target}",
+    "AWOO_SELF": "{source} awoos",
     "BAD_OTHER": "Ora viva {target}, estás a ser castigado por {source} porque te portaste MAL",
     "BAD_SELF": "Tu queres castigar-te a ti próprio {source}? Ok",
     "BLUSH_OTHER": "Oooh olhem para isto, {target} fez {source} corar, é tão fofo",
