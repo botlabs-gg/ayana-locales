@@ -5,7 +5,7 @@
     "BENTOCORD_PAGINATION_NAVIGATION": "Digite `< `ou `>` para mudar de página, e `x` para fechar, ou `p[number]` para pular para uma página (exemplo: `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Página {page}/{total}",
     "BENTOCORD_PING": "Ping!",
-    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PING_COUNT": "Ping! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "O prefixo atual é `{prefix}`.",
     "BENTOCORD_PREFIX_SET": "O prefixo foi setado para `{prefix}`.",
     "BENTOCORD_PRESENCE_UPDATED": "Presença atualizada!",

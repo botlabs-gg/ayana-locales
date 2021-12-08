@@ -1,1 +1,21 @@
-{}
+{
+    "FORTUNE_ERROR": "Ocorreu um erro ao obter o biscoito da sorte. Se precisar de mais ajuda, por favor, reporte isso ao nosso servidor de suporte (comando `support` para obter o convite).",
+    "INFO_USEFUL_LINKS": "**Links Úteis:**\n[Convide-me]({invite}), [Convite mínimo]({inviteMin}), [Estado Ayana]({status}), [Servidor de suporte]({supportInvite}), [Doe]({donate}), [ Twitter]({twitter}), [Facebook]({facebook})",
+    "INVITE_ALPHA": "Com certeza: ok_hand:\nPara me juntar ao seu servidor, clique no link abaixo:\n\n{invite}\n\nNota: Não dê a Ayana Alpha muitas permissões em seu servidor. Ela pode ficar instável e não há garantia se ela quebrar alguma coisa no seu servidor.",
+    "INVITE_PRO": "Ayana PRO é uma instância privada hospedada de Ayana exclusiva para apoiadores do Patreon.\nReprodução de alta qualidade, menos tempo de inatividade e mais estabilidade são apenas alguns dos benefícios que você obtém.\n\nPara saber mais ou embarcar, vá para {uri}.\nComo alternativa, você pode adicionar Ayana pública aqui {invite}.",
+    "INVITE_TEXT": "Certo: ok_hand:\nPara que eu possa entrar no seu servidor, escolha um dos seguintes links:\n\nPermissões recomendadas: {invite}\nPermissões mínimas: {invitemin}",
+    "KICK_TARGETHIGHERROLE": "{target} tem um cargo superior à sua. Você não pode modificá-los.",
+    "PICK_DEBUG": "Por favor,forneça várias opções separadas por vírgulas: = escolha opção1, opção2, …",
+    "PICK_LARGE_INPUT": "A entrada da opção que eu queria escolher é muito grande.",
+    "RANDOM_RESPONSE": "Seu número aleatório é {num}.",
+    "ROLE_ALREADYPROCESSING": "Já estou processando uma solicitação de função neste servidor.",
+    "ROLE_CANNOTUSEINROLENOTINROLE": "Você não pode combinar `inrole`,` notinrole` e `noroles`.",
+    "ROLE_DONEPROCESSING": "Feito! Funções modificadas de {amount} usuários.",
+    "ROLE_INVALIDHEXCODE": "Você não usou um código hexadecimal válido. Exemplos de códigos hexadecimais válidos são # F4C e # F77800.",
+    "ROLE_NOOPTIONSSPECIFIED": "Você não especificou nenhuma opção. Verifique a ajuda deste comando para obter mais informações.",
+    "ROLE_PLEASEWAIT": "Aguarde enquanto processo sua solicitação. (Usuários processados: {usersProcessed})",
+    "ROLE_TOOMANYOPTIONS": "Você usou mais de uma das seguintes opções, que é inválido `user, users, bots`.",
+    "SAY_FOOTER": "A mensagem acima é um conteúdo gerado pelo usuário. Remova `nosneak` para remover esta incorporação",
+    "SERVERINFO_CHANNEL_COUNTS": "{text} texto / {voice} voz",
+    "SUPPORT_TEXT": "Para suporte, sugestões ou bugs com Ayana, por favor entre no servidor de suporte. {support}"
+}
