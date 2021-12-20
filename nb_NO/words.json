@@ -21,5 +21,16 @@
     "WORD_DEVELOPERS": "Utviklere",
     "WORD_HOIST": "Fremhevet",
     "WORD_LIBRARY": "Bibliotek",
-    "WORD_MEMBER": "Medlemmer"
+    "WORD_MEMBER": "Medlemmer",
+    "WORD_CONTAINER": "Beholder",
+    "WORD_HOSTNAME": "Navn på vert",
+    "WORD_ID": "ID",
+    "WORD_NEW_CHANNEL": "Ny kanal",
+    "WORD_OLD_CHANNEL": "Gammel kanal",
+    "WORD_RAM": "Ram",
+    "WORD_ROLE": "Rolle",
+    "WORD_TAILS": "Krone",
+    "WORD_TOPIC": "Emne",
+    "WORD_TYPE": "Type",
+    "WORD_USER": "Bruker"
 }

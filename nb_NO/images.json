@@ -1,1 +1,14 @@
-{}
+{
+    "BAD_OTHER": "Men hallo {target}, du blir straffet av {source} fordi du har vært slem",
+    "BAD_SELF": "Du vil gjerne straffe deg selv {source}? ok",
+    "BLUSH_OTHER": "Awww se på det, {target} fikk {source} til å rødme, hvor søtt",
+    "BLUSH_SELF": "Awww {source} rødmer, jeg lurer på hvorfor hehehe",
+    "CONFUSED_OTHER": "Hmm {target} gjorde {source} forvirret, hva skjedde her?",
+    "CONFUSED_SELF": "Hmm {source} er forvirret owo",
+    "CUDDLE_OTHER": "Awww {source} omfavnet {target}",
+    "CUDDLE_SELF": "Her {source}, få en klem",
+    "DANCE_OTHER": "{source} danser med {target}, for et søtt par",
+    "DANCE_SELF": "owo {source} begynte plutselig å danse",
+    "DESCRIPTION_BAD": "Bilder av karakterer som gjorde noe slemt",
+    "DESCRIPTION_BLUSH": "Bilder av rødmende karakterer"
+}
