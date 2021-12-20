@@ -1,1 +1,17 @@
-{}
+{
+    "DESCRIPTION_MUSIC": "Tocador de Música da Ayana",
+    "DESCRIPTION_MUSIC_BACK": "Retroceder para a faixa anterior",
+    "DESCRIPTION_MUSIC_DEBUG": "Exibir informações de depuração de música",
+    "DESCRIPTION_MUSIC_FASTFORWARD": "Avançar a faixa reproduzida",
+    "DESCRIPTION_MUSIC_JOIN": "Entre em um canal de voz",
+    "DESCRIPTION_MUSIC_JUMP": "Pule para um som específico",
+    "DESCRIPTION_MUSIC_LEAVE": "Sair dos canais",
+    "DESCRIPTION_MUSIC_PAUSE": "Alternar pausa",
+    "DESCRIPTION_MUSIC_PLAY": "Tocar a fila",
+    "DESCRIPTION_MUSIC_PROVIDERS": "Mostrar lista de provedores de trilhas com suporte",
+    "DESCRIPTION_MUSIC_PURGE": "Remover todos os sons da lista",
+    "DESCRIPTION_MUSIC_QUEUE": "Adicionar faixas à fila",
+    "DESCRIPTION_MUSIC_REMOVE": "Remover faixas da fila",
+    "DESCRIPTION_MUSIC_REMOVERANGE": "Remova as faixas entre duas posições",
+    "DESCRIPTION_MUSIC_REPEAT": "Gerenciar modo de repetição"
+}
