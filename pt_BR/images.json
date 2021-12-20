@@ -56,6 +56,7 @@
     "LICK_OTHER": "{source} lambeu {target}, ok.",
     "LICK_SELF": "{source} está... Se lambendo?",
     "NOM_OTHER": "{source} e {target} estão nomeando juntos owo",
+    "NOM_SELF": "{source} mastiga alguma comida uwu",
     "NYAN_OTHER": "Ei, {target}, parece que {source} quer que você tenha gatinhas fofas",
     "NYAN_SELF": "Tenha gatinhas fofas {source}",
     "OWO_OTHER": "OwO, o que é isso? Bem, olá {target}",
@@ -74,10 +75,17 @@
     "SMUG_SELF": "{source} está parecendo um pouco presunçoso",
     "STARE_OTHER": "{source} está olhando para {target}, eu me pergunto por que hmmm",
     "STARE_SELF": "Parece que {source} está olhando para algo, eu me pergunto o que é",
-    "SUMFUK_OTHER": "Bem, olá, {target}, {source} queria saber se você quer somar",
+    "SUMFUK_OTHER": "Bem, olá, {target}, {source} queria saber se você quer dar uma foda",
+    "SUMFUK_SELF": "Parece que {source} quer dar uma foda",
     "THUMBSUP_OTHER": "Ei, {target}, {source} acha que sua ideia é ótima",
-    "TRIGGERED_OTHER": "{source} é  provocado por causa de {target}, o que você fez?",
+    "THUMBSUP_SELF": "{source} acha que teve uma ótima ideia",
+    "TRIGGERED_OTHER": "{source} é provocado por causa de {target}, o que você fez?",
+    "TRIGGERED_SELF": "{source} parece provocado OwO",
     "WAA_OTHER": "Awww olhe {target}, você deixou {source} triste",
     "WAA_SELF": "{source} está triste: c",
-    "WEEBSH_FAIL": "Falha ao obter a imagem `{type}` de weeb.sh: <Você deve tentar novamente."
+    "WASTED_OTHER": "{target} foi FERRADO por {source}",
+    "WASTED_SELF": "{source} se FERROU",
+    "WEEBSH_FAIL": "Falha ao obter a imagem `{type}` de weeb.sh: <Você deve tentar novamente.",
+    "WEEBSH_FOOTER": "Distribuído por weeb.sh",
+    "WEEBSH_TYPES": "Escrita Weebsh"
 }

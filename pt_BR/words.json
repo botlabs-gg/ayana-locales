@@ -35,5 +35,12 @@
     "WORD_UPTIME": "Tempo de atividade",
     "WORD_USERS": "Usuários",
     "WORD_VERSION": "Versão",
-    "WORD_YES": "Sim"
+    "WORD_YES": "Sim",
+    "WORD_CHANNL": "Canal",
+    "WORD_DISABLED_EVENTS": "Eventos Desativados",
+    "WORD_OLD_CHANNEL": "Canal Antigo",
+    "WORD_ROLE": "Cargo",
+    "WORD_ACTIVE": "Ativo",
+    "WORD_NEW_CHANNEL": "Novo Canal",
+    "WORD_USER": "Usuário"
 }
