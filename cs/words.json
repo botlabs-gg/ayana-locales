@@ -35,5 +35,12 @@
     "WORD_VERSION": "Verze",
     "WORD_WEBSITE": "Webová stránka",
     "WORD_TAILS": "Orel",
-    "WORD_SHARD": "Shard"
+    "WORD_SHARD": "Shard",
+    "WORD_ACTIVE": "Aktivní",
+    "WORD_CHANNL": "Kanál",
+    "WORD_DISABLED_EVENTS": "Zakázané události",
+    "WORD_NEW_CHANNEL": "Nový kanál",
+    "WORD_OLD_CHANNEL": "Starý kanál",
+    "WORD_ROLE": "Role",
+    "WORD_USER": "Uživatel"
 }

@@ -35,5 +35,12 @@
     "WORD_VERSION": "版本",
     "WORD_WEBSITE": "網站",
     "WORD_HEADS": "正面",
-    "WORD_TAILS": "反面"
+    "WORD_TAILS": "反面",
+    "WORD_ACTIVE": "主動",
+    "WORD_CHANNL": "頻道",
+    "WORD_DISABLED_EVENTS": "已停用事件",
+    "WORD_NEW_CHANNEL": "新頻道",
+    "WORD_OLD_CHANNEL": "舊頻道",
+    "WORD_ROLE": "身份組",
+    "WORD_USER": "使用者"
 }

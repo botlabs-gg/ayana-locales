@@ -14,5 +14,11 @@
     "DESCRIPTION_MUSIC_REMOVE": "إزالة المسارات من الطابور",
     "DESCRIPTION_MUSIC_REMOVERANGE": "إزالة المسارات بين الوظيفتين",
     "DESCRIPTION_MUSIC_REPEAT": "إدارة وضع التكرار",
-    "DESCRIPTION_MUSIC_REWIND": "ترجيع تشغيل المسار"
+    "DESCRIPTION_MUSIC_REWIND": "ترجيع تشغيل المسار",
+    "DESCRIPTION_MUSIC_SEEK": "الإنتقال إلى موقع في المسار الحالي",
+    "DESCRIPTION_MUSIC_SHUFFLE": "خلط الطابور",
+    "DESCRIPTION_MUSIC_SKIP": "التخطي الى المسار التالي",
+    "DESCRIPTION_MUSIC_STOP": "إيقاف الموسيقى",
+    "MUSIC_AUTHOR_NO_CHANNEL": "لا يبدو أنك في قناة صوتية.",
+    "MUSIC_AUTOLEAVE": ":no_entry_sign: غادرت القناة الصوتية لعدم النشاط."
 }

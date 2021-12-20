@@ -35,5 +35,12 @@
     "WORD_VERSION": "Versión",
     "WORD_WEBSITE": "Sitio web",
     "WORD_TAILS": "Colas",
-    "WORD_SHARD": "Fragmento"
+    "WORD_SHARD": "Fragmento",
+    "WORD_ACTIVE": "Activo",
+    "WORD_NEW_CHANNEL": "Nuevo canal",
+    "WORD_CHANNL": "Canal",
+    "WORD_DISABLED_EVENTS": "Eventos desactivados",
+    "WORD_OLD_CHANNEL": "Canal antiguo",
+    "WORD_ROLE": "Rol",
+    "WORD_USER": "Usuario"
 }
