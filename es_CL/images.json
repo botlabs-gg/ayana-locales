@@ -1,1 +1,8 @@
-{}
+{
+    "BAD_SELF": "¿Te quieres castigar solo, {source}? ok",
+    "BLUSH_OTHER": "Awww, miren, {target} hizo que {source} se sonroje, que tierno",
+    "CUDDLE_SELF": "Aquí, {source}, unos abracitos",
+    "DESCRIPTION_AWOO": "Imagenes de Momiji/Wan que 'awoo'",
+    "WEEBSH_FOOTER": "Proporcionado por weeb.sh",
+    "WEEBSH_TYPES": "Tipos de Weebsh"
+}

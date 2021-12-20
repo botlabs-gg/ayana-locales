@@ -1,1 +1,12 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "El comando `{command}` no existe.",
+    "BENTOCORD_ADV_NO_RECURSIVE": "La ejecución recursiva no esta permitida.",
+    "BENTOCORD_COMMAND_ERROR": "Hubo un error procesando el comando: {error}",
+    "BENTOCORD_PAGINATION_NAVIGATION": "Escribe `<` o `>` para cambiar páginas, `x` para cerrar, o `p[número]` para saltar a la página (ej: `p10`).",
+    "BENTOCORD_PAGINATION_PAGE": "Página {page}/{total}",
+    "BENTOCORD_PING": "¡Pong!",
+    "BENTOCORD_PING_COUNT": "¡Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PREFIX": "El prefijo actual es `{prefix}`.",
+    "BENTOCORD_PREFIX_SET": "El prefijo se cambió a `{prefix}`.",
+    "BENTOCORD_PRESENCE_UPDATED": "Presencia actualizada!"
+}
