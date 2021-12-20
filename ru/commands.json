@@ -1,4 +1,5 @@
 {
+    "ACTIONLOG_ACTIVE": "Включить/Отключить",
     "AVATAR_DIRECT_LINK": "[Прямая ссылка]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} должно быть числом <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Воу-оу! Итоговое сообщение вышло длиннее 2000 символов!",

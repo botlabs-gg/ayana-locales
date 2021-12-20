@@ -14,7 +14,7 @@
     "WORD_COLOR": "Цвет",
     "WORD_CONTAINER": "Контейнер",
     "WORD_ERROR": "Ошибка",
-    "WORD_HEADS": "Главы",
+    "WORD_HEADS": "Орёл",
     "WORD_LIBRARY": "Библиотека",
     "WORD_MEMBER": "Участники",
     "WORD_NAME": "Имя",
@@ -34,5 +34,13 @@
     "WORD_ROLES": "Роли",
     "WORD_DEVELOPERS": "Разработчики",
     "WORD_MANAGED": "Управляется интеграцией",
-    "WORD_HOIST": "Отображается отдельно"
+    "WORD_HOIST": "Отображается отдельно",
+    "WORD_TAILS": "Решка",
+    "WORD_ACTIVE": "Активный",
+    "WORD_CHANNL": "Канал",
+    "WORD_DISABLED_EVENTS": "Отложенные мероприятия",
+    "WORD_NEW_CHANNEL": "Новый канал",
+    "WORD_OLD_CHANNEL": "Старый канал",
+    "WORD_ROLE": "Роль",
+    "WORD_USER": "Пользователь"
 }
