@@ -1,7 +1,7 @@
 {
     "DESCRIPTION_MUSIC": "Музыкальный проигрыватель Айяны",
     "DESCRIPTION_MUSIC_BACK": "Вернуться к предыдущему треку",
-    "DESCRIPTION_MUSIC_DEBUG": "Отобразить диагностическую информацию о музыке",
+    "DESCRIPTION_MUSIC_DEBUG": "Показать дебаг-информацию, относящуюся к музыке",
     "DESCRIPTION_MUSIC_FASTFORWARD": "Перемотать текущий трек",
     "DESCRIPTION_MUSIC_JOIN": "Присоединиться к голосовому каналу",
     "DESCRIPTION_MUSIC_JUMP": "Перейти к указанному треку",
@@ -19,7 +19,7 @@
     "DESCRIPTION_MUSIC_SHUFFLE": "Перемешать треки в очереди",
     "DESCRIPTION_MUSIC_SKIP": "Перейти к следующему треку",
     "DESCRIPTION_MUSIC_STOP": "Завершить проигрывание",
-    "MUSIC_AUTHOR_NO_CHANNEL": "Не похоже, что вы находитесь в голосовом канале.",
+    "MUSIC_AUTHOR_NO_CHANNEL": "Похоже, вы не в голосовом канале.",
     "MUSIC_AUTOLEAVE": ":no_entry_sign: Я покинула канал из-за неактивности.",
     "MUSIC_BACKSKIPPED": ":arrow_backward: Перемотано назад: `{track}`.",
     "MUSIC_BACK_END": "Ещё только начало очереди, нечего отматывать назад.",
