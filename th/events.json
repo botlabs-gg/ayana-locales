@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "สร้างช่อง",
+    "EVENT_CHANNEL_DELETE": "ลบช่อง",
+    "EVENT_GUILD_BAN_ADD": "แบนผู้ใช้",
+    "EVENT_GUILD_BAN_REMOVE": "ปลดแบนผู้ใช้",
+    "EVENT_GUILD_MEMBER_ADD": "ผู้ใช้เข้า",
+    "EVENT_GUILD_MEMBER_REMOVE": "ผู้ใช้ออก",
+    "EVENT_GUILD_ROLE_CREATE": "สร้างบทบาท",
+    "EVENT_GUILD_ROLE_DELETE": "ลบบทบาท",
+    "EVENT_VOICE_CHANNEL_JOIN": "เข้าห้องพูดคุย",
+    "EVENT_VOICE_CHANNEL_LEAVE": "ออกจากห้องพูดคุย",
+    "EVENT_VOICE_CHANNEL_SWITCH": "เปลี่ยนห้องพูดคุย"
+}
