@@ -11,6 +11,7 @@
     "CUDDLE_SELF": "Aqui {source} tem alguns abraços",
     "DANCE_OTHER": "{source} dança com {target}, que casal fofo",
     "DANCE_SELF": "owo {source} de repente começou a dançar",
+    "DESCRIPTION_AWOO": "magens de Momiji / Wan que 'awoo'",
     "DESCRIPTION_BAD": "Imagens de personagens que fizeram algo ruim",
     "DESCRIPTION_BLUSH": "Imagens de personagens envergonhados",
     "DESCRIPTION_CONFUSED": "Garotas de anime confusas em imagens",
@@ -65,5 +66,15 @@
     "POUT_OTHER": "Parece que {source} fez beicinho no {target}, o que você fez?",
     "POUT_SELF": "{source} faz beicinho, eu me pergunto por quê?",
     "SLAP_OTHER": "{source} deu um tapa em {target}... Deve ter sido um verdadeiro babaca",
-    "SLAP_SELF": "Humm {source} está se batendo, o quê?"
+    "SLAP_SELF": "Humm {source} está se batendo, o quê?",
+    "SLEEPY_OTHER": "{target} parece que {source} está com sono, por que não ajudá-los? ouo",
+    "SLEEPY_SELF": "{source} parece estar com sono, por que não vai dormir ouo",
+    "SMUG_SELF": "{source} está parecendo um pouco presunçoso",
+    "STARE_OTHER": "{source} está olhando para {target}, eu me pergunto por que hmmm",
+    "STARE_SELF": "Parece que {source} está olhando para algo, eu me pergunto o que é",
+    "THUMBSUP_OTHER": "Ei, {target}, {source} acha que sua ideia é ótima",
+    "TRIGGERED_OTHER": "{source} é  provocado por causa de {target}, o que você fez?",
+    "WAA_OTHER": "Awww olhe {target}, você deixou {source} triste",
+    "WAA_SELF": "{source} está triste: c",
+    "WEEBSH_FAIL": "Falha ao obter a imagem `{type}` de weeb.sh: <Você deve tentar novamente."
 }
