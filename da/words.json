@@ -35,5 +35,12 @@
     "WORD_VERSION": "Version",
     "WORD_WEBSITE": "Hjemmeside",
     "WORD_HEADS": "Plat",
-    "WORD_TAILS": "Krone"
+    "WORD_TAILS": "Krone",
+    "WORD_ACTIVE": "Aktiv",
+    "WORD_CHANNL": "Kanal",
+    "WORD_DISABLED_EVENTS": "Deaktiverede handlinger",
+    "WORD_NEW_CHANNEL": "Ny kanal",
+    "WORD_OLD_CHANNEL": "Gammel kanal",
+    "WORD_ROLE": "Rolle",
+    "WORD_USER": "Bruger"
 }
