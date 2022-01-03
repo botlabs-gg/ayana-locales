@@ -10,7 +10,7 @@
     "WORD_USERS": "Utilizadores",
     "WORD_CREATED": "Criado",
     "WORD_JOINED": "Juntou-se",
-    "WORD_CANCELED": "Canceledo",
+    "WORD_CANCELED": "Cancelado",
     "WORD_MENTION": "Menção",
     "WORD_ROLES": "Cargos",
     "WORD_CHANNEL": "Canais",
@@ -28,10 +28,10 @@
     "WORD_UNAVAILABLE": "Indisponível",
     "WORD_YES": "Sim",
     "WORD_CONTAINER": "Recipiente",
-    "WORD_DEVELOPERS": "Desenvolvedores",
-    "WORD_HEADS": "Cabeças",
-    "WORD_LIBRARY": "Livraria",
-    "WORD_WEBSITE": "Website",
+    "WORD_DEVELOPERS": "Programadores",
+    "WORD_HEADS": "Cara",
+    "WORD_LIBRARY": "Biblioteca",
+    "WORD_WEBSITE": "Sítio web",
     "WORD_VERSION": "Versão",
     "WORD_ACTIVE": "Ativo",
     "WORD_CHANNL": "Canal",
@@ -41,6 +41,6 @@
     "WORD_ROLE": "Cargo",
     "WORD_SERVERS": "Servidores",
     "WORD_SHARD": "Shard",
-    "WORD_TAILS": "Caudas",
-    "WORD_USER": "Usuário"
+    "WORD_TAILS": "Coroa",
+    "WORD_USER": "Utilizador"
 }

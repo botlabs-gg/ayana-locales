@@ -44,9 +44,13 @@
     "DESCRIPTION_SPONGEBOB": "Bob Esponja zombando de meme; também memes o texto que você dá",
     "DESCRIPTION_SUPPORT": "Mostra o link de convite para o canal de suporte",
     "DESCRIPTION_TAKEROLE": "Dá cargos",
+    "FORTUNE_ERROR": "Ocorreu um erro ao receber o bolinho da sorte. Se precisares de mais ajuda, por favor comunica isto ao nosso servidor de apoio (comando `support` para receber o convite).",
     "F_PAID": "**{username}** prestou seus respeitos.",
     "F_PAIDFOOTER": "{daily} Hoje, {all} tudo",
-    "F_PAIDFOR": "**{username}** pagou seus respeitos por **{type}**",
+    "F_PAIDFOR": "**{username}** prestou homenagem a **{type}**.",
     "F_PAIDSTATS": "**{daily}** respeitos foram pagos hoje. **{all}** o tempo todo.",
+    "INVITE_ALPHA": "Claro :ok_hand:\nPara que eu me junte ao teu servidor, por favor clica no link abaixo:\n\n{invite}\n\nNota: Não dês demasiadas permissões à Ayana Alpha no teu servidor. Poderá ficar instável e não há garantia se ela avariar alguma coisa no teu servidor.",
+    "KICK_TARGETHIGHERROLE": "{target} possui um cargo mais importante do que tu. Não o podes alterar.",
+    "KICK_TARGETHIGHERTHANBOT": "{target} possui um cargo mais importante do que eu. Não o posso alterar.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} texto / {voice} voz"
 }
