@@ -4,5 +4,13 @@
     "BAD_OTHER": "Ora viva {target}, estás a ser castigado por {source} porque te portaste MAL",
     "BAD_SELF": "Tu queres castigar-te a ti próprio {source}? Ok",
     "BLUSH_OTHER": "Oooh olhem para isto, {target} fez {source} corar, é tão fofo",
-    "BLUSH_SELF": "Oooh {source} está corado(a), pergunto-me porquê hehehe"
+    "BLUSH_SELF": "Oooh {source} está corado(a), pergunto-me porquê hehehe",
+    "CONFUSED_OTHER": "Hum {target} confundiu {source}, o que aconteceu?",
+    "CONFUSED_SELF": "Hum, {source} está confuso owo",
+    "CUDDLE_OTHER": "Owwn {source} abraçou {target}",
+    "CUDDLE_SELF": "Aqui {source} tenha alguns abraços",
+    "DANCE_OTHER": "{source} está dançando com {target}, que fofo",
+    "DANCE_SELF": "owo {source} de repente começou a dançar",
+    "DESCRIPTION_BAD": "Imagens de personagens que fizeram algo ruim",
+    "DESCRIPTION_BLUSH": "Imagens de personagens corados"
 }

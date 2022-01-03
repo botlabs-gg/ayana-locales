@@ -14,6 +14,7 @@
     "DESCRIPTION_MUSIC_REMOVE": "Remover faixas da fila",
     "DESCRIPTION_MUSIC_REMOVERANGE": "Remover faixas entre duas posições",
     "DESCRIPTION_MUSIC_REPEAT": "Gerir o modo de repetição",
+    "DESCRIPTION_MUSIC_REWIND": "Rebobine a faixa reproduzida",
     "DESCRIPTION_MUSIC_SEEK": "Vá para a posição na faixa de reprodução",
     "DESCRIPTION_MUSIC_SHUFFLE": "Baralhar a fila",
     "DESCRIPTION_MUSIC_SKIP": "Avançar para a próxima faixa",
