@@ -35,5 +35,12 @@
     "WORD_DEVELOPERS": "개발자",
     "WORD_LIBRARY": "라이브러리",
     "WORD_SERVERS": "서버",
-    "WORD_SHARD": "샤드"
+    "WORD_SHARD": "샤드",
+    "WORD_CHANNL": "채널",
+    "WORD_ACTIVE": "활성화",
+    "WORD_DISABLED_EVENTS": "비활성화된 이벤트",
+    "WORD_ROLE": "역할",
+    "WORD_NEW_CHANNEL": "새 채널",
+    "WORD_OLD_CHANNEL": "이전 채널",
+    "WORD_USER": "유저"
 }
