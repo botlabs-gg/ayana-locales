@@ -49,7 +49,7 @@
     "F_PAID": "**{username}** 已獻上他的敬意。",
     "F_PAIDFOOTER": "本日已致敬 {daily} 次，總共致敬 {all} 次",
     "F_PAIDFOR": "**{username}** 已獻上關於 **{type}** 的敬意。",
-    "F_PAIDSTATS": "**{daily}** 的致敬本日已完成。 **{all}** 隨時都可致敬。",
+    "F_PAIDSTATS": "本日已完成**{daily}**次致敬。從始至今共**{all}**次。",
     "INFO_FOOTER": "*Ayana建立者，想要顯示所有分片的更多訊息的話，請使用 {prefix}shardinfo",
     "INFO_USEFUL_LINKS": "**實用連結**\n[邀請我]({invite}), [最小權限邀請]({inviteMin}), [Ayana狀態]({status}), [支援伺服器]({supportInvite}), [捐贈]({donate}), [Twitter]({twitter}), [Facebook]({facebook})",
     "INVITE_ALPHA": "沒問題 :ok_hand:\n請點擊下列連結讓我加入您的伺服器：\n\n{invite}\n\n備註：不要授予Ayana Alpha太多關於您伺服器的權限。她可能不穩定且我們不會對她的破壞行為負責。",
