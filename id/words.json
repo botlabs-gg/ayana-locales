@@ -35,5 +35,12 @@
     "WORD_LIBRARY": "Perpustakaan",
     "WORD_SERVERS": "Server",
     "WORD_SHARD": "Shard",
-    "WORD_VERSION": "Versi"
+    "WORD_VERSION": "Versi",
+    "WORD_DISABLED_EVENTS": "Acara yang Dinonaktifkan",
+    "WORD_NEW_CHANNEL": "Kanal Baru",
+    "WORD_USER": "Pengguna",
+    "WORD_ACTIVE": "Aktif",
+    "WORD_CHANNL": "Kanal",
+    "WORD_OLD_CHANNEL": "Kanal Lama",
+    "WORD_ROLE": "Peran"
 }
