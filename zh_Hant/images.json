@@ -1,7 +1,7 @@
 {
     "AWOO_OTHER": "{source} 嗷嗚了{target}",
     "AWOO_SELF": "{source} 嗷嗚了",
-    "BAD_OTHER": "嗯...您好 {target} ，因為您做了不好的事情所以你正被 {source} 處罰",
+    "BAD_OTHER": "嗯...您好 {target} ，因為您做了壞壞的事情所以你正被 {source} 處罰",
     "BAD_SELF": "{source} 您想處罰自己嗎？好的",
     "BLUSH_OTHER": "噢看看這個， {target} 讓 {source} 臉紅了，真可愛",
     "BLUSH_SELF": "噢 {source} 臉紅了，到底是為什麼呢嘿嘿嘿",

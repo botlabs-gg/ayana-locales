@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "频道被创建",
+    "EVENT_CHANNEL_DELETE": "频道被删除",
+    "EVENT_GUILD_BAN_ADD": "用户被封锁",
+    "EVENT_GUILD_BAN_REMOVE": "封锁被移除",
+    "EVENT_GUILD_MEMBER_ADD": "用户加入",
+    "EVENT_GUILD_MEMBER_REMOVE": "用户离开",
+    "EVENT_GUILD_ROLE_CREATE": "身份组被创建",
+    "EVENT_GUILD_ROLE_DELETE": "身份组被删除",
+    "EVENT_VOICE_CHANNEL_JOIN": "加入语音频道",
+    "EVENT_VOICE_CHANNEL_LEAVE": "离开语音频道",
+    "EVENT_VOICE_CHANNEL_SWITCH": "切换语音频道"
+}

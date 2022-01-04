@@ -35,5 +35,12 @@
     "WORD_SHARD": "节点",
     "WORD_TAILS": "背面",
     "WORD_WEBSITE": "网站",
-    "WORD_VERSION": "版本"
+    "WORD_VERSION": "版本",
+    "WORD_DISABLED_EVENTS": "已禁用的事件",
+    "WORD_CHANNL": "频道",
+    "WORD_ACTIVE": "有效",
+    "WORD_NEW_CHANNEL": "新频道",
+    "WORD_OLD_CHANNEL": "旧频道",
+    "WORD_ROLE": "身份组",
+    "WORD_USER": "用户"
 }

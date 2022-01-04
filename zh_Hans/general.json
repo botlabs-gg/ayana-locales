@@ -2,8 +2,8 @@
     "AYANA_VERSION": "Ayana版本",
     "BENTOCORD_VERSION": "Bentocord版本",
     "BENTO_VERSION": "Bento版本",
-    "GUILD_LOCALE_UPDATED": "服务器地区已被设置为 {locale}。",
+    "GUILD_LOCALE_UPDATED": "服务器语言已被设置为 {locale}。",
     "LOCALIZATION_FAILURE": "找不到`{key}`的翻译",
     "LOCALIZATION_FORMAT_FAILURE": "翻译解析失败 `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "您的地区已被设置为 {locale}。"
+    "USER_LOCALE_UPDATED": "您的语言已被设置为 {locale}。"
 }

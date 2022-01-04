@@ -37,6 +37,7 @@
     "DESCRIPTION_RANDOM": "Vybere náhodné číslo s podporou vrchního i spodního limitu",
     "DESCRIPTION_ROLE": "Dá, vezme nebo upraví role",
     "DESCRIPTION_ROLEINFO": "Zobrazí informace o roli",
+    "DESCRIPTION_SAY": "Řekni něco za mě",
     "DESCRIPTION_SAYD": "Stejné jako say, ale smažu tvůj příkaz",
     "DESCRIPTION_SERVERINFO": "Zobrazí informace o serveru",
     "DESCRIPTION_SHRUG": "Ukáže obrázek postavy s pokrčenými rameny",
