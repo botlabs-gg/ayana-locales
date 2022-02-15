@@ -2,8 +2,8 @@
     "AYANA_VERSION": "Ayana Versiyonu",
     "BENTOCORD_VERSION": "Bentocord Versiyonu",
     "BENTO_VERSION": "Bento Versiyonu",
-    "GUILD_LOCALE_UPDATED": "Sunucu yerel ayarı {locale} olarak değiştirildi.",
+    "GUILD_LOCALE_UPDATED": "Sunucu dil ayarı {locale} olarak değiştirildi.",
     "LOCALIZATION_FAILURE": "Anahtar `{key}` için bir çeviri bulunamadı",
     "LOCALIZATION_FORMAT_FAILURE": "Çeviriyi formatlamada hata, `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "Yerel ayarınız {locale} olarak değiştirildi."
+    "USER_LOCALE_UPDATED": "Dil ayarınız {locale} olarak değiştirildi."
 }
