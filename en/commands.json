@@ -58,7 +58,7 @@
     "INVITE_TEXT": "Sure thing :ok_hand:\nTo have me join your server please choose one of the following links:\n\nRecommended Permissions: {invite}\nMinimal Permissions: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} possesses a higher role than you. You may not modify them.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possesses a higher role than I do. I can't modify them.",
-    "PICK_DEBUG": "Please provide multiple options in comma separated manner: =pick option1, option2, …",
+    "PICK_DEBUG": "Please provide multiple options in comma separated manner: {prefix}pick option1, option2, …",
     "PICK_LARGE_INPUT": "The input of the option I wanted to pick is too large.",
     "RANDOM_LIMIT_ERROR": "Lower bound cannot be bigger than upper bound.",
     "RANDOM_RESPONSE": "Your random number is {num}.",
