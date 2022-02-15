@@ -5,6 +5,8 @@
     "ACTIONLOG_MYCONFIG": "Hareket günlüğü yapılandırmasını göster",
     "ACTIONLOG_NOCHANNEL": "Herhangi bir kanal belirtilmemiş",
     "ACTIONLOG_NODISABLEDEVENTS": "Devre dışı bırakılan herhangi bir olay yok.",
+    "ACTIONLOG_SUCCESSRESPONSE": "Denetim kaydı ayarlarınız güncellendi.",
+    "ACTIONLOG_VALIDCHANNEL": "Lütfen geçerli bir Metin kanalı belirtin.",
     "AVATAR_DIRECT_LINK": "[Direkt Bağlantı]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option}, {bound} ile kıyasla küçük veya eşit olmalı.",
     "BIGTEXT_OUTPUTTOOLARGE": "Whoops! Üretilen mesajın uzunluğu, 2000 karakterden fazla!",
