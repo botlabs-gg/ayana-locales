@@ -1,6 +1,6 @@
 {
     "ACTIONLOG_ACTIVE": "Aktive et/Devre dışı bırak",
-    "ACTIONLOG_CHANNEL": "Denetim kaydı tutulacak kanal.",
+    "ACTIONLOG_CHANNEL": "Hareket günlüğü tutulacak kanal.",
     "AVATAR_DIRECT_LINK": "[Direkt Bağlantı]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option}, {bound} ile kıyasla küçük veya eşit olmalı.",
     "BIGTEXT_OUTPUTTOOLARGE": "Whoops! Üretilen mesajın uzunluğu, 2000 karakterden fazla!",
