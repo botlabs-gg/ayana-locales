@@ -9,6 +9,8 @@
     "ACTIONLOG_SUCCESSRESPONSE": "Zaktualizowano ustawienia.",
     "ACTIONLOG_VALIDCHANNEL": "Proszę podaj poprawny kanał tekstowy",
     "AVATAR_DIRECT_LINK": "[Link]({link})",
+    "AVATAR_GLOBAL": "[Avatar Globalny]({link})",
+    "AVATAR_SERVER": "[Avatar Serwera]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} musi być numerem mniejszym lub równym {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Whoops! Wiadomość jest większa niż 2000 znaków!",
     "CHANNELINFO_BITRATE": "Prędkość Strumienia Danych",

@@ -1,1 +1,11 @@
-{}
+{
+    "DESCRIPTION_MUSIC": "Ayana Muziekspeler",
+    "DESCRIPTION_MUSIC_BACK": "Teruggaan naar vorig nummer",
+    "DESCRIPTION_MUSIC_DEBUG": "Toon muziek debug informatie",
+    "DESCRIPTION_MUSIC_FASTFORWARD": "Spoel spelend nummer vooruit",
+    "DESCRIPTION_MUSIC_JOIN": "Ga naar een spraakkanaal",
+    "DESCRIPTION_MUSIC_JUMP": "Overslaan naar een bepaald nummer",
+    "DESCRIPTION_MUSIC_LEAVE": "Verlaat kanalen",
+    "DESCRIPTION_MUSIC_PLAY": "Speel de wachtrij",
+    "DESCRIPTION_MUSIC_PROVIDERS": "Toon lijst van ondersteunde providers"
+}

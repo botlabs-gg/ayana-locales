@@ -9,6 +9,8 @@
     "ACTIONLOG_SUCCESSRESPONSE": "활동 로그 설정을 업데이트했어요.",
     "ACTIONLOG_VALIDCHANNEL": "올바른 채팅 채널을 입력해 주세요",
     "AVATAR_DIRECT_LINK": "[다이렉트 링크]({link})",
+    "AVATAR_GLOBAL": "[기본 아바타]({link})",
+    "AVATAR_SERVER": "[서버 아바타]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option}은 숫자여야 해요. <= {bound}",
     "BIGTEXT_OUTPUTTOOLARGE": "우와앗! 출력된 메세지가 2000글자보다 길어요!",
     "CHANNELINFO_BITRATE": "음성 비트레이트",

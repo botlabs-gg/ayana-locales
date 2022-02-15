@@ -49,6 +49,7 @@
     "F_PAIDFOOTER": "{daily} Hoje, {all} tudo",
     "F_PAIDFOR": "**{username}** prestou homenagem a **{type}**.",
     "F_PAIDSTATS": "**{daily}** respeitos foram pagos hoje. **{all}** o tempo todo.",
+    "INFO_FOOTER": "*Criador da Ayana, para ver mais informações sobre todas as shards use {prefix}shardinfo",
     "INVITE_ALPHA": "Claro :ok_hand:\nPara que eu me junte ao teu servidor, por favor clica no link abaixo:\n\n{invite}\n\nNota: Não dês demasiadas permissões à Ayana Alpha no teu servidor. Poderá ficar instável e não há garantia se ela avariar alguma coisa no teu servidor.",
     "KICK_TARGETHIGHERROLE": "{target} possui um cargo mais importante do que tu. Não o podes alterar.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possui um cargo mais importante do que eu. Não o posso alterar.",
