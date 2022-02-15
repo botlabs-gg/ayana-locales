@@ -9,6 +9,8 @@
     "ACTIONLOG_SUCCESSRESPONSE": "อัพเดทการตั่งค่าของActionlog",
     "ACTIONLOG_VALIDCHANNEL": "โปรดระบุช่องข้อความที่ถูกต้อง",
     "AVATAR_DIRECT_LINK": "[ลิงก์]({link})",
+    "AVATAR_GLOBAL": "[อวตาร์หลัก]({link})",
+    "AVATAR_SERVER": "[อวตาร์เซิฟเวอร์]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} ต้องเป็นตัวเลข <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "อุ้ย!!! ข้อความขนาดมากกว่า 2,000 อักษร!",
     "CHANNELINFO_BITRATE": "บิตเรตเสียง",
