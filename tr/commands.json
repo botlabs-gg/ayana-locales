@@ -4,7 +4,7 @@
     "ACTIONLOG_EVENTS": "Belirli bir olay için hareket günlüğünü aç/kapat",
     "ACTIONLOG_MYCONFIG": "Hareket günlüğü yapılandırmasını göster",
     "ACTIONLOG_NOCHANNEL": "Herhangi bir kanal belirtilmemiş",
-    "ACTIONLOG_NODISABLEDEVENTS": "Devre dışı bırakılan aktivite yok.",
+    "ACTIONLOG_NODISABLEDEVENTS": "Devre dışı bırakılan herhangi bir olay yok.",
     "AVATAR_DIRECT_LINK": "[Direkt Bağlantı]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option}, {bound} ile kıyasla küçük veya eşit olmalı.",
     "BIGTEXT_OUTPUTTOOLARGE": "Whoops! Üretilen mesajın uzunluğu, 2000 karakterden fazla!",
