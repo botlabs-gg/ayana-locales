@@ -9,6 +9,8 @@
     "ACTIONLOG_SUCCESSRESPONSE": "已更新您的行為紀錄設定。",
     "ACTIONLOG_VALIDCHANNEL": "請提供一有效的文字頻道",
     "AVATAR_DIRECT_LINK": "[直接連結]({link})",
+    "AVATAR_GLOBAL": "[全域頭像]({link})",
+    "AVATAR_SERVER": "[伺服器頭像]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} 必須為小於 {bound} 的數字。",
     "BIGTEXT_OUTPUTTOOLARGE": "哎呀！輸出的訊息字數超過2000字！",
     "CHANNELINFO_BITRATE": "語音位元率",
