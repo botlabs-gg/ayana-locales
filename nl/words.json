@@ -1,6 +1,6 @@
 {
     "WORD_SERVERS": "Servers",
-    "WORD_TAILS": "Staarten",
+    "WORD_TAILS": "Munt",
     "WORD_COLOR": "Kleur",
     "WORD_CONTAINER": "Container",
     "WORD_CREATED": "Gecreëerd",
@@ -35,5 +35,12 @@
     "WORD_JOINED": "Aangesloten",
     "WORD_MEMBER": "Leden",
     "WORD_MENTIONABLE": "Noemenswaardig",
-    "WORD_OWNER": "Eigenaar"
+    "WORD_OWNER": "Eigenaar",
+    "WORD_ACTIVE": "Actief",
+    "WORD_CHANNL": "Kanaal",
+    "WORD_DISABLED_EVENTS": "Uitgeschakelde Evenementen",
+    "WORD_NEW_CHANNEL": "Nieuw kanaal",
+    "WORD_OLD_CHANNEL": "Oud kanaal",
+    "WORD_ROLE": "Rol",
+    "WORD_USER": "Gebruiker"
 }
