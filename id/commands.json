@@ -9,6 +9,8 @@
     "ACTIONLOG_SUCCESSRESPONSE": "Memperbarui pengaturan catatan tindakan Anda.",
     "ACTIONLOG_VALIDCHANNEL": "Harap berikan Saluran Teks yang valid",
     "AVATAR_DIRECT_LINK": "[Tautan]({link})",
+    "AVATAR_GLOBAL": "[Avatar Global]({link})",
+    "AVATAR_SERVER": "[Avatar Server]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} harus berbentuk angka <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Ups! Hasil pesan lebih besar dari 2000 karakter!",
     "CHANNELINFO_BITRATE": "Kecepatan Bit Suara",
