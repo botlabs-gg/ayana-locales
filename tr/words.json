@@ -40,5 +40,7 @@
     "WORD_NEW_CHANNEL": "Yeni Kanal",
     "WORD_ACTIVE": "Aktif",
     "WORD_OLD_CHANNEL": "Eski Kanal",
-    "WORD_DISABLED_EVENTS": "Devre Dışı Bırakılmış Olaylar"
+    "WORD_DISABLED_EVENTS": "Devre Dışı Bırakılmış Olaylar",
+    "WORD_ROLE": "Rol",
+    "WORD_USER": "Kullanıcı"
 }
