@@ -42,5 +42,8 @@
     "WORD_USERS": "ผู้ใช้",
     "WORD_VERSION": "เวอร์ชั่น",
     "WORD_WEBSITE": "เว็บไซต์",
-    "WORD_YES": "ใช่"
+    "WORD_YES": "ใช่",
+    "WORD_CHANNELS": "ช่อง",
+    "WORD_NONE": "ไม่มี",
+    "WORD_SERVER": "เซิฟเวอร์"
 }
