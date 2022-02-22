@@ -28,6 +28,7 @@
     "MUSIC_JUMPED": "Přeskočeno na `{track}` na pozici **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Odpojeno z kanálů.",
     "MUSIC_NO_MATCHES": "Nebyly nalezeny žádné výsledky",
+    "MUSIC_NO_TRACK_AT_POSITION": "Na této pozici se nenachází žádná skladba.",
     "MUSIC_PAUSED": ":play_pause: Přehrávání pozastaveno.",
     "MUSIC_QUEUE": "Fronta",
     "MUSIC_QUEUED": "Přidáno `{track}` na pozici **{position}**.",
