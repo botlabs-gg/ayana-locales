@@ -42,5 +42,8 @@
     "WORD_ROLE": "역할",
     "WORD_NEW_CHANNEL": "새 채널",
     "WORD_OLD_CHANNEL": "이전 채널",
-    "WORD_USER": "유저"
+    "WORD_USER": "유저",
+    "WORD_CHANNELS": "채널",
+    "WORD_NONE": "없음",
+    "WORD_SERVER": "서버"
 }
