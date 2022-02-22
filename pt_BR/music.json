@@ -28,6 +28,7 @@
     "MUSIC_JUMPED": "Pulou para `{track}` na posição **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Saiu e desconectou os canais.",
     "MUSIC_NO_MATCHES": "Falha ao buscar uma combinação adequada",
+    "MUSIC_NO_TRACK_AT_POSITION": "Não tem uma faixa nesta posição.",
     "MUSIC_PAUSED": ":play_pause: Pausando reprodução.",
     "MUSIC_QUEUE": "Fila de Música",
     "MUSIC_QUEUED": "Adicionado `{track}` na posição **{position}**.",
