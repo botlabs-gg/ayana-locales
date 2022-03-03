@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "伺服器的語言已被設置成 {locale}。",
     "LOCALIZATION_FAILURE": "無法找到有關於 `{key}` 的翻譯",
     "LOCALIZATION_FORMAT_FAILURE": "解析 `{key}` 的翻譯時失敗了：{error}",
-    "USER_LOCALE_UPDATED": "您的語言已被設置成 {locale}。"
+    "USER_LOCALE_UPDATED": "您的語言已被設置成 {locale}。",
+    "VIEW_LOCALE_HEADER": "[當前語言設定]"
 }

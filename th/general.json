@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "เซิฟเวอร์ถูกตั่งเป็น {locale}",
     "LOCALIZATION_FAILURE": "ไม่สามารถแปล `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "ไม่สามารถแปล `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "เซิฟเวอร์ของคุณถูกตั่งเป็น {locale}"
+    "USER_LOCALE_UPDATED": "เซิฟเวอร์ของคุณถูกตั่งเป็น {locale}",
+    "VIEW_LOCALE_HEADER": "[Current Locale Settings]"
 }

@@ -1,6 +1,6 @@
 {
     "WORD_CANCELED": "Cancelado",
-    "WORD_CHANNEL": "Canais",
+    "WORD_CHANNEL": "Canal",
     "WORD_LIBRARY": "Biblioteca",
     "WORD_RAM": "Ram",
     "WORD_WEBSITE": "Website",
@@ -42,5 +42,8 @@
     "WORD_ROLE": "Cargo",
     "WORD_ACTIVE": "Ativo",
     "WORD_NEW_CHANNEL": "Novo Canal",
-    "WORD_USER": "Usuário"
+    "WORD_USER": "Usuário",
+    "WORD_CHANNELS": "Canais",
+    "WORD_NONE": "Nenhum",
+    "WORD_SERVER": "Servidor"
 }

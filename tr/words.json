@@ -42,5 +42,8 @@
     "WORD_OLD_CHANNEL": "Eski Kanal",
     "WORD_DISABLED_EVENTS": "Devre Dışı Bırakılmış Olaylar",
     "WORD_ROLE": "Rol",
-    "WORD_USER": "Kullanıcı"
+    "WORD_USER": "Kullanıcı",
+    "WORD_NONE": "Yok",
+    "WORD_SERVER": "Sunucu",
+    "WORD_CHANNELS": "Kanallar"
 }

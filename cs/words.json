@@ -14,7 +14,7 @@
     "WORD_MENTION": "Zmínka",
     "WORD_ERROR": "Chyba",
     "WORD_YES": "Ano",
-    "WORD_CHANNEL": "Kanály",
+    "WORD_CHANNEL": "Kanál",
     "WORD_COLOR": "Barva",
     "WORD_MANAGED": "Spravováno",
     "WORD_MEMBER": "Členové",
@@ -42,5 +42,8 @@
     "WORD_NEW_CHANNEL": "Nový kanál",
     "WORD_OLD_CHANNEL": "Starý kanál",
     "WORD_ROLE": "Role",
-    "WORD_USER": "Uživatel"
+    "WORD_USER": "Uživatel",
+    "WORD_CHANNELS": "Kanály",
+    "WORD_NONE": "Žádný",
+    "WORD_SERVER": "Server"
 }

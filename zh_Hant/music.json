@@ -28,6 +28,7 @@
     "MUSIC_JUMPED": "跳轉`{track}`上的 **{position}**位置",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: 已離開並解除頻道綁定。",
     "MUSIC_NO_MATCHES": "找不到匹配的項目",
+    "MUSIC_NO_TRACK_AT_POSITION": "該位置沒有曲目。",
     "MUSIC_PAUSED": ":play_pause: 播放暫停。",
     "MUSIC_QUEUE": "音樂佇列",
     "MUSIC_QUEUED": "已加入 `{track}` 至位置 **{position}**。",

@@ -28,6 +28,7 @@
     "MUSIC_JUMPED": "Se ha saltado a `{track}` en la posición **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Me fui y desamarré los canales.",
     "MUSIC_NO_MATCHES": "No pude encontrar ninguna coincidencia coveniente",
+    "MUSIC_NO_TRACK_AT_POSITION": "No hay nada en esa posición.",
     "MUSIC_PAUSED": ":play_pause: Reproducción pausada.",
     "MUSIC_QUEUE": "Cola de Música",
     "MUSIC_QUEUED": "Se añadió `{track}` a la cola, en la posición **{position}**.",

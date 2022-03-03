@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "O idioma do servidor foi definido para {locale}.",
     "LOCALIZATION_FAILURE": "Falha ao encontrar tradução para `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Falha ao formatar tradução `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "Seu idioma foi definido para {locale}."
+    "USER_LOCALE_UPDATED": "Seu idioma foi definido para {locale}.",
+    "VIEW_LOCALE_HEADER": "[Configurações de tradução atuais]"
 }

@@ -42,5 +42,8 @@
     "WORD_NEW_CHANNEL": "新頻道",
     "WORD_OLD_CHANNEL": "舊頻道",
     "WORD_ROLE": "身份組",
-    "WORD_USER": "使用者"
+    "WORD_USER": "使用者",
+    "WORD_CHANNELS": "頻道",
+    "WORD_NONE": "無",
+    "WORD_SERVER": "伺服器"
 }

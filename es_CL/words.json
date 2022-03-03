@@ -1,6 +1,6 @@
 {
     "WORD_CANCELED": "Cancelado",
-    "WORD_CHANNEL": "Canales",
+    "WORD_CHANNEL": "Canal",
     "WORD_COLOR": "Color",
     "WORD_CONTAINER": "Contenedor",
     "WORD_CREATED": "Creado",
@@ -42,5 +42,8 @@
     "WORD_USERS": "Usuarios",
     "WORD_VERSION": "Versión",
     "WORD_WEBSITE": "Sitio Web",
-    "WORD_YES": "Si"
+    "WORD_YES": "Si",
+    "WORD_CHANNELS": "Canales",
+    "WORD_NONE": "Nada",
+    "WORD_SERVER": "Servidor"
 }
