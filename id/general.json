@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "Bahasa lokal server telah diubah menjadi {locale}.",
     "LOCALIZATION_FAILURE": "Gagal menemukan terjemahan untuk `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Gagal memformat terjemahan `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "Bahasa lokal Anda telah diubah menjadi {locale}."
+    "USER_LOCALE_UPDATED": "Bahasa lokal Anda telah diubah menjadi {locale}.",
+    "VIEW_LOCALE_HEADER": "[Pengaturan Lokal Saat Ini]"
 }

@@ -42,5 +42,8 @@
     "WORD_ACTIVE": "Aktif",
     "WORD_CHANNL": "Kanal",
     "WORD_OLD_CHANNEL": "Kanal Lama",
-    "WORD_ROLE": "Peran"
+    "WORD_ROLE": "Peran",
+    "WORD_CHANNELS": "Kanal",
+    "WORD_NONE": "Tidak ada",
+    "WORD_SERVER": "Server"
 }
