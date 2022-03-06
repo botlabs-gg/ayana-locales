@@ -4,6 +4,8 @@
     "BENTOCORD_COMMAND_ERROR": "Hubo un error procesando el comando: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Escribe `<` o `>` para cambiar páginas, `x` para cerrar, o `p[número]` para saltar a la página (ej: `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Página {page}/{total}",
+    "BENTOCORD_PERMISSION_DENIED": "El permiso `{permission}` se ha denegado en el nivel `{where}`.",
+    "BENTOCORD_PERMISSION_DENIED_DEFAULT": "El permiso `{permission}` es negado por defecto. Por favor contacta a un administrador del servidor para obtener este permiso.",
     "BENTOCORD_PING": "¡Pong!",
     "BENTOCORD_PING_COUNT": "¡Pong! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "El prefijo actual es `{prefix}`.",
