@@ -28,7 +28,7 @@
     "WORD_WEBSITE": "Website",
     "WORD_YES": "Ja",
     "WORD_CANCELED": "Geannuleerd",
-    "WORD_CHANNEL": "Kanalen",
+    "WORD_CHANNEL": "Kanaal",
     "WORD_DEVELOPERS": "Ontwikkelaars",
     "WORD_HEADS": "Kop",
     "WORD_HOSTNAME": "Host naam",
@@ -42,5 +42,8 @@
     "WORD_NEW_CHANNEL": "Nieuw kanaal",
     "WORD_OLD_CHANNEL": "Oud kanaal",
     "WORD_ROLE": "Rol",
-    "WORD_USER": "Gebruiker"
+    "WORD_USER": "Gebruiker",
+    "WORD_CHANNELS": "Kanalen",
+    "WORD_NONE": "Geen",
+    "WORD_SERVER": "Server"
 }
