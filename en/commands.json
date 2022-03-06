@@ -42,7 +42,7 @@
     "DESCRIPTION_ALIASES_RENAME": "Rename an existing alias",
     "DESCRIPTION_ALIASES_SHOW": "Show value of a specific alias",
     "DESCRIPTION_ALIASES_UPDATE": "Update command for an alias",
-    "DESCRIPTION_ALIASES_USERARGS": "Set flag true or false in order to include user arguements as part of command",
+    "DESCRIPTION_ALIASES_USERARGS": "Set flag true or false in order to include user arguments as part of command",
     "DESCRIPTION_AVATAR": "Display avatar of a user",
     "DESCRIPTION_BAN": "Ban users",
     "DESCRIPTION_BIGTEXT": "Generates text with regional indicators",

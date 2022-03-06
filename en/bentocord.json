@@ -5,7 +5,7 @@
     "BENTOCORD_PAGINATION_NAVIGATION": "Type `<` or `>` to switch pages, `x` to close, or `p[number]` to jump to a page (ex. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Page {page}/{total}",
     "BENTOCORD_PERMISSION_DENIED": "Permission `{permission}` has been denied on the `{where}` level.",
-    "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Permission `{permission}` is denined by default. Please contact a server administrator to grant you this permission.",
+    "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Permission `{permission}` is denied by default. Please contact a server administrator to grant you this permission.",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "Current prefix is `{prefix}`.",
