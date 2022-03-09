@@ -4,6 +4,8 @@
     "BENTOCORD_COMMAND_ERROR": "Nastala chyba při zpracování příkazu: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Napiš `<` nebo `>` pro přepnutí stránky, `x` pro ukončení stránky, nebo `p[číslo]` pro skok na stranu (např. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Strana {page} z {total}",
+    "BENTOCORD_PERMISSION_DENIED": "Oprávnění `{permission}` bylo zakázáno na úrovni `{where}`.",
+    "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Oprávnění `{permission}` je ve výchozím nastavení zakázáno. Prosím, kontaktuj administrátora serveru, aby ti dal toto oprávnění.",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number} s {ms, number} ms`",
     "BENTOCORD_PREFIX": "Aktuální prefix je `{prefix}`.",
