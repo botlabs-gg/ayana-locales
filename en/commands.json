@@ -12,7 +12,7 @@
     "ALIASES_ALREADY_USED": "You cannot add an alias for an alias.",
     "ALIASES_AYANA_COMMAND": "The alias you tried to set is already used by Ayana.",
     "ALIASES_EXISTS": "An alias already exists with name `{name}`. Please choose some different name for your alias.",
-    "ALIASES_LIMIT_REACHED": "The alias limit per guild is {limit}. The limit is reached for this guild.",
+    "ALIASES_LIMIT_REACHED": "Alias limit of `{limit}` has been reached. Please remove unused alises to create more.",
     "ALIASES_MULTI_WORD_ERROR": "Alias should be a one word. Spaces are not allowed in alias name.",
     "ALIASES_NOT_FOUND": "No alias found with name `{name}`",
     "ALIASES_NO_ALIASES": "There are no aliases for this server",
