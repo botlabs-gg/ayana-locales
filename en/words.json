@@ -1,11 +1,13 @@
 {
     "WORD_ACTIVE": "Active",
+    "WORD_ALLOWED": "Allowed",
     "WORD_CANCELED": "Canceled",
     "WORD_CHANNEL": "Channel",
     "WORD_CHANNELS": "Channels",
     "WORD_COLOR": "Color",
     "WORD_CONTAINER": "Container",
     "WORD_CREATED": "Created",
+    "WORD_DENIED": "Denied",
     "WORD_DEVELOPERS": "Developers",
     "WORD_DISABLED_EVENTS": "Disabled Events",
     "WORD_ERROR": "Error",
