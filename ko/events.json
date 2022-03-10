@@ -1,13 +1,13 @@
 {
-    "EVENT_CHANNEL_CREATE": "채널_생성됨",
-    "EVENT_CHANNEL_DELETE": "채널_삭제됨",
-    "EVENT_GUILD_BAN_ADD": "유저_차단됨",
-    "EVENT_GUILD_BAN_REMOVE": "차단_해제됨",
-    "EVENT_GUILD_MEMBER_ADD": "유저_참가함",
-    "EVENT_GUILD_MEMBER_REMOVE": "유저_떠남",
-    "EVENT_GUILD_ROLE_CREATE": "역할_생성됨",
-    "EVENT_GUILD_ROLE_DELETE": "역할_삭제됨",
-    "EVENT_VOICE_CHANNEL_JOIN": "음성_채널_참가",
-    "EVENT_VOICE_CHANNEL_LEAVE": "음성_채널_떠남",
-    "EVENT_VOICE_CHANNEL_SWITCH": "음성_채널_변경"
+    "EVENT_CHANNEL_CREATE": "채널 생성됨",
+    "EVENT_CHANNEL_DELETE": "채널 삭제됨",
+    "EVENT_GUILD_BAN_ADD": "유저 차단됨",
+    "EVENT_GUILD_BAN_REMOVE": "차단 해제됨",
+    "EVENT_GUILD_MEMBER_ADD": "유저 참가함",
+    "EVENT_GUILD_MEMBER_REMOVE": "유저 떠남",
+    "EVENT_GUILD_ROLE_CREATE": "역할 생성됨",
+    "EVENT_GUILD_ROLE_DELETE": "역할 삭제됨",
+    "EVENT_VOICE_CHANNEL_JOIN": "음성 채널 참가",
+    "EVENT_VOICE_CHANNEL_LEAVE": "음성 채널 떠남",
+    "EVENT_VOICE_CHANNEL_SWITCH": "음성 채널 이동"
 }
