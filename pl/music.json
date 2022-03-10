@@ -28,6 +28,7 @@
     "MUSIC_JUMPED": "Przewinięto do `{track}` na pozycji **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Opuszczono oraz rozłączono kanały.",
     "MUSIC_NO_MATCHES": "Nie udało się znaleźć pasujących wyników",
+    "MUSIC_NO_TRACK_AT_POSITION": "Nie ma utworu na tej pozycji.",
     "MUSIC_PAUSED": ":play_pause: Zatrzymano odtwarzanie.",
     "MUSIC_QUEUE": "Kolejka",
     "MUSIC_QUEUED": "Dodano `{track}` na pozycję **{position}**.",
