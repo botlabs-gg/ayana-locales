@@ -4,6 +4,8 @@
     "BENTOCORD_COMMAND_ERROR": "Es gab einen Fehler beim Verarbeiten des Befehls: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Gebe `<` oder `>` ein um die Seite zu wechseln, `x` zum Schließen, oder `p[number]` um zu einer Seite zu springen (z.B. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Seite {page}/{total}",
+    "BENTOCORD_PERMISSION_DENIED": "Das Recht `{permission}` wurde auf der Ebene `{where}` verweigert.",
+    "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Das Recht `{permission}` ist standardmäßig verweigert. Bitte kontaktiere einen Administrator dieses Servers um das Recht zu erhalten.",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "Das aktuelle Präfix ist `{prefix}`.",

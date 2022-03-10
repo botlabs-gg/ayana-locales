@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "Die Serversprache wurde auf {locale} gesetzt.",
     "LOCALIZATION_FAILURE": "Die Übersetzung für `{key}` konnte nicht gefunden werden",
     "LOCALIZATION_FORMAT_FAILURE": "Die Übersetzung mit dem Schlüssel `{key}` konnte nicht formatiert werden: {error}",
-    "USER_LOCALE_UPDATED": "Deine Sprache wurde auf {locale} gesetzt."
+    "USER_LOCALE_UPDATED": "Deine Sprache wurde auf {locale} gesetzt.",
+    "VIEW_LOCALE_HEADER": "[Einstellungen für aktuelle Sprache]"
 }
