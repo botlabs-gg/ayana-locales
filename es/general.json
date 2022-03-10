@@ -5,5 +5,6 @@
     "GUILD_LOCALE_UPDATED": "Se ha elegido {locale} como configuración regional del servidor.",
     "LOCALIZATION_FAILURE": "No se ha podido encontrar la traducción de `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Fallo en el formato de la traducción `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "Ha elegido {locale} como su configuración regional."
+    "USER_LOCALE_UPDATED": "Ha elegido {locale} como su configuración regional.",
+    "VIEW_LOCALE_HEADER": "[Configuración actual de la localidad]"
 }
