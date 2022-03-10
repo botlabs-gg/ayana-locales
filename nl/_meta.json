@@ -1,4 +1,7 @@
 {
+    "discord": "nl",
+    "enabled": true,
     "english": "Dutch",
+    "imaginary": false,
     "native": "Nederlands"
 }

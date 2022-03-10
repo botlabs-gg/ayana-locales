@@ -1,4 +1,7 @@
 {
+    "discord": "th",
+    "enabled": true,
     "english": "Thai",
+    "imaginary": false,
     "native": "ไทย"
 }

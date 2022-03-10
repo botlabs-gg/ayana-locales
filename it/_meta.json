@@ -1,4 +1,7 @@
 {
+    "discord": "it",
+    "enabled": true,
     "english": "Italian",
+    "imaginary": false,
     "native": "italiano"
 }

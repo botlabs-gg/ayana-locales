@@ -1,4 +1,7 @@
 {
+    "discord": null,
+    "enabled": true,
     "english": "Tagalog",
+    "imaginary": false,
     "native": "Wikang Tagalog"
 }
