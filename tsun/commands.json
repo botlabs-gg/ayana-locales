@@ -1,1 +1,27 @@
-{}
+{
+    "DESCRIPTION_ACTIONLOG": "Records guild changes in a specific channel",
+    "DESCRIPTION_AFK": "Let people know you're AFK when they mention you! (⁀ ᗢ ⁀)",
+    "DESCRIPTION_ALIASES": "Manage command aliases",
+    "DESCRIPTION_ALIASES_ADD": "Add alias",
+    "DESCRIPTION_ALIASES_EXECUTE": "Run an alias!",
+    "DESCRIPTION_ALIASES_LIST": "List all aliases! (⁀ ᗢ ⁀)",
+    "DESCRIPTION_ALIASES_REMOVE": "Remove an alias...",
+    "DESCRIPTION_ALIASES_RENAME": "Hmm, an alias needs to be renamed, use this to rename an existing alias",
+    "DESCRIPTION_ALIASES_SHOW": "Show the value of a alias that you prefer...",
+    "DESCRIPTION_ALIASES_UPDATE": "Need to update an alias? Use this!",
+    "DESCRIPTION_AVATAR": "Display a beautiful user avatar! (*≧ω≦)",
+    "DESCRIPTION_BAN": "Did someone do something wrong? Ban users (>_<)",
+    "DESCRIPTION_BIGTEXTD": "Same as bigtext command, but I remove your command ( ^-^)_",
+    "DESCRIPTION_CHANNELINFO": "Want to know the information of a channel? Use this!",
+    "DESCRIPTION_CLEAN": "I delete my messages from the last 100 messages (⁀ ᗢ ⁀)",
+    "DESCRIPTION_F": "Press F to pay respects... ( ≧Д≦)",
+    "DESCRIPTION_FLIPCOIN": "Flip a coin!",
+    "DESCRIPTION_FORTUNE": "Can you break that Fortune Cookie for me? (*≧m≦*)",
+    "DESCRIPTION_GIVEROLE": "Give roles to a person",
+    "DESCRIPTION_INFO": "See more information about me!",
+    "DESCRIPTION_INVITE": "View information related to an invitation",
+    "DESCRIPTION_KICK": "Kick someone out!",
+    "DESCRIPTION_LENNY": "View lenny's image",
+    "DESCRIPTION_LENNYD": "Same as lenny command, but I remove your command ( ^-^)_",
+    "DESCRIPTION_MODIFYROLE": "Changes a role, but I never change!"
+}

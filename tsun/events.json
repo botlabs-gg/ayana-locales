@@ -1,1 +1,10 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "The channel has been created!",
+    "EVENT_CHANNEL_DELETE": "The channel has been deleted!",
+    "EVENT_GUILD_BAN_ADD": "The user has been banned!",
+    "EVENT_GUILD_BAN_REMOVE": "User has been unbanned!",
+    "EVENT_GUILD_MEMBER_ADD": "A user joined",
+    "EVENT_GUILD_MEMBER_REMOVE": "A user left",
+    "EVENT_GUILD_ROLE_CREATE": "The role has been created!",
+    "EVENT_GUILD_ROLE_DELETE": "The role has been deleted!"
+}
