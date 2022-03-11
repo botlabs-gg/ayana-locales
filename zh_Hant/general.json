@@ -2,6 +2,8 @@
     "AYANA_VERSION": "Ayana版本",
     "BENTOCORD_VERSION": "Bentocord版本",
     "BENTO_VERSION": "Bento版本",
+    "GATEWAY_FAILURE": "無法連接至閘道。請稍後再嘗試。",
+    "GENERAL_ERROR": "發生錯誤。如果你需要更多協助，請至我們的支援伺服器回報此問題（使用 `support` 命令來取得邀請連結 ）。\n```{error}```",
     "GUILD_LOCALE_UPDATED": "伺服器的語言已被設置成 {locale}。",
     "LOCALIZATION_FAILURE": "無法找到有關於 `{key}` 的翻譯",
     "LOCALIZATION_FORMAT_FAILURE": "解析 `{key}` 的翻譯時失敗了：{error}",

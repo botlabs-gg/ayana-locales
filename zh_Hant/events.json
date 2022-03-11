@@ -1,13 +1,13 @@
 {
-    "EVENT_CHANNEL_CREATE": "頻道_已建立",
-    "EVENT_CHANNEL_DELETE": "頻道_已刪除",
-    "EVENT_GUILD_BAN_ADD": "使用者_已停權",
-    "EVENT_GUILD_BAN_REMOVE": "停權_已移除",
-    "EVENT_GUILD_MEMBER_ADD": "使用者_加入",
-    "EVENT_GUILD_MEMBER_REMOVE": "使用者_離開",
-    "EVENT_GUILD_ROLE_CREATE": "身份組_已建立",
-    "EVENT_GUILD_ROLE_DELETE": "身份組_已刪除",
-    "EVENT_VOICE_CHANNEL_JOIN": "語音_頻道_加入",
-    "EVENT_VOICE_CHANNEL_LEAVE": "語音_頻道_離開",
-    "EVENT_VOICE_CHANNEL_SWITCH": "語音_頻道_切換"
+    "EVENT_CHANNEL_CREATE": "已建立頻道",
+    "EVENT_CHANNEL_DELETE": "已刪除頻道",
+    "EVENT_GUILD_BAN_ADD": "已對該使用者停權",
+    "EVENT_GUILD_BAN_REMOVE": "已對該使用者解除停權",
+    "EVENT_GUILD_MEMBER_ADD": "成員加入",
+    "EVENT_GUILD_MEMBER_REMOVE": "成員離開",
+    "EVENT_GUILD_ROLE_CREATE": "身份組已被建立",
+    "EVENT_GUILD_ROLE_DELETE": "身份組已被刪除",
+    "EVENT_VOICE_CHANNEL_JOIN": "加入語音頻道",
+    "EVENT_VOICE_CHANNEL_LEAVE": "離開語音頻道",
+    "EVENT_VOICE_CHANNEL_SWITCH": "切換語音頻道"
 }
