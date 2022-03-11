@@ -2,6 +2,8 @@
     "AYANA_VERSION": "Versión de Ayana",
     "BENTOCORD_VERSION": "Versión de Bentocord",
     "BENTO_VERSION": "Versión de Bento",
+    "GATEWAY_FAILURE": "No se ha podido contactar con el portal. Por favor, inténtalo de nuevo más tarde.",
+    "GENERAL_ERROR": "Se ha producido un error. Si necesita más ayuda, comuníquelo a nuestro servidor de soporte (comando `support` para obtener la invitación).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Se ha elegido {locale} como configuración regional del servidor.",
     "LOCALIZATION_FAILURE": "No se ha podido encontrar la traducción de `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Fallo en el formato de la traducción `{key}`: {error}",

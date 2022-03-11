@@ -1,5 +1,9 @@
 {
     "DESCRIPTION_ACTIONLOG": "Registra las acciones del gremio en un canal específico especificado",
+    "DESCRIPTION_AFK": "Hazle saber a la gente que estás AFK cuando te mencionen",
+    "DESCRIPTION_ALIASES": "Gestionar los alias de comandos",
+    "DESCRIPTION_ALIASES_ADD": "Añadir alias",
+    "DESCRIPTION_ALIASES_EXECUTE": "Ejecuta un alias",
     "DESCRIPTION_AVATAR": "Mostrar avatar de un usuario",
     "DESCRIPTION_BAN": "Usuarios baneados",
     "DESCRIPTION_BIGTEXT": "Genera un texto con indicadores regionales",
