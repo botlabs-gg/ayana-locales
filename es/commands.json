@@ -1,4 +1,9 @@
 {
+    "COMMAND_AVATAR": "Avatar",
+    "COMMAND_AWOO": "Awoo",
+    "COMMAND_BAD": "malo",
+    "COMMAND_BAN": "baneo",
+    "COMMAND_CLEAN": "limpiar",
     "DESCRIPTION_ACTIONLOG": "Registra las acciones del gremio en un canal específico especificado",
     "DESCRIPTION_AFK": "Hazle saber a la gente que estás AFK cuando te mencionen",
     "DESCRIPTION_ALIASES": "Gestionar los alias de comandos",

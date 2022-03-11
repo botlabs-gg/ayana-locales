@@ -8,6 +8,7 @@
     "ACTIONLOG_NODISABLEDEVENTS": "No hay eventos para desactivar.",
     "ACTIONLOG_SUCCESSRESPONSE": "Actualiza la configuración del registro de acciones.",
     "ACTIONLOG_VALIDCHANNEL": "Indica un canal de texto válido",
+    "AFK_AFKSINCE": "AFK desde",
     "ALIASES_ADD_EXECUTED": "Se ha añadido el alias `{name}` para `{value}`.",
     "ALIASES_ALREADY_USED": "No se puede añadir un alias para un alias.",
     "ALIASES_AYANA_COMMAND": "El alias que has intentado establecer ya está siendo utilizado por Ayana.",
