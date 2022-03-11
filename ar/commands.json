@@ -1,12 +1,4 @@
 {
-    "AVATAR_DIRECT_LINK": "[رابط مباشر]({link})",
-    "BIGTEXT_MUSTBENUMBERSMALLER": "{option} يجب أن يكون رقم <= {bound}.",
-    "BIGTEXT_OUTPUTTOOLARGE": "أوه لا! الرسالة الخارجة أكبر من 2000 حرف!",
-    "CHANNELINFO_BITRATE": "معدل بت الصوت",
-    "CHANNELINFO_CHANNEL_TYPE": "نوع القناة",
-    "CHANNELINFO_CONNECTED": "المستخدمين المتصلين",
-    "CHANNELINFO_TEXT": "نص",
-    "CHANNELINFO_VOICE": "صوت",
     "DESCRIPTION_AVATAR": "عرض صورة المستخدم",
     "DESCRIPTION_BAN": "حظر المستخدمين",
     "DESCRIPTION_BIGTEXTD": "مثل النص الكبير، وايضا اقوم بإزالة الأمر الخاص بك",
