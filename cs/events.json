@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "Vytvoření kanálu",
+    "EVENT_CHANNEL_DELETE": "Smazání kanálu",
+    "EVENT_GUILD_BAN_ADD": "Zabanování uživatele",
+    "EVENT_GUILD_BAN_REMOVE": "Odbanování uživatele",
+    "EVENT_GUILD_MEMBER_ADD": "Příchod člena",
+    "EVENT_GUILD_MEMBER_REMOVE": "Odchod člena",
+    "EVENT_GUILD_ROLE_CREATE": "Vytvoření role",
+    "EVENT_GUILD_ROLE_DELETE": "Smazání role",
+    "EVENT_VOICE_CHANNEL_JOIN": "Příchod do hlasového kanálu",
+    "EVENT_VOICE_CHANNEL_LEAVE": "Odchod z hlasového kanálu",
+    "EVENT_VOICE_CHANNEL_SWITCH": "Přechod mezi hlasovými kanály"
+}
