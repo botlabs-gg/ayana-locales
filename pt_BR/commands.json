@@ -1,4 +1,7 @@
 {
+    "COMMAND_AVATAR": "icon",
+    "COMMAND_AWOO": "awoo",
+    "COMMAND_BAD": "mal",
     "DESCRIPTION_ACTIONLOG": "Registra as ações do servidor em um canal especificado",
     "DESCRIPTION_AFK": "Deixe as pessoas saberem que você está AFK quando mencionarem você",
     "DESCRIPTION_ALIASES": "Gerenciar pseudônimos de comandos",

@@ -1,4 +1,12 @@
 {
+    "COMMAND_AVATAR": "avatar",
+    "COMMAND_AWOO": "awoo",
+    "COMMAND_BAD": "bad",
+    "COMMAND_BAN": "ban",
+    "COMMAND_BIGTEXT": "bigtext",
+    "COMMAND_BIGTEXTD": "bigtextd",
+    "COMMAND_BLUSH": "blush",
+    "COMMAND_CHANNELINFO": "channelinfo",
     "DESCRIPTION_ACTIONLOG": "Records guild changes in a specific channel",
     "DESCRIPTION_AFK": "Let people know you're AFK when they mention you! (⁀ ᗢ ⁀)",
     "DESCRIPTION_ALIASES": "Manage command aliases",

@@ -1,1 +1,15 @@
-{}
+{
+    "ACTIONLOG_ACTIVE": "Enable or Disable",
+    "ACTIONLOG_CHANNEL": "Channel for logging actions on the server (^ – ^) _",
+    "ACTIONLOG_CONFIG_TITLE": "ActionLog settings",
+    "ACTIONLOG_EVENTS": "Enable or Disable log for a specific event (•ิ_•ิ)",
+    "ACTIONLOG_MYCONFIG": "See actionlog settings!",
+    "ACTIONLOG_NOCHANNEL": "Hmm, you didn't specify a channel...",
+    "ACTIONLOG_NODISABLEDEVENTS": "No disabled events (⁀ ᗢ ⁀)",
+    "ACTIONLOG_SUCCESSRESPONSE": "I've updated your stock registry settings",
+    "ACTIONLOG_VALIDCHANNEL": "You have not provided a valid text channel (*≧m≦*)",
+    "AFK_AFKSINCE": "AFK time since",
+    "AFK_MENTIONMESSAGE": "Stop! User {user} is AFK (*≧m≦*)",
+    "AFK_MESSAGETOOLARGE": "You have a very large AFK message, it cannot be longer than 1024 characters!",
+    "AFK_NOLONGERAFK": "You came back! You are no longer AFK"
+}
