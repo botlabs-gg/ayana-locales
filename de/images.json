@@ -1,1 +1,6 @@
-{}
+{
+    "AWOO_OTHER": "{source} awoot {target} an",
+    "AWOO_SELF": "{source} awoot",
+    "BAD_OTHER": "Na Hallo {target}. Du wirst von {source} bestraft, weil du BÖSE warst",
+    "BAD_SELF": "Du möchtest dich selbst bestrafen {source}? Ok"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "Kanal erstellt",
+    "EVENT_CHANNEL_DELETE": "Kanal gelöscht",
+    "EVENT_GUILD_BAN_ADD": "Nutzer gebannt",
+    "EVENT_GUILD_BAN_REMOVE": "Nutzer entbannt",
+    "EVENT_GUILD_MEMBER_ADD": "Mitglied beigetreten",
+    "EVENT_GUILD_MEMBER_REMOVE": "Mitglied verlassen",
+    "EVENT_GUILD_ROLE_CREATE": "Rolle erstellt",
+    "EVENT_GUILD_ROLE_DELETE": "Rolle gelöscht",
+    "EVENT_VOICE_CHANNEL_JOIN": "Sprachkanal betreten",
+    "EVENT_VOICE_CHANNEL_LEAVE": "Sprachkanal verlassen",
+    "EVENT_VOICE_CHANNEL_SWITCH": "Sprachkanal gewechselt"
+}

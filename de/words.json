@@ -2,7 +2,7 @@
     "WORD_ACTIVE": "Aktiv",
     "WORD_ALLOWED": "Erlaubt",
     "WORD_CANCELED": "Abgebrochen",
-    "WORD_CHANNEL": "Kanäle",
+    "WORD_CHANNEL": "Kanal",
     "WORD_CHANNELS": "Kanäle",
     "WORD_COLOR": "Farbe",
     "WORD_CONTAINER": "Container",
@@ -45,6 +45,6 @@
     "WORD_USER": "Nutzer",
     "WORD_USERS": "Nutzer",
     "WORD_VERSION": "Version",
-    "WORD_WEBSITE": "Webseite",
+    "WORD_WEBSITE": "Website",
     "WORD_YES": "Ja"
 }
