@@ -2,8 +2,11 @@
     "AYANA_VERSION": "Ayanaバージョン",
     "BENTOCORD_VERSION": "Bentocordバージョン",
     "BENTO_VERSION": "Bentoバージョン",
+    "GATEWAY_FAILURE": "ゲートウェイへの接続に失敗しました。 もう一度お試しください。",
+    "GENERAL_ERROR": "エラーが発生しました。さらなるサポートが必要な場合はサポートサーバーにて報告してください (`support` で招待URLを取得出来ます)。\n```{error}```",
     "GUILD_LOCALE_UPDATED": "サーバーの言語を{locale}に設定しました。",
     "LOCALIZATION_FAILURE": "`{key}`の翻訳が見つかりませんでした",
     "LOCALIZATION_FORMAT_FAILURE": "翻訳のフォーマットに失敗しました `{key}`:{error}",
-    "USER_LOCALE_UPDATED": "あなたの使用言語を{locale}に設定しました。"
+    "USER_LOCALE_UPDATED": "あなたの使用言語を{locale}に設定しました。",
+    "VIEW_LOCALE_HEADER": "[現在の言語設定]"
 }

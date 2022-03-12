@@ -1,1 +1,14 @@
-{}
+{
+    "COMMAND_AVATAR": "avatar",
+    "COMMAND_AWOO": "awoo",
+    "COMMAND_BAD": "bad",
+    "COMMAND_BAN": "ban",
+    "COMMAND_BIGTEXT": "bigtext",
+    "COMMAND_BIGTEXTD": "bigtextd",
+    "COMMAND_BLUSH": "blush",
+    "COMMAND_CHANNELINFO": "channelinfo",
+    "COMMAND_CLAGWIMOTH": "clagwimoth",
+    "COMMAND_CLEAN": "clean",
+    "COMMAND_CONFUSED": "confused",
+    "COMMAND_CRY": "cry"
+}

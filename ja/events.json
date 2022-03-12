@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "チャンネル作成",
+    "EVENT_CHANNEL_DELETE": "チャンネル削除",
+    "EVENT_GUILD_BAN_ADD": "ユーザーBAN",
+    "EVENT_GUILD_BAN_REMOVE": "ユーザーBAN解除",
+    "EVENT_GUILD_MEMBER_ADD": "メンバー参加",
+    "EVENT_GUILD_MEMBER_REMOVE": "メンバー退出",
+    "EVENT_GUILD_ROLE_CREATE": "役職作成",
+    "EVENT_GUILD_ROLE_DELETE": "役職削除",
+    "EVENT_VOICE_CHANNEL_JOIN": "ボイスチャンネル参加",
+    "EVENT_VOICE_CHANNEL_LEAVE": "ボイスチャンネル退出",
+    "EVENT_VOICE_CHANNEL_SWITCH": "ボイスチャンネル切替"
+}
