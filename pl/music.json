@@ -4,7 +4,7 @@
     "COMMAND_MUSIC_JOIN": "dołącz",
     "COMMAND_MUSIC_JUMP": "przeskocz",
     "COMMAND_MUSIC_LEAVE": "opuść",
-    "COMMAND_MUSIC_PAUSE": "zatrzymaj",
+    "COMMAND_MUSIC_PAUSE": "pauza",
     "COMMAND_MUSIC_PLAY": "odtwórz",
     "COMMAND_MUSIC_PROVIDERS": "dostawcy",
     "COMMAND_MUSIC_PURGE": "wyczyść",
