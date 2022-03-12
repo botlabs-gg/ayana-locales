@@ -2,8 +2,11 @@
     "AYANA_VERSION": "Ayana Versiyonu",
     "BENTOCORD_VERSION": "Bentocord Versiyonu",
     "BENTO_VERSION": "Bento Versiyonu",
+    "GATEWAY_FAILURE": "Geçite ulaşılamadı. Lütfen daha sonra tekrar deneyiniz.",
+    "GENERAL_ERROR": "Bir hata oluştu. Eğer daha fazla desteğe ihtiyacınız varsa, lütfen destek sunucumuza uğrayıp hatanızı bildiriniz (destek sunucusu daveti için `support` komutunu kullanabilirsiniz.)\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Sunucu dil ayarı {locale} olarak değiştirildi.",
     "LOCALIZATION_FAILURE": "Anahtar `{key}` için bir çeviri bulunamadı",
     "LOCALIZATION_FORMAT_FAILURE": "Çeviriyi formatlamada hata, `{key}`: {error}",
-    "USER_LOCALE_UPDATED": "Dil ayarınız {locale} olarak değiştirildi."
+    "USER_LOCALE_UPDATED": "Dil ayarınız {locale} olarak değiştirildi.",
+    "VIEW_LOCALE_HEADER": "[Mevcut Dil Ayarları]"
 }
