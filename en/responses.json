@@ -52,6 +52,7 @@
     "KICK_TARGETHIGHERROLE": "{target} possesses a higher role than you. You may not modify them.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possesses a higher role than I do. I can't modify them.",
     "PERMISSIONS_ALL_GRANT_CONFIRM": "Permissions starting with `all` can be **very dangerous** to grant. Please confirm you wish to grant `{permission}` [y/n]?",
+    "MODLOG_FAILURE": "Modlog failure.",
     "PERMISSIONS_GRANT_TARGET": "Permission `{permission}` was granted for `{target}`.",
     "PERMISSIONS_GRANT_TARGET_CHANNEL": "Permission `{permission}` granted for `{target}` on `{channel}`.",
     "PERMISSIONS_INVALID_PERMISSION": "`{permission}` is not a valid permission. Please see the `permissions list` command for a list of valid permissions.",
