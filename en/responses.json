@@ -51,7 +51,7 @@
     "INVITE_TEXT": "Sure thing :ok_hand:\nTo have me join your server please choose one of the following links:\n\nRecommended Permissions: {invite}\nMinimal Permissions: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} possesses a higher role than you. You may not modify them.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possesses a higher role than I do. I can't modify them.",
-    "PERMISSIONS_ALL_GRANT_CONFIRM": "Permissions containing `all` can be **very dangerous** to grant. Please confirm you wish to grant `{permission}`[y/n]?",
+    "PERMISSIONS_ALL_GRANT_CONFIRM": "Permissions starting with `all` can be **very dangerous** to grant. Please confirm you wish to grant `{permission}` [y/n]?",
     "PERMISSIONS_GRANT_TARGET": "Permission `{permission}` was granted for `{target}`.",
     "PERMISSIONS_GRANT_TARGET_CHANNEL": "Permission `{permission}` granted for `{target}` on `{channel}`.",
     "PERMISSIONS_INVALID_PERMISSION": "`{permission}` is not a valid permission. Please see the `permissions list` command for a list of valid permissions.",
