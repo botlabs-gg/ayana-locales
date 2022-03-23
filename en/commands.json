@@ -6,6 +6,7 @@
     "COMMAND_BAN": "ban",
     "COMMAND_BIGTEXT": "bigtext",
     "COMMAND_BIGTEXTD": "bigtextd",
+    "COMMAND_BOTLIST": "botlist",
     "COMMAND_BLUSH": "blush",
     "COMMAND_CHANNELINFO": "channelinfo",
     "COMMAND_CLAGWIMOTH": "clagwimoth",
@@ -85,6 +86,7 @@
     "COMMAND_RANDOM": "random",
     "COMMAND_ROLE": "role",
     "COMMAND_ROLEINFO": "roleinfo",
+    "COMMAND_ROLEMEMBERS": "rolemembers",
     "COMMAND_SAY": "say",
     "COMMAND_SAYD": "sayd",
     "COMMAND_SERVER": "server",
@@ -101,6 +103,7 @@
     "COMMAND_SUPPORT": "support",
     "COMMAND_THUMBSUP": "thumbsup",
     "COMMAND_TRIGGERED": "triggered",
+    "COMMAND_URBAN": "urban",
     "COMMAND_USER": "user",
     "COMMAND_USERINFO": "userinfo",
     "COMMAND_VIEW": "view",
@@ -166,6 +169,7 @@
     "OPTION_MESSAGE": "message",
     "OPTION_MODE": "mode",
     "OPTION_OPTIONS": "options",
+    "OPTION_PAGE": "page",
     "OPTION_PERMISSION": "permission",
     "OPTION_PERMISSION_DESCRIPTION": "Permission node to modify",
     "OPTION_POSITION": "position",
@@ -186,5 +190,6 @@
     "OPTION_VOICE": "voice",
     "OPTION_VOICE_DESCRIPTION": "Join specified channel",
     "OPTION_WEEBSH_TARGET_DESCRIPTION": "Users to target",
-    "OPTION_WEEBSH_TYPE_DESCRIPTION": "Weebsh type"
+    "OPTION_WEEBSH_TYPE_DESCRIPTION": "Weebsh type",
+    "OPTION_WORD": "word"
 }
