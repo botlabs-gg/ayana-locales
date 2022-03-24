@@ -1,5 +1,5 @@
 {
-    "BENTOCORD_ADV_NOTEXIST": "指令 `{command}` 不存在。",
+    "BENTOCORD_ADV_NOTEXIST": "命令 `{command}` 不存在。",
     "BENTOCORD_ADV_NO_RECURSIVE": "不允許遞迴執行。",
     "BENTOCORD_COMMAND_ADV": "進階",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "執行非斜線指令",
@@ -41,7 +41,7 @@
     "BENTOCORD_PROMPT_CANCELED": "提示已被取消。",
     "BENTOCORD_PROMPT_CANCELED_MAX_ATTEMPTS": "已達最大失敗嘗試次數。",
     "BENTOCORD_PROMPT_CANCELED_NEW": "新的提示已被打開。",
-    "BENTOCORD_PROMPT_CANCELED_REASON": "提示已被關閉：{reason}",
+    "BENTOCORD_PROMPT_CANCELED_REASON": "提示已被取消：{reason}",
     "BENTOCORD_PROMPT_CANCELED_TIMEOUT": "等待輸入逾時。",
     "BENTOCORD_PROMPT_CHOICE": "請從下列選項挑選其中一個：",
     "BENTOCORD_PROMPT_CHOICE_OPTION": "請從下列有關於 `{option}` 的選項挑選其中一個：",
@@ -57,7 +57,7 @@
     "BENTOCORD_SUPPRESSOR_GUILD_ADMIN": "您不是伺服器管理員。",
     "BENTOCORD_SUPPRESSOR_GUILD_DENIED": "該命令無法在此伺服器執行。",
     "BENTOCORD_SUPPRESSOR_GUILD_OWNER": "您不是伺服器擁有者。",
-    "BENTOCORD_SUPPRESSOR_HALT": "該命令被Suppressor `{suppressor}` 中止了：{message}",
+    "BENTOCORD_SUPPRESSOR_HALT": "執行期間被Suppressor `{suppressor}` 中止了：{message}",
     "BENTOCORD_SUPPRESSOR_ROLE": "您不具有必要的身份組。",
     "BENTOCORD_SUPPRESSOR_USER_DENIED": "您不被允許執行該命令。"
 }

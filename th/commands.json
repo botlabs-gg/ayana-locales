@@ -1,4 +1,12 @@
 {
+    "COMMAND_ALIASES": "ตัวย่อ",
+    "COMMAND_AVATAR": "อวตาร์",
+    "COMMAND_AWOO": "อู้วววววว",
+    "COMMAND_BAD": "ไม่ดี",
+    "COMMAND_BAN": "แบน",
+    "COMMAND_BIGTEXT": "ตัวอักษรใหญ่",
+    "COMMAND_BIGTEXTD": "ตัวอักษรใหญ่d",
+    "COMMAND_BLUSH": "หน้าแดง",
     "DESCRIPTION_ACTIONLOG": "บันทึกการกระทำของกิลด์ในช่องที่ระบุ",
     "DESCRIPTION_AVATAR": "แสดงอวาตาร์ของผู้ใช้",
     "DESCRIPTION_BAN": "แบนผู้ใช้",
