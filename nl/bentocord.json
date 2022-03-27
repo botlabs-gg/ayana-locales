@@ -7,7 +7,7 @@
     "BENTOCORD_PERMISSION_DENIED": "Permissie `{permission}` is geweigerd op `{where}` niveau.",
     "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Permissie `{permission}` is standaard geweigerd. Contacteer een server administrator om jou deze permissie te bevoegen.",
     "BENTOCORD_PING": "Pong!",
-    "BENTOCORD_PING_COUNT": "Pong! `{s, number}s {ms, number}ms`",
+    "BENTOCORD_PING_COUNT": "Pong! API: `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "Huidige prefix is `{prefix}`.",
     "BENTOCORD_PREFIX_SET": "Prefix is ingesteld op `{prefix}`.",
     "BENTOCORD_PRESENCE_UPDATED": "Presentie Geüpdatet!",

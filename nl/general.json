@@ -2,6 +2,8 @@
     "AYANA_VERSION": "Ayana Versie",
     "BENTOCORD_VERSION": "Bentocord Versie",
     "BENTO_VERSION": "Bento Versie",
+    "GATEWAY_FAILURE": "Mislukt om verbinding te maken met het Netwerkpunt. Probeer het later nog eens.",
+    "GENERAL_ERROR": "Er is een fout opgetreden. Voor meer ondersteuning, rapporteer dit probleem in onze support server (gebruik de `support` commando om een uitnodiging te krijgen).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Server taal is gewijzigd naar {locale}.",
     "LOCALIZATION_FAILURE": "Geen vertaling gevonden voor `{key} `",
     "LOCALIZATION_FORMAT_FAILURE": "Formateren van vertaling mislukt `{key}`:{error}",

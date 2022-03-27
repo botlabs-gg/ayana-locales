@@ -1,4 +1,11 @@
 {
+    "COMMAND_ALIASES": "aliassen",
+    "COMMAND_AVATAR": "avatar",
+    "COMMAND_AWOO": "awoo",
+    "COMMAND_BAD": "slecht",
+    "COMMAND_BAN": "ban",
+    "COMMAND_BIGTEXT": "grote tekst",
+    "COMMAND_BLUSH": "blozen",
     "DESCRIPTION_ACTIONLOG": "Registreert server acties in een specifiek kanaal",
     "DESCRIPTION_ALIASES": "Beheren van commando aliassen",
     "DESCRIPTION_ALIASES_ADD": "Alias toevoegen",
@@ -54,6 +61,6 @@
     "DESCRIPTION_SHRUGD": "Zelfde als shrug, maar ik verwijder ook jouw commando",
     "DESCRIPTION_SPONGEBOB": "Bespottende Spongebob meme; meme't ook de tekst die je geeft",
     "DESCRIPTION_SUPPORT": "Toon uitnodiging link voor support kanaal",
-    "DESCRIPTION_TAKEROLE": "Neemt rollen",
+    "DESCRIPTION_TAKEROLE": "Innemen Rollen",
     "DESCRIPTION_URBAN": "Zoek een woord op in urbandictionary.com"
 }
