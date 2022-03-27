@@ -1,6 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "El comando `{command}` no existe.",
-    "BENTOCORD_ADV_NO_RECURSIVE": "La ejecución recursiva no esta permitida.",
+    "BENTOCORD_ADV_NO_RECURSIVE": "La ejecución recursiva no está permitida.",
     "BENTOCORD_COMMAND_ADV": "Avanzado",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Ejecutar comandos no expuestos a la barra diagonal",
     "BENTOCORD_COMMAND_BENTO": "Bento",
