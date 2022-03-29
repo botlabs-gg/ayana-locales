@@ -51,8 +51,8 @@
     "INVITE_TEXT": "Sure thing :ok_hand:\nTo have me join your server please choose one of the following links:\n\nRecommended Permissions: {invite}\nMinimal Permissions: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} possesses a higher role than you. You may not modify them.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possesses a higher role than I do. I can't modify them.",
-    "PERMISSIONS_ALL_GRANT_CONFIRM": "Permissions starting with `all` can be **very dangerous** to grant. Please confirm you wish to grant `{permission}` [y/n]?",
     "MODLOG_FAILURE": "Modlog failure.",
+    "PERMISSIONS_ALL_GRANT_CONFIRM": "Permissions starting with `all` can be **very dangerous** to grant. Please confirm you wish to grant `{permission}` [y/n]?",
     "PERMISSIONS_GRANT_TARGET": "Permission `{permission}` was granted for `{target}`.",
     "PERMISSIONS_GRANT_TARGET_CHANNEL": "Permission `{permission}` granted for `{target}` on `{channel}`.",
     "PERMISSIONS_INVALID_PERMISSION": "`{permission}` is not a valid permission. Please see the `permissions list` command for a list of valid permissions.",
@@ -148,6 +148,8 @@
     "ROLE_USERROLELOW": "The role `{role}` cannot be used or modified because your highest role is not above it.",
     "SAY_FOOTER": "The above message is user-generated content. Unset `nosneak` to remove this embed",
     "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice",
+    "SETTINGS_SETTING_NOT_FOUND": "`{setting}` is not a valid setting.",
+    "SETTINGS_SETTING_TITLE": "Setting: {setting}",
     "SUPPORT_TEXT": "For support, suggestions, or bugs with Ayana, please join the support server. {support}",
     "URBAN_ERROR": "No definition found"
 }

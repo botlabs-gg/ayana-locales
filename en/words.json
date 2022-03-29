@@ -7,6 +7,7 @@
     "WORD_COLOR": "Color",
     "WORD_CONTAINER": "Container",
     "WORD_CREATED": "Created",
+    "WORD_DEFAULT": "Default",
     "WORD_DENIED": "Denied",
     "WORD_DEVELOPERS": "Developers",
     "WORD_DISABLED_EVENTS": "Disabled Events",
@@ -43,6 +44,7 @@
     "WORD_UPTIME": "Uptime",
     "WORD_USER": "User",
     "WORD_USERS": "Users",
+    "WORD_VALUE": "Value",
     "WORD_VERSION": "Version",
     "WORD_WEBSITE": "Website",
     "WORD_YES": "Yes"
