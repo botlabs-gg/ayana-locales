@@ -1,6 +1,7 @@
 {
     "WORD_ACTIVE": "Active",
     "WORD_ALLOWED": "Allowed",
+    "WORD_ASSIGN": "Assign",
     "WORD_CANCELED": "Canceled",
     "WORD_CHANNEL": "Channel",
     "WORD_CHANNELS": "Channels",
@@ -45,6 +46,7 @@
     "WORD_TAILS": "Tails",
     "WORD_TOPIC": "Topic",
     "WORD_TYPE": "Type",
+    "WORD_UNASSIGN": "Unassign",
     "WORD_UNAVAILABLE": "Unavailable",
     "WORD_UPTIME": "Uptime",
     "WORD_USER": "User",
