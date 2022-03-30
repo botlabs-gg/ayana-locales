@@ -82,5 +82,6 @@
     "DESCRIPTION_SHRUGD": "Lo mismo que el encogimiento de hombros, pero también quito su comando",
     "DESCRIPTION_SPONGEBOB": "Meme de burla de Bob Esponja; también hace memes el texto que das",
     "DESCRIPTION_SUPPORT": "Mostrar enlace de invitación para el canal de soporte",
-    "DESCRIPTION_TAKEROLE": "Toma de roles"
+    "DESCRIPTION_TAKEROLE": "Toma de roles",
+    "OPTION_WORD": "palabra"
 }
