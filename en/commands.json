@@ -1,4 +1,5 @@
 {
+    "COMMAND_AFK": "afk",
     "COMMAND_ALIASES": "aliases",
     "COMMAND_AVATAR": "avatar",
     "COMMAND_AWOO": "awoo",
