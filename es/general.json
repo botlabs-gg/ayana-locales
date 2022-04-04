@@ -7,6 +7,7 @@
     "GUILD_LOCALE_UPDATED": "Se ha elegido {locale} como configuración regional del servidor.",
     "LOCALIZATION_FAILURE": "No se ha podido encontrar la traducción de `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Fallo en el formato de la traducción `{key}`: {error}",
+    "SETTING_AFK_ACTIVE_DESCRIPTION": "Activar/desactivar los mensajes AFK en todo el servidor.",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Deben anunciarse los miembros que abandonan el servidor",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Canal donde se publicará el mensaje de despedida",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Enviar a los mensajes directos de los miembros que se van en lugar de al canal",
@@ -14,6 +15,11 @@
     "SETTING_GREETING_ACTIVE_DESCRIPTION": "Deben anunciarse los miembros que se unen al servidor",
     "SETTING_GREETING_CHANNEL_DESCRIPTION": "Canal donde se publicará el mensaje de felicitación",
     "SETTING_GREETING_DM_DESCRIPTION": "Enviar a los mensajes directos de los miembros adheridos en lugar de al canal",
+    "SETTING_GREETING_TEXT_DESCRIPTION": "Texto a utilizar en el saludo",
+    "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Deben registrarse las acciones de los moderadores realizadas a través de Ayana",
+    "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Canal para publicar modlogs",
+    "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir a cualquier miembro actualizar el servidor a Ayana PRO",
+    "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles que pueden utilizar la opción `sneak` en el comando say",
     "USER_LOCALE_UPDATED": "Ha elegido {locale} como su configuración regional.",
     "VIEW_LOCALE_HEADER": "[Configuración actual de la localidad]"
 }
