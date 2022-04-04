@@ -1,4 +1,11 @@
 {
+    "ACTIONLOG_ACTIVE": "Active/Désactive",
+    "ACTIONLOG_CHANNEL": "Canal dans lequel rapporter les actions.",
+    "ACTIONLOG_EVENTS": "Active/Désactive les rapports pour des évènements spécifiques",
+    "ACTIONLOG_NOCHANNEL": "Pas de canal spécifié",
+    "AFK_AFKSINCE": "Inactif depuis",
+    "AFK_MENTIONMESSAGE": "L'utilisateur {user} est actuellement inactif",
+    "AFK_NOLONGERAFK": "Vous n'êtes plus inactif.",
     "AVATAR_DIRECT_LINK": "[Lien direct]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} doit être un nombre <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Oups ! Le message de sortie est supérieur à 2000 caractères !",
