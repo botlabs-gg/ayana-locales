@@ -24,7 +24,7 @@
     "DESCRIPTION_MUSIC_JOIN": "加入語音頻道",
     "DESCRIPTION_MUSIC_JUMP": "跳至特定的歌曲",
     "DESCRIPTION_MUSIC_LEAVE": "離開語音頻道",
-    "DESCRIPTION_MUSIC_PAUSE": "切換暫停狀態",
+    "DESCRIPTION_MUSIC_PAUSE": "切換播放狀態",
     "DESCRIPTION_MUSIC_PLAY": "播放佇列中的歌曲",
     "DESCRIPTION_MUSIC_PROVIDERS": "顯示曲目支援平台列表",
     "DESCRIPTION_MUSIC_PURGE": "移除佇列內所有歌曲",
