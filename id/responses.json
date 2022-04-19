@@ -50,6 +50,7 @@
     "INVITE_TEXT": "Baiklah :ok_hand:\nUntuk meminta saya bergabung ke server Anda, silakan pilih salah satu link berikut:\n\nIzin yang Dianjurkan: {invite}\nIzin Minimal: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} memiliki peran yang lebih tinggi darimu. Anda tidak bisa memodifikasinya.",
     "KICK_TARGETHIGHERTHANBOT": "{target} memiliki peran yang lebih tinggi dari saya. Saya tidak bisa memodifikasinya.",
+    "PERMISSIONS_LIST": "**Daftar Izin**\n\nIzin perintah sama dengan jalur yang digunakan untuk menjalankan perintah kecuali spasi diganti dengan `.`\nMisalnya `music join` akan menjadi `music.join`",
     "PICK_DEBUG": "Harap berikan beberapa opsi dengan cara dipisahkan koma: {prefix}pick opsi1, opsi2, …",
     "PICK_LARGE_INPUT": "Input dari opsi yang ingin saya pilih terlalu besar.",
     "RANDOM_LIMIT_ERROR": "Batas bawah tidak boleh lebih besar dari batas atas.",
