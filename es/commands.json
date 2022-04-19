@@ -62,6 +62,7 @@
     "COMMAND_PRO_ADMIN_DESCRIPTION": "Mostrar la ayuda del administrador",
     "COMMAND_PRO_CHECK_DESCRIPTION": "Muestra si este servidor tiene Ayana PRO o no y quién lo ha actualizado",
     "COMMAND_PRO_DESCRIPTION": "Gestión de Ayana PRO",
+    "COMMAND_PRO_DISABLE_DESCRIPTION": "Desactivar una suscripción",
     "DESCRIPTION_ACTIONLOG": "Registra las acciones del gremio en un canal específico especificado",
     "DESCRIPTION_AFK": "Hazle saber a la gente que estás AFK cuando te mencionen",
     "DESCRIPTION_ALIASES": "Gestionar los alias de comandos",
