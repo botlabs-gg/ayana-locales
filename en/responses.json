@@ -130,6 +130,8 @@
     "PRUNE_WRONGMESSAGEID": "The message id that was used in the until option could not be found in this channel.",
     "RANDOM_LIMIT_ERROR": "Lower bound cannot be bigger than upper bound.",
     "RANDOM_RESPONSE": "Your random number is {num}.",
+	"RANK_ASSIGN": "The role {role} has been assigned to you",
+	"RANK_UNASSIGN": "The role {role} has been unassigned from you",
     "REMINDER_CREATED": "Okay I will be sure to remind you!",
     "REMINDER_DELETE_DONE": "Reminder(s) deleted.",
     "REMINDER_DELETE_NOMATCHES": "No items in your reminders matched your query.",
