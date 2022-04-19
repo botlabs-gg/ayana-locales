@@ -96,6 +96,7 @@
     "PRO_PLEDGETOOLOW": "Your Patreon pledge is too low to update your donation text.",
     "PRO_PROCESSINGERROR": "Something went wrong while trying to contact the subscription service.",
     "PRO_REDEEMERROR": "Something went wrong while trying to redeem your key.",
+    "PRO_REDEEMINGKEY": "Redeeming your key... Please wait.",
     "PRO_REDEEMSUCCESS": "Success! Your key has been redeemed. You can check your subscriptions with the `pro status` command and upgrade your server with the `pro upgrade` command.",
     "PRO_UPGRADED": "Ayana PRO has been enabled for this server.\nPlease invite her here: {invite}",
     "PRUNE_ALREADYPRUNING": "Someone already ran the prune command in this channel! Please wait until it's done.",
