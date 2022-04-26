@@ -1,5 +1,5 @@
 {
-    "AYANA_VERSION": "Versión de Ayana",
+    "AYANA_VERSION": "Versión de Ayana español",
     "BENTOCORD_VERSION": "Versión de Bentocord",
     "BENTO_VERSION": "Versión de Bento",
     "GATEWAY_FAILURE": "No se ha podido contactar con el portal. Por favor, inténtalo de nuevo más tarde.",
@@ -10,7 +10,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Activar/desactivar los mensajes AFK en todo el servidor.",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Deben anunciarse los miembros que abandonan el servidor",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Canal donde se publicará el mensaje de despedida",
-    "SETTING_FAREWELL_DM_DESCRIPTION": "Enviar a los mensajes directos de los miembros que se van en lugar de al canal",
+    "SETTING_FAREWELL_DM_DESCRIPTION": "Enviar a los mensajes directos de los miembros que se van en lugar del canal",
     "SETTING_FAREWELL_TEXT_DESCRIPTION": "Texto para la despedida",
     "SETTING_GREETING_ACTIVE_DESCRIPTION": "Deben anunciarse los miembros que se unen al servidor",
     "SETTING_GREETING_CHANNEL_DESCRIPTION": "Canal donde se publicará el mensaje de felicitación",
