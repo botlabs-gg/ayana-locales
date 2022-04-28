@@ -1,4 +1,6 @@
 {
+    "AYANA_HELP_AUTHOR": "Olá! Eu sou Ayana!",
+    "AYANA_HELP_DESCRIPTION": "Abaixo você pode ver todos os comandos que eu sei.\nSe você precisar de ajuda com algo, sinta-se a vontade para se juntar ao nosso [Servidor de Suporte]({support}).\n\n[Me Convide]({invite}), [Convite Reduzido]({minimal}), [Ayana PRO]({pro}), [Status da Ayana]({status}), [Twitter]({twitter})\n\n**Tenha um ótimo dia!**",
     "AYANA_VERSION": "Versão da Ayana",
     "BENTOCORD_VERSION": "Versão do Bentocord",
     "BENTO_VERSION": "Versão do Bento",
@@ -21,5 +23,8 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir qualquer membro para atualizar o servidor para Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Cargos permitidos para usar a opção `sneak` no comando say",
     "USER_LOCALE_UPDATED": "Seu idioma foi definido para {locale}.",
+    "USE_SLASH_COMMANDS": "Adivinhe só?! Agora eu suporto comandos de barra, para uma melhor experiência de usuário dê uma chance a eles! Basta digitar `/` na barra abaixo e achar meu ícone!",
+    "USE_SLASH_HEADER": "Hey você! Teste os comandos de barra!",
+    "USE_SLASH_NO_SLASH": "Se você não ver nenhum comando de barra meu, por favor [clique aqui]({invite}) e me readicione neste servidor.",
     "VIEW_LOCALE_HEADER": "[Configurações de tradução atuais]"
 }
