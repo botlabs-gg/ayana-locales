@@ -1,12 +1,14 @@
 {
+    "AYANA_HELP_AUTHOR": "Hello! I'm Ayana! N-Nice to meet you!",
+    "AYANA_HELP_DESCRIPTION": "Y-You want to know more about me ?!\nIf something doesn't make sense, you can ask the folks at the [Support Server]({support}).\n\n[Invite Me]({invite}), [Minimal Invite]({minimal}), [Ayana PRO]({pro}), [Ayana Status]({status}), [Twitter]({twitter})\n\n**Now my throat is dry because of all the talking! Hmph!**",
     "AYANA_VERSION": "My Version",
     "BENTOCORD_VERSION": "Version of Bentocord",
     "BENTO_VERSION": "Version of Bento",
     "GATEWAY_FAILURE": "Hmm, failed to contact Gateway, please try later...",
     "GENERAL_ERROR": "Ooh no! An error occurred, if you need help, join my support server and report this (`support` command to get the invite). ( ≧Д≦)   \n```{error}```",
     "GUILD_LOCALE_UPDATED": "It's not like I'm happy you told me to talk casually in this server or anything! ( ≧Д≦) ({locale}).",
-    "LOCALIZATION_FAILURE": "I didn't find the translation for `{key}`(*≧m≦*)",
-    "LOCALIZATION_FORMAT_FAILURE": "Hmm, failed to format translation `{key}: {error}...",
+    "LOCALIZATION_FAILURE": "W-What kind of word is this, I don't know this language `{key}`",
+    "LOCALIZATION_FORMAT_FAILURE": "Hmm, failed to format translation `{key}`: {error}",
     "USER_LOCALE_UPDATED": "It's not like I'm happy you told me to talk casually to you or anything! ( ≧Д≦) ({locale})",
     "VIEW_LOCALE_HEADER": "[Current translation settings]"
 }
