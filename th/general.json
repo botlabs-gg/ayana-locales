@@ -1,4 +1,6 @@
 {
+    "AYANA_HELP_AUTHOR": "สวัสดีฉัน Ayana!",
+    "AYANA_HELP_DESCRIPTION": "ด้านล่างนี้ คุณสามารถดูคำสั่งทั้งหมดที่ฉันรู้\nหากคุณต้องการความช่วยเหลือในเรื่องใด โปรดเข้าร่วม [เซิร์ฟเวอร์สนับสนุน]({support}) ของเรา\n\n[เชิญฉัน]({invite}), [เชิญขั้นต่ำ]({minimal}), [Ayana PRO]({pro}), [สถานะ Ayana]({status}), [Twitter]({twitter})\n\n**ขอให้เป็นวันที่ดี!**",
     "AYANA_VERSION": "เวอร์ชัน Ayana",
     "BENTOCORD_VERSION": "เวอร์ชัน Bentocord",
     "BENTO_VERSION": "เวอร์ชัน Bento",
@@ -21,5 +23,6 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "อนุญาตให้สมาชิกในเซิร์ฟเวอร์อัปเกรดเป็น Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "บทบาทที่ได้รับอนุญาตให้ใช้ `sneak` ในคำสั่งพูด",
     "USER_LOCALE_UPDATED": "เซิฟเวอร์ของคุณถูกตั่งเป็น {locale}",
+    "USE_SLASH_COMMANDS": "Ayana รองรับคำสั่งslashแล้ว โปรดใช้คำสั่งslashแทนคำสั่งข้อความเพื่อประสบการณ์ UI ที่ดียิ่งขึ้น หากต้องการเปิดใช้งานคำสั่งทับในเซิร์ฟเวอร์ของคุณ ให้ใช้ลิงก์เชิญนี้: {invite}",
     "VIEW_LOCALE_HEADER": "[Current Locale Settings]"
 }
