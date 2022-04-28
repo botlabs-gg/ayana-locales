@@ -76,6 +76,7 @@
     "PICK_LARGE_INPUT": "La entrada de la opción que quería elegir es demasiado grande.",
     "PRO_ALREADYUPGRADED": "Ayana PRO ya está habilitado para este servidor.\nPara finalizar la configuración, añada Ayana PRO aquí: {invite}",
     "PRO_CANNOTDOWNGRADE": "Sólo un administrador o el usuario que actualizó este servidor a Ayana PRO puede degradarlo.",
+    "PRO_CANNOTUPGRADEMORE": "No puede actualizar este servidor a Ayana PRO porque ya ha utilizado todas sus actualizaciones de servidor.",
     "RANDOM_LIMIT_ERROR": "El límite inferior no puede ser mayor que el límite superior.",
     "RANDOM_RESPONSE": "Tu número aleatorio es {num}.",
     "ROLE_ALREADYPROCESSING": "Ya estoy procesando una solicitud de rol en este servidor.",
