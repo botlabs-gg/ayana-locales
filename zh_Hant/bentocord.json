@@ -1,7 +1,7 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "命令 `{command}` 不存在。",
     "BENTOCORD_ADV_NO_RECURSIVE": "不允許遞迴執行。",
-    "BENTOCORD_COMMANDMANAGER_ERROR": "在執行命令時發生錯誤：`{error}`",
+    "BENTOCORD_COMMANDMANAGER_ERROR": "在執行該命令時發生錯誤：`{error}`",
     "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "命令無法執行。您必須授予下列權限：\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "進階",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "執行非斜線指令",
