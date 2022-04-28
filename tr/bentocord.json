@@ -1,13 +1,15 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "`{command}` diye bir komut yok.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Tekrarlı çalıştırmaya izin verilmemektedir.",
+    "BENTOCORD_COMMANDMANAGER_ERROR": "Bu komutu çalıştırırken bir hata meydana geldi: `{error}`",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Komut çalıştırılamadı. Aşağıdaki yetkiler olmadan çalıştırılamaz:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "gelişmiş",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Taksimsiz açık komut çalıştır",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "bentocord detaylarını görüntüler",
     "BENTOCORD_COMMAND_ERROR": "Komutu işlerken bir hata meydana geldi: {error}",
     "BENTOCORD_COMMAND_HELP": "yardım",
-    "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Ayana'nın komutları ve özellikleri hakkında öğrenin",
+    "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Ayana'nın komutları ve özellikleri hakkında bilgi edinin",
     "BENTOCORD_COMMAND_PING": "ping",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Botun çevrim içi olup olmadığını kontrol et",
     "BENTOCORD_COMMAND_PONG": "pong",
@@ -20,6 +22,7 @@
     "BENTOCORD_COMMAND_SETGAME": "oyunayarla",
     "BENTOCORD_COMMAND_SETGAME_DESCRIPTION": "Botun oyun durumunu ayarla",
     "BENTOCORD_HELP_NOT_FOUND": "Girdi ile alakalı yardım bulunamadı",
+    "BENTOCORD_HELP_USAGE": "`help commandName` - Komut Detayları\n`help commandName subCommandName` - Alt-Komut Detayları\n`help commandName optionName` - Seçenek Detayları\n`help categoryName` - Kategori Detayları",
     "BENTOCORD_OPTION_ACTIVITY": "aktivite",
     "BENTOCORD_OPTION_ACTIVITY_DESCRIPTION": "Aktivite adı",
     "BENTOCORD_OPTION_ALIAS": "komutlakabı",
@@ -63,5 +66,12 @@
     "BENTOCORD_SUPPRESSOR_GUILD_OWNER": "Sunucunun sahibi değilsiniz.",
     "BENTOCORD_SUPPRESSOR_HALT": "Yürütme `{suppressor}` tarafından durduruldu: {message}",
     "BENTOCORD_SUPPRESSOR_ROLE": "Gereken rollere sahip değilsiniz.",
-    "BENTOCORD_SUPPRESSOR_USER_DENIED": "Bu komutu çalıştırmaya izniniz yok."
+    "BENTOCORD_SUPPRESSOR_USER_DENIED": "Bu komutu çalıştırmaya izniniz yok.",
+    "BENTOCORD_WORD_COMMAND": "Komut",
+    "BENTOCORD_WORD_DESCRIPTION": "Açıklama",
+    "BENTOCORD_WORD_OPTION": "Seçenek",
+    "BENTOCORD_WORD_OPTIONS": "Seçenekler",
+    "BENTOCORD_WORD_REQURIED": "Gerekli",
+    "BENTOCORD_WORD_SUBCOMMANDS": "Alt Komutlar",
+    "BENTOCORD_WORD_TYPE": "Tür"
 }
