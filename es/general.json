@@ -1,4 +1,5 @@
 {
+    "AYANA_HELP_AUTHOR": "¡Hola! ¡Soy Ayana!",
     "AYANA_VERSION": "Versión de Ayana español",
     "BENTOCORD_VERSION": "Versión de Bentocord",
     "BENTO_VERSION": "Versión de Bento",
@@ -21,5 +22,6 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir a cualquier miembro actualizar el servidor a Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles que pueden utilizar la opción `sneak` en el comando say",
     "USER_LOCALE_UPDATED": "Ha elegido {locale} como su configuración regional.",
+    "USE_SLASH_COMMANDS": "Ayana ahora soporta comandos de barra. Así que, por favor, utiliza los comandos de barra en lugar de los comandos de texto para una mejor experiencia de la interfaz de usuario.",
     "VIEW_LOCALE_HEADER": "[Configuración actual de la localidad]"
 }

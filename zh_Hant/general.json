@@ -1,4 +1,6 @@
 {
+    "AYANA_HELP_AUTHOR": "哈囉！我是Ayana！",
+    "AYANA_HELP_DESCRIPTION": "下列為我所知道的命令。\n如果您需要幫助的話，可以加入我們的[支援伺服器]({support})。\n\n[邀請我]({invite})、[最小權限邀請]({minimal})、[Ayana PRO]({pro})、[Ayana狀態]({status})、[Twitter]({twitter})\n\n**祝你有個美好的一天！**",
     "AYANA_VERSION": "Ayana版本",
     "BENTOCORD_VERSION": "Bentocord版本",
     "BENTO_VERSION": "Bento版本",
@@ -21,5 +23,6 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "允許所有成員將此伺服器升級成Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "讓指定的身份組在使用say命令時可搭配`sneak`選項",
     "USER_LOCALE_UPDATED": "您的語言已被設置成 {locale}。",
+    "USE_SLASH_COMMANDS": "目前Ayana已支援斜線命令。為了讓您擁有更好的使用者體驗，請使用斜線命令來取代文字命令。",
     "VIEW_LOCALE_HEADER": "[當前語言設定]"
 }
