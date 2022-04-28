@@ -21,7 +21,7 @@
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Haruskah tindakan moderator yang dilakukan melalui Ayana dicatat",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Kanal untuk mengumumkan modlog",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Izinkan setiap anggota untuk meningkatkan server ke Ayana PRO",
-    "SETTING_SNEAK_ROLES_DESCRIPTION": "Peran diizinkan untuk menggunakan opsi `menyelinap` pada perintah say",
+    "SETTING_SNEAK_ROLES_DESCRIPTION": "Rol diizinkan untuk menggunakan opsi `sneak` pada perintah say",
     "USER_LOCALE_UPDATED": "Bahasa lokal Anda telah diubah menjadi {locale}.",
     "VIEW_LOCALE_HEADER": "[Pengaturan Lokal Saat Ini]"
 }
