@@ -1,4 +1,5 @@
 {
+    "COMMAND_AFK": "afk",
     "COMMAND_ALIASES": "alias",
     "COMMAND_AVATAR": "Avatar",
     "COMMAND_AWOO": "Awoo",
@@ -97,5 +98,6 @@
     "DESCRIPTION_TAKEROLE": "Toma de roles",
     "OPTION_USER": "usuario",
     "OPTION_VOICE": "voz",
+    "OPTION_WEEBSH_TYPE_DESCRIPTION": "Tipo Weebsh",
     "OPTION_WORD": "palabra"
 }
