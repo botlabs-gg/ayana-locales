@@ -1,4 +1,5 @@
 {
+    "AYANA_HELP_AUTHOR": "Merhaba! Ben Ayana!",
     "AYANA_VERSION": "Ayana Versiyonu",
     "BENTOCORD_VERSION": "Bentocord Versiyonu",
     "BENTO_VERSION": "Bento Versiyonu",
@@ -7,6 +8,7 @@
     "GUILD_LOCALE_UPDATED": "Sunucu dil ayarı {locale} olarak değiştirildi.",
     "LOCALIZATION_FAILURE": "Anahtar `{key}` için bir çeviri bulunamadı",
     "LOCALIZATION_FORMAT_FAILURE": "Çeviriyi formatlamada hata, `{key}`: {error}",
+    "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Sunucuyu terk eden kullanıclılar duyurulmalı mı",
     "USER_LOCALE_UPDATED": "Dil ayarınız {locale} olarak değiştirildi.",
     "VIEW_LOCALE_HEADER": "[Mevcut Dil Ayarları]"
 }
