@@ -35,6 +35,8 @@
     "COMMAND_LICK": "Lamer",
     "COMMAND_LIST": "Lista",
     "COMMAND_MUSIC": "Música",
+    "COMMAND_NYAN": "Nyan",
+    "COMMAND_OWO": "OwO",
     "COMMAND_PAT": "Palmadita",
     "COMMAND_PERMS_CHANNEL": "Canal",
     "COMMAND_PERMS_CHANNEL_DESCRIPTION": "Permisos para un canal",
