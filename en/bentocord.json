@@ -20,11 +20,7 @@
     "BENTOCORD_COMMAND_PREFIX_VIEW_DESCRIPTION": "View Prefix",
     "BENTOCORD_COMMAND_SETGAME": "setgame",
     "BENTOCORD_COMMAND_SETGAME_DESCRIPTION": "Set the bot's game status",
-    "BENTOCORD_HELP_COMMAND": "**Command**: `{command}`\n**Description**: {description}",
-    "BENTOCORD_HELP_HEADER_OPTIONS": "**Options**:",
-    "BENTOCORD_HELP_HEADER_SUBCOMMANDS": "**Sub Commands**:",
     "BENTOCORD_HELP_NOT_FOUND": "Failed to find relevant help for input",
-    "BENTOCORD_HELP_OPTION": "**Option**: `{option}`\n**Description**: {description}\n**Type**: {type}\n**Required**: {required}\n**Parent Command**: `{command}`",
     "BENTOCORD_HELP_USAGE": "`help commandName` - Command Details\n`help commandName subCommandName` - Sub Command Details\n`help commandName optionName` - Option Details\n`help categoryName` - Category Details",
     "BENTOCORD_OPTION_ACTIVITY": "activity",
     "BENTOCORD_OPTION_ACTIVITY_DESCRIPTION": "Activity name",
@@ -69,5 +65,12 @@
     "BENTOCORD_SUPPRESSOR_GUILD_OWNER": "You are not the server owner.",
     "BENTOCORD_SUPPRESSOR_HALT": "Execution was halted by `{suppressor}`: {message}",
     "BENTOCORD_SUPPRESSOR_ROLE": "You do not possess the required roles.",
-    "BENTOCORD_SUPPRESSOR_USER_DENIED": "You are not allowed to execute this command."
+    "BENTOCORD_SUPPRESSOR_USER_DENIED": "You are not allowed to execute this command.",
+    "BENTOCORD_WORD_COMMAND": "Command",
+    "BENTOCORD_WORD_DESCRIPTION": "Description",
+    "BENTOCORD_WORD_OPTION": "Option",
+    "BENTOCORD_WORD_OPTIONS": "Options",
+    "BENTOCORD_WORD_REQURIED": "Required",
+    "BENTOCORD_WORD_SUBCOMMANDS": "Sub Commands",
+    "BENTOCORD_WORD_TYPE": "Type"
 }
