@@ -23,6 +23,6 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Allow any member to upgrade the server to Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles allowed to use the `sneak` option on the say command",
     "USER_LOCALE_UPDATED": "Your locale has been set to {locale}.",
-    "USE_SLASH_COMMANDS": "Ayana now support slash commands. So, please use slash commands instead of text commands for better UI experience.",
+    "USE_SLASH_COMMANDS": "Ayana now support slash commands. So, please use slash commands instead of text commands for better UI experience. To enable slash commands in your server, use this invite link: {invite}.",
     "VIEW_LOCALE_HEADER": "[Current Locale Settings]"
 }
