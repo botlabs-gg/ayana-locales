@@ -7,7 +7,6 @@
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "รันคำสั่งslashที่ไม่เปิดเผย",
     "BENTOCORD_COMMAND_BENTO": "เบนโตะ",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "แสดงรายละเอียดเบนโตะคอร์ด",
-    "BENTOCORD_COMMAND_ERROR": "เกิดข้อผิดพลาดระหว่างการประมวณผลคำสั่ง: {error}",
     "BENTOCORD_COMMAND_HELP": "ช่วย",
     "BENTOCORD_COMMAND_HELP_DESCRIPTION": "เรียนรู้เกี่ยวกับคำสั่งและคุณสมบัติที่ Ayana รองรับ",
     "BENTOCORD_COMMAND_PING": "ping",

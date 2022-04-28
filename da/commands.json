@@ -15,7 +15,6 @@
     "DESCRIPTION_LENNY": "Fremvis et billede af lenny",
     "DESCRIPTION_LENNYD": "Samme som lenny, men jeg fjerner også din kommando",
     "DESCRIPTION_MODIFYROLE": "Modificerer en rolle",
-    "DESCRIPTION_PICK": "Vælg en valgmulighed ud fra adskillige valgmuligheder",
     "DESCRIPTION_RANDOM": "Giver et tal, der kan bestemmes ud fra en øvre og nedre grænse",
     "DESCRIPTION_ROLE": "Giv, tag eller modificer roller",
     "DESCRIPTION_ROLEINFO": "Fremvis informationer om en rolle",

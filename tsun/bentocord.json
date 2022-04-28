@@ -2,7 +2,6 @@
     "BENTOCORD_ADV_NOTEXIST": "It's not like I tried super hard to find `{command}` for you or anything (๑•﹏•).",
     "BENTOCORD_ADV_NO_RECURSIVE": "You were trying to confuse me weren't you. Well it's not going to work (´꒳`∗).",
     "BENTOCORD_COMMAND_ADV": "advanced",
-    "BENTOCORD_COMMAND_ERROR": "It's not like I tried my best for your sake or anything (#｀ε´). {error}",
     "BENTOCORD_PING": "Gah!",
     "BENTOCORD_PING_COUNT": "Gah! Stop poking me >:c `{s, number}s {ms, number}ms`",
     "BENTOCORD_PREFIX": "I guess I'll let you address me with `{prefix}`.",

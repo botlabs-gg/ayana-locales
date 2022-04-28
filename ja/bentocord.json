@@ -5,7 +5,6 @@
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "スラッシュ無しでコマンドを実行します",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "betocordの詳細を表示します",
-    "BENTOCORD_COMMAND_ERROR": "コマンドの実行中にエラーが発生しました:{error}",
     "BENTOCORD_COMMAND_PING": "ping",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "ボットの死活確認を行います",
     "BENTOCORD_COMMAND_PONG": "pong",

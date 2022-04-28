@@ -7,7 +7,6 @@
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Taksimsiz açık komut çalıştır",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "bentocord detaylarını görüntüler",
-    "BENTOCORD_COMMAND_ERROR": "Komutu işlerken bir hata meydana geldi: {error}",
     "BENTOCORD_COMMAND_HELP": "yardım",
     "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Ayana'nın komutları ve özellikleri hakkında bilgi edinin",
     "BENTOCORD_COMMAND_PING": "ping",

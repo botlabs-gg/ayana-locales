@@ -1,8 +1,7 @@
 {
-    "WORD_GUILDS": "Harems",
-    "WORD_USERS": "Cuties",
-    "WORD_UPTIME": "Alive",
+    "WORD_HOSTNAME": "Home",
     "WORD_PLATFORM": "City",
     "WORD_RAM": "Rem",
-    "WORD_HOSTNAME": "Home"
+    "WORD_UPTIME": "Alive",
+    "WORD_USERS": "Cuties"
 }

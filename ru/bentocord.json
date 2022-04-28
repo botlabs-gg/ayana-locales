@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Команды `{command}` не существует.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Рекурсивное выполнение запрещено.",
-    "BENTOCORD_COMMAND_ERROR": "Произошла ошибка при обработке команды: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Отправьте `<` или `>` для переключения страниц, `x` чтобы закрыть, или `p[номер]` чтобы перейти на страницу (например `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Страница {page}/{total}",
     "BENTOCORD_PING": "Понг!",

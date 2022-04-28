@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Ang command na `{command}` ay wala.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Hindi pinapayagan ang recursive execution.",
-    "BENTOCORD_COMMAND_ERROR": "Nagkaroon ng error habang nagpoproseso ng command: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "I-type ang `<` o `>` para lumipat ng pahina, `x` para isara, o `p[number]` para lumipat sa ibang pahina (hal. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Pahina {page}/{total}",
     "BENTOCORD_PING": "Pong!",

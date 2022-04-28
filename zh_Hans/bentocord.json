@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "不存在`{command}`命令。",
     "BENTOCORD_ADV_NO_RECURSIVE": "递归执行被禁止。",
-    "BENTOCORD_COMMAND_ERROR": "处理命令时发生错误：{error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "输入`<`或`>`来切换页面、`x`以关闭、或`p[数字]`来跳转到其中一页（如`p10`）。",
     "BENTOCORD_PAGINATION_PAGE": "{page}/{total} 页",
     "BENTOCORD_PING": "乓！",

@@ -3,7 +3,6 @@
     "BENTOCORD_ADV_NO_RECURSIVE": "Rekurzivní spuštění příkazu je zakázáno.",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Spustí příkaz, který není /příkaz",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Ukáže detaily Bentocordu",
-    "BENTOCORD_COMMAND_ERROR": "Nastala chyba při zpracování příkazu: {error}",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Zkontroluje, zda je bot online",
     "BENTOCORD_COMMAND_PREFIX_DESCRIPTION": "Spravuje předpony příkazů",
     "BENTOCORD_COMMAND_PREFIX_SET_DESCRIPTION": "Nastaví předponu",

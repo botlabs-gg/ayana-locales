@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "O comando `{command}` não existe.",
     "BENTOCORD_ADV_NO_RECURSIVE": "A execução recursiva não é permitida.",
-    "BENTOCORD_COMMAND_ERROR": "Houve um erro ao processar o comando: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Digita `<` ou `>` para trocar de página, `x` para fechar, ou`p[número]` para passar para uma página (ex: `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Página {page}/{total}",
     "BENTOCORD_PING": "Pong!",

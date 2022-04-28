@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Pakon `{command}` ora ana.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Tindakan sing padha titir ora diidini.",
-    "BENTOCORD_COMMAND_ERROR": "Ana masalah nalikané nggarap pakon: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Ketik `<` utawa `>` kanggo ngelih kaca, `x` kanggo nutup, lan `p[angka]` kanggo lumpat menyang kaca sing kokkarepaké (tl: `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Kaca {page}/{total}",
     "BENTOCORD_PING": "­Ping!",

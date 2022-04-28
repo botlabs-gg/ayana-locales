@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Kommando `{command}` eksisterer ikke.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Rekursiv udførelse er ikke tilladt.",
-    "BENTOCORD_COMMAND_ERROR": "Der opstod en fejl under behandlingen af kommandoen: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Skriv `<` eller `>` for at skifte side, `x` for at afslutte, eller `p[sidetal]` for at hoppe direkte hen til en side (f.eks. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Side {page}/{total}",
     "BENTOCORD_PING": "Pong!",

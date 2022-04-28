@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "الأمر `{command}` لا وجود له.",
     "BENTOCORD_ADV_NO_RECURSIVE": "تكرار التنفيذ غير مسموح به.",
-    "BENTOCORD_COMMAND_ERROR": "حصل خطأ عند معالجة الأمر: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "اكتب ` < ` أو ` > ` لتبديل الصفحات، ` x ` للأغلاق، أو `p[number]` للذهاب الى صفحة (مثال. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "صفحة {page}/{total}",
     "BENTOCORD_PING": "بونغ!",

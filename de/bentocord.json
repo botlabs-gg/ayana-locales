@@ -5,7 +5,6 @@
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Führt Befehle aus, welche nicht als Slash-Command registriert sind",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Zeigt Bentocord Details an",
-    "BENTOCORD_COMMAND_ERROR": "Es gab einen Fehler beim Verarbeiten des Befehls: {error}",
     "BENTOCORD_COMMAND_PING": "ping",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Überprüfe, ob der Bot online ist",
     "BENTOCORD_COMMAND_PONG": "pong",

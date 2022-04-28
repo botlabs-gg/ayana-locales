@@ -5,7 +5,6 @@
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Rodar comandos expostos sem barra",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Mostrar detalhes do bentocord",
-    "BENTOCORD_COMMAND_ERROR": "Ocorreu um erro ao processar o comando: {error}",
     "BENTOCORD_COMMAND_PING": "ping",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Verifica se o bot está online",
     "BENTOCORD_COMMAND_PONG": "pong",

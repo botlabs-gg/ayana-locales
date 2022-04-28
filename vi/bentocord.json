@@ -1,7 +1,6 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Lệnh `{command}` không tồn tại.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Không được phép thực thi đệ quy.",
-    "BENTOCORD_COMMAND_ERROR": "Một lỗi đã xảy ra khi xử lý lệnh: {error}",
     "BENTOCORD_PAGINATION_NAVIGATION": "Nhập `<` hoặc`>` để chuyển trang, `x` để đóng, hoặc `p[trang]` để nhảy đến trang được chỉ định (vd. `p10`).",
     "BENTOCORD_PAGINATION_PAGE": "Trang {page}/{total}",
     "BENTOCORD_PING": "Pong!!!",
