@@ -76,5 +76,8 @@
     "OPTION_MUSIC_FASTFORWARD_AMOUNT_DESCRIPTION": "Importe del avance rápido",
     "OPTION_MUSIC_QUERY_DESCRIPTION": "Enlace o búsqueda",
     "OPTION_MUSIC_QUERY_POSITION_DESCRIPTION": "Posición o título",
-    "OPTION_MUSIC_QUEUE_POSITION_DESCRIPTION": "Cola después de la canción en la posición"
+    "OPTION_MUSIC_QUEUE_POSITION_DESCRIPTION": "Cola después de la canción en la posición",
+    "OPTION_MUSIC_REPEAT_MODE_DESCRIPTION": "Modo de repetición",
+    "OPTION_MUSIC_REWIND_AMOUNT_DESCRIPTION": "Cantidad a rebobinar",
+    "OPTION_MUSIC_SEEK_POSITION_DESCRIPTION": "Busca la posición"
 }
