@@ -23,6 +23,6 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "允許所有成員將此伺服器升級成Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "讓指定的身份組在使用say命令時可搭配`sneak`選項",
     "USER_LOCALE_UPDATED": "您的語言已被設置成 {locale}。",
-    "USE_SLASH_COMMANDS": "目前Ayana已支援斜線命令。為了讓您擁有更好的使用者體驗，請使用斜線命令來取代文字命令。",
+    "USE_SLASH_COMMANDS": "你知道嗎？為了讓您擁有更好的使用者體驗，Ayana已經支援斜線命令了！請在輸入區塊使用`/`後並點擊我的頭像！",
     "VIEW_LOCALE_HEADER": "[當前語言設定]"
 }
