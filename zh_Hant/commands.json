@@ -112,7 +112,6 @@
     "DESCRIPTION_LENNY": "顯示滑稽臉圖片",
     "DESCRIPTION_LENNYD": "與lenny效果相同，但我會順便移除您的指令",
     "DESCRIPTION_MODIFYROLE": "修改一個身份組",
-    "DESCRIPTION_OPTION_PERMISSIONS_ROLE": "目標身份組",
     "DESCRIPTION_PRUNE": "訊息刪除",
     "DESCRIPTION_RANDOM": "顯示一個隨機數字，支持設定上下限",
     "DESCRIPTION_ROLE": "給予、奪走以及修改身份組",
