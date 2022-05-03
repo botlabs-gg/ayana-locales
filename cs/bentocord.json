@@ -1,6 +1,8 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Příkaz `{command}` neexistuje.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Rekurzivní spuštění příkazu je zakázáno.",
+    "BENTOCORD_COMMANDMANAGER_ERROR": "Nastala chyba při provádění tohoto příkazu: `{error}`",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Příkaz nemůže být spuštěn. Musí být povolena následující oprávnění:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Spustí příkaz, který není /příkaz",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Ukáže detaily Bentocordu",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Zkontroluje, zda je bot online",
@@ -8,8 +10,11 @@
     "BENTOCORD_COMMAND_PREFIX_SET_DESCRIPTION": "Nastaví předponu",
     "BENTOCORD_COMMAND_PREFIX_VIEW_DESCRIPTION": "Zobrazí prefix",
     "BENTOCORD_COMMAND_SETGAME_DESCRIPTION": "Nastaví status bota",
+    "BENTOCORD_HELP_NOT_FOUND": "Relevantní nápověda pro daný vstup nebyla nalezena",
+    "BENTOCORD_HELP_USAGE": "`help názevPříkazu` - detaily o příkazu\n`help názevPříkazu názevPodpříkazu` - detaily o podpříkazu\n`help názevPříkazu názevMožnosti` - detaily o možnosti\n`help názevKategorie` - detaily o kategorii",
     "BENTOCORD_OPTION_ACTIVITY_DESCRIPTION": "Název aktivity",
     "BENTOCORD_OPTION_ALIAS_DESCRIPTION": "Název příkazu nebo aliasu",
+    "BENTOCORD_OPTION_HELP_INPUT_DESCRIPTION": "Kategorie, příkaz nebo strana",
     "BENTOCORD_OPTION_OPTIONS_DESCRIPTION": "Argumenty příkazu",
     "BENTOCORD_OPTION_PREFIX_DESCRIPTION": "Nová předpona",
     "BENTOCORD_OPTION_TYPE_DESCRIPTION": "Typ",
@@ -45,5 +50,12 @@
     "BENTOCORD_SUPPRESSOR_GUILD_OWNER": "Nejsi vlastníkem serveru.",
     "BENTOCORD_SUPPRESSOR_HALT": "Spuštění příkazu bylo zastaveno `{suppressor}`: {message}",
     "BENTOCORD_SUPPRESSOR_ROLE": "Nemáš požadované role.",
-    "BENTOCORD_SUPPRESSOR_USER_DENIED": "Nemáš oprávnění spustit tento příkaz."
+    "BENTOCORD_SUPPRESSOR_USER_DENIED": "Nemáš oprávnění spustit tento příkaz.",
+    "BENTOCORD_WORD_COMMAND": "Příkaz",
+    "BENTOCORD_WORD_DESCRIPTION": "Popis",
+    "BENTOCORD_WORD_OPTION": "Možnost",
+    "BENTOCORD_WORD_OPTIONS": "Možnosti",
+    "BENTOCORD_WORD_REQURIED": "Vyžadováno",
+    "BENTOCORD_WORD_SUBCOMMANDS": "Podpříkazy",
+    "BENTOCORD_WORD_TYPE": "Typ"
 }
