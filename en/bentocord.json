@@ -37,6 +37,8 @@
     "BENTOCORD_PAGINATION_PAGE": "Page {page}/{total}",
     "BENTOCORD_PERMISSION_DENIED": "Permission `{permission}` has been denied on the `{where}` level.",
     "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Permission `{permission}` is denied by default. Please contact a server administrator to grant you this permission.",
+    "BENTOCORD_PERMISSION_GLOBAL_DENIED": "Permission `{permission}` is denied globally. As this can only be done by a bot owner, it was likely intentional.",
+    "BENTOCORD_PERMISSION_USER_DENIED": "Permission `{permission}` is globally denied for you. As this can only be done by a bot owner, it was likely intentional.",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! API: `{s, number}s {ms, number}ms`",
     "BENTOCORD_PING_COUNT_WS": "Pong! API: `{s, number}s {ms, number}ms`, Gateway: `{ws}ms`",
