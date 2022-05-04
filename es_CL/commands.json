@@ -146,7 +146,6 @@
     "DESCRIPTION_MIGRATE": "Para migrar datos de v3 a v4",
     "DESCRIPTION_MODIFYROLE": "Modifica un rol",
     "DESCRIPTION_MODLOG": "Interfaz de configuración del ModLog",
-    "DESCRIPTION_PERMISSIONS_GUILD": "Modificar Permisos a nivel de servidor",
     "DESCRIPTION_PERMISSIONS_SHOW": "Ver permisos actuales",
     "DESCRIPTION_PRUNE": "Eliminación de mensajes",
     "DESCRIPTION_RANDOM": "Da un número aleatorio, con soporte para limites superior e inferior",

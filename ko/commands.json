@@ -26,7 +26,6 @@
     "DESCRIPTION_LENNY": "( ͡° ͜ʖ ͡°) 모양의 이모티콘 표시",
     "DESCRIPTION_LENNYD": "lenny 명령어와 동일하지만, 사용자가 입력한 명령어를 삭제",
     "DESCRIPTION_MODIFYROLE": "역할 수정하기",
-    "DESCRIPTION_PERMISSIONS_RESET_ALL": "모든 권한 재설정",
     "DESCRIPTION_PRUNE": "메시지 정리 중",
     "DESCRIPTION_RANDOM": "정해진 최솟값과 최댓값 사이의 무작위 숫자를 표시",
     "DESCRIPTION_ROLE": "역할을 부여, 회수, 수정",
