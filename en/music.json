@@ -60,6 +60,7 @@
     "MUSIC_REMOVED_COUNT": "Removed `{count}` tracks from the queue.",
     "MUSIC_REMOVE_CONFIRM": "Are you sure you want to remove `{track}` [y/n]:",
     "MUSIC_REMOVE_MULTI_CONFIRM": "Are you sure you want to remove `{count}` tracks from the queue [y/n]:",
+    "MUSIC_REMOVE_PLAYING": "You attempted to remove the currently playing track. Stop playing first and try again.",
     "MUSIC_REPEAT_OFF": ":no_entry: Repeating disabled.",
     "MUSIC_REPEAT_QUEUE": ":repeat: Repeating entire queue.",
     "MUSIC_REPEAT_TRACK": ":repeat_one: Repeating single track.",
