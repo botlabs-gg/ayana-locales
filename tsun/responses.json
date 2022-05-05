@@ -11,5 +11,9 @@
     "AFK_AFKSINCE": "AFK time since",
     "AFK_MENTIONMESSAGE": "Stop! User {user} is AFK (*≧m≦*)",
     "AFK_MESSAGETOOLARGE": "You have a very large AFK message, it cannot be longer than 1024 characters!",
-    "AFK_NOLONGERAFK": "You came back! You are no longer AFK"
+    "AFK_NOLONGERAFK": "You came back! You are no longer AFK",
+    "AFK_NOWAFK": "Now you are AFK! The following message will appear to anyone who disturbs you mentioning you when you are AFK, and of course if AFK messages are enabled on the server (◠﹏◠✿)",
+    "ALIASES_ADD_EXECUTED": "I added the alias `{name}` to `{value}`",
+    "ALIASES_ALREADY_USED": "Unable to add an alias to an alias!",
+    "ALIASES_AYANA_COMMAND": "Hmm is stealing my alias? I'm already using it!"
 }
