@@ -73,7 +73,7 @@
     "MUSIC_STOPPED": ":stop_button: Playback stopped.",
     "MUSIC_TRACKS_CHOOSE": "Multiple tracks matched, please select one below:",
     "MUSIC_TRACK_ERROR": "An error occured while trying to play `{track}`: ```{error}```",
-    "MUSIC_UNPAUSED": ":play_pause: Playback unpaused.",
+    "MUSIC_UNPAUSED": ":play_pause: Playback resumed.",
     "OPTION_MUSIC_FASTFORWARD_AMOUNT_DESCRIPTION": "Amount to fast forward",
     "OPTION_MUSIC_QUERY_DESCRIPTION": "Link or search query",
     "OPTION_MUSIC_QUERY_POSITION_DESCRIPTION": "Position or title",
