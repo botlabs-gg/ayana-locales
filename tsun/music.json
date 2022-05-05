@@ -1,3 +1,27 @@
 {
-    "COMMAND_MUSIC_BACK": "back"
+    "COMMAND_MUSIC_BACK": "back",
+    "DESCRIPTION_MUSIC": "My Music Player",
+    "DESCRIPTION_MUSIC_BACK": "Go back to the last track",
+    "DESCRIPTION_MUSIC_DEBUG": "See cool hacker stuff",
+    "DESCRIPTION_MUSIC_FASTFORWARD": "Just gotta fast forward to the good part",
+    "DESCRIPTION_MUSIC_JOIN": "Pass me the aux cord",
+    "DESCRIPTION_MUSIC_JUMP": "Let's skip to this song right now",
+    "DESCRIPTION_MUSIC_PAUSE": "Oh my gosh, I learned how to pause",
+    "DESCRIPTION_MUSIC_PLAY": "Vibe time commence",
+    "DESCRIPTION_MUSIC_PURGE": "We need a new set, get the old one out of here",
+    "DESCRIPTION_MUSIC_QUEUE": "Only fire 🔥 tracks can be added",
+    "DESCRIPTION_MUSIC_REMOVE": "Whoops how did this track get in here",
+    "DESCRIPTION_MUSIC_REMOVERANGE": "This whole section needs replaced",
+    "DESCRIPTION_MUSIC_REPEAT": "This hits different, gotta hear it again",
+    "DESCRIPTION_MUSIC_REWIND": "Alright, I agree, we gotta hear that part again",
+    "DESCRIPTION_MUSIC_SHUFFLE": "Lets mix it up",
+    "MUSIC_AUTHOR_NO_CHANNEL": "I'm not sure where you want me to go. Join a voice channel first >///<",
+    "MUSIC_AUTOLEAVE": "🚫 Sorry I had to dip, let me know when you want to listen to more music together.",
+    "MUSIC_BACKSKIPPED": "◀️ I gotta hear `{track}` again.",
+    "MUSIC_BACK_END": "We are already at the first song, I can't go back further silly.",
+    "MUSIC_EXCEPTION": "Uh oh >.< I got a \"{severity}\" error. {message}.",
+    "MUSIC_JOIN_MESSAGE": "✅ Alright I hopped in 🔈 `{voice}`.",
+    "MUSIC_QUEUE": "Setlist",
+    "MUSIC_QUEUED": "Alright `{track}` better be fire, I put it in at **{position}**.",
+    "MUSIC_QUEUE_EMPTY": "There is nothing in the queue. Well besides us chickens. You can add something else with `music play`!"
 }

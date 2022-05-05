@@ -1,7 +1,14 @@
 {
-    "WORD_HOSTNAME": "Home",
+    "WORD_ACTIVE": "Alive",
+    "WORD_CONTAINER": "Home",
+    "WORD_ERROR": "Problem",
+    "WORD_HOSTNAME": "Address",
+    "WORD_MEMBER": "Cuties",
+    "WORD_NA": "Nothing to see here",
     "WORD_PLATFORM": "City",
     "WORD_RAM": "Rem",
     "WORD_UPTIME": "Alive",
-    "WORD_USERS": "Cuties"
+    "WORD_USER": "Cutie",
+    "WORD_USERS": "Cuties",
+    "WORD_YES": "Yep"
 }
