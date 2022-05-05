@@ -22,6 +22,8 @@
     "BENTOCORD_PAGINATION_PAGE": "Strana {page} z {total}",
     "BENTOCORD_PERMISSION_DENIED": "Oprávnění `{permission}` bylo zakázáno na úrovni `{where}`.",
     "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Oprávnění `{permission}` je ve výchozím nastavení zakázáno. Prosím, kontaktuj administrátora serveru, aby ti dal toto oprávnění.",
+    "BENTOCORD_PERMISSION_GLOBAL_DENIED": "Oprávnění `{permission}` je globálně zakázáno. Protože tohle může udělat jen vlastník bota, asi je zakázáno schválně.",
+    "BENTOCORD_PERMISSION_USER_DENIED": "Oprávnění `{permission}` je ti globálně zákázáno. Protože tohle může udělat jen vlastník bota, asi je zakázáno schválně.",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong! API: `{s, number} s {ms, number} ms`",
     "BENTOCORD_PING_COUNT_WS": "Pong! API: `{s, number} s {ms, number} ms`, Brána: `{ws} ms`",
