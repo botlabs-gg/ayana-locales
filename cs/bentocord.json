@@ -5,6 +5,7 @@
     "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Příkaz nemůže být spuštěn. Musí být povolena následující oprávnění:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Spustí příkaz, který není /příkaz",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Ukáže detaily Bentocordu",
+    "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Zjisti informace o příkazech a funkcích, které Ayana podporuje",
     "BENTOCORD_COMMAND_PING_DESCRIPTION": "Zkontroluje, zda je bot online",
     "BENTOCORD_COMMAND_PREFIX_DESCRIPTION": "Spravuje předpony příkazů",
     "BENTOCORD_COMMAND_PREFIX_SET_DESCRIPTION": "Nastaví předponu",
