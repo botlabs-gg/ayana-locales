@@ -37,6 +37,8 @@
     "BENTOCORD_PAGINATION_PAGE": "Page {page}/{total}",
     "BENTOCORD_PERMISSION_DENIED": "Hey! You can't do this `{permission}` here `{where}`.",
     "BENTOCORD_PERMISSION_DENIED_DEFAULT": "Unless you tell administrator-senpai to give you the permission I can't let you do this: `{permission}`.",
+    "BENTOCORD_PERMISSION_GLOBAL_DENIED": "`{permission}` has been denied globally. Owner-senpai has likely done this on purpose.",
+    "BENTOCORD_PERMISSION_USER_DENIED": "So `{permission}` has been denied for you specifically... What did you do >///<.",
     "BENTOCORD_PING": "Gah!",
     "BENTOCORD_PING_COUNT": "Where do you think you're touching?! I'll slap you in `{s, number}s {ms, number}ms`",
     "BENTOCORD_PING_COUNT_WS": "Pong! API: `{s, number}s {ms, number}ms`, Gateway: `{ws}ms`",
