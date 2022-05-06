@@ -37,6 +37,8 @@
     "BENTOCORD_PAGINATION_PAGE": "หน้า{page}/{total}",
     "BENTOCORD_PERMISSION_DENIED": "การอนุญาต `{permission}` ถูกปฏิเสธที่ระดับ `{where}`",
     "BENTOCORD_PERMISSION_DENIED_DEFAULT": "การอนุญาต `{permission}` ถูกปฏิเสธโดยค่าเริ่มต้น โปรดติดต่อผู้ดูแลเซิร์ฟเวอร์เพื่อให้การอนุญาตนี้แก่คุณ",
+    "BENTOCORD_PERMISSION_GLOBAL_DENIED": "สิทธิ์ `{permission}` ถูกปฏิเสธ เนื่องจากสิ่งนี้สามารถทำได้โดยเจ้าของบอทเท่านั้น",
+    "BENTOCORD_PERMISSION_USER_DENIED": "สิทธิ์ `{permission}` ถูกปฏิเสธสำหรับคุณ เนื่องจากสิ่งนี้สามารถทำได้โดยเจ้าของบอทเท่านั้น",
     "BENTOCORD_PING": "Pong!",
     "BENTOCORD_PING_COUNT": "Pong!API: `{s, number}s {ms, number}ms`",
     "BENTOCORD_PING_COUNT_WS": "Pong! API: `{s, number}s {ms, number}ms`, เกทเวย์: `{ws}ms`",
