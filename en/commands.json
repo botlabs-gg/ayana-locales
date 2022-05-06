@@ -211,6 +211,7 @@
     "OPTION_NEW_NAME": "newname",
     "OPTION_OPTIONS": "options",
     "OPTION_PAGE": "page",
+    "OPTION_PERCENT": "percent",
     "OPTION_PERMISSION": "permission",
     "OPTION_PERMISSION_DESCRIPTION": "Permission node to modify",
     "OPTION_POSITION": "position",
