@@ -16,6 +16,7 @@
     "ALIASES_ADD_EXECUTED": "The alias `{name}` has been added for `{value}` .",
     "ALIASES_ALREADY_USED": "You cannot add an alias for an alias.",
     "ALIASES_AYANA_COMMAND": "The alias you tried to set is already used by Ayana.",
+    "ALIASES_EXECUTE_RESPONSE": "Executing command `{value}` for alias `{alias}`",
     "ALIASES_EXISTS": "An alias already exists with name `{name}`. Please choose some different name for your alias.",
     "ALIASES_INVALID_ALIAS": "The value of alias should be a valid Ayana command.",
     "ALIASES_LIMIT_REACHED": "Alias limit of `{limit}` has been reached. Please remove unused alises to create more.",
