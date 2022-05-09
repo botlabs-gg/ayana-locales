@@ -68,6 +68,7 @@
     "MUSIC_REPEAT_OFF": ":no_entry: Repeating disabled.",
     "MUSIC_REPEAT_QUEUE": ":repeat: Repeating entire queue.",
     "MUSIC_REPEAT_TRACK": ":repeat_one: Repeating single track.",
+    "MUSIC_RESET": "Music player has been reset.",
     "MUSIC_SEEK_FASTFORWARD": ":fast_forward: Fast-forwarded to `{position}`.",
     "MUSIC_SEEK_NOT_PLAYING": "Cannot seek when nothing is playing.",
     "MUSIC_SEEK_NOT_SEEKABLE": "The current track is not seekable",

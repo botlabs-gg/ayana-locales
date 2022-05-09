@@ -43,6 +43,7 @@
     "WORD_SERVER": "Server",
     "WORD_SERVERS": "Servers",
     "WORD_SHARD": "Shard",
+    "WORD_STATUS": "Status",
     "WORD_TAILS": "Tails",
     "WORD_TOPIC": "Topic",
     "WORD_TYPE": "Type",
