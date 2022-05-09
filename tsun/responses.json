@@ -16,6 +16,7 @@
     "ALIASES_ADD_EXECUTED": "Alright I have aliased `{name}` to `{value}`.",
     "ALIASES_ALREADY_USED": "Trying to trick me?! Well I don't like thinking recursively (￣ヘ￣).",
     "ALIASES_AYANA_COMMAND": "Hmm trying to steal my alias? I'm already using it.",
+    "ALIASES_EXECUTE_RESPONSE": "Executing command `{value}` for alias `{alias}`",
     "ALIASES_EXISTS": "I already have a alias named `{name}` stored. Let's call it something different.",
     "ALIASES_INVALID_ALIAS": "That doesn't look like one of my commands.",
     "ALIASES_LIMIT_REACHED": "I don't think I can remember anymore aliases, I already keep track of `{limit}`. Let's forget a old one first.",
