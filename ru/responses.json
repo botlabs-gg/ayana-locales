@@ -1,5 +1,10 @@
 {
     "ACTIONLOG_ACTIVE": "Включить/Отключить",
+    "ACTIONLOG_CHANNEL": "Текстовый канал для записи действий.",
+    "ACTIONLOG_CONFIG_TITLE": "Настройка отчёта по действиям",
+    "ACTIONLOG_EVENTS": "Включить/Выключить запись статистики для определенного события",
+    "ACTIONLOG_MYCONFIG": "Показать настройки статистики действий",
+    "ACTIONLOG_NOCHANNEL": "Канал не был выбран",
     "AVATAR_DIRECT_LINK": "[Прямая ссылка]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} должно быть числом <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Воу-оу! Итоговое сообщение вышло длиннее 2000 символов!",

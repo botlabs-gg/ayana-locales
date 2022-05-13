@@ -1,3 +1,9 @@
 {
-    "EVENT_CHANNEL_CREATE": "КАНАЛ_СОЗДАН"
+    "EVENT_CHANNEL_CREATE": "Канал Создан",
+    "EVENT_CHANNEL_DELETE": "Канал Удалён",
+    "EVENT_GUILD_BAN_ADD": "Пользователь Забанен",
+    "EVENT_GUILD_BAN_REMOVE": "Пользователь Разбанен",
+    "EVENT_GUILD_MEMBER_ADD": "Пользователь Присоединился",
+    "EVENT_GUILD_MEMBER_REMOVE": "Пользователь Вышел",
+    "EVENT_GUILD_ROLE_CREATE": "Роль Создана"
 }

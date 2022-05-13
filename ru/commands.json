@@ -1,4 +1,10 @@
 {
+    "COMMAND_AFK": "Отошёл от компьютера",
+    "COMMAND_ALIASES": "Псевдонимы",
+    "COMMAND_AVATAR": "Аватар",
+    "COMMAND_AWOO": "АУУУУУУУУУ",
+    "COMMAND_BAD": "Плохой",
+    "COMMAND_BAN": "Бан",
     "DESCRIPTION_AVATAR": "Отобразить аватарку пользователя",
     "DESCRIPTION_BAN": "Забанить пользователей",
     "DESCRIPTION_BIGTEXT": "Сгенерировать текст из региональных индикаторов",

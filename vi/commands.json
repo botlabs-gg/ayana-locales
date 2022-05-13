@@ -1,4 +1,12 @@
 {
+    "COMMAND_AFK": "rời khỏi bàn phím",
+    "COMMAND_ALIASES": "những lối tắt",
+    "COMMAND_AVATAR": "ảnh đại diện",
+    "COMMAND_AWOO": "à hú",
+    "COMMAND_BAD": "tệ",
+    "COMMAND_BAN": "cấm",
+    "COMMAND_BIGTEXT": "chữ lớn",
+    "COMMAND_BIGTEXTD": "chữ lớn rồi xóa",
     "DESCRIPTION_ACTIONLOG": "Ghi lại hành động của server trong một kênh đã chọn",
     "DESCRIPTION_AVATAR": "Hiện ảnh đại diện của 1 người dùng",
     "DESCRIPTION_BAN": "Cấm người dùng",

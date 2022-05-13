@@ -1,13 +1,13 @@
 {
-    "EVENT_CHANNEL_CREATE": "ĐÃ_TẠO_KÊNH",
-    "EVENT_CHANNEL_DELETE": "ĐÃ_XÓA_KÊNH",
-    "EVENT_GUILD_BAN_ADD": "ĐÃ_CẤM_NGƯỜI_DÙNG",
-    "EVENT_GUILD_BAN_REMOVE": "LỆNH_CẤM_ĐÃ_ĐƯỢC_XÓA",
-    "EVENT_GUILD_MEMBER_ADD": "NGƯỜI_DÙNG_THAM_GIA",
-    "EVENT_GUILD_MEMBER_REMOVE": "NGƯỜI_DÙNG_ĐÃ_RỜI",
-    "EVENT_GUILD_ROLE_CREATE": "VAI_TRÒ_ĐÃ_ĐƯỢC_TẠO",
-    "EVENT_GUILD_ROLE_DELETE": "VAI_TRÒ_ĐÃ_XÓA",
-    "EVENT_VOICE_CHANNEL_JOIN": "THAM_GIA_KÊNH_VOICE",
-    "EVENT_VOICE_CHANNEL_LEAVE": "RỜI_KÊNH_VOICE",
-    "EVENT_VOICE_CHANNEL_SWITCH": "ĐỔI_KÊNH_VOICE"
+    "EVENT_CHANNEL_CREATE": "Đã tạo kênh",
+    "EVENT_CHANNEL_DELETE": "Đã xóa kênh",
+    "EVENT_GUILD_BAN_ADD": "Đã cấm người dùng",
+    "EVENT_GUILD_BAN_REMOVE": "Người dùng hết bị cấm",
+    "EVENT_GUILD_MEMBER_ADD": "Người dùng đã tham gia",
+    "EVENT_GUILD_MEMBER_REMOVE": "Người dùng đã rời đi",
+    "EVENT_GUILD_ROLE_CREATE": "Đã tạo vai trò",
+    "EVENT_GUILD_ROLE_DELETE": "Đã xóa vai trò",
+    "EVENT_VOICE_CHANNEL_JOIN": "Tham gia kênh Voice",
+    "EVENT_VOICE_CHANNEL_LEAVE": "Rời kênh Voice",
+    "EVENT_VOICE_CHANNEL_SWITCH": "Đổi kênh Voice"
 }
