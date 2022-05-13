@@ -26,5 +26,6 @@
     "USE_SLASH_COMMANDS": "Guess what?! I now support slash commands, for a better user experience give them a try! Just type `/` in the bar below and find my icon!",
     "USE_SLASH_HEADER": "Hey there! Try slash commands!",
     "USE_SLASH_NO_SLASH": "If you don't see any slash commands from me, please [click here]({invite}) and re-add me to this server.",
-    "VIEW_LOCALE_HEADER": "[Current Locale Settings]"
+    "VIEW_LOCALE_HEADER": "[Current Locale Settings]",
+    "USE_SLASH_FOR_BETTER_UI": "For a better UI experince, please use slash commands instead of text commands."
 }
