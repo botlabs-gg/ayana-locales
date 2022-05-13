@@ -61,6 +61,7 @@
     "BENTOCORD_PROMPT_VALIDATE_ERROR": "**Failed to validate input. Please try again.**",
     "BENTOCORD_SUPPRESSOR_BOT_OWNER": "You are not a bot owner.",
     "BENTOCORD_SUPPRESSOR_CHANNEL_DENIED": "This command cannot be executed in the current channel.",
+    "BENTOCORD_SUPPRESSOR_DM": "This command must be executed in a Direct Message.",
     "BENTOCORD_SUPPRESSOR_GUILD": "This command must be executed in a server.",
     "BENTOCORD_SUPPRESSOR_GUILD_ADMIN": "You are not a server administrator.",
     "BENTOCORD_SUPPRESSOR_GUILD_DENIED": "This command cannot be executed in the current server.",
