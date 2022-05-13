@@ -1,4 +1,10 @@
 {
+    "COMMAND_MUSIC_BACK": "Предыдущий",
+    "COMMAND_MUSIC_FASTFORWARD": "Перемотать вперед",
+    "COMMAND_MUSIC_JOIN": "Присоединяйся",
+    "COMMAND_MUSIC_JUMP": "Прыгай",
+    "COMMAND_MUSIC_LEAVE": "Выйди",
+    "COMMAND_MUSIC_PAUSE": "Пауза",
     "DESCRIPTION_MUSIC": "Музыкальный проигрыватель Айяны",
     "DESCRIPTION_MUSIC_BACK": "Вернуться к предыдущему треку",
     "DESCRIPTION_MUSIC_DEBUG": "Показать дебаг-информацию, относящуюся к музыке",

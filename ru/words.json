@@ -1,7 +1,10 @@
 {
     "WORD_ACTIVE": "Активный",
+    "WORD_ALLOWED": "Разрешено",
+    "WORD_ASSIGN": "Назначить",
     "WORD_CANCELED": "Отменено",
     "WORD_CHANNEL": "Каналы",
+    "WORD_CHANNELS": "Каналы",
     "WORD_COLOR": "Цвет",
     "WORD_CONTAINER": "Контейнер",
     "WORD_CREATED": "Создан",
