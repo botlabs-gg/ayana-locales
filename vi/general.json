@@ -24,6 +24,7 @@
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Những vai trò được phép sử dụng lựa chọn `sneak` cho lệnh say",
     "USER_LOCALE_UPDATED": "Vị trí của bạn đã được đổi thành {locale}.",
     "USE_SLASH_COMMANDS": "Đoán xem?! Bây giờ mình đã hỗ trợ lệnh xẹc (/), hãy thử nó xem vì nó mang lại trải nghiệm tốt hơn cho bạn! Chỉ cần gõ `/` vào thanh chat và tìm biểu tượng của mình!",
+    "USE_SLASH_FOR_BETTER_UI": "Để có được trải nghiệm tốt nhất, hãy thử sử dụng lệnh xẹc (/) thay vì sử dụng tiền tố.",
     "USE_SLASH_HEADER": "Này khoan đã! Hãy thử lệnh xẹc (/) nhé!",
     "USE_SLASH_NO_SLASH": "Nếu bạn không thấy bất cứ lệnh xẹc (/) nào từ mình, xin hãy mời mình vào lại máy chủ [tại đây]({invite}).",
     "VIEW_LOCALE_HEADER": "[Cài đặt Ngôn ngữ hiện tại]"
