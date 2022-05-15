@@ -1,4 +1,6 @@
 {
+    "AYANA_HELP_AUTHOR": "¡Hola! ¡Soy Ayana!",
+    "AYANA_HELP_DESCRIPTION": "Abajo puedes ver todos los comandos que conozco.\nSi necesitas con alguna cosa, unete a nuestro [Servidor de Soporte (Inglés)]({support}).\n\n[Invítame]({invite}), [Invitación mínima]({minimal}), [Ayana PRO]({pro}), [Estado de Ayana]({status}), [Twitter]({twitter})\n\n**¡Que tengas un buen día!**",
     "AYANA_VERSION": "Versión de Ayana",
     "BENTOCORD_VERSION": "Versión de Bentocord",
     "BENTO_VERSION": "Versión de Bento",
@@ -21,5 +23,9 @@
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir a cualquier miembro mejorar el servidor a Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles que pueden usar la opción `sneak` en el comando say",
     "USER_LOCALE_UPDATED": "Tu configuración regional ahora es {locale}.",
+    "USE_SLASH_COMMANDS": "Ahora soporto comandos slash, ¡Pruebalos para una mejor experiencia! ¡Escribe`/` en la barra de texto y busca mi ícono!",
+    "USE_SLASH_FOR_BETTER_UI": "Para una mejor experiencia de UI, por favor usa comandos slash en vez de comandos de texto.",
+    "USE_SLASH_HEADER": "¡Oye! ¡Prueba los comandos slash!",
+    "USE_SLASH_NO_SLASH": "Si no ver mis comandos slash, por favor [apreta aquí]({invite}) y añádeme al servidor de nuevo.",
     "VIEW_LOCALE_HEADER": "[Configuración Regional Actual]"
 }
