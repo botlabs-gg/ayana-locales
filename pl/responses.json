@@ -8,6 +8,8 @@
     "ACTIONLOG_NODISABLEDEVENTS": "Nie ma wyłączonych wydarzeń.",
     "ACTIONLOG_SUCCESSRESPONSE": "Zaktualizowano ustawienia.",
     "ACTIONLOG_VALIDCHANNEL": "Proszę podaj poprawny kanał tekstowy",
+    "AFK_AFKSINCE": "AFK od",
+    "AFK_MENTIONMESSAGE": "Użytkownik {user} jest aktualnie AFK.",
     "AVATAR_DIRECT_LINK": "[Link]({link})",
     "AVATAR_GLOBAL": "[Avatar Globalny]({link})",
     "AVATAR_SERVER": "[Avatar Serwera]({link})",
