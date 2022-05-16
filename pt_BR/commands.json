@@ -40,6 +40,7 @@
     "COMMAND_LEWD": "lewd",
     "COMMAND_LICK": "lick",
     "COMMAND_LIST": "list",
+    "COMMAND_MIGRATE": "migrate",
     "COMMAND_MODLOG": "modlog",
     "COMMAND_MUSIC": "music",
     "COMMAND_NEKO": "neko",

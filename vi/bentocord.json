@@ -45,7 +45,7 @@
     "BENTOCORD_PREFIX": "Prefix hiện tại của Ayana là `{prefix}`.",
     "BENTOCORD_PREFIX_SET": "Prefix của server đã được chuyển thành `{prefix}`.",
     "BENTOCORD_PRESENCE_UPDATED": "Đã cập nhật Presence!",
-    "BENTOCORD_PROMPTMANAGER_UNLOAD": "Manager không khả dụng.",
+    "BENTOCORD_PROMPTMANAGER_UNLOAD": "Công cụ quản lý không khả dụng.",
     "BENTOCORD_PROMPT_CANCELED": "Dấu nhắc đã bị hủy bỏ.",
     "BENTOCORD_PROMPT_CANCELED_MAX_ATTEMPTS": "Bạn đã đạt giới hạn số lần thử không hợp lệ tối đa.",
     "BENTOCORD_PROMPT_CANCELED_NEW": "Dấu nhắc mới đã được mở.",
