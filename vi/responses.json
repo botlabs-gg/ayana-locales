@@ -85,40 +85,23 @@
     "PRO_DONATORTEXTNOTSET": "Bạn không có tin nhắn của người ủng hộ mà bạn có thể cập nhật nó.",
     "PRO_DOWNGRADED": "Máy chủ này không còn Ayana PRO.",
     "PRO_GUILDCHECK": "Máy chủ này đã được nâng cấp bởi `{by}` vào ngày: `{on}` (từ {ago} trước).",
-<<<<<<< HEAD
-    "PRO_INVALIDKEY": "Mã khoá bạn vừa nhập không hợp lệ.",
-    "PRO_KEYALREADYUSED": "Mã khoá mà bạn cố nhận đã bị sử dụng bởi người khác.",
-    "PRO_KEYNOTFOUND": "Không thể tìm thấy mã khoá bạn vừa nhập. Bạn còn {triesLeft} lần thử trong hôm nay.",
-=======
     "PRO_INVALIDKEY": "Mã kích hoạt bạn vừa nhập không hợp lệ.",
     "PRO_KEYALREADYUSED": "Mã kích hoạt mà bạn cố nhận đã bị sử dụng bởi người khác.",
     "PRO_KEYNOTFOUND": "Không thể tìm thấy mã kích hoạt bạn vừa nhập. Bạn còn {triesLeft} lần thử trong hôm nay.",
->>>>>>> weblate/v4
     "PRO_KEYRELOADERROR": "Đã nhận được mã của bạn nhưng đã có lỗi xảy ra trong quá trình khởi động lại. Sẽ mất một khoảng thời gian cho đến khi bạn được gia hạn dùng.",
     "PRO_NODATA": "Bạn không có Ayana PRO. Để biết thêm chi tiết vui lòng sử dụng lệnh `pro`.",
     "PRO_NOPATREON": "Bạn cần ủng hộ Ayana trên Patreon để cập nhật tin nhắn ủng hộ.",
     "PRO_NOPUBLICUPGRADES": "Máy chủ này không cho phép các nâng cấp Ayana PRO ngoài nội bộ. Kiểm tra `settings guild publicupgrades`.",
-<<<<<<< HEAD
-    "PRO_NOSUBSCRIPTIONS": "Bạn không có bất kì gia hạn Ayana PRO nào. Bạn có thể lấy Ayana PRO bằng cách ủng hộ Ayana trên Patreon.",
-    "PRO_NOTRIES": "Bạn không còn có thể thử nhận mã kích hoạt. Hãy quay lại vào ngày mai.",
-=======
     "PRO_NOSUBSCRIPTIONS": "Bạn không có gói Ayana PRO nào. Bạn có thể đăng ký Ayana PRO bằng cách ủng hộ Ayana trên Patreon.",
     "PRO_NOTRIES": "Đã hết lượt thử mã kích hoạt. Hãy quay lại vào ngày mai.",
->>>>>>> weblate/v4
     "PRO_NOTUPGRADED": "Máy chủ này chưa được nâng cấp lên Ayana PRO.",
     "PRO_PLEDGETOOLOW": "Uy tín Patreon của bạn quá thấp để cập nhật tin nhắn ủng hộ.",
     "PRO_PROCESSINGERROR": "Đã có lỗi xảy ra khi cố gắng giao tiếp với dịch vụ gia hạn.",
     "PRO_REDEEMERROR": "Đã có lỗi xảy ra khi cố gắng nhận mã kích hoạt của bạn.",
     "PRO_REDEEMINGKEY": "Đang nhận mã kích hoạt... Vui lòng chờ.",
-<<<<<<< HEAD
-    "PRO_REDEEMSUCCESS": "Nhận mã kích hoạt thành công! Bạn có thể kiểm tra gia hạn của bạn với lệnh `pro status` và nâng cấp máy chủ của bạn với lệnh `pro upgrade`.",
-    "PRO_UPGRADED": "Đã kích hoạt Ayana PRO trên máy chủ này.\nMời bạn ấy tại đây: {invite}",
-    "PRUNE_ALREADYPRUNING": "Đã có người sử dụng lệnh prune cho kênh này! Hãy chờ tới khi hoàn thành.",
-=======
     "PRO_REDEEMSUCCESS": "Đã kích hoạt mã thành công! Bạn có thể kiểm tra gói gia hạn của bạn với lệnh `pro status` và nâng cấp máy chủ của bạn với lệnh `pro upgrade`.",
     "PRO_UPGRADED": "Đã kích hoạt Ayana PRO trên máy chủ này.\nMời bạn ấy tại đây: {invite}",
     "PRUNE_ALREADYPRUNING": "Đã có người sử dụng lệnh xóa cho kênh này! Hãy chờ tới khi hoàn thành.",
->>>>>>> weblate/v4
     "PRUNE_AMOUNT": "Xoá đúng số lượng tin nhắn cần xoá",
     "PRUNE_ATTACHMENTS": "Chỉ xoá những tin nhắn chứa tệp đính kèm",
     "PRUNE_BOTS": "Xoá tất cả tin nhắn được gửi bởi bot",
@@ -136,11 +119,7 @@
     "PRUNE_OLDMESSAGENOTDELETED": "Những tin nhắn cũ chưa được xoá",
     "PRUNE_PINNED": "Xoá luôn những tin nhắn đã ghim (chúng sẽ không mặc định được xoá)",
     "PRUNE_REACTIONS": "Chỉ xóa những biểu cảm từ tin nhắn đang trỏ vào mà không xóa hẳn nó",
-<<<<<<< HEAD
-    "PRUNE_REMOVEDBYUSER": "Những tin nhắn có biểu cảm đã bị loại bỏ bởi người dùng",
-=======
     "PRUNE_REMOVEDBYUSER": "Những tin nhắn có biểu cảm của người dùng đã bị loại bỏ",
->>>>>>> weblate/v4
     "PRUNE_REMOVINGREACTIONS": "Đang loại bỏ biểu cảm khỏi {count} tin nhắn... Thao tác này sẽ mất một lúc.",
     "PRUNE_RESULTS": "Kết quả xóa",
     "PRUNE_SILENT": "Im lặng. Không cho in kết quả xóa khi kết thúc",
@@ -157,11 +136,7 @@
     "RANK_ASSIGN": "Bạn vừa được gán vai trò {role}",
     "RANK_UNASSIGN": "Bạn vừa bị thu hồi vai trò {role}",
     "REMINDER_CREATED": "Tôi chắc chắn sẽ nhắc cho bạn nhớ mà!",
-<<<<<<< HEAD
-    "REMINDER_DELETE_DONE": "Bộ nhắc bị xóa.",
-=======
     "REMINDER_DELETE_DONE": "Bộ nhắc đã được xóa.",
->>>>>>> weblate/v4
     "REMINDER_DELETE_NOMATCHES": "Không thể tìm thấy bất cứ lời nhắc nào trong bộ nhắc của bạn.",
     "REMINDER_DM": "Bạn yêu cầu tôi nhắc bạn nhớ cái này nè.\n{reminder}",
     "REMINDER_EVENTS_PROCESSINGERROR": "Đã có lỗi xảy ra khi đang cố giao tiếp với các dịch vụ sự kiện.",
