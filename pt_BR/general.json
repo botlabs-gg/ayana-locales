@@ -24,6 +24,7 @@
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Cargos permitidos para usar a opção `sneak` no comando say",
     "USER_LOCALE_UPDATED": "Seu idioma foi definido para {locale}.",
     "USE_SLASH_COMMANDS": "Adivinhe só?! Agora eu suporto comandos de barra, para uma melhor experiência de usuário dê uma chance a eles! Basta digitar `/` na barra abaixo e achar meu ícone!",
+    "USE_SLASH_FOR_BETTER_UI": "Para uma melhor experiência de usuário, por favor utilize os comandos de barra ao invés dos comandos de texto.",
     "USE_SLASH_HEADER": "Hey você! Teste os comandos de barra!",
     "USE_SLASH_NO_SLASH": "Se você não ver nenhum comando de barra meu, por favor [clique aqui]({invite}) e me readicione neste servidor.",
     "VIEW_LOCALE_HEADER": "[Configurações de tradução atuais]"
