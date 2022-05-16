@@ -1,6 +1,4 @@
 {
-    "COMMAND_AWOO": "",
-    "COMMAND_BIGTEXTD": "",
     "COMMAND_PERMS_CHANNEL_DESCRIPTION": "Quyền hạn của một kênh",
     "COMMAND_PERMS_DESCRIPTION": "Quản lý quyền hạn",
     "COMMAND_PERMS_GRANT_DESCRIPTION": "Trao quyền hạn",
