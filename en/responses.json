@@ -97,6 +97,7 @@
     "PRO_NOSUBSCRIPTIONS": "You don't have any PRO subscriptions. You can get Ayana PRO by supporting Ayana on Patreon.",
     "PRO_NOTRIES": "You have no more redeem tries for today. Please wait until tomorrow.",
     "PRO_NOTUPGRADED": "This server has not been upgraded to Ayana PRO.",
+    "PRO_ONLY": "Please upgrade this server to PRO to access this feature. For more information run the `pro` command.",
     "PRO_PLEDGETOOLOW": "Your Patreon pledge is too low to update your donation text.",
     "PRO_PROCESSINGERROR": "Something went wrong while trying to contact the subscription service.",
     "PRO_REDEEMERROR": "Something went wrong while trying to redeem your key.",
