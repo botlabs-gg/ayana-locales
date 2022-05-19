@@ -19,6 +19,7 @@
     "SETTING_GREETING_DM_DESCRIPTION": "Send to joining member's direct messages instead",
     "SETTING_GREETING_TEXT_DESCRIPTION": "Text to be used when greeting",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Should moderator actions performed via Ayana be logged",
+	"SETTING_SNEAK_EVERYONE_DESCRIPTION": "Allow everyone to use the `sneak` option, bypasses `sneak.roles`",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Channel to post modlogs to",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Allow any member to upgrade the server to Ayana PRO",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles allowed to use the `sneak` option on the say command",
