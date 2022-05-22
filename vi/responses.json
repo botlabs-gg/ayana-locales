@@ -49,7 +49,7 @@
     "INFO_USEFUL_LINKS": "**Một số liên kết:**\n[Mời Bot]({invite}), [Mời Bot với quyền hạn tối thiểu]({inviteMin}), [Trạng thái của Ayana]({status}), [Máy chủ hỗ trợ]({supportInvite}), [Ủng hộ]({donate}), [Twitter]({twitter}), [Facebook]({facebook})",
     "INVITE_ALPHA": "Chắc chắn rồi :ok_hand:\nĐể mời Ayana Alpha vào server của bạn, vui lòng nhấn vào link dưới:\n\n{invite}\n\nLưu ý: Đừng cho Ayana Alpha quá nhiều quyền hạn trong server của bạn. Bạn biết đấy, tính cách bả sáng nắng chiều mưa và bả không bồi thường cho bạn nếu bả làm gì quá đáng trong server của bạn đâu.",
     "INVITE_PRO": "Ayana PRO là một phiên bản được host riêng của Ayana và chỉ dành cho người hỗ trợ thông qua Patreon.\nBạn sẽ nhận được một số quyền lợi như: Phát nhạc chất lượng hơn, ít offline hơn, ổn định hơn.\n\nĐể tìm hiểu thêm, vui lòng ghé thăm {uri}.\nNếu bạn không muốn nâng cấp, bạn vẫn có thể thêm phiên bản dùng chung của Ayana tại đây {invite}.",
-    "INVITE_TEXT": "Chắc chắn rồi :ok_hand:\nĐể có thể cho Bot vào server của bạn, chọn một trong hai link sau:\n\nKèm quyền hạn được khuyến nghị: {invite}\nKèm quyền hạn tối thiểu: {invitemin}",
+    "INVITE_TEXT": "Chắc chắn rồi :ok_hand:\nĐể có thể cho Bot vào máy chủ của bạn, hãy chọn một trong hai link sau:\n\nQuyền hạn được khuyến nghị: {invite}\n\nQuyền hạn tối thiểu: {invitemin}",
     "KICK_TARGETHIGHERROLE": "Bạn không thể chỉnh sửa vì {target} có vai trò cao hơn bạn.",
     "KICK_TARGETHIGHERTHANBOT": "Ayana không thể chỉnh sửa vì {target} có vai trò cao hơn Ayana.",
     "MODLOG_DISABLED": "Nhật ký quản lý đã bị tắt trong cài đặt.",
