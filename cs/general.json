@@ -21,9 +21,11 @@
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Nastaví oznámení o moderátorských akcích vykonané přes Ayanu",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Kanál, do kterého se bude posílat modlog",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Povolit jakémukoliv členovi upgradovat server na Ayanu PRO",
+    "SETTING_SNEAK_EVERYONE_DESCRIPTION": "Povolí všem používat možnost `sneak`, obchází `sneak.roles`",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Role, které mohou použít možnost `sneak` na příkazu say",
     "USER_LOCALE_UPDATED": "Tvůj jazyk byl nastaven na {locale}.",
     "USE_SLASH_COMMANDS": "Víš co?! Teď podporuji /příkazy, zkus je pro lepší uživatelský zážitek! Stačí napsat `/` do kolonky níže a najít moji ikonu!",
+    "USE_SLASH_FOR_BETTER_UI": "Pro lepší uživatelský zážitek prosím používej /příkazy místo textových.",
     "USE_SLASH_HEADER": "Hej ty! Zkus /příkazy!",
     "USE_SLASH_NO_SLASH": "Pokud nevidíš žádné /příkazy, prosím, [klikni sem]({invite}) a pozvi mě znovu na server.",
     "VIEW_LOCALE_HEADER": "[Aktuální nastavení jazyka]"

@@ -68,7 +68,7 @@
     "PERMISSIONS_RESET_TARGET_CHANNEL": "在`{channel}`的權限 `{permission}`已被重置為預設值`{target}`。",
     "PERMISSIONS_REVOKE_TARGET": "`{target}`的權限`{permission}`已被撤銷。",
     "PERMISSIONS_REVOKE_TARGET_CHANNEL": "`{target}`在`{channel}`的權限`{permission}`已被撤銷。",
-    "PERMISSIONS_SHOW_ALL_HEADER": "在{level}的所有權限覆載。請從下列擇一查看更多",
+    "PERMISSIONS_SHOW_ALL_HEADER": "在{level}的所有權限將被覆載。請從下列擇一查看更多",
     "PERMISSIONS_SHOW_ALL_ITEM": "{target}：{count}個權限覆載",
     "PERMISSIONS_SHOW_ALL_ITEM_CHANNEL": "{channel}內的{target}：{count}個權限覆載",
     "PERMISSIONS_SHOW_HEADER": "與`{target}`有關的權限覆載",
