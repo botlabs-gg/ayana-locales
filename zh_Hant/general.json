@@ -21,8 +21,12 @@
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "紀錄透過Ayana執行的管理行動",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "用於顯示管理行動的頻道",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "允許所有成員將此伺服器升級成Ayana PRO",
+    "SETTING_SNEAK_EVERYONE_DESCRIPTION": "讓所有人都可以使用`sneak`選項，略過`sneak.roles`限制",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "讓指定的身份組在使用say命令時可搭配`sneak`選項",
     "USER_LOCALE_UPDATED": "您的語言已被設置成 {locale}。",
     "USE_SLASH_COMMANDS": "你知道嗎？為了讓您擁有更好的使用者體驗，Ayana已經支援斜線命令了！請在輸入區塊使用`/`後並點擊我的頭像！",
+    "USE_SLASH_FOR_BETTER_UI": "為了獲得更好的使用者體驗，請使用斜線命令來取代文字命令。",
+    "USE_SLASH_HEADER": "嘿！試試斜線命令！",
+    "USE_SLASH_NO_SLASH": "如果你尚未看到與我有關的斜線命令，請點擊[此連結]({invite})將我重新加入伺服器。",
     "VIEW_LOCALE_HEADER": "[當前語言設定]"
 }
