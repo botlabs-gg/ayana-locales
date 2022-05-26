@@ -1,6 +1,8 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "El comando `{command}` no existe.",
     "BENTOCORD_ADV_NO_RECURSIVE": "La ejecución recursiva no está permitida.",
+    "BENTOCORD_AVATAR_UPDATED": "Avatar actualizado!",
+    "BENTOCORD_AVATAR_UPDATING": "Actualizando avatar...",
     "BENTOCORD_COMMANDMANAGER_ERROR": "Se ha producido un error al ejecutar este comando: `{error}`",
     "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "El comando no puede ser ejecutado. Se deben conceder los siguientes permisos:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "Avanzado",
