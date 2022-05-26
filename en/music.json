@@ -50,6 +50,7 @@
     "MUSIC_JOIN_MESSAGE": ":white_check_mark: Joined :speaker:`{voice}`.",
     "MUSIC_JUMPED": "Jumped to `{track}` at position **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Left and unbound channels.",
+    "MUSIC_MISSING_PERMISSION_TO_JOIN": "An error occured while executing this command: `Permission denied to join this voice channel`.",
     "MUSIC_NOT_PLAYING": "There is nothing playing.",
     "MUSIC_NO_MATCHES": "Failed to find any suitable matches",
     "MUSIC_NO_TRACK_AT_POSITION": "There is no track at that position.",
