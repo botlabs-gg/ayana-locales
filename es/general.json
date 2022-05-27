@@ -31,5 +31,12 @@
     "USE_SLASH_FOR_BETTER_UI": "Para una mejor experiencia en la interfaz de usuario, por favor, utilice comandos de barra en lugar de comandos de texto.",
     "USE_SLASH_HEADER": "¡Hola! ¡Prueba los comandos de barra!",
     "USE_SLASH_NO_SLASH": "Si no ves ningún comando de barra de mi parte, por favor [haz clic aquí]({invite}) y vuelve a agregarme a este servidor.",
+    "V4_WELCOME_BETTER_PROMPTING": "Ahora pido más información cuando un comando no tiene sentido para mí. Por ejemplo, si olvidaste un subcomando o diste un valor inválido, te pediré uno válido. Las preguntas pueden ser respondidas usando el comando `/r` o por mensaje como antes",
+    "V4_WELCOME_DESCRIPTION": "¡Ayana aquí! ¡Estoy muy emocionada de daros la bienvenida a la V4! Hace tiempo que se está trabajando en ello y por fin puedo mostraros las novedades. ¡Así que no perdamos el tiempo! Consulta el registro de cambios completo en nuestro [servidor de soporte]({link}).",
+    "V4_WELCOME_MUSIC_IMPROVEMENTS": "Mi sistema de música ha sido **mejorado**, yo **recomiendo** que revises `ayuda a la música` o `música` para saber qué hay de nuevo. El cambio más importante es que la cola está ahora basada en la posición**, lo que significa que las canciones no se mueven o se borran después de ser reproducidas. ¡Además, ahora tengo nuevos proveedores, **soporte de búsqueda**, borrado por rango, **salto**, backskip y más!",
+    "V4_WELCOME_PATH_FORWARD": "La V4 facilita mucho mi trabajo y el de mis desarrolladores. Casi **todo** entre bastidores ha sido **mejorado**, lo que significa que cuando me siento mal puedo ayudarles a descubrir lo que está mal. No sólo eso, sino que la creación de **nuevas funciones** vuelve a ser viable. La V4 marca un **nuevo capítulo** para mí, ¡y estoy muy emocionada de mostrarles lo que viene! Sé que les va a encantar",
+    "V4_WELCOME_SLASH_COMMANDS": "¡Ahora apoyo los **comandos de barra** y son el **método preferido** para interactuar conmigo en adelante! También tengo soporte completo para la localización y con el paso del tiempo verás lo que quiero decir. En cualquier caso, ¡escribe `/` y busca mi avatar para probarlos!",
+    "V4_WELCOME_TITLE": "Hola a todos. ¡Bienvenido/a a la V4!",
+    "V4_WELCOME_WORD_MUSIC_IMPROVEMENTS": "MEJORAS MUSICALES",
     "VIEW_LOCALE_HEADER": "[Configuración actual de la localidad]"
 }
