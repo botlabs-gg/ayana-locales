@@ -184,6 +184,7 @@
     "SAY_FOOTER": "The above message is user-generated content. Set `sneak` to true to remove this embed.",
     "SAY_SNEAK_NO_ROLE": "You do not have a valid role to use sneak on this server. See the `sneak.roles` server setting.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} text / {voice} voice",
+    "SETTINGS_NO_SETTINGS": "There are no settings available.",
     "SETTINGS_SETTING_NOT_FOUND": "`{setting}` is not a valid setting.",
     "SETTINGS_SETTING_RESET": "Reset `{setting}` to default.",
     "SETTINGS_SETTING_SET": "Setting `{setting}` set to {value}.",

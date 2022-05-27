@@ -102,6 +102,7 @@
     "COMMAND_SETTINGS": "settings",
     "COMMAND_SETTINGS_DESCRIPTION": "View and manage server settings",
     "COMMAND_SETTINGS_GET_DESCRIPTION": "Show value of a setting",
+    "COMMAND_SETTINGS_LIST_DESCRIPTION": "Display list of available settings",
     "COMMAND_SETTINGS_RESET_DESCRIPTION": "Reset a setting to default",
     "COMMAND_SETTINGS_SET_DESCRIPTION": "Set value of a setting",
     "COMMAND_SHOW": "show",
