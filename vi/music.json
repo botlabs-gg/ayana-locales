@@ -90,7 +90,7 @@
     "OPTION_MUSIC_QUERY_POSITION_DESCRIPTION": "Vị trí hoặc tựa đề",
     "OPTION_MUSIC_QUEUE_POSITION_DESCRIPTION": "Xếp vào hàng chờ sau bài hát tại vị trí",
     "OPTION_MUSIC_REPEAT_MODE_DESCRIPTION": "Chế độ lặp",
-    "OPTION_MUSIC_REWIND_AMOUNT_DESCRIPTION": "Số lượng nghe lại",
+    "OPTION_MUSIC_REWIND_AMOUNT_DESCRIPTION": "Số lượng tua lùi",
     "OPTION_MUSIC_SEEK_POSITION_DESCRIPTION": "Nhảy tới vị trí",
     "OPTION_MUSIC_VOLUME_PERCENT_DESCRIPTION": "Số phần trăm âm lượng trong khoảng từ 0 đến 125"
 }
