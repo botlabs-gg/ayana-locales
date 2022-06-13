@@ -21,7 +21,7 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "환영 인사를 할 때 사용될 메시지",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Ayana를 통해 수행된 관리 작업들을 기록",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "관리 작업을 기록할 채널",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "트랙이 바뀔 때 알림",
+    "SETTING_MUSIC_ANNOUNCE_DESCRIPTION": "트랙이 바뀔 때 알림",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "모든 멤버가 Ayana PRO로 업그레이드 할 수 있도록 허용",
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "모두가 'sneak.roles' 를 무시하고 'sneak' 옵션을 사용할 수 있도록 하용",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "say 명령에서 'sneak' 옵션을 사용할 수 있는 역할을 지정",

@@ -22,7 +22,7 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "Tin nhắn được sử dụng trong thông báo chào mừng",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Hành động của quản lý sẽ được ghi lại bởi Ayana",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Kênh để đăng những hành động của quản lý",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Thông báo thay đổi bài hát",
+    "SETTING_MUSIC_ANNOUNCE_DESCRIPTION": "Thông báo thay đổi bài hát",
     "SETTING_MUSIC_PERSIST_DESCRIPTION": "Tự thêm lại bài hát sau khi nó được phát",
     "SETTING_MUSIC_VOICE_DESCRIPTION": "Kênh đàm thoại được dùng khi tham gia",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Cho phép bất cứ thành viên nào nâng cấp máy chủ lên Ayana PRO",

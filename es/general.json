@@ -22,7 +22,7 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "Texto a utilizar en el saludo",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Deben registrarse las acciones de los moderadores realizadas a través de Ayana",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Canal para publicar modlogs",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Deben anunciarse los cambios de pista",
+    "SETTING_MUSIC_ANNOUNCE_DESCRIPTION": "Deben anunciarse los cambios de pista",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir a cualquier miembro actualizar el servidor a Ayana PRO",
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "Permitir que todo el mundo utilice la opción 'sneak', omite 'sneak.roles'",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Roles que tienes permitido usar la opción 'sneak' en el comando say",
