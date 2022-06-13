@@ -184,6 +184,7 @@
     "SAY_FOOTER": "以上訊息為使用者提供的內容。設定`sneak`可以將此內嵌移除。",
     "SAY_SNEAK_NO_ROLE": "您在此伺服器尚未擁有用於藏匿自己的有效身份組。查看`sneak.role`的伺服器設定。",
     "SERVERINFO_CHANNEL_COUNTS": "{text} 文字 / {voice} 語音",
+    "SETTINGS_NO_SETTINGS": "沒有可用的設定。",
     "SETTINGS_SETTING_NOT_FOUND": "`{setting}`不是個有效的設定。",
     "SETTINGS_SETTING_RESET": "已將`{setting}`重設為預設值。",
     "SETTINGS_SETTING_SET": "已將`{setting}`設定為{value}。",
