@@ -22,7 +22,6 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "Použitý text pro oznámení o příchodu",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Nastaví oznámení o moderátorských akcích vykonané přes Ayanu",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Kanál, do kterého se bude posílat modlog",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Měly by být oznamovány změny skladeb",
     "SETTING_MUSIC_PERSIST_DESCRIPTION": "Měly by skladby zůstat poté, co jsou přehrány",
     "SETTING_MUSIC_VOICE_DESCRIPTION": "Hlasový kanál, který se bude používat při příchodu",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Povolit jakémukoliv členovi upgradovat server na Ayanu PRO",

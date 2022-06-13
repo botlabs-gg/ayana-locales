@@ -22,7 +22,6 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "Texto que será utilizado nas boas vindas",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Devem ser logadas as ações de moderação executadas pela Ayana",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Canal para enviar as mensagens de log",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "As mudanças de faixa devem ser anunciadas",
     "SETTING_MUSIC_PERSIST_DESCRIPTION": "As faixas devem ser persistidas após a execução",
     "SETTING_MUSIC_VOICE_DESCRIPTION": "Canal de voz a ser usado ao entrar",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Permitir qualquer membro para atualizar o servidor para Ayana PRO",
