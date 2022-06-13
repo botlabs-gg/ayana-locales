@@ -24,6 +24,7 @@
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Kênh để đăng những hành động của quản lý",
     "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Thông báo thay đổi bài hát",
     "SETTING_MUSIC_PERSIST_DESCRIPTION": "Tự thêm lại bài hát sau khi nó được phát",
+    "SETTING_MUSIC_VOICE_DESCRIPTION": "Kênh đàm thoại được dùng khi tham gia",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Cho phép bất cứ thành viên nào nâng cấp máy chủ lên Ayana PRO",
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "Cho phép tất cả mọi người sử dụng lựa chọn 'sneak', vượt qua cả quyền 'sneak.roles'",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "Những vai trò được phép sử dụng lựa chọn 'sneak' cho lệnh say",
