@@ -29,6 +29,7 @@
     "COMMAND_PRO_UPGRADE_DESCRIPTION": "Upgraduje tento server na Ayanu PRO",
     "COMMAND_SETTINGS_DESCRIPTION": "Ukáže a spravuje nastavení serveru",
     "COMMAND_SETTINGS_GET_DESCRIPTION": "Ukáže hodnotu nastavení",
+    "COMMAND_SETTINGS_LIST_DESCRIPTION": "Ukáže seznam dostupných nastavení",
     "COMMAND_SETTINGS_RESET_DESCRIPTION": "Obnoví nastavení na výchozí hodnoty",
     "COMMAND_SETTINGS_SET_DESCRIPTION": "Nastaví hodnotu nastavení",
     "COMMAND_USERSETTINGS_DESCRIPTION": "Ukáže a spravuje nastavení uživatele",
