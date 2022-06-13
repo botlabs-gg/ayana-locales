@@ -184,6 +184,7 @@
     "SAY_FOOTER": "Výše zobrazená zpráva je uživatelsky generovaný obsah. Nastav nastavení `sneak` na true pro odstranění tohoto embedu.",
     "SAY_SNEAK_NO_ROLE": "Nemáš platnou roli pro použití funkce \"sneak\". Viz nastavení serveru `sneak.roles`.",
     "SERVERINFO_CHANNEL_COUNTS": "{text} textových / {voice} hlasových",
+    "SETTINGS_NO_SETTINGS": "Nejsou dostupná žádná nastavení.",
     "SETTINGS_SETTING_NOT_FOUND": "`{setting}` není platné nastavení.",
     "SETTINGS_SETTING_RESET": "Nastavení `{setting}` bylo obnoveno na výchozí nastavení.",
     "SETTINGS_SETTING_SET": "Nastavení `{setting}` bylo nastaveno na {value}.",
