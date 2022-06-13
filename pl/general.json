@@ -1,10 +1,10 @@
 {
     "AYANA_HELP_AUTHOR": "Cześć! Jestem Ayana!",
-    "AYANA_HELP_DESCRIPTION": "Poniżej możesz zobaczyć wszystkie polecenia, które znam.\nJeśli potrzebujesz pomocy, dołącz do naszego [Serwera Wsparcia]({support}).\n\n[Zaproś Mnie]({invite}), [Minimalne zaproszenie]({minimal}), [Ayana PRO]({pro}), [Ayana Status]({status}), [Twitter]({twitter})\n\n**Miłego dnia!**",
+    "AYANA_HELP_DESCRIPTION": "Poniżej możesz zobaczyć wszystkie polecenia, które znam.\nJeśli potrzebujesz pomocy, dołącz na nasz [Serwer Wsparcia]({support}).\n\n[Zaproś Mnie]({invite}), [Szybkie zaproszenie]({minimal}), [Ayana PRO]({pro}), [Ayana Status]({status}), [Twitter]({twitter})\n\n**Miłego dnia!**",
     "AYANA_VERSION": "Wersja Ayany",
     "BENTOCORD_VERSION": "Wersja Bentocord",
     "BENTO_VERSION": "Wersja Bento",
-    "GATEWAY_FAILURE": "Nie udało się skontaktować z Gateway. Spróbuj ponownie później.",
+    "GATEWAY_FAILURE": "Nie udało połączyć się z Gateway. Spróbuj ponownie później.",
     "GENERAL_ERROR": "Wystąpił błąd. Jeśli potrzebujesz dodatkowej pomocy, zgłoś się do naszego serwera wsparcia (wpisz komendę `support`, aby otrzymać zaproszenie).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Język serwera został zmieniony na {locale}.",
     "LOCALIZATION_FAILURE": "Nie znaleziono tłumaczenia dla `{key}`",
