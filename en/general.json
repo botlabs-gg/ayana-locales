@@ -22,7 +22,7 @@
     "SETTING_GREETING_TEXT_DESCRIPTION": "Text to be used when greeting",
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Should moderator actions performed via Ayana be logged",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Channel to post modlogs to",
-    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Should track changes be annouced",
+    "SETTING_MUSIC_ANNOUCE_DESCRIPTION": "Should track changes be announced",
     "SETTING_MUSIC_PERSIST_DESCRIPTION": "Should tracks be persisted after they are played",
     "SETTING_MUSIC_VOICE_DESCRIPTION": "Voice Channel to be used when joining",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "Allow any member to upgrade the server to Ayana PRO",
