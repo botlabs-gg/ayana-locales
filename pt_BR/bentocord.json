@@ -4,7 +4,7 @@
     "BENTOCORD_AVATAR_UPDATED": "Avatar atualizado!",
     "BENTOCORD_AVATAR_UPDATING": "Atualizando avatar...",
     "BENTOCORD_COMMANDMANAGER_ERROR": "Um erro ocorreu enquanto este comando era executado: `{error}`",
-    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Comando não pode ser executado. As permissões seguintes são necessárias:\n```{permissions}```",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Comando não pode ser executado. As permissões do Discord seguintes são necessárias:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "avancado",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Rodar comandos expostos sem barra",
     "BENTOCORD_COMMAND_BENTO": "bento",
