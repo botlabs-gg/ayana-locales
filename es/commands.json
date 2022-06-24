@@ -39,6 +39,8 @@
     "COMMAND_LEWD": "lascivo",
     "COMMAND_LICK": "Lamer",
     "COMMAND_LIST": "Lista",
+    "COMMAND_MIGRATE": "migrar",
+    "COMMAND_MODLOG": "Registro de Moderadores",
     "COMMAND_MUSIC": "Música",
     "COMMAND_NYAN": "Nyan",
     "COMMAND_OWO": "OwO",
