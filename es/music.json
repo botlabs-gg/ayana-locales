@@ -40,6 +40,7 @@
     "DESCRIPTION_MUSIC_SHUFFLE": "Mezclar la cola",
     "DESCRIPTION_MUSIC_SKIP": "Saltar a la siguiente pista",
     "DESCRIPTION_MUSIC_STOP": "Dejar de reproducir",
+    "DESCRIPTION_MUSIC_VOLUME": "Ajustar volumen de reproductor",
     "MUSIC_AUTHOR_NO_CHANNEL": "No parece que estés en un canal de voz.",
     "MUSIC_AUTOLEAVE": "He dejado el canal debido a la inactividad.",
     "MUSIC_BACKSKIPPED": ":arrow_backward: Se retrocedió `{track}`.",
