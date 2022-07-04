@@ -1,5 +1,6 @@
 {
-    "AYANA_HELP_AUTHOR": "안녕하세요! Ayana에요!",
+    "AYANA_HELP_AUTHOR": "안녕하세요! 저는 Ayana에요!",
+    "AYANA_HELP_DESCRIPTION": "아래에 제가 알고있는 모든 명령어들이 나와있어요.\n만약 도움이 필요하시다면 언제든지 저희 [서포트 서버]({support})에 참여해 주세요.\n\n[봇 초대]({invite}), [최소 권한으로 초대]({minimal}), [Ayana PRO]({pro}), [Ayana 상태]({status}), [트위터]({twitter})\n\n**좋은 하루 되세요!**",
     "AYANA_VERSION": "Ayana 버전",
     "BENTOCORD_VERSION": "Bentocord 버전",
     "BENTO_VERSION": "Bento 버전",
@@ -22,6 +23,8 @@
     "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Ayana를 통해 수행된 관리 작업들을 기록",
     "SETTING_MODLOG_CHANNEL_DESCRIPTION": "관리 작업을 기록할 채널",
     "SETTING_MUSIC_ANNOUNCE_DESCRIPTION": "트랙이 바뀔 때 알림",
+    "SETTING_MUSIC_PERSIST_DESCRIPTION": "트랙을 재생한 후 해당 트랙을 유지할 것인지 여부",
+    "SETTING_MUSIC_VOICE_DESCRIPTION": "참가할 때 사용될 음성 채널",
     "SETTING_PRO_PUBLIC_DESCRIPTION": "모든 멤버가 Ayana PRO로 업그레이드 할 수 있도록 허용",
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "모두가 'sneak.roles' 를 무시하고 'sneak' 옵션을 사용할 수 있도록 하용",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "say 명령에서 'sneak' 옵션을 사용할 수 있는 역할을 지정",
