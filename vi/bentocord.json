@@ -4,7 +4,7 @@
     "BENTOCORD_AVATAR_UPDATED": "Đã cập nhật ảnh đại diện!",
     "BENTOCORD_AVATAR_UPDATING": "Đang cập nhật ảnh đại diện...",
     "BENTOCORD_COMMANDMANAGER_ERROR": "Đã có lỗi xảy ra khi đang cố thực thi lệnh này: `{error}`",
-    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Không thể thực thi lệnh. Những quyền hạn sau phải được cho phép:\n```{permissions}```",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Không thể thực thi lệnh. Những quyền sau phải được cho phép:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "cao cấp",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Chạy những lệnh không phải lệnh xẹc (/)",
     "BENTOCORD_COMMAND_BENTO": "cơm hộp",
