@@ -1,6 +1,8 @@
 {
     "BENTOCORD_ADV_NOTEXIST": "Команды `{command}` не существует.",
     "BENTOCORD_ADV_NO_RECURSIVE": "Рекурсивное выполнение запрещено.",
+    "BENTOCORD_AVATAR_UPDATED": "Аватар обновлен!",
+    "BENTOCORD_AVATAR_UPDATING": "Обновление аватара...",
     "BENTOCORD_COMMANDMANAGER_ERROR": "Произошла ошибка при выполнении данной команды: `{error}`",
     "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Команда не может быть выполнена. Должны быть предоставлены следующие разрешения:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "Продвинулся",
