@@ -9,5 +9,8 @@
     "GUILD_LOCALE_UPDATED": "Язык сервера изменен на {locale}.",
     "LOCALIZATION_FAILURE": "Невозможно найти перевод для `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Невозможно форматировать перевод `{key}`: {error}",
+    "SETTING_AUTOROLE_ROLE_DESCRIPTION": "Роль, которую нужно дать при присоединении",
+    "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Должны ли быть объявлены участники, покидающие сервер",
+    "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Канал, на котором будет размещено прощальное сообщение",
     "USER_LOCALE_UPDATED": "Ваш язык изменен на {locale}."
 }

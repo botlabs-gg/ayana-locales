@@ -50,6 +50,7 @@
     "COMMAND_OWO": "owo",
     "COMMAND_PAT": "pat",
     "COMMAND_PERMS_CHANNEL": "채널",
+    "COMMAND_PERMS_CHANNEL_DESCRIPTION": "채널에 대한 권한",
     "COMMAND_PERMS_DESCRIPTION": "권한 관리",
     "COMMAND_PERMS_GRANT": "부여",
     "COMMAND_PERMS_GRANT_DESCRIPTION": "권한 노드 부여",
