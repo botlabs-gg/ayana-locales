@@ -1,1 +1,12 @@
-{}
+{
+    "BENTOCORD_ADV_NOTEXIST": "Il comando `{command}` non esiste.",
+    "BENTOCORD_ADV_NO_RECURSIVE": "L'esecuzione ricorsiva non è consentita.",
+    "BENTOCORD_AVATAR_UPDATED": "Avatar aggiornato!",
+    "BENTOCORD_AVATAR_UPDATING": "Aggiornamento dell'avatar in corso...",
+    "BENTOCORD_COMMANDMANAGER_ERROR": "Si è verificato un errore durante l'esecuzione di questo comando: `{error}`",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Impossibile eseguire il comando. È necessario concedere le seguenti autorizzazioni Discord:\n```{permissions}```",
+    "BENTOCORD_COMMAND_ADV": "avanzate",
+    "BENTOCORD_COMMAND_BENTO": "bento",
+    "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Visualizza i dettagli del bentocord",
+    "BENTOCORD_COMMAND_HELP": "aiuto"
+}
