@@ -33,15 +33,5 @@
     "USE_SLASH_FOR_BETTER_UI": "Para uma melhor experiência de usuário, por favor utilize os comandos de barra ao invés dos comandos de texto.",
     "USE_SLASH_HEADER": "Hey você! Teste os comandos de barra!",
     "USE_SLASH_NO_SLASH": "Se você não ver nenhum comando de barra meu, por favor [clique aqui]({invite}) e me readicione neste servidor.",
-    "V4_WELCOME_BETTER_PROMPTING": "Eu agora peço mais informações quando um comando não faz sentido para mim. Por exemplo, se você esqueceu um sub-comando ou passou um valor inválido, eu vou te pedir um valor correto. Essas perguntas podem ser respondidas usando o comando `/r` ou por mensagem como antes",
-    "V4_WELCOME_DESCRIPTION": "Ayana aqui! Estou muito excitada para te dar as boas vindas as V4! Ela tem sido trabalhada a um tempo e eu finalmente posso te mostrar o que há de novo! Então não vamos perder tempo! Veja o changelog completo em nosso servidor de suporte [support server]({link}).",
-    "V4_WELCOME_MUSIC_IMPROVEMENTS": "Meu sistema de música foi **vastamente** aperfeiçoado, I **altamente recomendo** que você de uma olhada no `help music` ou `/music` para ver o que tem de novo. A maior mudança é **a fila agora é baseada e posição**, isso significa que as músicas não são movidas ou removidas depois de tocadas. Adicionalmente, agora tenho novos provedores, **suporte a busca (avançar o tempo da faixa)**, deletar por perímetro, **pular**, retroceder e mais!",
-    "V4_WELCOME_PATH_FORWARD": "V4 faz o meu trabalho e do meu desenvolvedor, muito mais fácil! Praticamente **tudo** atrás das cortinas foi **melhorado**, isso significa que quando estou me sentindo mal, eu posso ajudá-lo a descobrir o que há de errado. Não somente criando **novos recursos** é viável novamente. V4 maca um **novo capítulo** para mim, e estou muito excitada para te mostrar o que vem por aí! Você irá amar!",
-    "V4_WELCOME_SLASH_COMMANDS": "Eu agora suporto **comandos de barra** e eles são o **método preferido** de interagir comigo de agora em diante! Eu tenho suporte completo para localização também e com o passar do tempo, você verá o que estou falando. De qualquer forma, apenas digite `/` e encontre meu avatar para testar!",
-    "V4_WELCOME_TITLE": "Olá! Seja bem vindo a V4!",
-    "V4_WELCOME_WORD_BETTER_PROMPTING": "SUGESTÃO MELHORADA",
-    "V4_WELCOME_WORD_MUSIC_IMPROVEMENTS": "MELHORIA NA MÚSICA",
-    "V4_WELCOME_WORD_PATH_FORWARD": "CAMINHO A SEGUIR",
-    "V4_WELCOME_WORD_SLASH_COMMANDS": "COMANDOS DE BARRA",
     "VIEW_LOCALE_HEADER": "[Configurações de tradução atuais]"
 }

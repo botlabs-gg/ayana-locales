@@ -32,15 +32,5 @@
     "USE_SLASH_FOR_BETTER_UI": "Pro lepší uživatelský zážitek prosím používej /příkazy místo textových.",
     "USE_SLASH_HEADER": "Hej ty! Zkus /příkazy!",
     "USE_SLASH_NO_SLASH": "Pokud nevidíš žádné /příkazy, prosím, [klikni sem]({invite}) a pozvi mě znovu na server.",
-    "V4_WELCOME_BETTER_PROMPTING": "Nyní se ptám na více informací, když mi příkaz nedává celkem smysl. Například, pokud zapomeneš podpříkaz nebo poskytneš neplatnou hodnotu, zeptám se na platnou hodnotu. Na tento dotaz lze odpovědět pomocí příkazu `/r` nebo pomocí zprávy jako předtím",
-    "V4_WELCOME_DESCRIPTION": "Tady Ayana! Jsem velmi nadšená ti představit V4! Byla nějaký ten pátek ve vývoji a teď ti můžu konečně ukázat, co je nového! Takže neztrácejme čas! Podívej se na celý changelog na našem [serveru podpory]({link}).",
-    "V4_WELCOME_MUSIC_IMPROVEMENTS": "Můj systém hudby prošel **velkými** vylepšeními, **doporučuji** se podívat na `/help music` nebo `/music` pro zjištění, co je nového. Největší změnou je **založení fronty na pozici**, což znamená, že se skladby nepřesouvají nebo nemažou po přehrání. Dále mám nové poskytovatele, **podporu přetáčení**, mazání podle rozsahu, **skok**, přeskočení vzad a více!",
-    "V4_WELCOME_PATH_FORWARD": "V4 ulehčuje prácí mně a mým vývojářům! Skoro **všechno** za oponou je **vylepšeno**, což znamená, že pokud se mi udělá špatně, mohu jim pomoci zjistit, co je špatně. Nejen to, přidávání **nových funkcí** je opět možné. V4 je pro mě **novou kapitolou**, a tak jsem nadšena ti ukázat, co bude dál! Vím, že se ti to bude líbit!",
-    "V4_WELCOME_SLASH_COMMANDS": "Teď podporuji **/příkazy** a jsou odteď **preferovanou metodou** interakce se mnou! Také plně podporuji lokalizaci a postupem času uvidíš, co to bude znamenat. Napiš `/` a najdi můj avatar pro vyzkoušení!",
-    "V4_WELCOME_TITLE": "Ahoj! Vítej ve V4!",
-    "V4_WELCOME_WORD_BETTER_PROMPTING": "LEPŠÍ DOTAZOVÁNÍ",
-    "V4_WELCOME_WORD_MUSIC_IMPROVEMENTS": "VYLEPŠENÍ HUDBY",
-    "V4_WELCOME_WORD_PATH_FORWARD": "CESTA DÁLE",
-    "V4_WELCOME_WORD_SLASH_COMMANDS": "/PŘÍKAZY",
     "VIEW_LOCALE_HEADER": "[Aktuální nastavení jazyka]"
 }

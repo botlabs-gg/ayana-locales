@@ -33,15 +33,5 @@
     "USE_SLASH_FOR_BETTER_UI": "Para una mejor experiencia de UI, por favor usa comandos slash en vez de comandos de texto.",
     "USE_SLASH_HEADER": "¡Oye! ¡Prueba los comandos slash!",
     "USE_SLASH_NO_SLASH": "Si no ver mis comandos slash, por favor [apreta aquí]({invite}) y añádeme al servidor de nuevo.",
-    "V4_WELCOME_BETTER_PROMPTING": "Ahora pediré más información cuando un comando no me hace sentido del todo. Por ejemplo si se te olvidó un subcomando o diste un valor inválido, te pediré uno válido. Estas peticiones se pueden responder con el comando `/r` o por mensaje, como antes",
-    "V4_WELCOME_DESCRIPTION": "¡Hola, soy Ayana! ¡Estoy muy emocionada de darte la bienvenida a la V4! ¡Ha estado un buen rato en desarrollo y finalmente te puedo mostrar todo lo nuevo que hay! ¡No malgastemos mas tiempo! Puedes ver todos los cambios en nuestro [servidor de soporte]({link}).",
-    "V4_WELCOME_MUSIC_IMPROVEMENTS": "Mi sistema de música ha mejorado **mucho**, Te recomiendo que mires `help music` o `/music` para ver todo lo nuevo. El mayor cambio es que **la lista ahora está basada en la posición**, o sea que las canciones no se mueven ni borran despues de tocarse. Además, ahora tengo proveedores nuevos, **soporte para moverse en la cancion**, eliminar por rango, **saltar a una canción específica**, volver a la canción anterior, ¡y mas!",
-    "V4_WELCOME_PATH_FORWARD": "¡V4 hace que mi pega, y la de mis desarrolladores sea mucho más fácil! Casi **todo** detras de la cortina ha **mejorado**, así que cuando me siento mal puedo ayudarles a ver que me pasó. Además, añadir cosas **nuevas** es razonable de nuevo. ¡V4 es el comienzo de un **nuevo capítulo** para mí, y estoy muy emocionada de mostrarte lo que viene a futuro! ¡Estoy segura que te va a encantar!",
-    "V4_WELCOME_SLASH_COMMANDS": "¡Ahora tengo soporte para **comandos slash** y son la **forma preferida** de interactuar conmigo! También tengo soporte completo para localización, a medida que pase el tiempo verás lo que significa. ¡En cualquier caso, sólo escribe `/` y encuentra mi foto para probarlos!",
-    "V4_WELCOME_TITLE": "¡Hola! ¡Bienvenid@ a la V4!",
-    "V4_WELCOME_WORD_BETTER_PROMPTING": "MEJORES PETICIONES",
-    "V4_WELCOME_WORD_MUSIC_IMPROVEMENTS": "MEJORAS MUSICALES",
-    "V4_WELCOME_WORD_PATH_FORWARD": "CAMINO A SEGUIR",
-    "V4_WELCOME_WORD_SLASH_COMMANDS": "COMANDOS SLASH",
     "VIEW_LOCALE_HEADER": "[Configuración Regional Actual]"
 }
