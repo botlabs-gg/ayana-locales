@@ -1,1 +1,21 @@
-{}
+{
+    "COMMAND_AFK": "afk",
+    "COMMAND_ALIASES": "alias",
+    "COMMAND_AVATAR": "avatar",
+    "COMMAND_AWOO": "awoo",
+    "COMMAND_BAD": "male",
+    "COMMAND_BAN": "bandire",
+    "COMMAND_BIGTEXT": "textgrande",
+    "COMMAND_BIGTEXTD": "textgranded",
+    "COMMAND_BLUSH": "arrossire",
+    "COMMAND_BOTLIST": "botlista",
+    "COMMAND_CHANNELINFO": "infocanale",
+    "COMMAND_CLAGWIMOTH": "clagwimoth",
+    "COMMAND_CLEAN": "pulire",
+    "COMMAND_CONFUSED": "confuso",
+    "COMMAND_CRY": "piangere",
+    "COMMAND_CUDDLE": "coccolare",
+    "COMMAND_DANCE": "ballare",
+    "COMMAND_DEBUG": "debug",
+    "COMMAND_F": "f"
+}
