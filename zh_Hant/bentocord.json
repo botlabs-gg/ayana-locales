@@ -4,7 +4,7 @@
     "BENTOCORD_AVATAR_UPDATED": "頭像已更新！",
     "BENTOCORD_AVATAR_UPDATING": "更新頭像中…",
     "BENTOCORD_COMMANDMANAGER_ERROR": "在執行該命令時發生錯誤：`{error}`",
-    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "命令無法執行。您必須授予下列權限：\n```{permissions}```",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "命令無法執行。您必須授予下列Discord權限：\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "進階",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "執行非斜線指令",
     "BENTOCORD_COMMAND_BENTO": "Bento命令",
