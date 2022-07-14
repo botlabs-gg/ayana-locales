@@ -49,7 +49,7 @@
     "INFO_USEFUL_LINKS": "**Useful links:**\n[Invite Me]({invite}), [Minimal Invite]({inviteMin}), [Ayana Status]({status}), [Support Server]({supportInvite}), [Donate]({donate}), [Twitter]({twitter}), [Facebook]({facebook})",
     "INVITE_ALPHA": "Sure thing :ok_hand:\nTo have me join your server please click on the link below:\n\n{invite}\n\nNote: Don't give Ayana Alpha too many permissions on your server. She can be unstable and there is no warranty if she breaks something on your server.",
     "INVITE_PRO": "Ayana PRO is an private hosted instance of Ayana exclusive to Patreon supporters.\nHigher quality playback, less downtime and more stability are just a few of the benefits you get.\n\nTo learn more or to get on board go to {uri}.\nAlternatively you can add public Ayana here {invite}.",
-    "INVITE_TEXT": "Sure thing :ok_hand:\nTo have me join your server please choose one of the following links:\n\nRecommended Permissions: [Invite Me]({invite})\n\nMinimal Permissions: [Minimal Invite]({invitemin})",
+    "INVITE_TEXT": "Sure thing :ok_hand:\nTo have me join your server please choose one of the following links:\n\nRecommended Permissions: {invite}\n\nMinimal Permissions: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} possesses a higher role than you. You may not modify them.",
     "KICK_TARGETHIGHERTHANBOT": "{target} possesses a higher role than I do. I can't modify them.",
     "MODLOG_DISABLED": "Modlog is disabled in settings.",
