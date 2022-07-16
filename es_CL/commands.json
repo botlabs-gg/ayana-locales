@@ -93,6 +93,7 @@
     "COMMAND_ROLE": "rol",
     "COMMAND_ROLEINFO": "inforol",
     "COMMAND_ROLEMEMBERS": "miembrosrol",
+    "COMMAND_ROLE_CANCEL_DESCRIPTION": "Cancelar operación con los roles",
     "COMMAND_SAR": "sar",
     "COMMAND_SAY": "decir",
     "COMMAND_SAYD": "decirb",
