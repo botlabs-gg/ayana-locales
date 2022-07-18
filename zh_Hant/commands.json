@@ -228,6 +228,7 @@
     "OPTION_ROLE_DESCRIPTION": "目標身份組",
     "OPTION_SETTING": "設定",
     "OPTION_SETTING_DESCRIPTION": "欲修改的設定",
+    "OPTION_SOFT": "暫時性",
     "OPTION_START": "開始",
     "OPTION_START_DESCRIPTION": "開始",
     "OPTION_STATIC": "靜態",
