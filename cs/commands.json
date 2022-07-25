@@ -27,6 +27,7 @@
     "COMMAND_PRO_REDEEM_DESCRIPTION": "Použije klíč na Ayanu PRO",
     "COMMAND_PRO_STATUS_DESCRIPTION": "Ukáže tvoje aktuální předplatné Ayany PRO a počet upgradů",
     "COMMAND_PRO_UPGRADE_DESCRIPTION": "Upgraduje tento server na Ayanu PRO",
+    "COMMAND_ROLE_CANCEL_DESCRIPTION": "Zruší operaci s rolemi",
     "COMMAND_SETTINGS_DESCRIPTION": "Ukáže a spravuje nastavení serveru",
     "COMMAND_SETTINGS_GET_DESCRIPTION": "Ukáže hodnotu nastavení",
     "COMMAND_SETTINGS_LIST_DESCRIPTION": "Ukáže seznam dostupných nastavení",

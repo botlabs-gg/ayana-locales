@@ -4,7 +4,7 @@
     "BENTOCORD_AVATAR_UPDATED": "Avatar byl aktualizován!",
     "BENTOCORD_AVATAR_UPDATING": "Aktualizuji avatar…",
     "BENTOCORD_COMMANDMANAGER_ERROR": "Nastala chyba při provádění tohoto příkazu: `{error}`",
-    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Příkaz nemůže být spuštěn. Musí být povolena následující oprávnění:\n```{permissions}```",
+    "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Příkaz nemůže být spuštěn. Musí být povolena následující oprávnění Discordu:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Spustí příkaz, který není /příkaz",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Ukáže detaily Bentocordu",
     "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Zjisti informace o příkazech a funkcích, které Ayana podporuje",
