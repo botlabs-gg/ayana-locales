@@ -159,7 +159,7 @@
     "ROLE_MODIFIED": "Vai trò `{role}` đã được chỉnh sửa.",
     "ROLE_NOOPTIONSSPECIFIED": "Một trong những lựa chọn từ `{options}` là cần thiết để chạy lệnh. Để xem cú pháp và cách sử dụng của các lựa chọn này, bạn có thể sử dụng `help role {subcommand}`.",
     "ROLE_NOTPROCESSING": "Không có gợi ý vai trò nào đang chạy.",
-    "ROLE_PLEASEWAIT": "Vui lòng đợi trong khi Ayana xử lý...\nSử dụng `role cancel` để dừng. (Số người dùng đã được xử lý: {usersProcessed})",
+    "ROLE_PLEASEWAIT": "Vui lòng đợi trong khi Ayana xử lý... Sử dụng `role cancel` để dừng. (Số người dùng đã được xử lý: {usersProcessed})",
     "ROLE_TOOMANYOPTIONS": "Bạn đã dùng nhiều hơn một trong các tùy chọn không hợp lệ `user, users, bots`.",
     "ROLE_USERROLELOW": "Vai trò `{role}` không thể dùng hoặc chỉnh sửa vì vai trò của bạn thấp hơn nó.",
     "SAR_CANNOTADDMOREROLES": "Bạn không thể thêm hơn {amnt} vai trò vào một nhóm.",
