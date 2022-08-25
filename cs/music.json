@@ -69,7 +69,7 @@
     "OPTION_MUSIC_QUERY_DESCRIPTION": "Odkaz nebo vyhledávací dotaz",
     "OPTION_MUSIC_QUERY_POSITION_DESCRIPTION": "Pozice nebo název skladby",
     "OPTION_MUSIC_QUEUE_NEXT_DESCRIPTION": "Zařadit jako následující skladbu",
-    "OPTION_MUSIC_QUEUE_POSITION_DESCRIPTION": "Zařadit do fronty za skladbou na této pozici",
+    "OPTION_MUSIC_QUEUE_POSITION_DESCRIPTION": "Zařadit do fronty za skladbu na této pozici",
     "OPTION_MUSIC_REPEAT_MODE_DESCRIPTION": "Stav opakování",
     "OPTION_MUSIC_REWIND_AMOUNT_DESCRIPTION": "Hodnota, o kterou se přetočí skladba zpět",
     "OPTION_MUSIC_SEEK_POSITION_DESCRIPTION": "Přetočit na pozici",
