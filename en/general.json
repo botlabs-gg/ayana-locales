@@ -4,6 +4,7 @@
     "AYANA_VERSION": "Ayana Version",
     "BENTOCORD_VERSION": "Bentocord Version",
     "BENTO_VERSION": "Bento Version",
+    "COMMUNITY_CTA": "Love Ayana? Join our community! {invite}",
     "GATEWAY_FAILURE": "Failed to contact Gateway. Please try again later.",
     "GENERAL_ERROR": "An error occurred. If you need more help, please report this to our support server (`support` command to get the invite).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Server locale has been set to {locale}.",
