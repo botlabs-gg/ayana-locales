@@ -4,6 +4,7 @@
     "COMMAND_MUSIC_JOIN": "Присоединяйся",
     "COMMAND_MUSIC_JUMP": "Прыгай",
     "COMMAND_MUSIC_LEAVE": "Выйди",
+    "COMMAND_MUSIC_NOWPLAYING": "Воспроизводится",
     "COMMAND_MUSIC_PAUSE": "Пауза",
     "DESCRIPTION_MUSIC": "Музыкальный проигрыватель Айяны",
     "DESCRIPTION_MUSIC_BACK": "Вернуться к предыдущему треку",

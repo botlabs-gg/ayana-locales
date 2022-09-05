@@ -5,6 +5,8 @@
     "ACTIONLOG_EVENTS": "Включить/Выключить запись статистики для определенного события",
     "ACTIONLOG_MYCONFIG": "Показать настройки статистики действий",
     "ACTIONLOG_NOCHANNEL": "Канал не был выбран",
+    "ACTIONLOG_NODISABLEDEVENTS": "Нет остановленных событий.",
+    "ACTIONLOG_SUCCESSRESPONSE": "Настройки отчета действий обновлены.",
     "AVATAR_DIRECT_LINK": "[Прямая ссылка]({link})",
     "BIGTEXT_MUSTBENUMBERSMALLER": "{option} должно быть числом <= {bound}.",
     "BIGTEXT_OUTPUTTOOLARGE": "Воу-оу! Итоговое сообщение вышло длиннее 2000 символов!",
