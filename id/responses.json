@@ -145,7 +145,7 @@
     "ROLE_MAXIMUMREACHED": "Permintaan Anda melebihi batas maksimum dari {limit} perubahan peran pengguna.",
     "ROLE_MODIFIED": "Peran `{role}` telah dimodifikasi.",
     "ROLE_NOOPTIONSSPECIFIED": "Salah satu opsi dari `{options}` diperlukan untuk memproses perintah. Untuk melihat penggunaan dan definisi opsi ini, Anda dapat menjalankan perintah `help role {subcommand}`.",
-    "ROLE_PLEASEWAIT": "Harap tunggu saat saya memproses permintaan Anda. (Pengguna diproses: {usersProcessed})",
+    "ROLE_PLEASEWAIT": "Harap tunggu saat saya memproses permintaan Anda... Gunakan `role cancel` untuk berhenti (Pengguna diproses: {usersProcessed})",
     "ROLE_TOOMANYOPTIONS": "Anda menggunakan lebih dari satu opsi berikut, yang mana itu tidak valid `user, users, bots`.",
     "ROLE_USERROLELOW": "Peran `{role}` tidak dapat digunakan atau dimodifikasi karena peran tertinggi Anda tidak berada di atasnya.",
     "SAR_GROUPALREADYCREATED": "Grup `{group}` telah dibuat.",
