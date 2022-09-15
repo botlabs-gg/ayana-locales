@@ -10,6 +10,7 @@
     "ACTIONLOG_VALIDCHANNEL": "Proszę podaj poprawny kanał tekstowy",
     "AFK_AFKSINCE": "AFK od",
     "AFK_MENTIONMESSAGE": "Użytkownik {user} jest aktualnie AFK.",
+    "AFK_MESSAGETOOLARGE": "Twoja wiadomość AFK nie może być dłuższa niż 1024 znaki.",
     "AVATAR_DIRECT_LINK": "[Link]({link})",
     "AVATAR_GLOBAL": "[Avatar Globalny]({link})",
     "AVATAR_SERVER": "[Avatar Serwera]({link})",
