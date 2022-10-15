@@ -3,6 +3,7 @@
     "COMMAND_WQ_BALANCE_RAW_DESCRIPTION": "Show raw balance",
     "COMMAND_WQ_BUY_DESCRIPTION": "Buy Generators",
     "COMMAND_WQ_DESCRIPTION": "WaifuQuest Game",
+    "COMMAND_WQ_HELP_DESCRIPTION": "Learn how to play!",
     "COMMAND_WQ_INVENTORY_DESCRIPTION": "View Inventory",
     "COMMAND_WQ_PRESTIGE_DESCRIPTION": "Forefit everything, gain buffs",
     "COMMAND_WQ_SCAVENGE_DESCRIPTION": "Look around for some currency",
