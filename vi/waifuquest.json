@@ -1,1 +1,24 @@
-{}
+{
+    "COMMAND_WQ_BALANCE_DESCRIPTION": "Kiểm tra số dư",
+    "COMMAND_WQ_BALANCE_RAW_DESCRIPTION": "Hiển thị số dư",
+    "COMMAND_WQ_INVENTORY_DESCRIPTION": "Kiểm tra túi đồ",
+    "OPTION_WQ_AMOUNT_DESCRIPTION": "Số lượng",
+    "WORD_BALANCE": "Số dư",
+    "WORD_BUY": "Mua",
+    "WORD_EFFECTS": "Hiệu ứng",
+    "WORD_GAIN": "Tăng",
+    "WORD_MAX": "Tối đa",
+    "WORD_NEXT": "Tiếp theo",
+    "WORD_OWN": "Sở hữu",
+    "WORD_PERSECOND": "Trên Giây",
+    "WORD_SELL": "Bán",
+    "WORD_SPACE": "Công việc",
+    "WQ_BALANCE_EFFECT_ACTIVE": "+{percent}% từ các công việc",
+    "WQ_BALANCE_HEADER": "Số dư của {name}",
+    "WQ_BUY_HEADER": "Mua: {name}",
+    "WQ_BUY_NOT_ENOUGH": "Không đủ tiền!",
+    "WQ_BUY_SUCCESS": "Đã thanh toán {amount} {name}",
+    "WQ_MAX_BTN": "Tối đa - {max}",
+    "WQ_SELL_HEADER": "Bán: {name}",
+    "WQ_SELL_SUCCESS": "Đã bán {amount} {name}"
+}
