@@ -1,1 +1,25 @@
-{}
+{
+    "COMMAND_WQ_BALANCE_DESCRIPTION": "顯示餘額",
+    "COMMAND_WQ_INVENTORY_DESCRIPTION": "顯示道具",
+    "OPTION_WQ_AMOUNT_DESCRIPTION": "大約",
+    "WORD_AFFORD": "負擔",
+    "WORD_BALANCE": "餘額",
+    "WORD_BUY": "買",
+    "WORD_EFFECTS": "效果",
+    "WORD_GAIN": "取得",
+    "WORD_MAX": "最大",
+    "WORD_NEXT": "下一個",
+    "WORD_OWN": "擁有",
+    "WORD_PERSECOND": "每秒",
+    "WORD_SELL": "賣",
+    "WORD_SPACE": "工作",
+    "WORD_WAIFUS": "老婆",
+    "WQ_BALANCE_HEADER": "{name}的餘額",
+    "WQ_BUY_HEADER": "購買：{name}",
+    "WQ_BUY_NOT_ENOUGH": "沒有足夠的錢！",
+    "WQ_BUY_SUCCESS": "買了 {amount} {name}",
+    "WQ_MAX_BTN": "最大 - {max}",
+    "WQ_PERSECOND": "{ps}/秒",
+    "WQ_SELL_HEADER": "販賣：{name}",
+    "WQ_SELL_SUCCESS": "賣了 {amount} {name}"
+}
