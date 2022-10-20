@@ -4,6 +4,7 @@
     "AYANA_VERSION": "Phiên bản của Ayana",
     "BENTOCORD_VERSION": "Phiên bản của Bentocord",
     "BENTO_VERSION": "Phiên bản Bento",
+    "COMMUNITY_CTA": "Yêu thích Ayana? Tham gia cộng đồng của chúng tớ! {invite}",
     "GATEWAY_FAILURE": "Không thể giao tiếp với cổng giao tiếp. Xin vui lòng thử lại sau.",
     "GENERAL_ERROR": "Đã có lỗi xảy ra. Nếu bạn cần hỗ trợ, xin hãy báo cáo trường hợp này đến máy chủ hỗ trợ (sử dụng `support` để lấy lời mời đến máy chủ hỗ trợ).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Vị trí máy chủ đã được đổi thành {locale}.",

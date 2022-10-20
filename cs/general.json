@@ -4,6 +4,7 @@
     "AYANA_VERSION": "Verze Ayany",
     "BENTOCORD_VERSION": "Verze Bentocordu",
     "BENTO_VERSION": "Verze Benta",
+    "COMMUNITY_CTA": "Miluješ Ayanu? Přijď do naší komunity! {invite}",
     "GATEWAY_FAILURE": "Kontaktování brány selhalo. Zkus to znovu později.",
     "GENERAL_ERROR": "Nastala chyba. Pokud potřebuješ pomoci, dej nám vědět na serveru podpory (pozvánku najdeš v příkazu `support`)\n```{error}```",
     "GUILD_LOCALE_UPDATED": "Serverový jazyk byl nastaven na {locale}.",
