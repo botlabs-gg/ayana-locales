@@ -1,1 +1,8 @@
-{}
+{
+    "COMMAND_WQ_BALANCE_DESCRIPTION": "Ver balance",
+    "COMMAND_WQ_BALANCE_RAW_DESCRIPTION": "Mostrar el balance bruto",
+    "COMMAND_WQ_BUY_DESCRIPTION": "Comprar generadores",
+    "COMMAND_WQ_DESCRIPTION": "Juego WaifuQuest",
+    "COMMAND_WQ_HELP_DESCRIPTION": "Más información sobre WaifuQuest",
+    "COMMAND_WQ_JOBS_DESCRIPTION": "Gestión de puestos de trabajo"
+}

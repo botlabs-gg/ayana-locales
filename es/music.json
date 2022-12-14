@@ -4,6 +4,7 @@
     "COMMAND_MUSIC_JOIN": "unirse",
     "COMMAND_MUSIC_JUMP": "saltar",
     "COMMAND_MUSIC_LEAVE": "dejar",
+    "COMMAND_MUSIC_NOWPLAYING": "ahora jugando",
     "COMMAND_MUSIC_PAUSE": "pausa",
     "COMMAND_MUSIC_PLAY": "reproducir",
     "COMMAND_MUSIC_PROVIDERS": "proveedores",
