@@ -53,7 +53,6 @@
     "WQ_HIRE_HEADER": "Contratar: {name}",
     "WQ_HIRE_SELECT": "Selecciona una Rareza para contratar",
     "WQ_HIRE_SUCCESS": "¡{item} está trabajando ahora en {gen}!",
-    "WQ_ITEM_COUNT": "",
     "WQ_JOBS_HEADER": "Trabajos: {name}",
     "WQ_MAX_BTN": "Máximo - {max}",
     "WQ_NO_GENS": "¡No tienes ningún generador!",
