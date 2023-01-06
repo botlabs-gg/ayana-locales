@@ -11,6 +11,7 @@
     "COMMAND_MUSIC_PURGE": "purga",
     "COMMAND_MUSIC_QUEUE": "cola",
     "COMMAND_MUSIC_REMOVE": "eliminar",
+    "COMMAND_MUSIC_REMOVERANGE": "removerrango",
     "COMMAND_MUSIC_REPEAT": "repetir",
     "COMMAND_MUSIC_RESET": "reinicio",
     "COMMAND_MUSIC_RESUME": "reanudar",

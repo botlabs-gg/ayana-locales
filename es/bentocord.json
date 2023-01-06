@@ -20,6 +20,7 @@
     "BENTOCORD_COMMAND_PREFIX_SET_DESCRIPTION": "Prefijo del conjunto",
     "BENTOCORD_COMMAND_PREFIX_VIEW": "Ver",
     "BENTOCORD_COMMAND_PREFIX_VIEW_DESCRIPTION": "Ver prefijo",
+    "BENTOCORD_COMMAND_SETAVATAR": "estableceravatar",
     "BENTOCORD_COMMAND_SETAVATAR_DESCRIPTION": "Establecer el avatar del bot",
     "BENTOCORD_COMMAND_SETGAME": "Setgame",
     "BENTOCORD_COMMAND_SETGAME_DESCRIPTION": "Establecer el estado del juego del bot",
