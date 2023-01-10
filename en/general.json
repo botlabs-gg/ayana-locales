@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Enable/Disable AFK messages server wide.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Should a role be given to a joining member",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "The role to give on join",
+	"SETTING_CTA_ACTIVE_DESCRIPTION": "Should CTA messages be allowed",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Should members leaving the server be annouced",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Channel where farewell message will be posted",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Send to leaving member's direct messages instead",
