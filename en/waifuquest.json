@@ -61,6 +61,7 @@
     "WQ_NO_ITEMS": "No waifus available, maybe prestige?",
     "WQ_PERSECOND": "{ps}/s",
     "WQ_PRESTIGE_DESCRIPTION": "Prestige forfeits all generators, and currency gathered this run for waifus and prestige points. Each waifu gives a passive +1% bonus to your per second income.",
+    "WQ_PRESTIGE_FOOTER": "Waifus: {waifus}, Count: {count}",
     "WQ_PRESTIGE_HEADER": "Prestige",
     "WQ_PRESTIGE_NOT_ENOUGH": "This run is not worth enough to prestige yet. Keep grinding!",
     "WQ_PRESTIGE_SUCCESS": "You have forfeited everything and gained {gain} waifus!",
