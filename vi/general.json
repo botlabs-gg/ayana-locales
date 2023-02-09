@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Bật/tắt thông báo AFK trên máy chủ.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Thành viên mới tham gia sẽ được cấp một vai trò",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "Vai trò được cấp cho thành viên mới",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Tin nhắn gợi ý hành động sẽ được cho phép",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Những người dùng rời khỏi máy chủ sẽ được thông báo",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Kênh tạm biệt là nơi mà thông báo/tin nhắn tạm biệt được đăng lên",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Gửi thông báo tạm biệt bằng cách nhắn tin riêng cho thành viên đó",
