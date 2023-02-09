@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Ativar/Desativar mensagens AFK escopo servidor.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Adicionar um cargo para um membro na entrada",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "O cargo a adicionado ao entrar",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Mensagens CTA devem ser permitidas",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Os membros saindo do servidor devem ser anunciados",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Canal onde será enviada a mensagem de despedida",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Enviar para os membros saindo mensagens diretas ao invés de mensagem no canal",
