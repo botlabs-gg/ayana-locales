@@ -62,6 +62,7 @@
     "WQ_FIRE_SUCCESS": "{item} has been fired from {gen}!",
     "WQ_GENFILTER": "Filter: Gen",
     "WQ_HIRE_GEN": "Jobs: {used}/{space} ({unique})",
+    "WQ_HIRE_GEN_FULL": "Generator {gen} is full.",
     "WQ_HIRE_HEADER": "Hire: {name}",
     "WQ_HIRE_SELECT": "Select a Rarity to hire",
     "WQ_HIRE_SUCCESS": "{item} is now working at {gen}!",
