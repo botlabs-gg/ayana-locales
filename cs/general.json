@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Povolí/zakáže AFK zprávy po celém serveru.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Měla by být udělena role příchozímu členovi",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "Role, která se přidá po příchodu",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Měly by být povoleny CTA zprávy",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Nastaví oznámení o odcházejících členech",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Kanál, do kterého se budou posílat zprávy o odcházejících členech",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Posílat zprávu do soukromé zprávy odcházejícího člena",
