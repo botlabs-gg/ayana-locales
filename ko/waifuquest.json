@@ -1,1 +1,9 @@
-{}
+{
+    "OPTION_WQ_GENERATOR_NAME_DESCRIPTION": "이름 생성",
+    "OPTION_WQ_WAIFU_NAME_DESCRIPTION": "신부의 이름",
+    "WORD_EFFECTS": "효과",
+    "WORD_GAIN": "획득",
+    "WORD_HIRE": "고용",
+    "WORD_ITEMS": "아이템",
+    "WORD_JOB": "직업"
+}
