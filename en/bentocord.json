@@ -3,7 +3,7 @@
     "BENTOCORD_ADV_NO_RECURSIVE": "Recursive execution is not allowed.",
     "BENTOCORD_AVATAR_UPDATED": "Avatar updated!",
     "BENTOCORD_AVATAR_UPDATING": "Updating avatar...",
-    "BENTOCORD_COMMANDMANAGER_ERROR": "An error occured while executing this command: `{error}`",
+    "BENTOCORD_COMMANDMANAGER_ERROR": "An error occurred while executing this command: `{error}`",
     "BENTOCORD_COMMANDMANAGER_MISSING_PERMS": "Command cannot be executed. The following Discord permissions must be granted:\n```{permissions}```",
     "BENTOCORD_COMMAND_ADV": "advanced",
     "BENTOCORD_COMMAND_ADV_DESCRIPTION": "Run non-slash exposed commands",
