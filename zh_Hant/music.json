@@ -52,7 +52,7 @@
     "MUSIC_JOIN_MESSAGE": ":white_check_mark: 已加入 :speaker: `{voice}`。",
     "MUSIC_JUMPED": "跳轉`{track}`上的 **{position}**位置",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: 已離開並解除頻道綁定。",
-    "MUSIC_MISSING_PERMISSION_TO_JOIN": "在執行此命令時發生錯誤：`加入此語音頻道的權限被拒`。",
+    "MUSIC_MISSING_PERMISSION_TO_JOIN": "加入語音頻道的權限被拒。",
     "MUSIC_NOT_PLAYING": "目前沒有正在播放的音樂。",
     "MUSIC_NO_MATCHES": "找不到匹配的項目",
     "MUSIC_NO_TRACK_AT_POSITION": "該位置沒有曲目。",
