@@ -47,7 +47,6 @@
     "WQ_BUY_SUCCESS": "Zakoupeno {amount} {name}",
     "WQ_CHOOSE_GENERATOR": "Prosím, vyber si generátor:",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest je hra s VELMI brzkým přístupem, aktuální stav nemusí být finální!⚠️",
-    "WQ_EFFECT_SPACE": "+{percent} % prostorový buff",
     "WQ_FIRE_HEADER": "Vyhodit: {name}",
     "WQ_FIRE_SELECT": "Vyber si vzácnost na vyhození",
     "WQ_FIRE_SUCCESS": "{item} byl vyhozen z {gen}!",
