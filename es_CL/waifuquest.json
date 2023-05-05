@@ -48,7 +48,6 @@
     "WQ_BUY_SUCCESS": "Compraste {amount} {name}",
     "WQ_CHOOSE_GENERATOR": "Por favor elige un generador:",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest es de acceso EXTREMADAMENTE temprano, el estado actual no representa el producto final.⚠️",
-    "WQ_EFFECT_SPACE": "+{percent}% mejora por espacio",
     "WQ_FILTER_ALL": "Filtro: Todo",
     "WQ_FILTER_EMPLOYED": "Filtro: Contratadas",
     "WQ_FILTER_GEN": "Filtro: {name}",

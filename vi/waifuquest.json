@@ -43,7 +43,6 @@
     "WQ_BUY_SUCCESS": "Đã thanh toán {amount} {name}",
     "WQ_CHOOSE_GENERATOR": "Xin hãy chọn một máy:",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest hiện đang trong quá trịnh thử nghiệm CỰC KÌ sớm, dữ liệu hiện tại sẽ không được giữ khi hoàn thiện!⚠️",
-    "WQ_EFFECT_SPACE": "+{percent}% không gian cộng thêm",
     "WQ_FIRE_HEADER": "Đuổi: {name}",
     "WQ_FIRE_SELECT": "Để đuổi xin hãy chọn một độ hiếm",
     "WQ_FIRE_SUCCESS": "{item} đã bị đuổi khỏi {gen}!",
