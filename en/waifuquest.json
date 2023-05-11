@@ -60,6 +60,7 @@
     "WQ_CRAFT_NOT_ENOUGH_PARTS": "Not enough parts",
     "WQ_CRAFT_NO_PARTS": "Add some parts to begin crafting your new waifu!",
     "WQ_CRAFT_REMOVE_PART": "Select a part to remove",
+    "WQ_DISCOVERED_BY": "Discovered By: {by}",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest is EXTREMELY early access, current state is not indicative of the final product!⚠️",
     "WQ_EFFECT_GENERATOR_INCOME": "Generator Income",
     "WQ_EFFECT_GLOBAL_INCOME": "Global Income",
