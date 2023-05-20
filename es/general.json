@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Activar/desactivar los mensajes AFK en todo el servidor.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "En caso de que se otorgue un rol a un miembro que se incorpore",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "El rol que se dará en la adhesión",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Deberían permitirse los mensajes de CTA",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Deben anunciarse los miembros que abandonan el servidor",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Canal donde se publicará el mensaje de despedida",
     "SETTING_FAREWELL_DM_DESCRIPTION": "En su lugar, enviar a los mensajes directos de los miembros que se van",
