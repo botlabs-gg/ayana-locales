@@ -30,7 +30,7 @@
     "MUSIC_JOIN_MESSAGE": ":white_check_mark: Připojeno k :speaker: `{voice}`.",
     "MUSIC_JUMPED": "Přeskočeno na `{track}` na pozici **{position}**",
     "MUSIC_LEAVE_MESSAGE": ":no_entry: Odpojeno z kanálů.",
-    "MUSIC_MISSING_PERMISSION_TO_JOIN": "Nastala chyba při spouštění tohoto příkazu: `Chybějící oprávnění pro vstup do tohoto hlasového kanálu`.",
+    "MUSIC_MISSING_PERMISSION_TO_JOIN": "Nemám oprávnění připojit se do tohoto hlasového kanálu.",
     "MUSIC_NOT_PLAYING": "Nic nehraje.",
     "MUSIC_NO_MATCHES": "Nebyly nalezeny žádné výsledky",
     "MUSIC_NO_TRACK_AT_POSITION": "Na této pozici se nenachází žádná skladba.",
