@@ -27,6 +27,7 @@
     "WORD_CURRENTPRODUCTION": "Produção Atual",
     "WORD_DAILY": "Diário",
     "WORD_EFFECTS": "Efeitos",
+    "WORD_EXPIRES": "Vence",
     "WORD_FINISH": "Terminar",
     "WORD_FIRE": "Demitir",
     "WORD_GAIN": "Ganho",
@@ -69,6 +70,7 @@
     "WQ_CRAFT_REMOVE_PART": "Selecione uma parte para remover",
     "WQ_DAILY_DESCRIPTION": "Confira de novo diariamente para ganhar partes poderosas exclusivas! Quanto maior o seu Combo mais partes você ganha por dia!\n\n**Se você quiser mais recompensas diárias considere votar!**",
     "WQ_DAILY_TOO_SOON": "Cedo de mais para o resgate diário, dê uma olhada mais tarde!",
+    "WQ_DAYS": "{increase, plural, =1 {1 dia} other {# dias}}",
     "WQ_DISCOVERED_BY": "Descoberto Por: {by}",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest é EXTREMAMENTE de acesso antecipado, o estado atual não é um indicativo de produto final!⚠️",
     "WQ_EFFECT_GENERATOR_INCOME": "Gerador Renda",
@@ -115,5 +117,6 @@
     "WQ_SELL_HEADER": "Venda: {name}",
     "WQ_SELL_NOT_ENOUGH": "Geradores insuficientes!",
     "WQ_SELL_SUCCESS": "Vendeu {amount} {name}",
-    "WQ_VOTE_DESCRIPTION": "Você pode votar na Ayana para receber mais partes exclusivas. Quão maior o seu combo mais partes você ganhará por voto."
+    "WQ_UPVOTES": "{increase, plural, =1 {1 voto} other {# votos}}",
+    "WQ_VOTE_DESCRIPTION": "Você pode votar na Ayana para receber partes exclusivas. Quão maior o seu combo mais partes você ganhará por voto."
 }
