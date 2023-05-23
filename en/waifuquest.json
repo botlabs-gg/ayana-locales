@@ -27,6 +27,7 @@
     "WORD_CURRENTPRODUCTION": "Current Production",
     "WORD_DAILY": "Daily",
     "WORD_EFFECTS": "Effects",
+    "WORD_EXPIRES": "Expires",
     "WORD_FINISH": "Finish",
     "WORD_FIRE": "Fire",
     "WORD_GAIN": "Gain",
@@ -117,5 +118,5 @@
     "WQ_SELL_NOT_ENOUGH": "Not enough generators!",
     "WQ_SELL_SUCCESS": "Sold {amount} {name}",
     "WQ_UPVOTES": "{increase, plural, =1 {1 upvote} other {# upvotes}}",
-    "WQ_VOTE_DESCRIPTION": "You can upvote Ayana to recieve more exclusive parts. The longer your streak the more parts you'll gain per upvote."
+    "WQ_VOTE_DESCRIPTION": "You can upvote Ayana to recieve exclusive parts. The longer your streak the more parts you'll gain per upvote."
 }
