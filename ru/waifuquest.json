@@ -1,1 +1,20 @@
-{}
+{
+    "COMMAND_WQ_DAILY_DESCRIPTION": "Ежедневные награды",
+    "COMMAND_WQ_LEVEL_DESCRIPTION": "Улучшить генераторы при помощи Престижа",
+    "COMMAND_WQ_SELL_DESCRIPTION": "Продать Генераторы",
+    "COMMAND_WQ_WAIFUS_DESCRIPTION": "Просмотреть/Улучшить Вайфу",
+    "OPTION_WQ_AMOUNT_DESCRIPTION": "Количество",
+    "WORD_BALANCE": "Баланс",
+    "WORD_BUY": "Купить",
+    "WORD_CHOOSE": "Выбрать",
+    "WORD_CLAIM": "Забрать",
+    "WORD_CRAFT": "Создать",
+    "WORD_CURRENTPRESTIGE": "Текущий Престиж",
+    "WORD_CURRENTPRODUCTION": "Текущее Производство",
+    "WORD_LEVEL": "Уровень",
+    "WORD_MORE": "Больше",
+    "WORD_PERSECOND": "В секунду",
+    "WORD_PRESTIGE": "Престиж",
+    "WORD_PRESTIGEPOINTS": "Очки Престижа",
+    "WORD_PRODUCTION": "Производство"
+}
