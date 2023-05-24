@@ -1,4 +1,5 @@
 {
+    "AYANA_HELP_AUTHOR": "Hallo! Ich bin Ayana!",
     "AYANA_VERSION": "Ayana Version",
     "BENTOCORD_VERSION": "Bentocord Version",
     "BENTO_VERSION": "Bento Version",
@@ -7,6 +8,15 @@
     "GUILD_LOCALE_UPDATED": "Die Serversprache wurde auf {locale} gesetzt.",
     "LOCALIZATION_FAILURE": "Die Übersetzung für `{key}` konnte nicht gefunden werden",
     "LOCALIZATION_FORMAT_FAILURE": "Die Übersetzung mit dem Schlüssel `{key}` konnte nicht formatiert werden: {error}",
+    "SETTING_AFK_ACTIVE_DESCRIPTION": "Aktiviere/Deaktiviere AFK Nachricht serverweit.",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Sollten CTA Nachrichten erlaubt sein",
+    "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Sollten Mitglieder, die den Server verlassen, bekannt gegeben werden",
+    "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Kanal in dem Abschiedsnahrichten gepostet werden",
+    "SETTING_FAREWELL_TEXT_DESCRIPTION": "Text für die Abschiedsnachricht",
+    "SETTING_GREETING_ACTIVE_DESCRIPTION": "Sollten neu beigetretene Mitglieder angekündigt werden",
+    "SETTING_GREETING_CHANNEL_DESCRIPTION": "Kanal, in dem die Grußnachricht gepostet wird",
+    "SETTING_GREETING_DM_DESCRIPTION": "Stattdessen als Direktnachricht an neue Mitglieder senden",
+    "SETTING_GREETING_TEXT_DESCRIPTION": "Text, der als Grußnachricht verwendet wird",
     "USER_LOCALE_UPDATED": "Deine Sprache wurde auf {locale} gesetzt.",
     "VIEW_LOCALE_HEADER": "[Einstellungen für aktuelle Sprache]"
 }
