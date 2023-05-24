@@ -72,6 +72,8 @@
     "WQ_DAILY_TOO_SOON": "Too soon to claim daily, check back later!",
     "WQ_DAYS": "{increase, plural, =1 {1 day} other {# days}}",
     "WQ_DISCOVERED_BY": "Discovered By: {by}",
+    "WQ_DIVORCE_BTN": "Divorce",
+    "WQ_DIVORCE_CONFIRM": "Please confirm you wish to divorce **{waifu}**. All copies of this rarity will leave.",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest is EXTREMELY early access, current state is not indicative of the final product!⚠️",
     "WQ_EFFECT_GENERATOR_INCOME": "Generator Income",
     "WQ_EFFECT_GLOBAL_INCOME": "Global Income",
