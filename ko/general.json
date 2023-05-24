@@ -4,6 +4,7 @@
     "AYANA_VERSION": "Ayana 버전",
     "BENTOCORD_VERSION": "Bentocord 버전",
     "BENTO_VERSION": "Bento 버전",
+    "COMMUNITY_CTA": "Ayana가 마음에 드신다면, 저희 커뮤니티에 가입해보세요! {invite}",
     "GATEWAY_FAILURE": "게이트웨이에 접속하지 못했어요. 잠시 후에 다시 시도해 주세요.",
     "GENERAL_ERROR": "문제가 발생했어요. 도움이 필요하시다면 저희 서포트 서버에 알려주세요(`support` 명령으로 초대 링크를 받을 수 있어요).\n```{error}```",
     "GUILD_LOCALE_UPDATED": "서버의 언어가 {locale}로 설정되었어요.",

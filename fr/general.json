@@ -4,6 +4,7 @@
     "AYANA_VERSION": "Version d'Ayana",
     "BENTOCORD_VERSION": "Version de Bentocord",
     "BENTO_VERSION": "Version de Bento",
+    "COMMUNITY_CTA": "Aimez Ayana ? Rejoignez notre communauté ! {invite}",
     "GUILD_LOCALE_UPDATED": "La locale du serveur est maintenant {locale}.",
     "LOCALIZATION_FAILURE": "Impossible de trouver une traduction pour `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Impossible de formater la traduction `{key}` : {error}",

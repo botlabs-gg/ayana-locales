@@ -49,7 +49,7 @@
     "INFO_USEFUL_LINKS": "**유용한 링크**\n[봇 초대]({invite}), [최소 권한으로 초대]({inviteMin}), [Ayana 상태]({status}), [서포트 서버]({supportInvite}), [후원]({donate}), [트위터]({twitter}), [페이스북]({facebook})",
     "INVITE_ALPHA": "물론이죠 :ok_hand:\n저를 서버에 초대하시려면 아래의 링크를 눌러주세요:\n\n{invite}\n\n주의: Ayana Alpha에게 너무 많은 권한을 부여하지 마세요. 이 버전의 Ayana는 불안정할 수 있으며 이로 인해 서버에 문제가 발생했을 경우 저희가 책임지지 않아요.",
     "INVITE_PRO": "Ayana PRO는 별도의 호스팅을 두고 있는 Patreon 후원자들을 위한 Ayana 특전이에요.\n높은 품질의 재생능력, 빠른 반응성, 높은 안정성등 다양한 혜택을 얻을 수 있어요.\n\n자세한 정보를 보고 싶으시거나 후원을 원하시는 분은 {uri} 에서 확인해 주세요.\n또는 공용 Ayana를 {invite} 에서 추가하실 수 있어요.",
-    "INVITE_TEXT": "물론이죠 :ok_hand:\n저를 초대하려면 아래의 링크 중 하나를 눌러주세요:\n\n보통 권한: {invite}\n\n최소 권한: {invitemin}",
+    "INVITE_TEXT": "물론이죠 :ok_hand:\n저를 서버에 추가하시려면 아래의 링크 중 하나를 눌러주세요:\n\n권장 권한: {invite}\n\n최소 권한: {invitemin}",
     "KICK_TARGETHIGHERROLE": "{target} 님이 당신보다 더 높은 역할을 가지고 있으므로 수정할 수 없어요.",
     "KICK_TARGETHIGHERTHANBOT": "{target} 님이 저보다 더 높은 역할을 가지고 있으므로 수정할 수 없어요.",
     "MODLOG_DISABLED": "관리 로그 기능이 설정에서 비활성화 되어 있어요.",
