@@ -8,7 +8,7 @@
     "COMMAND_WQ_HELP_DESCRIPTION": "Learn about WaifuQuest",
     "COMMAND_WQ_JOBS_DESCRIPTION": "Job Management",
     "COMMAND_WQ_LEVEL_DESCRIPTION": "Upgrade generators with Prestige",
-    "COMMAND_WQ_PRESTIGE_DESCRIPTION": "Forefit everything, gain parts",
+    "COMMAND_WQ_PRESTIGE_DESCRIPTION": "Forfeit everything, gain parts",
     "COMMAND_WQ_SCAVENGE_DESCRIPTION": "Look around for some currency",
     "COMMAND_WQ_SELL_DESCRIPTION": "Sell Generators",
     "COMMAND_WQ_WAIFUS_DESCRIPTION": "View/Upgrade Waifus",
@@ -120,5 +120,5 @@
     "WQ_SELL_NOT_ENOUGH": "Not enough generators!",
     "WQ_SELL_SUCCESS": "Sold {amount} {name}",
     "WQ_UPVOTES": "{increase, plural, =1 {1 upvote} other {# upvotes}}",
-    "WQ_VOTE_DESCRIPTION": "You can upvote Ayana to recieve exclusive parts. The longer your streak the more parts you'll gain per upvote."
+    "WQ_VOTE_DESCRIPTION": "You can upvote Ayana to receive exclusive parts. The longer your streak the more parts you'll gain per upvote."
 }
