@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "Aktifkan atau Nonaktifkan lebar server pesan AFK.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Memberikan rol kepada anggota yang bergabung",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "Rol yang diberikan saat bergabung",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Pesan CTA harus diizinkan",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Haruskah anggota yang meninggalkan server diumumkan",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Kanal yang mana pesan perpisahan akan diumumkan",
     "SETTING_FAREWELL_DM_DESCRIPTION": "Mengirim pesan langsung ke anggota yang keluar sebagai gantinya",
