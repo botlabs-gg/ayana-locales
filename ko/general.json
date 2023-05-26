@@ -30,5 +30,7 @@
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "모두가 'sneak.roles' 를 무시하고 'sneak' 옵션을 사용할 수 있도록 하용",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "say 명령에서 'sneak' 옵션을 사용할 수 있는 역할을 지정",
     "USER_LOCALE_UPDATED": "언어가 {locale}로 설정되었어요.",
+    "USE_SLASH_HEADER": "'/' 명령어를 사용해보세요!",
+    "USE_SLASH_NO_SLASH": "'/' 명령어가 작동하지 않는다면, [여기를 누르시고]({invite}) 저를 서버에 다시 추가해주세요.",
     "VIEW_LOCALE_HEADER": "[현재 언어 설정]"
 }
