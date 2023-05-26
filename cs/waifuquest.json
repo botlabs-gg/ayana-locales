@@ -72,6 +72,8 @@
     "WQ_DAILY_TOO_SOON": "Příliš brzo na vyzvednutí denní odměny, přijď znovu později!",
     "WQ_DAYS": "{increase, plural, one {# den} few {# dny} other {# dní}}",
     "WQ_DISCOVERED_BY": "Objeveno: {by}",
+    "WQ_DIVORCE_BTN": "Rozejít se",
+    "WQ_DIVORCE_CONFIRM": "Prosím potvrď, že se chceš rozvést s **{waifu}**. Všechny kopie této vzácnosti odejdou.",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest je hra s VELMI brzkým přístupem, aktuální stav nemusí být finální!⚠️",
     "WQ_EFFECT_GENERATOR_INCOME": "Příjem z generátoru",
     "WQ_EFFECT_GLOBAL_INCOME": "Globální příjem",
