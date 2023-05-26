@@ -72,6 +72,8 @@
     "WQ_DAILY_TOO_SOON": "Terlalu Cepat untuk Mengambil Harian, Periksa Ulang Nanti!",
     "WQ_DAYS": "{increase, plural, =1 {1 day} other {# days}}",
     "WQ_DISCOVERED_BY": "Ditemukan Oleh: {by}",
+    "WQ_DIVORCE_BTN": "Menceraikan",
+    "WQ_DIVORCE_CONFIRM": "Konfirmasikan bahwa kamu ingin menceraikan **{waifu}**. Semua salinan dari kelangkaan ini akan pergi.",
     "WQ_EARLY_ACCESS": "⚠️WaifuQuest Masih Dalam Tahap Akses Awal, Tahap ini Tidak Menunjukkan Produk Akhir!⚠️",
     "WQ_EFFECT_GENERATOR_INCOME": "Pendapatan Generator",
     "WQ_EFFECT_GLOBAL_INCOME": "Pendapatan Global",
