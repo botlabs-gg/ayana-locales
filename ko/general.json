@@ -13,6 +13,7 @@
     "SETTING_AFK_ACTIVE_DESCRIPTION": "서버 전체에서 잠수(AFK) 메시지를 활성화/비활성화.",
     "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "서버에 참가하는 멤버에게 역할을 부여",
     "SETTING_AUTOROLE_ROLE_DESCRIPTION": "참가시 부여되는 역할",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "CTA 메시지가 허용되는지 여부",
     "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "멤버가 서버를 떠날 때 알림",
     "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "작별 메시지가 게시될 채널",
     "SETTING_FAREWELL_DM_DESCRIPTION": "작별 메시지를 서버를 떠난 멤버의 DM으로 전송",
@@ -30,6 +31,8 @@
     "SETTING_SNEAK_EVERYONE_DESCRIPTION": "모두가 'sneak.roles' 를 무시하고 'sneak' 옵션을 사용할 수 있도록 하용",
     "SETTING_SNEAK_ROLES_DESCRIPTION": "say 명령에서 'sneak' 옵션을 사용할 수 있는 역할을 지정",
     "USER_LOCALE_UPDATED": "언어가 {locale}로 설정되었어요.",
+    "USE_SLASH_COMMANDS": "알고있나요? 이제 슬래시 명령어를 지원합니다. 더 나은 사용자 환경을 위해 슬래시 명령어를 사용해보세요! 하단 바에 `/` 를 입력하시면 저의 아이콘을 찾을 수 있어요!",
+    "USE_SLASH_FOR_BETTER_UI": "더 나은 UI 환경을 위해 텍스트 명령 대신 슬래시 명령어를 사용해주세요.",
     "USE_SLASH_HEADER": "'/' 명령어를 사용해보세요!",
     "USE_SLASH_NO_SLASH": "'/' 명령어가 작동하지 않는다면, [여기를 누르시고]({invite}) 저를 서버에 다시 추가해주세요.",
     "VIEW_LOCALE_HEADER": "[현재 언어 설정]"
