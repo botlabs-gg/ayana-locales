@@ -8,5 +8,18 @@
     "GUILD_LOCALE_UPDATED": "La locale du serveur est maintenant {locale}.",
     "LOCALIZATION_FAILURE": "Impossible de trouver une traduction pour `{key}`",
     "LOCALIZATION_FORMAT_FAILURE": "Impossible de formater la traduction `{key}` : {error}",
+    "SETTING_AUTOROLE_ACTIVE_DESCRIPTION": "Doit-on donner un rôle à un membre qui rejoint",
+    "SETTING_AUTOROLE_ROLE_DESCRIPTION": "Le rôle à donner lors de l'adhésion",
+    "SETTING_CTA_ACTIVE_DESCRIPTION": "Doit-on autoriser les messages d'appel à l'action",
+    "SETTING_FAREWELL_ACTIVE_DESCRIPTION": "Les membres quittant le serveur doivent-ils être annoncés",
+    "SETTING_FAREWELL_CHANNEL_DESCRIPTION": "Salon où le message d'adieu sera posté",
+    "SETTING_FAREWELL_DM_DESCRIPTION": "Envoyer plutôt aux messages directs du membre quittant",
+    "SETTING_FAREWELL_TEXT_DESCRIPTION": "Texte à utiliser pour dire adieu",
+    "SETTING_GREETING_ACTIVE_DESCRIPTION": "Les membres rejoignant le serveur doivent-ils être annoncés",
+    "SETTING_GREETING_CHANNEL_DESCRIPTION": "Salon où le message d'accueil sera posté",
+    "SETTING_GREETING_DM_DESCRIPTION": "Envoyer plutôt aux messages directs du membre rejoignant",
+    "SETTING_GREETING_TEXT_DESCRIPTION": "Texte à utiliser pour l'accueil",
+    "SETTING_MODLOG_ACTIVE_DESCRIPTION": "Est-ce que les actions de modérateur effectuées via Ayana doivent être journalisées",
+    "SETTING_MODLOG_CHANNEL_DESCRIPTION": "Salon sur lequel publier les journalisations de modérateur",
     "USER_LOCALE_UPDATED": "Votre locale est maintenant {locale}."
 }
