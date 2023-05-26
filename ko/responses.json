@@ -137,7 +137,7 @@
     "REMINDER_LIST_NONE": "아직 다시 알려달라고 하신 건 없어요.",
     "REMINDER_PARSEFAILED": "다시 알려드릴 시간을 찾는 데에 실패했어요.",
     "REMINDER_REMOVE_DENY": "질문이 취소되었어요!",
-    "REMINDER_REMOVE_EVENTS": "다음 항목이 제거됩니다 괜찮습니까 [y/n]:",
+    "REMINDER_REMOVE_EVENTS": "다음 항목이 제거됩니다. 괜찮습니까 [y/n]:",
     "ROLE_ALREADYCANCELLED": "취소 요청을 처리 중이에요.",
     "ROLE_ALREADYPROCESSING": "요청하셨던 역할 작업을 처리 중이에요.",
     "ROLE_BOTROLELOW": "`{role}` 역할은 저보다 높은 역할이라 역할을 수정하거나 사용할 수 없어요. 저를 더 높은 역할로 이동시켜주세요.",
