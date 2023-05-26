@@ -79,7 +79,6 @@
     "PRO_CANNOTUPGRADEMORE": "이미 모든 서버 업그레이드를 사용하셔서 Ayana PRO로 업그레이드 할 수 없어요.",
     "PRO_DISABLED": "지금 실행된 Ayana에서는 Ayana PRO가 비활성화 되어 있습니다.",
     "PRO_DOWNGRADED": "이 서버에는 더 이상 Ayana PRO가 없어요.",
-    "PRO_GUILDCHECK": "",
     "PRO_INVALIDKEY": "입력한 키가 올바르지 않습니다.",
     "PRO_KEYALREADYUSED": "등록하려는 키는 이미 다른 사용자가 사용하고 있습니다.",
     "PRO_KEYNOTFOUND": "입력한 키를 찾을 수 없습니다. 오늘 하루 동안 등록 시도가 {triesLeft}회 남아 있어요.",
