@@ -2,7 +2,6 @@
     "COMMAND_MUSIC_BACK": "назад",
     "COMMAND_MUSIC_FASTFORWARD": "Перемотать вперед",
     "COMMAND_MUSIC_JOIN": "присоединиться",
-    "COMMAND_MUSIC_JUMP": "",
     "COMMAND_MUSIC_LEAVE": "выйти",
     "COMMAND_MUSIC_NOWPLAYING": "текущее",
     "COMMAND_MUSIC_PAUSE": "пауза",
