@@ -25,6 +25,7 @@
     "BENTOCORD_COMMAND_SETGAME": "aturpermainan",
     "BENTOCORD_COMMAND_SETGAME_DESCRIPTION": "atur status permainan bot",
     "BENTOCORD_HELP_NOT_FOUND": "Gagal untuk menemukan bantuan yang relevan untuk masukan",
+    "BENTOCORD_HELP_USAGE": "`help commandName` - Perinciain Perintah\n`help commandName subCommandName` - Perincian Sub Perintah\n`help commandName optionName` - Perincian Opsi\n`help categoryName` - Perincian Kategori",
     "BENTOCORD_OPTION_ACTIVITY": "aktifitas",
     "BENTOCORD_OPTION_ACTIVITY_DESCRIPTION": "Nama aktifitas",
     "BENTOCORD_OPTION_ALIAS": "alias",
