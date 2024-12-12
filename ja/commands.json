@@ -1,4 +1,6 @@
 {
+    "COMMAND_AFK": "afk",
+    "COMMAND_ALIASES": "エイリアス",
     "COMMAND_AVATAR": "avatar",
     "COMMAND_AWOO": "awoo",
     "COMMAND_BAD": "bad",
@@ -6,9 +8,11 @@
     "COMMAND_BIGTEXT": "bigtext",
     "COMMAND_BIGTEXTD": "bigtextd",
     "COMMAND_BLUSH": "blush",
+    "COMMAND_BOTLIST": "ボットリスト",
     "COMMAND_CHANNELINFO": "channelinfo",
     "COMMAND_CLAGWIMOTH": "clagwimoth",
     "COMMAND_CLEAN": "clean",
     "COMMAND_CONFUSED": "confused",
-    "COMMAND_CRY": "cry"
+    "COMMAND_CRY": "cry",
+    "COMMAND_CUDDLE": "cuddle"
 }
