@@ -1,1 +1,13 @@
-{}
+{
+    "EVENT_CHANNEL_CREATE": "تم إنشاء الروم",
+    "EVENT_CHANNEL_DELETE": "تم حذف الروم",
+    "EVENT_GUILD_BAN_ADD": "تم حظر المستخدم",
+    "EVENT_GUILD_BAN_REMOVE": "تم إلغاء حظر المستخدم",
+    "EVENT_GUILD_MEMBER_ADD": "عضو انضم",
+    "EVENT_GUILD_MEMBER_REMOVE": "عضو غادر",
+    "EVENT_GUILD_ROLE_CREATE": "تم إنشاء الرتبة",
+    "EVENT_GUILD_ROLE_DELETE": "تم حذف الرتبة",
+    "EVENT_VOICE_CHANNEL_JOIN": "انضم إلى الروم الصوتي",
+    "EVENT_VOICE_CHANNEL_LEAVE": "مغادرة الروم الصوتي",
+    "EVENT_VOICE_CHANNEL_SWITCH": "انتقل بين الروم الصوتي"
+}

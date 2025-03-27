@@ -8,5 +8,19 @@
     "BENTOCORD_COMMAND_ADV": "avanzate",
     "BENTOCORD_COMMAND_BENTO": "bento",
     "BENTOCORD_COMMAND_BENTO_DESCRIPTION": "Visualizza i dettagli del bentocord",
-    "BENTOCORD_COMMAND_HELP": "aiuto"
+    "BENTOCORD_COMMAND_HELP": "aiuto",
+    "BENTOCORD_COMMAND_HELP_DESCRIPTION": "Scopri i comandi e le funzioni supportate da Ayana",
+    "BENTOCORD_COMMAND_PING_DESCRIPTION": "Controlla se il bot è online",
+    "BENTOCORD_COMMAND_PREFIX": "prefisso",
+    "BENTOCORD_COMMAND_PREFIX_SET": "imposta",
+    "BENTOCORD_COMMAND_PREFIX_SET_DESCRIPTION": "Imposta Prefisso",
+    "BENTOCORD_COMMAND_PREFIX_VIEW": "visualizza",
+    "BENTOCORD_COMMAND_PREFIX_VIEW_DESCRIPTION": "Visualizza Prefisso",
+    "BENTOCORD_COMMAND_SETAVATAR": "impostaavatar",
+    "BENTOCORD_COMMAND_SETAVATAR_DESCRIPTION": "Imposta l'avatar del bot",
+    "BENTOCORD_OPTION_PREFIX": "prefisso",
+    "BENTOCORD_OPTION_PREFIX_DESCRIPTION": "Nuovo Prefisso",
+    "BENTOCORD_OPTION_URL": "URL da usare",
+    "BENTOCORD_PAGINATION_NAVIGATION": "Usa `<` o `>` per cambiare pagine, `x` per chiudere, o `p[number]` per saltare a una pagina (es`. `p10`).",
+    "BENTOCORD_PAGINATION_PAGE": "Pagina {page}/{total}"
 }

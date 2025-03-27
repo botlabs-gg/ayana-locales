@@ -66,11 +66,18 @@
     "BENTOCORD_PROMPT_VALIDATE_ERROR": "**فشل في التحقق من صحة الإدخال. الرجاء المحاولة مرة أخرى.**",
     "BENTOCORD_SUPPRESSOR_BOT_OWNER": "أنت لست مالك البوت.",
     "BENTOCORD_SUPPRESSOR_CHANNEL_DENIED": "هذا الأمر لايمكن تنفيذه في القناة الحالية.",
+    "BENTOCORD_SUPPRESSOR_DM": "يجب تنفيذ هذا الأمر في رسالة مباشرة.",
     "BENTOCORD_SUPPRESSOR_GUILD": "هذا الأمر يجب تنفيذه في السيرفر.",
     "BENTOCORD_SUPPRESSOR_GUILD_ADMIN": "أنت لست مدير هذا السيرفر.",
     "BENTOCORD_SUPPRESSOR_GUILD_DENIED": "هذا الأمر لايمكن تنفيذه في السيرفر الحالي.",
     "BENTOCORD_SUPPRESSOR_GUILD_OWNER": "أنت لست مالك السيرفر.",
     "BENTOCORD_SUPPRESSOR_HALT": "تم إيقاف التنفيذ من قبل `{suppressor}`: {message}",
     "BENTOCORD_SUPPRESSOR_ROLE": "أنت لاتملك الرتب المطلوبة.",
-    "BENTOCORD_SUPPRESSOR_USER_DENIED": "أنت لايسمح لك بتنفيذ هذا الأمر."
+    "BENTOCORD_SUPPRESSOR_USER_DENIED": "أنت لايسمح لك بتنفيذ هذا الأمر.",
+    "BENTOCORD_WORD_COMMAND": "امر",
+    "BENTOCORD_WORD_DESCRIPTION": "وصف",
+    "BENTOCORD_WORD_OPTION": "خيار",
+    "BENTOCORD_WORD_OPTIONS": "خيارات",
+    "BENTOCORD_WORD_REQURIED": "مطلوب",
+    "BENTOCORD_WORD_SUBCOMMANDS": "الأوامر الفرعية"
 }
